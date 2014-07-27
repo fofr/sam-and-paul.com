@@ -1,5 +1,7 @@
 <section class="listing clearfix">
   <% page.posts.each(function(post, i){ %>
-    <%- partial('archive-post', {post: post}) %>
+    <% if (typeof post.page === "undefined" || post.page === 1) { %>
+      <%- partial('archive-post', {post: post}) %>
+    <% } %>
   <% }) %>
 </section>
