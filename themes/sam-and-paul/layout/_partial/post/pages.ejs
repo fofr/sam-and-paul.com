@@ -1,0 +1,14 @@
+<% if (typeof post.pages === "number") {
+  pagePath = post.path.replace(/\/[\d]+\/$/, '/');
+%>
+  <nav class="pages <%= pageClass %>">
+    Pages:
+    <% for(var i = 1, l = post.pages; i <= l; i++) { %>
+      <% if (post.page === i) { %>
+        <span><%= i %></span>
+      <% } else { %>
+        <a href="<%- config.root %><%- pagePath %><% if (i > 1) { %><%= i %>/<% } %>"><span><%= i %></span></a>
+      <% } %>
+    <% } %>
+  </nav>
+<% } %>

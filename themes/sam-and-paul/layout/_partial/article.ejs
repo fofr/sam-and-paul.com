@@ -4,11 +4,14 @@
       <%= post.title %>
     </h1>
   </header>
+  <%- partial('post/pages', {pageClass: 'pages-top'}) %>
   <div class="meta" role="contentinfo">
     <%- partial('post/published') %>
     <%- partial('post/nav') %>
   </div>
   <div class="single-entry-content entry-content e-content">
     <%- post.content %>
+    <%- partial('post/page-nav') %>
   </div>
+  <%- partial('post/pages', {pageClass: 'pages-bottom'}) %>
 </article>
