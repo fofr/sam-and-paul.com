@@ -1,0 +1,15 @@
+<article class="listing-item">
+  <header class="listing-header">
+    <h2 class="listing-title entry-title">
+      <a href="<%- config.root %><%- post.path %>" class="inherit" rel="bookmark">
+        <div class="img-container" title="<%= post.title %>" style="">
+          <img src="" alt="<%= post.title %>" />
+        </div>
+        <%= post.title %>
+      </a>
+    </h2>
+  </header>
+  <div class="entry-summary">
+    <%= post.excerpt %>
+  </div>
+</article>

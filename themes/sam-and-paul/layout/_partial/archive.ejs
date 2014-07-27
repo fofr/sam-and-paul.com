@@ -1,0 +1,5 @@
+<section class="listing clearfix">
+  <% page.posts.each(function(post, i){ %>
+    <%- partial('archive-post', {post: post}) %>
+  <% }) %>
+</section>

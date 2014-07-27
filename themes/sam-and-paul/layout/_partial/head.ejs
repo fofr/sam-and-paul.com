@@ -1,0 +1,26 @@
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<%
+var title = page.title;
+
+if (is_archive()){
+  title = 'Archives';
+
+  if (is_month()){
+    title += ': ' + page.year + '/' + page.month;
+  } else if (is_year()){
+    title += ': ' + page.year;
+  }
+} else if (is_category()){
+  title = 'Category: ' + page.category;
+} else if (is_tag()){
+  title = 'Tag: ' + page.tag;
+}
+%>
+<title><% if (title){ %><%= title %> | <% } %><%= config.title %></title>
+<meta name="description" content="Holiday, theatre and cinema blog. Including guides and stories from Madeira, Molyvos on Lesvos in Greece, Barcelona and Cadaques in Spain and Phuket and Chiang Mai in Thailand." />
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<link rel="stylesheet" href="/css/master.css?<%= config.site_build %>" />
+<link rel="alternate" href="<%- theme.rss %>" title="<%= config.title %>" type="application/atom+xml">
+<script src="http://use.typekit.com/fdb0guo.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>

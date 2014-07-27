@@ -1,0 +1,14 @@
+<article class="article h-entry" role="main">
+  <header>
+    <h1 class="main-content-title single-title entry-title">
+      <%= post.title %>
+    </h1>
+  </header>
+  <div class="meta" role="contentinfo">
+    <%- partial('post/published') %>
+    <%- partial('post/nav') %>
+  </div>
+  <div class="single-entry-content entry-content e-content">
+    <%- post.content %>
+  </div>
+</article>
