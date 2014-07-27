@@ -32,8 +32,8 @@ I couldn't help but repeat "Rex Manning day" in my head whenever Maxwell was per
 
 ### Synopsis
 
-> _Bedroom farce is centred on three double beds and four couples. An opportunity for a bit of bed hopping you might think but not in that sense. The mature couple expertly portrayed by Juliet Mills (sounding for all the world like the ageing Katherine Hepburn) and Bruce Montague were cruising through their latter bedroom years when interrupted by the spectre of “bed issues” suffered by their intense son Trevor (Oliver Boot,) and his neurotic wife Samantha played by Natasha Alderslade.>
+> Bedroom farce is centred on three double beds and four couples. An opportunity for a bit of bed hopping you might think but not in that sense. The mature couple expertly portrayed by Juliet Mills (sounding for all the world like the ageing Katherine Hepburn) and Bruce Montague were cruising through their latter bedroom years when interrupted by the spectre of “bed issues” suffered by their intense son Trevor (Oliver Boot,) and his neurotic wife Samantha played by Natasha Alderslade.>
+> This couple on the verge of a comically violent break up managed to disrupt the love nest of Kate, (the impressive Julia Mallam) and Malcolm, played by Ayden Callaghan and the tension behind the relationship of Jan (Clare Wilkie) and Nick (Maxwell Caulfield.)
 >
-> This couple on the verge of a comically violent break up managed to disrupt the love nest of Kate, (the impressive Julia Mallam) and Malcolm, played by Ayden Callaghan and the tension behind the relationship of Jan (Clare Wilkie) and Nick (Maxwell Caulfield.)_
 
 Walking back from the local theatre was a welcome break to the tube and train from Victoria, and usual post-theatre post-midnight home time. It's a shame they're not showing anything else we want to see until at least 2011.
