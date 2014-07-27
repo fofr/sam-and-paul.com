@@ -1,4 +1,5 @@
 title: 'The Prisoner of Second Avenue'
+listing-image: http://host.trivialbeing.org/up/prisonerSecondAvenue.gif
 tags:
   - gbk
   - 'jeff goldblum'

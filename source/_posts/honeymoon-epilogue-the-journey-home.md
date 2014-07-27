@@ -1,4 +1,5 @@
 title: 'Honeymoon epilogue: The journey home'
+listing-image: http://host.trivialbeing.org/up/small/honeymoon-247.jpg
 tags:
   - ash-cloud
   - dieppe
@@ -22,7 +23,7 @@ We took the 8:25am Air Asia flight to the familiar Suvarnabhumi airport in Bangk
 
 [![](http://host.trivialbeing.org/up/small/honeymoon-247.jpg)](http://host.trivialbeing.org/up/honeymoon-247.jpg)
 
-One last pad thai and mango shake before we leave and then onto our 12:25pm flight home. 11 hours to Heathrow, London. 
+One last pad thai and mango shake before we leave and then onto our 12:25pm flight home. 11 hours to Heathrow, London.
 
 In flight entertainment was lacking, without personal screens and only poorly positioned monitors, we avoided watching Avatar and instead amused ourselves, writing about the honeymoon, playing games and so-on.
 
@@ -30,7 +31,7 @@ An arduous ten hours later, about 45 minutes from home, the pilot informed us of
 
 We made a big circle in the sky and back-tracked to Frankfurt, Germany. Landing at approx 7pm local time. Our first thoughts were for our wedding gift list, meant to be delivered at 7am the next morning, in Brighton. Calling around, our families were amazing - they’d sorted everything already and Amanda would be at the flat to pick everything up.
 
-The next task: getting home. Paris would have been easy - trains, ferries, etc., lots of options. Being another 600km away meant our options would be limited. 
+The next task: getting home. Paris would have been easy - trains, ferries, etc., lots of options. Being another 600km away meant our options would be limited.
 
 At the airport no-one really knew what to do. Some people went through passport control by mistake, the rest of us were guided by staff around in circles a couple of times--up and down escalators before finding us a departure lounge. A Thai airways representative will be with you shortly.
 
@@ -126,6 +127,6 @@ Those hours flew by as we laughed and joked with our new friends. Waving bye to 
 
 [![](http://host.trivialbeing.org/up/small/honeymoon-267.jpg)](http://host.trivialbeing.org/up/honeymoon-267.jpg)
 
-England welcomed us with clear blue skies and a warm sun. Amanda was in New Haven to pick us up (20 mins from Brighton) (“Is that your sister?”). We said our farewells, so happy to have enjoyed the last four hours of our extended honeymoon. 
+England welcomed us with clear blue skies and a warm sun. Amanda was in New Haven to pick us up (20 mins from Brighton) (“Is that your sister?”). We said our farewells, so happy to have enjoyed the last four hours of our extended honeymoon.
 
 We got home and fell asleep. It was all over, from hotel to home it took, all in all, 60 hours. An ash cloud adventure to end the holiday.

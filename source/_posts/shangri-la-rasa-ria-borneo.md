@@ -1,4 +1,5 @@
 title: 'Shangri-la Rasa Ria, Borneo'
+listing-image: http://host.trivialbeing.org/up/500/kota-kinabalu-039.jpg
 tags:
   - asia
   - borneo

@@ -1,4 +1,5 @@
 title: 'Sushi Sunday'
+listing-image: http://host.trivialbeing.org/up/small/sushi-2.jpg
 tags:
   - fish
   - japanese
@@ -9,9 +10,9 @@ categories:
 date: 2010-07-20 16:47:09
 ---
 
-Sam and I have been meaning to make our own sushi since my birthday, but what with getting married, holidaying and Sam’s studies, we hadn’t found the time. 
+Sam and I have been meaning to make our own sushi since my birthday, but what with getting married, holidaying and Sam’s studies, we hadn’t found the time.
 
-We had all the ingredients ready; sushi rice, sushi vinegar, the bamboo rolling mat, a ten pack of nori and something tasty for the middle. 
+We had all the ingredients ready; sushi rice, sushi vinegar, the bamboo rolling mat, a ten pack of nori and something tasty for the middle.
 
 [![](http://host.trivialbeing.org/up/small/sushi-1.jpg)](http://host.trivialbeing.org/up/sushi-1.jpg)
 
@@ -25,7 +26,7 @@ Rather than measuring out the rice, which would have been clever, we used the wh
 
 We cleaned the rice, and let it soak for 30 mins. With the correctly measured amounts of water, we brought it to the boil (in a normal saucepan) and let it simmer on a low heat for a further 20 mins. Then it had another 10 mins of cooling before we added the vinegar, 1 tablespoon per 150g of rice. Because we had so much rice we split it into batches of 300g, which was just right for one roll. We fanned the rice, and let it cool under a damp towel. It came out perfectly sticky.
 
-Now the fun bit; with the nori laid out on the rolling mat, we took turns making rolls. With wet hands (otherwise rice will stick to everything!), we spread the rice across the seaweed to create an even layer, leaving space at the back as the envelope edge. 
+Now the fun bit; with the nori laid out on the rolling mat, we took turns making rolls. With wet hands (otherwise rice will stick to everything!), we spread the rice across the seaweed to create an even layer, leaving space at the back as the envelope edge.
 
 [![](http://host.trivialbeing.org/up/small/sushi-3.jpg)](http://host.trivialbeing.org/up/sushi-3.jpg)
 

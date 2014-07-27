@@ -1,4 +1,5 @@
 title: 'The Skydive'
+listing-image: http://host.trivialbeing.org/up/small/IMG_8837.JPG
 tags:
   - beccles
   - skydive

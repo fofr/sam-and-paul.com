@@ -1,4 +1,5 @@
 title: 'Bedroom Farce and Inception'
+listing-image: http://host.trivialbeing.org/up/small/bedroom-farce.jpg
 tags:
   - ayckbourn
   - bedroom-farce
@@ -25,14 +26,14 @@ I'd been lucky enough to not know anything about "Inception" before stepping in,
 
 We'd hoped to see "Leaving" at the Dukes as well, but the film supplier cocked up and it's only running for a week.
 
-Last night's "Bedroom Farce" was a very similar affair to the "Norman Conquests" we caught at the Old Vic. All action taking place in one room (sort of), and catching only the important and hilarious snippets of a bigger story. As the comedy progressed, the hilarity ensued, people walking into other's bedrooms unexpectedly, and all the traditional Ayckbourn comic setups--that kiss no one should see, the innocent comment that starts an avalanche, etc. 
+Last night's "Bedroom Farce" was a very similar affair to the "Norman Conquests" we caught at the Old Vic. All action taking place in one room (sort of), and catching only the important and hilarious snippets of a bigger story. As the comedy progressed, the hilarity ensued, people walking into other's bedrooms unexpectedly, and all the traditional Ayckbourn comic setups--that kiss no one should see, the innocent comment that starts an avalanche, etc.
 
 I couldn't help but repeat "Rex Manning day" in my head whenever Maxwell was performing (watch Empire Records if you haven't already), though Sam was more elated by his prior appearance in Grease 2.
 
 ### Synopsis
 
-> _Bedroom farce is centred on three double beds and four couples. An opportunity for a bit of bed hopping you might think but not in that sense. The mature couple expertly portrayed by Juliet Mills (sounding for all the world like the ageing Katherine Hepburn) and Bruce Montague were cruising through their latter bedroom years when interrupted by the spectre of “bed issues” suffered by their intense son Trevor (Oliver Boot,) and his neurotic wife Samantha played by Natasha Alderslade.> 
-> 
+> _Bedroom farce is centred on three double beds and four couples. An opportunity for a bit of bed hopping you might think but not in that sense. The mature couple expertly portrayed by Juliet Mills (sounding for all the world like the ageing Katherine Hepburn) and Bruce Montague were cruising through their latter bedroom years when interrupted by the spectre of “bed issues” suffered by their intense son Trevor (Oliver Boot,) and his neurotic wife Samantha played by Natasha Alderslade.>
+>
 > This couple on the verge of a comically violent break up managed to disrupt the love nest of Kate, (the impressive Julia Mallam) and Malcolm, played by Ayden Callaghan and the tension behind the relationship of Jan (Clare Wilkie) and Nick (Maxwell Caulfield.)_
 
 Walking back from the local theatre was a welcome break to the tube and train from Victoria, and usual post-theatre post-midnight home time. It's a shame they're not showing anything else we want to see until at least 2011.

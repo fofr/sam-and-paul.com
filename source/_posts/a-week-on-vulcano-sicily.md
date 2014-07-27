@@ -1,4 +1,5 @@
 title: 'A week on Vulcano, Sicily'
+listing-image: http://host.trivialbeing.org/up/500/vulcano-048.jpg
 tags:
   - europe
   - italy

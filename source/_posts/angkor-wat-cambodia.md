@@ -1,4 +1,5 @@
 title: 'Angkor Wat, Cambodia'
+listing-image: http://host.trivialbeing.org/up/500/angkor-wat--097.jpg
 tags:
   - asia
   - cambodia

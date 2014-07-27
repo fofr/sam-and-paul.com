@@ -1,4 +1,5 @@
 title: 'Brighton parade and Beachy Head'
+listing-image: http://host.trivialbeing.org/up/small/beachy-head-4.jpg
 tags:
   - beachy-head
   - brighton
@@ -32,7 +33,7 @@ Sitting on benches looking out across the bay, we dined on a quickly packed brea
 
 A small museum showed us how the lighthouse was built, it had gone all out on its exhibits, with buttons that sink ships or make sounds of sea birds.
 
-After the enlightenment of how to build a lighthouse in the sea, we took the path around the steep cliff to see the wonder, peering over the edge and feeling a little vertigo. We were sombre at the markings and tributes to those that had jumped. 
+After the enlightenment of how to build a lighthouse in the sea, we took the path around the steep cliff to see the wonder, peering over the edge and feeling a little vertigo. We were sombre at the markings and tributes to those that had jumped.
 
 [![](http://host.trivialbeing.org/up/small/beachy-head-6.jpg)](http://host.trivialbeing.org/up/beachy-head-6.jpg)
 
@@ -46,6 +47,6 @@ At the busy pub we fought off wasps (trapping some in glasses) to eat our sugary
 
 It wouldn’t be Sunday without drinking a cool beer and catching the end of a Bond movie, and after watching the invincible Bond jump crocodile backs in “Live and Let Die”, I served up a sweet potato, lentil and chicken creamy curry.
 
-Jason Reitman’s “Up in the air” was the perfect end to the weekend, and the soundtrack will be with me all week. 
+Jason Reitman’s “Up in the air” was the perfect end to the weekend, and the soundtrack will be with me all week.
 
 <div style="text-align: center"><object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/_m-Da8Tz4_E&amp;hl=en_GB&amp;fs=1?rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/_m-Da8Tz4_E&amp;hl=en_GB&amp;fs=1?rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object></div>

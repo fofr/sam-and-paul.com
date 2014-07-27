@@ -1,4 +1,5 @@
 title: 'Honeymoon part 1: Phuket, Thailand'
+listing-image: http://host.trivialbeing.org/up/small/honeymoon-42.jpg
 tags:
   - asia
   - honeymoon
@@ -24,7 +25,7 @@ The 10 hour flight passed smoothly, and I wrote up our wedding day, much like th
 
 At Bangkok we waited four hours for our connecting flight to Phuket. 12:30am our time, we were exhausted. Whilst queueing for immigration, the slowest moving queue ever, we spoke with a Korean man about life and travelling.
 
-The 1h30 Phuket flight felt instant, asleep on take off, awake on landing (with a bump). Enter the searing 38C tropical heat. Almost there, just one taxi ride and we were at our destination, the Indigo Pearl, Nai Yang. 
+The 1h30 Phuket flight felt instant, asleep on take off, awake on landing (with a bump). Enter the searing 38C tropical heat. Almost there, just one taxi ride and we were at our destination, the Indigo Pearl, Nai Yang.
 
 Greeted with an iced tea, complete with star of anise and cooling face flannel, we checked in. The Pearl’s decoration and theme was a seamless fusion of metal sculpture, tin mining, wood, tools and luxury, all with an obsessive attention to detail.
 
@@ -52,7 +53,7 @@ Perfectly sated and in paradise, we fell asleep to the thundering down pour of a
 
 [![](http://host.trivialbeing.org/up/small/honeymoon-58.jpg)](http://host.trivialbeing.org/up/honeymoon-58.jpg)
 
-Having tried a bit of everything, we headed to the beach to check out our surroundings. Walking down the smooth sandy Nai Yang shore, we dipped our toes in the sea and found a wooden shanty dwelling with a couple of eateries and parasols to rent. 
+Having tried a bit of everything, we headed to the beach to check out our surroundings. Walking down the smooth sandy Nai Yang shore, we dipped our toes in the sea and found a wooden shanty dwelling with a couple of eateries and parasols to rent.
 
 Back at the hotel we spent the day by the pool, with its infinity ledge, jacuzzi, sun bathing spots (in the water) and built-in bar. The fresh juices, cocktails and shakes here are divine.
 
@@ -132,7 +133,7 @@ Home via the winding over-hill route, past Nai Thon beach, we slept well, thorou
 
 <!--nextpage-->
 
-Saturday, we were awake at 6am, ready for our Phuket Adventure pickup at 7:45am. On the speedboat by 9, we joined some German families, a dutch family, an Australian couple and some Spaniards, as we jetted across the calm waters towards the small Coral island, for sandy beaches and a spot of snorkelling (after a bit of time getting the seal working). Carefully avoiding the coral and potential cuts, we spotted beautifully coloured fish, hundreds of them, it wasn’t hard -- they swam right past our noses.   
+Saturday, we were awake at 6am, ready for our Phuket Adventure pickup at 7:45am. On the speedboat by 9, we joined some German families, a dutch family, an Australian couple and some Spaniards, as we jetted across the calm waters towards the small Coral island, for sandy beaches and a spot of snorkelling (after a bit of time getting the seal working). Carefully avoiding the coral and potential cuts, we spotted beautifully coloured fish, hundreds of them, it wasn’t hard -- they swam right past our noses.
 
 After dusting off the wet sand, back on the boat we made the one hour journey north to Phang Nga and its astounding limestone formations and caves. Darting around the towering islands there were eagles and iguanas, canoeists and copious stalactites. The whole time we sat back, necks arced, head looking up in wonder.
 

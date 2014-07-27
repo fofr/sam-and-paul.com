@@ -1,4 +1,5 @@
 title: 'Lancing, Forests and Whisky'
+listing-image: http://host.trivialbeing.org/up/small/in-a-forest-dark-and-deep-2.jpg
 tags:
   - albannach
   - labute
@@ -58,6 +59,6 @@ Five of us ordered the Whisky Tour, five 250ml samples covering the lowlands, hi
 
 [![](http://host.trivialbeing.org/up/small/albannach.jpg)](http://host.trivialbeing.org/up/albannach.jpg)
 
-Obviously with this much Whisky we needed some food, the braised rabbit leg was very tasty, as was the Cullen Skink (smoked haddock and potato soup) starter. 
+Obviously with this much Whisky we needed some food, the braised rabbit leg was very tasty, as was the Cullen Skink (smoked haddock and potato soup) starter.
 
 In other news, Whisky doesn’t go particularly well with a burger, and Haggis Carpaccio wouldn’t be very pleasant, if anywhere was to ever serve such a thing. The long awaited cheese boards (half an hour to slice some cheese!?) gave us another tasting round, with quince (“The artist formerly known as”), fig and grapes.

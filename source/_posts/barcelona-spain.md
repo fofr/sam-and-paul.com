@@ -1,4 +1,5 @@
 title: 'Barcelona, Spain'
+listing-image: http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-361.jpg
 tags:
   - barcelona
   - europe
@@ -105,7 +106,7 @@ To the hotel and back via the metro’s L4 line and Passeig de Gràcia station, 
 
 Pla cleverly seated everyone by language, good for the waitresses that couldn’t speak English, but landing us in the middle of three brash American tables. Although entertaining (and it’s hard to be annoyed when you’re laughing inside), hearing about the real estate lawyer’s main course that was too small, killed the romantic mood.
 
-My soup of the day, pumpkin, was poured over the seafood mousse and shiitake mushroom in front of me, and Sam couldn’t turn up another opportunity for seafood; Octopus carpaccio with wasabi, perfectly presenting the taste of Octopus without any of the toughness. 
+My soup of the day, pumpkin, was poured over the seafood mousse and shiitake mushroom in front of me, and Sam couldn’t turn up another opportunity for seafood; Octopus carpaccio with wasabi, perfectly presenting the taste of Octopus without any of the toughness.
 
 [![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-198.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-198.jpg)
 
@@ -284,7 +285,7 @@ On the way home we stopped outside Casa Batlló to relax in front of the lit up 
 
 <!--nextpage-->
 
-On our last day in Barcelona, we packed up and checked out at 12\. Leaving our luggage at the hotel, we took our final trip to Crusto. Ensaïmada for breakfast and some fine home-made pizza for lunch, sliced and wrapped. 
+On our last day in Barcelona, we packed up and checked out at 12\. Leaving our luggage at the hotel, we took our final trip to Crusto. Ensaïmada for breakfast and some fine home-made pizza for lunch, sliced and wrapped.
 
 [![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-324.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-324.jpg)
 

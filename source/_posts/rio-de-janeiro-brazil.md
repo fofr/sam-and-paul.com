@@ -1,4 +1,5 @@
 title: 'Rio de Janeiro, Brazil'
+listing-image: http://host.trivialbeing.org/up/small/brazil-070.jpg
 tags:
   - brazil
   - holiday
@@ -28,7 +29,7 @@ Inside a dark wooden staircase takes you up to the living room and communal dini
 
 Hoteliers Rob and Rich showed us around and pointed out the sights, Botafogo below us, the head of Christ the Redeemer to the right, and sugarloaf hiding behind the trees. All checked-in and ready to go, we set off to explore Rio for the first time, very aware of our belongings and security.
 
-Rich showed us a shortcut down through the winding roads, a steep narrow alleyway into town, then a 20 minute walk to the metro station. Each tower block had security gates and tall metal railings. Inside guards watched CCTV cameras. 
+Rich showed us a shortcut down through the winding roads, a steep narrow alleyway into town, then a 20 minute walk to the metro station. Each tower block had security gates and tall metal railings. Inside guards watched CCTV cameras.
 
 Tourists are advised to use taxis but the metro is very safe, and simple too. R$3 per journey, we loaded up a prepay card and took the orange line to Ipanema. The Sunday ‘hippy’ market was on in the square; homemade jewellery, t-shirts and the usual market thoroughfare amongst stunning artwork portraying favelas, the people and the sights.
 
@@ -54,7 +55,7 @@ We woke afresh at 7:45 the next morning, no jet lag and a good twelve hours of s
 
 It was still overcast but the clouds were high enough not to impede views. We gambled and decided to spend the day at Christo do Redentor. With directions from Rich we walked  down into Laranjeiras around to Corcovado train station, where tourists can get a red cog train up the hill to the foot of the famous statue.
 
-The next train was two hours away! Ah well, we bought our tickets and avoided the ticket pedalling taxi drivers at the entrance. Now, how to occupy ourselves while we wait? This area of town is mostly residential. 
+The next train was two hours away! Ah well, we bought our tickets and avoided the ticket pedalling taxi drivers at the entrance. Now, how to occupy ourselves while we wait? This area of town is mostly residential.
 
 Further up the hill was Largo do Boticario, a colourful but dilapidated 19th century mansion. Moss grew thick on sky blue walls, window shutters were broken, and the grand wooden doors had seen better days.
 
@@ -108,7 +109,7 @@ We left quickly and got a taxi home. Alas, we were put off trying any other Bahi
 
 <!--nextpage-->
 
-It was overcast again on Tuesday. 
+It was overcast again on Tuesday.
 
 The guys were at breakfast, and they’d had a drunken late night in Ipanema and weren’t feeling so hot. After coffee and toast we headed out for the sugarloaf.
 
@@ -120,7 +121,7 @@ Urca is a small village-like retreat within Rio. Sitting tightly beneath the sug
 
 [![](http://host.trivialbeing.org/up/small/brasil-016.jpg)](http://host.trivialbeing.org/up/brasil-016.jpg)
 
-A sea wall and promenade surrounds Urca, and we followed it round. Joggers and their dogs ran by, fishermen sat with their lines cast into the sea, a cheeky heron hanging around nearby waiting to grab their catch. Kids played on the beach and the area had a lovely small-community feel to it. 
+A sea wall and promenade surrounds Urca, and we followed it round. Joggers and their dogs ran by, fishermen sat with their lines cast into the sea, a cheeky heron hanging around nearby waiting to grab their catch. Kids played on the beach and the area had a lovely small-community feel to it.
 
 At the end of the promenade, where we could walk no further, there is a busy bar, appropriately named “Bar Urca”. We bought hot snacks; fish balls, mini samosas and pasties and joined everyone drinking and eating on the sea wall.
 
@@ -148,7 +149,7 @@ Atop we passed the helipad and restaurant, and started snapping photos of the in
 
 [![](http://host.trivialbeing.org/up/small/brazil-051.jpg)](http://host.trivialbeing.org/up/brazil-051.jpg)
 
-Then upwards again, onto the second cable car to take us to Päo de Açúar, 396m above Rio. Wow, the views are incredible. From here you can see Botafogo, Centro, Copacabana, Ipanema poking from behind a rock, Flamengo and beyond to Sao Cristovao and out across the sea to Niteroi. 
+Then upwards again, onto the second cable car to take us to Päo de Açúar, 396m above Rio. Wow, the views are incredible. From here you can see Botafogo, Centro, Copacabana, Ipanema poking from behind a rock, Flamengo and beyond to Sao Cristovao and out across the sea to Niteroi.
 
 We took photos at every angle, explored the shops and walkways, and watched other tourists pose for their own shots. It was quiet and lovely.
 
@@ -214,7 +215,7 @@ The food was incredible and, at last, good value. Served on oblong stone plates,
 *   Fish on a serving of risotto
 </div>
 
-A taxi home at Rio rush hour, back to the B&B where everyone was still lounging around, reading their books, browsing the internet or using their phones. It was very much a day of doing nothing. In light of this the guys decided we should all go out to a live samba night in Lapa, at the centre of Rio’s bohemian scene amongst all the dilapidated old mansions and the tram line that no longer runs. 
+A taxi home at Rio rush hour, back to the B&B where everyone was still lounging around, reading their books, browsing the internet or using their phones. It was very much a day of doing nothing. In light of this the guys decided we should all go out to a live samba night in Lapa, at the centre of Rio’s bohemian scene amongst all the dilapidated old mansions and the tram line that no longer runs.
 
 [![](http://host.trivialbeing.org/up/small/IMG_3600.JPG)](http://host.trivialbeing.org/up/IMG_3600.JPG)
 

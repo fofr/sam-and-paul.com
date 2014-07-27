@@ -1,4 +1,5 @@
 title: 'Birthday Surprise'
+listing-image: http://host.trivialbeing.org/up/500/birthday-2013-09.JPG
 tags:
   - birthday
   - europe

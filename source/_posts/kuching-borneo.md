@@ -1,4 +1,5 @@
 title: 'Kuching, Borneo'
+listing-image: http://host.trivialbeing.org/up/500/kuching-110.jpg
 tags:
   - asia
   - borneo

@@ -1,4 +1,5 @@
 title: 'Hoi An, Vietnam'
+listing-image: http://host.trivialbeing.org/up/500/hoi-an-135.jpg
 tags:
   - asia
   - 'hoi an'

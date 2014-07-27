@@ -1,4 +1,5 @@
 title: 'Norman Conquests and Sleeping Beauty'
+listing-image: http://host.trivialbeing.org/up/small/fofr-20090108-norman-conquests-1.jpg
 tags:
   - ayckbourn
   - ballet
@@ -11,9 +12,9 @@ categories:
 date: 2009-01-08 16:54:22
 ---
 
-A much belated part 2 of time spent in the West End and other fun places, I think I was meant to post this around December 20th, looks like that didn't happen. I rounded off the [last post](http://www.mrfofr.com/2008/11/spending-time-in-the-west-end/) with a trip to see Zorro. 
+A much belated part 2 of time spent in the West End and other fun places, I think I was meant to post this around December 20th, looks like that didn't happen. I rounded off the [last post](http://www.mrfofr.com/2008/11/spending-time-in-the-west-end/) with a trip to see Zorro.
 
-Next stop Alan Ayckbourn's trio of plays "Living Together", "Table Manners" and "Round and Round the Garden" (seen in that order) as part of "The Norman Conquests" in the round at the Old Vic - a theatre transformed for a 360 degree viewing experience. Being under 25 offers us the nice little perk of much discounted tickets, £20 for each play instead of £40-60, or thereabouts, a bargain. The six strong cast consisted of Amelia Bullmore, Jessica Hynes, Stephen Mangan, Ben Miles, Paul Ritter and Amanda Root. 
+Next stop Alan Ayckbourn's trio of plays "Living Together", "Table Manners" and "Round and Round the Garden" (seen in that order) as part of "The Norman Conquests" in the round at the Old Vic - a theatre transformed for a 360 degree viewing experience. Being under 25 offers us the nice little perk of much discounted tickets, £20 for each play instead of £40-60, or thereabouts, a bargain. The six strong cast consisted of Amelia Bullmore, Jessica Hynes, Stephen Mangan, Ben Miles, Paul Ritter and Amanda Root.
 
 [![](http://host.trivialbeing.org/up/small/fofr-20090108-norman-conquests-1.jpg)](http://host.trivialbeing.org/up/fofr-20090108-norman-conquests-1.jpg)
 
@@ -39,11 +40,11 @@ Before the shows we ate at the [Bangalore Express](http://bangaloreexpress.co.uk
 
 Following the Garden, which we saw on a Saturday afternoon in December, we grabbed the tube to Hyde Park to visit the Winter Wonderland with all of its Christmastime goodies and German-like markets. Warming up with a tasty steak burger we aimlessly perused the stalls, trying out the mulled wine, the candied nuts, mini dutch pancakes in chocolate, fun hats and German sausages. Without realising it had reached 9pm we meandered towards Covent Garden before resting at "Fire and Stone", a fantastic stone-oven pizzeria where every pizza is based on a world city, I had a:
 
-> _Marrakech // £8.95> 
-> Cumin spiced ground lamb, mozzarella, mint yoghurt sauce, green olives, raisins & sliced red onion drizzled with chilli oil.> 
+> _Marrakech // £8.95>
+> Cumin spiced ground lamb, mozzarella, mint yoghurt sauce, green olives, raisins & sliced red onion drizzled with chilli oil.>
 > _
 
-Worth every penny. 
+Worth every penny.
 
 [![](http://host.trivialbeing.org/up/small/fofr-20090108-hyde-park-winter-wonderland.JPG)](http://host.trivialbeing.org/up/fofr-20090108-hyde-park-winter-wonderland.JPG)
 

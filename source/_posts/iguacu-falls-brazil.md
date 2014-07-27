@@ -1,4 +1,5 @@
 title: 'Iguaçu Falls, Brazil'
+listing-image: http://host.trivialbeing.org/up/small/brazil-176.jpg
 tags:
   - argentina
   - brazil
@@ -22,7 +23,7 @@ We flew Gol airlines to Foz do Iguacu, and with our Lonely Planet guide we knew 
 
 Outside the airport we befriended a Canadian couple going to the same place as us, and we waited half an hour for the green bus that runs every 20 mins. Eventually it arrived and we paid the R$3 bus fare to Parque Nacional do Iguaçu before struggling to lift our heavy backpacks over the in-bus turnstile whilst the vehicle zoomed around a corner, flinging us left and right. Turnstiles are a trait common to all brazilian buses. At the park we paid the R$40 entrance fee and caught an in-park bus towards the waterfalls.
 
-We were staying at Hotel Cataratas, a five star orient express hotel. This was our splurge, a small slice of decadence and a chance to indulge in a little grandeur and opulence. After all, we’d had a friendly cheque from the HMRC, so why not treat ourselves? 
+We were staying at Hotel Cataratas, a five star orient express hotel. This was our splurge, a small slice of decadence and a chance to indulge in a little grandeur and opulence. After all, we’d had a friendly cheque from the HMRC, so why not treat ourselves?
 
 [![](http://host.trivialbeing.org/up/small/brazil-110.jpg)](http://host.trivialbeing.org/up/brazil-110.jpg)
 
@@ -148,7 +149,7 @@ As we neared the hotel the blue fireflies came out, and we quietly watched them 
 
 Back at the hotel we had some work to do. This was our last night at Hotel Cataratas and we hadn’t yet planned the rest of the holiday, tomorrow night was unknown. We knew we still wanted to see the Argentinian side of the park and that we had to get to Paraty somehow. Two hours and a couple of beers later and we were fighting over plans in the 24 hour business centre. Sunday flights were all too expensive, going to Argentina for a night was complicated, long distance buses arrived at the wrong times and we needed somewhere to stay. Eventually a plan of action materialised; we’d stay at our hotel another night (another night of luxury can’t be bad!), and on Sunday we’d bus it overnight to Sao Paulo and then on to Paraty. Sorted.
 
-We celebrated our efforts in the piano room with a couple of caipirinhas, until the bar closed. 
+We celebrated our efforts in the piano room with a couple of caipirinhas, until the bar closed.
 
 <!--nextpage-->
 
@@ -168,7 +169,7 @@ At the boat we were given waterproof sacks for our bags and big orange lifejacke
 
 [![](http://host.trivialbeing.org/up/small/brazil-150.jpg)](http://host.trivialbeing.org/up/brazil-150.jpg)
 
-At the falls we did one pass so we could take photos and video, taking a look at the righthand crescent of falls and then at the left most ones. Next we put everything away for the crucial second part. 
+At the falls we did one pass so we could take photos and video, taking a look at the righthand crescent of falls and then at the left most ones. Next we put everything away for the crucial second part.
 
 The boat slowly crept towards the waterfalls, a light mist, then a rain shower, then we were right beneath them, getting drenched in a pelting flow of water so powerful you couldn’t keep your eyes open. We got absolutely soaked, through and through. From the boat came screams of delight and excitement as we moved through the falls, eventually coming out again for a breather. Next was the big one, a brief rest-bite before being plunged under another violent force of nature, gallons of water pouring onto us from above, arms spread outwards, screaming. Phenomenal.
 

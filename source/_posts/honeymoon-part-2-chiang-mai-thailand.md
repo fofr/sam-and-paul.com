@@ -1,4 +1,5 @@
 title: 'Honeymoon part 2: Chiang Mai, Thailand'
+listing-image: http://host.trivialbeing.org/up/small/honeymoon-146.jpg
 tags:
   - asia
   - chiang-mai
@@ -62,17 +63,17 @@ At the Chiang Mai city arts and cultural centre our legs couldn’t take a museu
 
 [![](http://host.trivialbeing.org/up/small/honeymoon-150.jpg)](http://host.trivialbeing.org/up/honeymoon-150.jpg)
 
-A quick nip around the corner and we had our cheapest meal of the holiday. Two cokes, chicken and rice, pork satays, chilli dip and a very tasty peanut sauce. All for the pricey 85B, or about £1.50\. 
+A quick nip around the corner and we had our cheapest meal of the holiday. Two cokes, chicken and rice, pork satays, chilli dip and a very tasty peanut sauce. All for the pricey 85B, or about £1.50\.
 
 A tuk-tuk home, a dip in the pool and some fruit shakes (our favourites, Mango and Watermelon--SO refreshing!) returned us to normal. After eating by the pool, and yet more rice, we collapsed in our hotel bed, air-con struggling to hit 22C.
 
 After such exhausting activities, I took a two hour nap whilst Sam went for a Thai massage, which sounded very painful--with masseurs channelling their weight through elbows into Sam’s back. Sam described the experience as “forceful”.
 
-At 8ish we ventured out to the nearby Chiang Mai night bazaar (Amusa), a market selling hand made silks, wooden elephant carvings, bags, clothes, purses, mango wood vases, lanterns, Buddha images, dried fruits, condiments, freshly made fruit shakes and the usual market thoroughfare. 
+At 8ish we ventured out to the nearby Chiang Mai night bazaar (Amusa), a market selling hand made silks, wooden elephant carvings, bags, clothes, purses, mango wood vases, lanterns, Buddha images, dried fruits, condiments, freshly made fruit shakes and the usual market thoroughfare.
 
 At every stall you have to barter for a decent price. We found that starting at less than half their original price gave good results. If they accept your offer quickly you’re probably paying way too much. They also liked the hard sell technique, pulling out their calculators and offering a discount price before you’d decided you wanted it.
 
-As per usual Sam spent an age comparing products, “this bed runner or that one? Do we want a table runner? Which vase should we get?”, and so on. 
+As per usual Sam spent an age comparing products, “this bed runner or that one? Do we want a table runner? Which vase should we get?”, and so on.
 
 At the centre is a large seafood section, with lobsters, shrimps etc. out on display, on beds of rapidly melting ice, which formed waterfalls to the floor. Around 10ish we realised how hungry we were, so stopped at the last of the still open street vendors to try a northern Thai specialty, Khao Soy. The cheap plastic plates and cutlery that had questionable cleanliness didn’t detract from the excellent taste.
 
@@ -98,7 +99,7 @@ That night we booked a Lanna experience, food, traditional dance and a hotel pic
 
 <!--nextpage-->
 
-Friday took us to the Chiang Mai Thai cooking school, for an introduction to Thai ingredients and the preparation of six dishes. From our 9am hotel pick-up we travelled out to the country for our class. We each had a cooking station with gas burner, chopping board, knife, wok, bin and bowls of ingredients. In the kitchen we learnt about each dish, hear how to prepare the ingredients, watch the dish being cooked and return to have a go of our own, with help as required. 
+Friday took us to the Chiang Mai Thai cooking school, for an introduction to Thai ingredients and the preparation of six dishes. From our 9am hotel pick-up we travelled out to the country for our class. We each had a cooking station with gas burner, chopping board, knife, wok, bin and bowls of ingredients. In the kitchen we learnt about each dish, hear how to prepare the ingredients, watch the dish being cooked and return to have a go of our own, with help as required.
 
 [![](http://host.trivialbeing.org/up/small/honeymoon-166.jpg)](http://host.trivialbeing.org/up/honeymoon-166.jpg)
 
@@ -158,7 +159,7 @@ We walked around the chedi, clockwise as we were meant to, and headed back. Befo
 
 [![](http://host.trivialbeing.org/up/small/honeymoon-188.jpg)](http://host.trivialbeing.org/up/honeymoon-188.jpg)
 
-Not the greatest trip in the world, we enjoyed being back by the pool for the afternoon. We nipped out to the local flower market (talat tonlamyai) a bit later, to see vendors selling gorgeous lotus plants, orchids, roses and cooler flowers brought down from the mountains, jasmine necklaces for 5B each (oh how we love that smell), and even fake orchids which greatly pleased Sam. 
+Not the greatest trip in the world, we enjoyed being back by the pool for the afternoon. We nipped out to the local flower market (talat tonlamyai) a bit later, to see vendors selling gorgeous lotus plants, orchids, roses and cooler flowers brought down from the mountains, jasmine necklaces for 5B each (oh how we love that smell), and even fake orchids which greatly pleased Sam.
 
 Inside the little road shacks people worked hard on complicated flower arrangements, huge wreaths and structures cleverly using banana leaves.
 
@@ -279,7 +280,7 @@ Crossing the bridge, bone dry, we were obvious targets. In the traditional manne
 
 A procession (or cavalcade to Sam) came down the road, playing instruments, carrying flowers or images of Buddha, wearing traditional dress, dancing and holding banners. Soaking them was fair game, in fact they became prime targets. One elderly lady, with her cup of water, made sure to wet as many as possible.
 
-Following the parade down the road the numbers grew. Time to load up on some water weapons: a 300B pump action super soaker and bucket. Fill up and we’re in the fight. Sam indiscriminately poured her cups of water over those least expecting, whilst I ducked and covered in cat and mouse water fights. With each step closer to the city the fight grew less civilised. 
+Following the parade down the road the numbers grew. Time to load up on some water weapons: a 300B pump action super soaker and bucket. Fill up and we’re in the fight. Sam indiscriminately poured her cups of water over those least expecting, whilst I ducked and covered in cat and mouse water fights. With each step closer to the city the fight grew less civilised.
 
 A permanent grin was attached to our faces (and everyone else’s), with the pure unadulterated joy of soaking a complete stranger amidst the 40C heat.
 
@@ -287,7 +288,7 @@ We reached the edge of the old city. Enter the music stages, the pumping music, 
 
 [![](http://host.trivialbeing.org/up/small/honeymoon-31.jpg)](http://host.trivialbeing.org/up/honeymoon-31.jpg)
 
-Groups lined the moat, throwing buckets in, pulling them out full and launching them at anyone. The roads were still open, adding to the chaos, as all vehicles were fair game. Trucks with barrels on the back and groups with buckets or pistols had mammoth battles with moat dwellers, mopeds weaving between trucks would be carrying passengers on the back firing their water soakers into the air. 
+Groups lined the moat, throwing buckets in, pulling them out full and launching them at anyone. The roads were still open, adding to the chaos, as all vehicles were fair game. Trucks with barrels on the back and groups with buckets or pistols had mammoth battles with moat dwellers, mopeds weaving between trucks would be carrying passengers on the back firing their water soakers into the air.
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/kqkvPkT78Nw&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/kqkvPkT78Nw&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
@@ -319,7 +320,7 @@ Post-breakfast swimming, relaxing and a little bit of sleeping. Our honeymoon in
 
 Heading out into the city one last time, we prepared for more water fighting madness. We threw buckets of water over trucks with perfect accuracy (or narrowly missing by several foot), reloaded with ice cold water, discarded water guns like Neo and got utterly and completely drenched. Donning straw/banana leaf hats we made our last few attacks and walking back to the hotel (squelch, squelch), our hearts were contented.
 
-At the night market we made our final purchases - mango wood carvings, food and earrings included. 
+At the night market we made our final purchases - mango wood carvings, food and earrings included.
 
 Then it was time to say good bye. Good bye Chiang Mai with your Wats and moat; bye bye Rimping Village, bye Mr Tommy, with your great big smile; bye to the restaurant staff that knew our orders, prepared with a smile and even shared recipes; bye bye reception where we shared stories, made friends and learnt a bit of culture; bye bye guests and friends.
 

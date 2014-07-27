@@ -1,4 +1,5 @@
 title: 'Prague & Dresden'
+listing-image: http://host.trivialbeing.org/up/small/DSC05387.JPG
 tags:
   - blues
   - dresden
@@ -22,7 +23,7 @@ Waking at 3:45am and flying from London Gatwick at 6:45am, we touched down in Pr
 
 After a phase of rejuvenation through English Tetley tea and spurious instructions on how to use the flat, four of us set out for a tour of the south-western fortifications, with a secret route in through the back. Inside we were amidst a mock Byzantine church and a graveyard of noteworthy Czechs, topped off by a view across the city towards the castle in the north. At the lil’ cafe in the corner we munched our crab-stick cocktails and tuna salad, which kept us going a little further. First Czech beer: Gambrinus (king of beer), nothing overwhelming.
 
-Rebecca and co. headed home whilst Sam and I explored a little more, walking up the river, into town, stopping at the first island; exhausted we fell asleep on the walls, circled by pedalos and wispy willow tree fluff. 
+Rebecca and co. headed home whilst Sam and I explored a little more, walking up the river, into town, stopping at the first island; exhausted we fell asleep on the walls, circled by pedalos and wispy willow tree fluff.
 
 [![](http://host.trivialbeing.org/up/small/prague-01-wall-sleep.JPG)](http://host.trivialbeing.org/up/prague-01-wall-sleep.JPG)
 
@@ -62,7 +63,7 @@ On Sunday, after the Maltese Knights, we took the 11/22 trams to the castle for 
 
 [![](http://host.trivialbeing.org/up/small/prague-07-panoramic.JPG)](http://host.trivialbeing.org/up/prague-07-panoramic.JPG)
 
-Starving and exhausted, and after discarding copious tourist eateries, we settled on St Norbert’s brewery, within the grounds of the monastery. The “black beer” was gorgeous, so too was my mustard and honey barbecued pork--Sam wasn’t so keen on her goulash and dumplings.  Norbert’s special white beer was also tasty. After purchasing a glass we walked towards the mock Eiffel tower, up more steep hills and through the woods. For 150Kc we climbed to the top, with Sam just about managing her vertigo. Stunning 360 degree views of Prague awaited, including the stadium and castle. 
+Starving and exhausted, and after discarding copious tourist eateries, we settled on St Norbert’s brewery, within the grounds of the monastery. The “black beer” was gorgeous, so too was my mustard and honey barbecued pork--Sam wasn’t so keen on her goulash and dumplings.  Norbert’s special white beer was also tasty. After purchasing a glass we walked towards the mock Eiffel tower, up more steep hills and through the woods. For 150Kc we climbed to the top, with Sam just about managing her vertigo. Stunning 360 degree views of Prague awaited, including the stadium and castle.
 
 [![](http://host.trivialbeing.org/up/small/prague-08-panoramic.JPG)](http://host.trivialbeing.org/up/prague-08-panoramic.JPG)
 

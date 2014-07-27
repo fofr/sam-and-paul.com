@@ -1,4 +1,5 @@
 title: 'Phong Nha, Vietnam'
+listing-image: http://host.trivialbeing.org/up/500/phong-nha-434.jpg
 tags:
   - asia
   - 'phong nha'

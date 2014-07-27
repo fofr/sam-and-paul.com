@@ -1,4 +1,5 @@
 title: 'Hue, Vietnam'
+listing-image: http://host.trivialbeing.org/up/500/hue-343.jpg
 tags:
   - asia
   - hue
@@ -235,7 +236,7 @@ Most of the morning in Hue was spent packing. Sam ran about taking photos of the
 
 <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Our bulging bags, packed and ready to go](http://host.trivialbeing.org/up/1240/hue-377.jpg)](http://host.trivialbeing.org/up/hue-377.jpg)<figcaption class="generated-figure-caption">Our bulging bags, packed and ready to go</figcaption></figure>
 
-It was time to go and our bags were bulging, bursting at the seams and, of course, heavy. We still had two weeks to go! From the hotel we took a taxi to the station, what would have been a five minute walk, but we'd tried that before. This train was on time, and we clambered on board. Two seats were dedicated to our bags, good job the train wasn't busy. Little did we know today was Vietnam's celebration of independence and Ho Chi Minh's birthday. 
+It was time to go and our bags were bulging, bursting at the seams and, of course, heavy. We still had two weeks to go! From the hotel we took a taxi to the station, what would have been a five minute walk, but we'd tried that before. This train was on time, and we clambered on board. Two seats were dedicated to our bags, good job the train wasn't busy. Little did we know today was Vietnam's celebration of independence and Ho Chi Minh's birthday.
 
 It was a four hour trip. And we were on our way to Phong Nha, via Dong Hoi.
 

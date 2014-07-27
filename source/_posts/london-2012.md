@@ -1,4 +1,5 @@
 title: 'London 2012'
+listing-image: http://host.trivialbeing.org/up/small/olympics-089.jpg
 tags:
   - athletics
   - basketball
@@ -54,7 +55,7 @@ On the first sporting day of the Olympics I was up early and watched as much spo
 
 At Heather’s (Sam’s mum), after a BBQ, we watched more sporting events. I winced as we missed out gold in the road race, and was surprised to see strong swimmer Phelps not doing his best, not even medalling in one event. And we watched Australia’s women’s Basketball team beat Team GB.
 
-It was more of the same at Stuart’s (Sam’s dad), after lunch we watched the women’s road race, and cheered as Lizzie Armistead came second, our first medal of the games. The sailing was underway, but Ainslie had got off to a bad start. The archery was on at Lord’s. And in the evening, with what would soon become a daily ritual, we screamed at the TV as the swimmers raced for the finish line. 
+It was more of the same at Stuart’s (Sam’s dad), after lunch we watched the women’s road race, and cheered as Lizzie Armistead came second, our first medal of the games. The sailing was underway, but Ainslie had got off to a bad start. The archery was on at Lord’s. And in the evening, with what would soon become a daily ritual, we screamed at the TV as the swimmers raced for the finish line.
 
 My first event was men’s hockey, on the first Wednesday of the games. I went with Marek from Last.fm and after work we took the javelin train from King’s Cross to Stratford, smooth, effortless travel to the Olympic Park. Through Westfield shopping centre and then security with their airport scanners and ticket inspectors, all very friendly and jovial, we entered the park.
 
@@ -150,7 +151,7 @@ The half time entertainment was a display of gymnastics and basketball prowess, 
 
 [![](http://host.trivialbeing.org/up/small/olympics-032.jpg)](http://host.trivialbeing.org/up/olympics-032.jpg)
 
-AUS vs RUS was up next. We’d seen Australia batter Team GB on the TV, and were happy to recognise the players again, notably the tall bulky captain, Laura Jackson. After the first quarter Australia were up 21-15, despite not making any of their three point attempts. This proved costly and by half time Russia had brought it back to 32-30\. 
+AUS vs RUS was up next. We’d seen Australia batter Team GB on the TV, and were happy to recognise the players again, notably the tall bulky captain, Laura Jackson. After the first quarter Australia were up 21-15, despite not making any of their three point attempts. This proved costly and by half time Russia had brought it back to 32-30\.
 
 [![](http://host.trivialbeing.org/up/small/olympics-034.jpg)](http://host.trivialbeing.org/up/olympics-034.jpg)
 
@@ -232,7 +233,7 @@ Cinema? Dark Knight Rises? Ok let’s go! A half hour drive to Reading, parked, 
 
 On the drive home, 5live was on again, and Murray mustered up the energy for the mixed doubles final. Best of three sets, it went down to the last tiebreak, but it was all too much and the pair had to settle for silver. Another memorable sports moment in its own right.
 
-Not too much action for the weekend? At home my mum was waiting for us, she’d driven from Bristol to come and see Table Tennis with me, on Monday. (And in the downtime we booked a flight to Cambodia). 
+Not too much action for the weekend? At home my mum was waiting for us, she’d driven from Bristol to come and see Table Tennis with me, on Monday. (And in the downtime we booked a flight to Cambodia).
 
 But wait! There’s more sport! The unmissable [Men’s 100m final](http://www.bbc.co.uk/sport/0/olympics/18907995) was tonight, with the man of the Olympics, Usain Bolt. Unlike Beijing, everyone knew who he was this time around, and they were waiting, expecting. There was a new Jamaican on the scene too, one Yohan Blake, who’s been known to beat Bolt in the past. We had a race on our hands.
 
@@ -330,7 +331,7 @@ Canoe Sprint should have been our final event, but the luck of the ticketing web
 
 We took a half day holiday, and headed over, via the javelin train, for one final time. This time we had a list of things to do; to buy “venue collection” t-shirts and to visit the Cola beat-box. Between 3pm and 6pm the park was at its busiest and we had to queue extensively for each of them. Disappointingly, the t-shirts we wanted were out of stock, already snapped up by the hordes of sports fans.
 
-On to the next queue, standing in the beautiful sunshine, waiting to enter a giant beat-box. Red, and white, with pads and panels, as you walked around you could touch the pads to create noises, samples from different sports combined to form a beat, of sorts. As you climbed the song grew, layered. It wasn’t too exciting, and I was rushing, eager to get out and over to the stadium. 
+On to the next queue, standing in the beautiful sunshine, waiting to enter a giant beat-box. Red, and white, with pads and panels, as you walked around you could touch the pads to create noises, samples from different sports combined to form a beat, of sorts. As you climbed the song grew, layered. It wasn’t too exciting, and I was rushing, eager to get out and over to the stadium.
 
 [![](http://host.trivialbeing.org/up/small/olympics-083.jpg)](http://host.trivialbeing.org/up/olympics-083.jpg)
 
@@ -434,7 +435,7 @@ I caught the two BMX finals, each with their own share of calamity. I grew an in
 
 I streamed some fanciful synchronised swimming, impressed by our routine, but blown away by the Spanish. The final of the beach volleyball came down to the wire, with Germany winning; as too did the standard Volleyball, Russia winning at the last, coming back from a two set deficit and match point. The group sports all beginning to wrap up now. I watched the Basketball final, hoping Spain could defeat the US, of course it didn’t happen.
 
-On Saturday morning we switched between mountain biking and rhythmic gymnastics and in the evening we marveled at Usain Bolt one last time, his last Olympic race? He, Yohan Blake and fellow Jamaicans smashed the 4x100m men’s relay record, making it six golds for Bolt. 
+On Saturday morning we switched between mountain biking and rhythmic gymnastics and in the evening we marveled at Usain Bolt one last time, his last Olympic race? He, Yohan Blake and fellow Jamaicans smashed the 4x100m men’s relay record, making it six golds for Bolt.
 
 Tom Daley then won a superb bronze in the 10m platform. And to cap-off the Team GB medal phenomena, a second, brilliant gold for Mo Farah in the 5000m. Wonderful.
 

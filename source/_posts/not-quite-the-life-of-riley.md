@@ -1,4 +1,5 @@
 title: 'Not quite the Life of Riley'
+listing-image: http://host.trivialbeing.org/up/small/IMG_8032.JPG
 id: 35
 categories:
   - Life

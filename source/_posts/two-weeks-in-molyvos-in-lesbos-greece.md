@@ -1,4 +1,5 @@
-title: 'Two weeks in Molyvos--Lesbos, Greece'
+title: 'Two weeks in Molyvos, Lesbos'
+listing-image: http://host.trivialbeing.org/up/small/molyvos-harbour.JPG
 tags:
   - europe
   - greece
@@ -14,7 +15,7 @@ date: 2008-09-11 22:14:08
 
 [![](http://host.trivialbeing.org/up/small/molyvos-harbour.JPG)](http://host.trivialbeing.org/up/molyvos-harbour.JPG)
 
-Rewinding to last Wednesday, I left the office amidst a flurry of work for two weeks, lugging my suitcase behind. In West Ewell, after crossing London, we ate Sam's risotto of "things left in the fridge", I watched Man Utd nervously and luckily win the Champions League against Chelsea whilst Sam hurriedly tried to remember all the things she might forget. Come 3:45am, the serenade of my phone alarm assaults us and throws us out of bed, diving into suitcases to triple check our tickets and passports - before being whisked to Gatwick by Sam's mum for our 7:00am flight to [Mitilene](http://en.wikipedia.org/wiki/Mitilene), the [Lesbos](http://en.wikipedia.org/wiki/Lesbos) capital, via First Choice airlines. 
+Rewinding to last Wednesday, I left the office amidst a flurry of work for two weeks, lugging my suitcase behind. In West Ewell, after crossing London, we ate Sam's risotto of "things left in the fridge", I watched Man Utd nervously and luckily win the Champions League against Chelsea whilst Sam hurriedly tried to remember all the things she might forget. Come 3:45am, the serenade of my phone alarm assaults us and throws us out of bed, diving into suitcases to triple check our tickets and passports - before being whisked to Gatwick by Sam's mum for our 7:00am flight to [Mitilene](http://en.wikipedia.org/wiki/Mitilene), the [Lesbos](http://en.wikipedia.org/wiki/Lesbos) capital, via First Choice airlines.
 
 We booked the holiday and flights through First Choice two months in advance for £850, choosing to stay at the [Sun Rise Hotel](http://www.dpbolvw.net/click-2796858-10780389?url=http://www.hotels.com/ho326612/sunrise-lesvos-greece/), next to Molyvos, in North Lesbos.
 
@@ -32,7 +33,7 @@ I'm currently sitting by their pool, basking in the hot sun, as I write this - i
 
 <!--nextpage-->
 
-On our first day we ate our cheese, egg and tomato breakfast rolls, drunk the odd tasting tea and took the SRH courtesy bus down to Molyvos. It's a small coastal town built against a towering rock with castle atop. The roads are thin, cobbled up'n'down affairs, navigated by the locals on their mopeds and bikes. The central streets are lined with small but cute touristy shops, restaurants with balconies and expensive clothes shops - each of which Sam has thoroughly explored. At the bottom lies the small port and all the highly rated places to eat, with their freshly caught wild fish. There are also cats - everywhere! We met two northern English couples here fishing with a small line they had bought, using bread to catch small fish and octopi. 
+On our first day we ate our cheese, egg and tomato breakfast rolls, drunk the odd tasting tea and took the SRH courtesy bus down to Molyvos. It's a small coastal town built against a towering rock with castle atop. The roads are thin, cobbled up'n'down affairs, navigated by the locals on their mopeds and bikes. The central streets are lined with small but cute touristy shops, restaurants with balconies and expensive clothes shops - each of which Sam has thoroughly explored. At the bottom lies the small port and all the highly rated places to eat, with their freshly caught wild fish. There are also cats - everywhere! We met two northern English couples here fishing with a small line they had bought, using bread to catch small fish and octopi.
 
 [![](http://host.trivialbeing.org/up/small/greece-sam-researching-the-trips.JPG)](http://host.trivialbeing.org/up/greece-sam-researching-the-trips.JPG)
 
@@ -56,7 +57,7 @@ Needless to say, we got home at 2am, thoroughly sloshed. Sunday became a tiring 
 
 After a nap under a tree near the Olive Press, and a dip in the pool, it was back to Fantastico for a shared Pizza and cheap night out.
 
-Monday brought the start of the local bus service from Eftalou through to Anaxos for only €1.40\. With this we headed to [Petra](http://en.wikipedia.org/wiki/Petra,_Lesbos), the beachy tourist trap - I haggled for a hat and Sam for some olive decorated pottery. In the heat we climbed the central rock and the church at the top. After coming back down, we walked through the back streets of the town, heading back to the centre via a beach-side walk, hilariously ending with Sam's shoes falling unceremoniously into the Sea right as we decided to head back to the road. For lunch we had fresh bread, salami and cinammon doughnuts. There's not a lot to do in Petra, other than sunbathe and shop for post cards, and maybe ride a pedalo. So we took the bus back to Molyvos for the evening - despite Sam's desire to go to an obscure "Greek night" which offered a set meal, somewhere on the edge of Petra. 
+Monday brought the start of the local bus service from Eftalou through to Anaxos for only €1.40\. With this we headed to [Petra](http://en.wikipedia.org/wiki/Petra,_Lesbos), the beachy tourist trap - I haggled for a hat and Sam for some olive decorated pottery. In the heat we climbed the central rock and the church at the top. After coming back down, we walked through the back streets of the town, heading back to the centre via a beach-side walk, hilariously ending with Sam's shoes falling unceremoniously into the Sea right as we decided to head back to the road. For lunch we had fresh bread, salami and cinammon doughnuts. There's not a lot to do in Petra, other than sunbathe and shop for post cards, and maybe ride a pedalo. So we took the bus back to Molyvos for the evening - despite Sam's desire to go to an obscure "Greek night" which offered a set meal, somewhere on the edge of Petra.
 
 [![](http://host.trivialbeing.org/up/small/greece-petra-rock.JPG)](http://host.trivialbeing.org/up/greece-petra-rock.JPG)
 
@@ -66,7 +67,7 @@ Today is Tuesday, our day off by the pool, which started with a sweaty stroll ar
 
 <!--nextpage-->
 
-It is Sunday now and we are back by the pool in a much busier hotel. Tuesday's plan was a romantic starlight cruise round the North West bay, on arrival we found that, much to our disappointment, although advertised, it did not run "this early in the season" - not enough people. At a loss we wandered the harbour watching schools of fish in the clear water beneath us. Into the harbour cmae a small boat advertising personal trips for a maximum of 4 persons - running to grap the captain, Stradis, Sam found that he offered a 1-2 hour trip at €60\. 
+It is Sunday now and we are back by the pool in a much busier hotel. Tuesday's plan was a romantic starlight cruise round the North West bay, on arrival we found that, much to our disappointment, although advertised, it did not run "this early in the season" - not enough people. At a loss we wandered the harbour watching schools of fish in the clear water beneath us. Into the harbour cmae a small boat advertising personal trips for a maximum of 4 persons - running to grap the captain, Stradis, Sam found that he offered a 1-2 hour trip at €60\.
 
 [![](http://host.trivialbeing.org/up/small/greece-boat-escape.JPG)](http://host.trivialbeing.org/up/greece-boat-escape.JPG)
 
@@ -104,7 +105,7 @@ With all the old English gone and the new not yet acquainted, Molyvos was very q
 
 [![](http://host.trivialbeing.org/up/small/greece-boat-trip-into-petra.JPG)](http://host.trivialbeing.org/up/greece-boat-trip-into-petra.JPG)
 
-Back in Molyvos, not quite sated, we hunted down Tropicana and "The Square", higher up in the town, towards the harbour, an area not yet explored. Despite its generic name, Tropicana gave us a delightful greek salad with well priced Mythos and 'concocted from two drinks' Orangeade. 
+Back in Molyvos, not quite sated, we hunted down Tropicana and "The Square", higher up in the town, towards the harbour, an area not yet explored. Despite its generic name, Tropicana gave us a delightful greek salad with well priced Mythos and 'concocted from two drinks' Orangeade.
 
 Friday became Car Rental Day, we looked at BEST, Avis and Hertz. Avis gave us the best deal, a yellow Hyundai Alto for €32 a day, with full insurance covered by First Choice, compared to €47 from BEST. I nail-bitingly aided Sam in her wrong-side of the road endeavour, reminding that we are now driving on the right and that the steering wheel should be in the middle of the road.
 
@@ -138,7 +139,7 @@ Leaving here, sticking to our rigid time constraints, we travelled to Vatoussa w
 
 <center><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/fUzVRyZZHPw&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/fUzVRyZZHPw&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object></center>
 
-A 2 hour stop brought us some Mezes at the Aegean in the square; fried zucchini, aubergine dip, fries and some feta - just right. By the time we were done, 4:30 had come and the coach was leaving once more, giving us no time to explore the church or the beach. Although a tourist resort it has more character and flavour than Petra offers. Time to head home on a 2 hour round trip, expertly through Messotopos, Agra, passed the entrance to the bay and Parakila, then up through the hills and Kalloni once more. Although interesting, the weariness, driving, constant turning, up and down and heat were incredibly nauseating. Whilst we did a lot, saw a lot and learned a lot, it was not the most enjoyable of days given the sickness and time constraints. If you are a confident drives its probably better to buy a guide and drive yourself. 
+A 2 hour stop brought us some Mezes at the Aegean in the square; fried zucchini, aubergine dip, fries and some feta - just right. By the time we were done, 4:30 had come and the coach was leaving once more, giving us no time to explore the church or the beach. Although a tourist resort it has more character and flavour than Petra offers. Time to head home on a 2 hour round trip, expertly through Messotopos, Agra, passed the entrance to the bay and Parakila, then up through the hills and Kalloni once more. Although interesting, the weariness, driving, constant turning, up and down and heat were incredibly nauseating. Whilst we did a lot, saw a lot and learned a lot, it was not the most enjoyable of days given the sickness and time constraints. If you are a confident drives its probably better to buy a guide and drive yourself.
 
 [![](http://host.trivialbeing.org/up/small/greece-aegean-restaurant.JPG)](http://host.trivialbeing.org/up/greece-aegean-restaurant.JPG)
 
@@ -174,7 +175,7 @@ As expected, the road is long and winding, dipping in land for swooping corners,
 
 [![](http://host.trivialbeing.org/up/small/greece-nasty-tea.JPG)](http://host.trivialbeing.org/up/greece-nasty-tea.JPG)
 
-Shortly thereafter, with some further up and downs, we reached the very small coastal village of Skala Sikiminea. Three tavernas (with parrot, lobster tanks and kittens in trees), two tourist shops selling jewelry, a small harbour and a church sitting on a small rocky outcrop. This church is meant to contain a depiction of the Virgin Mary as a mermaid - either it was hidden away or not there, but we couldn't find it.  For lunch we had the mixed warm mezes from "The Cuckoo Nest" which included [bourekakia](http://recipes.wikia.com/wiki/Bourekakia) and [tzatziki](http://en.wikipedia.org/wiki/Tzatziki). 
+Shortly thereafter, with some further up and downs, we reached the very small coastal village of Skala Sikiminea. Three tavernas (with parrot, lobster tanks and kittens in trees), two tourist shops selling jewelry, a small harbour and a church sitting on a small rocky outcrop. This church is meant to contain a depiction of the Virgin Mary as a mermaid - either it was hidden away or not there, but we couldn't find it.  For lunch we had the mixed warm mezes from "The Cuckoo Nest" which included [bourekakia](http://recipes.wikia.com/wiki/Bourekakia) and [tzatziki](http://en.wikipedia.org/wiki/Tzatziki).
 
 [![](http://host.trivialbeing.org/up/small/greece-skala-sikiminea.JPG)](http://host.trivialbeing.org/up/greece-skala-sikiminea.JPG)
 

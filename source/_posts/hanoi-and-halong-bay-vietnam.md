@@ -1,4 +1,5 @@
 title: 'Hanoi and Halong Bay, Vietnam'
+listing-image: http://host.trivialbeing.org/up/500/hanoi-halong-bay--038.jpg
 tags:
   - asia
   - 'halong bay'

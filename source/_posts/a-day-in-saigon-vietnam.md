@@ -1,4 +1,5 @@
 title: 'A day in Saigon, Vietnam'
+listing-image: http://host.trivialbeing.org/up/500/saigon-hcmc-011.jpg
 tags:
   - asia
   - hcmc

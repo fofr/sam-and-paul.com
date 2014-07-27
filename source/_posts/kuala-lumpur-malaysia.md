@@ -1,4 +1,5 @@
 title: 'Kuala Lumpur, Malaysia'
+listing-image: http://host.trivialbeing.org/up/500/kuala-lumpur-012.jpg
 tags:
   - asia
   - 'kuala lumpur'

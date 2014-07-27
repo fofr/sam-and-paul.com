@@ -1,4 +1,5 @@
 title: 'Spending time in the West End'
+listing-image: http://host.trivialbeing.org/up/small/mrfofr-20080911-zorro.jpg 
 tags:
   - 39-steps
   - avenue-q
@@ -32,7 +33,7 @@ I left wanting more.
 
 ![](http://host.trivialbeing.org/up/mrfofr-20081109-marguerite.jpg)
 
-I had already seen Miss Saigon, although I do believe it wasn't one of the best performances, I didn't overly enjoy it. It probably deserves a second chance with my now renewed interest. Marguerite was a new musical with songs by Michel Legrand (see Umbrellas of Cherbourg!) and the hook, lyrics by Alain Boublil and Claude-Michel Schonberg. 
+I had already seen Miss Saigon, although I do believe it wasn't one of the best performances, I didn't overly enjoy it. It probably deserves a second chance with my now renewed interest. Marguerite was a new musical with songs by Michel Legrand (see Umbrellas of Cherbourg!) and the hook, lyrics by Alain Boublil and Claude-Michel Schonberg.
 
 The show, music and performances were all bitterly disappointing; the leading singing male came across as an over zealous stereotypical stage fella for which we did not emote. It was all a little lackluster, and no doubt others agreed - leading to the shows premature end in September. Luckily an overly chirpy and entertaining train conductor kept us happy on the way home; if only they were all as happy as him.
 
@@ -40,7 +41,7 @@ The show, music and performances were all bitterly disappointing; the leading si
 
 ![](http://host.trivialbeing.org/up/mrfofr-20081109-fat-pig.jpg)
 
-Jo, Sam and I saw Fat Pig in its first English incarnation at the Trafalgar studios with Kris Marshall and Robert Webb. The comedy has a simple premise; some guy begins dating a fat girl and must face his work colleagues and their taunts - the 'obsessed with looks' ex-date and the crude and womanizing buddy. 
+Jo, Sam and I saw Fat Pig in its first English incarnation at the Trafalgar studios with Kris Marshall and Robert Webb. The comedy has a simple premise; some guy begins dating a fat girl and must face his work colleagues and their taunts - the 'obsessed with looks' ex-date and the crude and womanizing buddy.
 
 **Big Spoilers now**. The first half revolves around Tom and Helen, the librarian, meeting, laughs a plenty and smiles all around - an hilarious comedy as billed. With the second half comes the to and fro of a relationship, the ups and downs and inevitable questions about the future which revolve around Helen meeting Tom's work mates; the comedy softens you up and keeps you content in the happy ending realm of positive message storytelling - before a long and quiet conversation on the beach punches you in the gut, rips out your heart and splatters it on the wall, bringing you straight back to reality and ending the show in darkness. Absolutely brilliant.
 
@@ -66,7 +67,7 @@ This adult puppet comedy, although making us laugh, really didn't grab us as we 
 
 ![](http://host.trivialbeing.org/up/mrfofr-20080911-rainman.jpg)
 
-Another performance caught on the Hoxton weekend, lucky enough to get tickets on the day, 
+Another performance caught on the Hoxton weekend, lucky enough to get tickets on the day,
 
 > _Neither of us had seen the Dustin Hoffman movie, we went in without any expectations and without grounds for comparison. We left absolutely stunned - wow; the play was brilliant with Godley and Hartnett supremely leaving us on tender hooks. This was the first straight up play we’d seen together and no doubt we’ll be back for more of the same._
 
@@ -76,7 +77,7 @@ It is very much a love story, a comedy and a drama. I must remember to now watch
 
 [![](http://host.trivialbeing.org/up/small/mrfofr-20080911-zorro.jpg)](http://host.trivialbeing.org/up/mrfofr-20080911-zorro.jpg)
 
-Zorro is the most recent of musicals I have seen after Sam grabbed four tickets for £40; this opened earlier in the year and Matt Rawle plays the lead and once again I had no expectations or even a clue as to the story. The show is none too serious (despite the brilliant 'Man behind the Mask' number) and comes accompanied with flamenco gypsy dancing, heel stomping, sword fights, fire and The Gypsy Kings (see Bamboleo); 'a fun filled romp' some tabloid review might say and it certainly was. With a dance and clap encore I left with dancing feet completely satisfied with my night out, bar the Gypsy King tracks that looped around my cranium for the remainder of the night. 
+Zorro is the most recent of musicals I have seen after Sam grabbed four tickets for £40; this opened earlier in the year and Matt Rawle plays the lead and once again I had no expectations or even a clue as to the story. The show is none too serious (despite the brilliant 'Man behind the Mask' number) and comes accompanied with flamenco gypsy dancing, heel stomping, sword fights, fire and The Gypsy Kings (see Bamboleo); 'a fun filled romp' some tabloid review might say and it certainly was. With a dance and clap encore I left with dancing feet completely satisfied with my night out, bar the Gypsy King tracks that looped around my cranium for the remainder of the night.
 
 If you want some plain old fun in London, I recommend Zorro the musical!
 

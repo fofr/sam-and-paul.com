@@ -1,4 +1,5 @@
 title: 'Borneo Rainforest Lodge'
+listing-image: http://host.trivialbeing.org/up/500/borneo-090.jpg
 tags:
   - borneo
   - 'borneo rainforest lodge'

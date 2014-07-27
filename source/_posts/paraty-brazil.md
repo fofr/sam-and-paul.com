@@ -1,4 +1,5 @@
 title: 'Paraty, Brazil'
+listing-image: http://host.trivialbeing.org/up/small/brazil-211.jpg
 tags:
   - brazil
   - parati
@@ -26,7 +27,7 @@ Many conversations with Brazilians followed this pattern,
 
 At which point they lift their hands in the air and look exasperated. But then they always seemed to go out of their way to find someone that spoke English, or to help us as best they could. In this case we gestured with hand signals to work out the time and used fingers for numbers, before eventually an English speaker materialised and explained everything. Our bus arrived, we were starving but didn’t want to miss our coach.
 
-Three buses down and we were ready for our 16 hour long sleeper bus to São Paulo; but not before some greasy spoon fast food from the only food outlet in the bus station. Bus stations are universally horrible. I had the weirdest pizza, I thought it was olives, peppers and sweetcorn, but it was processed chicken, peas and sweetcorn, no tomato. 
+Three buses down and we were ready for our 16 hour long sleeper bus to São Paulo; but not before some greasy spoon fast food from the only food outlet in the bus station. Bus stations are universally horrible. I had the weirdest pizza, I thought it was olives, peppers and sweetcorn, but it was processed chicken, peas and sweetcorn, no tomato.
 
 We waited an hour or so for our bus, and passed the time with a bit of live football. We met an Australian biochemist travelling alone and on the same bus as us. She was half way through a year long world trip and had even booked a trip out to Antarctica.
 
@@ -90,7 +91,7 @@ The old town is a criss crossing network of cobbled streets, each building paint
 
 [![](http://host.trivialbeing.org/up/small/brazil-188.jpg)](http://host.trivialbeing.org/up/brazil-188.jpg)
 
-The town is hip and bohemian, and between restaurants and the odd tourist shop are fascinating art galleries and sculptures. We wandered down Rua do Comercio and tried to make a note of where interesting shops were, but it’s labyrinthine and difficult to find anything again. 
+The town is hip and bohemian, and between restaurants and the odd tourist shop are fascinating art galleries and sculptures. We wandered down Rua do Comercio and tried to make a note of where interesting shops were, but it’s labyrinthine and difficult to find anything again.
 
 We stopped for a can of cooling Guaraná Antarctica, and as we recovered from the heat the clouds started to come over, and soon, before midday, the sun was gone. At the edge of town we found Paraty’s famous landmark, Igreja Santa Rita, which looked fantastic against the swirling dark clouds.
 
@@ -134,11 +135,11 @@ A narrow wooden trail climbed upwards through the rainforest. Wary of snakes hid
 
 Sam swum across, climbed up and shuffled towards the slide. Then before she was ready the trickle of water grabbed her and she slid downwards, sideways, doing a half turn and splashing into the pool below with a shout of excitement. Again, again!
 
-Further up was another pool, deeper and with a raging waterfall. Sam stood beneath it and shrieked as it crashed over her. 
+Further up was another pool, deeper and with a raging waterfall. Sam stood beneath it and shrieked as it crashed over her.
 
 [![](http://host.trivialbeing.org/up/small/brazil-192.jpg)](http://host.trivialbeing.org/up/brazil-192.jpg)
 
-Back at the beach, where large blue crabs scuttled passed us, we had lunch at a beachside hut and continued with the beach trek. Through a river we waded, and climbed up onto and over a jutting hill, the home of luminescent ladybirds. On the other side a long empty crescent beach stretched out in front of us. Huge waves crashed on the shore, and the sand was fine and soft. 
+Back at the beach, where large blue crabs scuttled passed us, we had lunch at a beachside hut and continued with the beach trek. Through a river we waded, and climbed up onto and over a jutting hill, the home of luminescent ladybirds. On the other side a long empty crescent beach stretched out in front of us. Huge waves crashed on the shore, and the sand was fine and soft.
 
 [![](http://host.trivialbeing.org/up/small/brazil-197.jpg)](http://host.trivialbeing.org/up/brazil-197.jpg)
 
@@ -198,7 +199,7 @@ Despite all this we had a great time conversing with our fellow tourists, carioc
 
 The young couple from Rio, a lawyer and graphic designer, that had met in Barcelona, explained how Rio was attempting to clean up its act for the olympics and world cup. And of course we talked about football; I was embarrassed to find the Brazilians knew more about the current Premier league table than I did, and I knew nothing about Brazilian teams.
 
-Back on dry land, we said our goodbyes and tried the ATMs once more. No luck. At the hotel we warmed up the jacuzzi and relaxed, we were going home soon and didn’t feel like doing anything. We shared the jacuzzi with another Brazilian couple, this time from Sao Paulo. Again, down for the weekend, we talked about life, and work and their disabled dog. 
+Back on dry land, we said our goodbyes and tried the ATMs once more. No luck. At the hotel we warmed up the jacuzzi and relaxed, we were going home soon and didn’t feel like doing anything. We shared the jacuzzi with another Brazilian couple, this time from Sao Paulo. Again, down for the weekend, we talked about life, and work and their disabled dog.
 
 For our last night out we ate at the nearby Luna again, it’d been so good the first time we couldn’t pass it up, but had to be sparing with our cash. I didn’t think it was so great this time around, the waiter was arrogant about how great his food was, but Sam agreed, and she loved her fried fish server with tropical fruit. We lubricated the evening with some more Caipirinhas, oh how the sweet alcohol, sugar and lime mix perfectly, my favourite cocktail, but so intoxicating.
 
@@ -212,6 +213,6 @@ Through the metal detectors, and out the other side, Sam was right, there would�
 
 Eventually we boarded the uncomfortable bum numbing 14 hour flight to Amsterdam, the Brazilian buses were much better. I rotted my brain with Transformers 3, as Sam discussed pesticides and herbicides with a Swedish scientist sat next to her. In Amsterdam  we ran for our connection, and boarded an old Fokker jet, so old it still had ash trays in each seat. And soon we were circling London, flying past the towering Shard construction site, over the new Olympic park and down into Heathrow, ready to return to real life and the very busy week ahead.
 
-Wow, Brazil had been fantastic and fascinating. The flora and fauna sublime and plentiful, the people so friendly and interesting, the scenery simply magnificent; from the sugarloaf to the waterfalls and the mega-cities, Brazil is mind-blowing. 
+Wow, Brazil had been fantastic and fascinating. The flora and fauna sublime and plentiful, the people so friendly and interesting, the scenery simply magnificent; from the sugarloaf to the waterfalls and the mega-cities, Brazil is mind-blowing.
 
 We want to return to see more, we didn’t have time for the Pantanal, Bonito, the Amazon or Salvador. Seeing something living in the wild, even a fleeting glance, is so thrilling we're bound to explore more.

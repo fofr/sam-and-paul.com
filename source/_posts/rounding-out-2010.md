@@ -1,4 +1,5 @@
 title: 'Rounding out 2010'
+listing-image: http://host.trivialbeing.org/up/small/wildlife-of-the-year-2010-drop.jpg
 tags:
   - christmas
   - 'new years'

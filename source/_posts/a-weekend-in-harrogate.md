@@ -1,4 +1,5 @@
 title: 'A weekend in Harrogate'
+listing-image: http://host.trivialbeing.org/up/small/harrogate-038.jpg
 id: 58
 categories:
   - Holidays
@@ -10,7 +11,7 @@ At 6pm I left work to meet Samantha at Kings Cross station for our train to Harr
 
 We arrived at 10ish, and after a short wait because we'd been pressing the wrong bell, were shown to our room. Number 10, it was smart, quaint and comfortable, with a skylight over the bed.
 
-Up promptly at 8:30am, we went down for breakfast and dutifully had our full English with coffee, toast and orange juice. At 10:30 we picked up the car and headed north west towards Ripon, specifically to Fountains Abbey, a national trust day out. 
+Up promptly at 8:30am, we went down for breakfast and dutifully had our full English with coffee, toast and orange juice. At 10:30 we picked up the car and headed north west towards Ripon, specifically to Fountains Abbey, a national trust day out.
 
 With the last of our national trust wedding vouchers from Sam's aunt, we bought a yearlong membership and set about exploring the grounds. The bright sun made the grass glow green, the odd fluffy cloud dallying above us.
 
@@ -129,7 +130,7 @@ With each course the waitress explained what we'd be eating. Salmon and crab, th
 
 Near to us a mother and daughter had ordered the same, and were going through the menu at the same speed. At the back a family of five were dressed smartly, two young kids asking the adults intriguing questions from a box of cards: what's your favourite room in the house? (How big does your house need to be to play that?)
 
-After a short break, and declining the cheese, our meal continued into dessert. A light coriander jelly pre-dessert, then a beautiful rhubarb dish with a quite fantastic champagne foam. Neither of us thought we liked rhubarb, but this was something else, even with its slight homage to rhubarb crumble. And finally the nutty chocolately dessert, with a tart lime sorbé. If that wasn't enough, we returned to the cocktail lounge to relax with coffee and petits fours, including a rather lovely fennel jelly. On the armchairs we sat, subdued and sated. 
+After a short break, and declining the cheese, our meal continued into dessert. A light coriander jelly pre-dessert, then a beautiful rhubarb dish with a quite fantastic champagne foam. Neither of us thought we liked rhubarb, but this was something else, even with its slight homage to rhubarb crumble. And finally the nutty chocolately dessert, with a tart lime sorbé. If that wasn't enough, we returned to the cocktail lounge to relax with coffee and petits fours, including a rather lovely fennel jelly. On the armchairs we sat, subdued and sated.
 
 I settled the rather large bill and we set out into the night on our journey home, in the silver Chevy, through the thunderous rain and hail, over the dales, back to Harrogate.
 

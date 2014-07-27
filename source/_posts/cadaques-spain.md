@@ -1,4 +1,5 @@
 title: 'Cadaqués, Spain'
+listing-image: http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-21.jpg
 tags:
   - cadaques
   - europe
@@ -43,7 +44,7 @@ Until now I hadn’t been particular to mushrooms, their slimy texture and shrin
 
 <!--nextpage-->
 
-Continental breakfast brought few surprises, and we gorged ourselves on croissants, cheese, meats, bread and Nespresso (no proper coffee to be seen). 
+Continental breakfast brought few surprises, and we gorged ourselves on croissants, cheese, meats, bread and Nespresso (no proper coffee to be seen).
 
 With back packs stuffed full of sun cream, towels, change of clothes and other heavy stuff Sam might need but probably won’t use, the whole of Cadaqués beckoned. The coastal walk from east to west revealed its treasures - dirt paths and rocky walkways, through cacti, to hidden beaches and rocky outcrops where you can sit and paddle, then around to the old town and the gorgeous views on approach.
 
@@ -91,7 +92,7 @@ Digging into the spider crab paella with industrial strength pliers, we spent an
 
 The pool is even colder in the mornings, and that’s when we decided to have our next dip. The house-martins flit about, occasionally diving towards the pool for a quick drink. Catching this on camera is surprisingly tough - usually resulting in a blur and a splash. I gained a new respect for nature photographers.
 
-In town again, we ate tapas at Nord Est, a smart looking blue bar in the east of the town. 
+In town again, we ate tapas at Nord Est, a smart looking blue bar in the east of the town.
 
 <div class="menu">
 
@@ -156,7 +157,7 @@ Outside the weirdness continues, as we explore the areas where Dali entertained 
 
 Picnic time! At the top of the hill, we sliced our saucisson, smeared president cheese over baguette and covered our fingers in melted chocolate from dip pots.
 
-That evening our food was all the more dignified, going back to Cadaqués and the recommended Casa Nun. A tiny two storey restaurant, we sat at the top, with a private open window looking onto the bay. Cadaqués’ sublime night-time soundscape set the atmosphere for our meal. We savoured the fresh black olives and De Casta Rose wine; ceiling fan spinning above us and cute 25th anniversary painting on the wall behind. 
+That evening our food was all the more dignified, going back to Cadaqués and the recommended Casa Nun. A tiny two storey restaurant, we sat at the top, with a private open window looking onto the bay. Cadaqués’ sublime night-time soundscape set the atmosphere for our meal. We savoured the fresh black olives and De Casta Rose wine; ceiling fan spinning above us and cute 25th anniversary painting on the wall behind.
 
 <div class="menu">
 
@@ -175,7 +176,7 @@ That evening our food was all the more dignified, going back to Cadaqués and th
 
 [![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-111.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-111.jpg)
 
-The mango and tuna carpaccio peculiarly worked wonderfully, and the salty fresh sardines were of course delicious. My duck breast and pear was perfect, both meaty, tender and sweet, I’m salivating at the thought of eating it again. Sam’s grilled squid came with tentacles et al, we made sure beforehand. And chocolate cheesecake is always a pleasure. 
+The mango and tuna carpaccio peculiarly worked wonderfully, and the salty fresh sardines were of course delicious. My duck breast and pear was perfect, both meaty, tender and sweet, I’m salivating at the thought of eating it again. Sam’s grilled squid came with tentacles et al, we made sure beforehand. And chocolate cheesecake is always a pleasure.
 
 Live music began to play outside, acoustic guitar, wafting through the window, we listened, and gazed at the bay. So carefree and gorgeous.
 
@@ -185,7 +186,7 @@ Live music began to play outside, acoustic guitar, wafting through the window, w
 
 Our last day, and we explored the town’s backstreets, picking up a couple of souvenirs en route, getting lost and then finding ourselves near Port Lligat.
 
-After an all too short and ill prepared dip in a secluded bay, we sought to find another place to enjoy the sea and sunbathe in private. Our first discovery, over some towering rocks and down to a concealed spot, had jagged stone, crashing waves and one too many sea anemones. We upped and headed north, back towards Dali’s house. Quite by accident, we stumbled on a perfect sandy beach, small rippling waves and no one in sight, views of Dali's house in the distance. 
+After an all too short and ill prepared dip in a secluded bay, we sought to find another place to enjoy the sea and sunbathe in private. Our first discovery, over some towering rocks and down to a concealed spot, had jagged stone, crashing waves and one too many sea anemones. We upped and headed north, back towards Dali’s house. Quite by accident, we stumbled on a perfect sandy beach, small rippling waves and no one in sight, views of Dali's house in the distance.
 
 [![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-123.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-123.jpg)
 
@@ -195,7 +196,7 @@ We swam out to sea, or in my case, walked as far as I could, swam a little bit, 
 
 [![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-137.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-137.jpg)
 
-For our last night in Cadaqués, we returned to our favourite eatery, Can Tito. On our way, we stopped for pictures together at all the scenic points. 
+For our last night in Cadaqués, we returned to our favourite eatery, Can Tito. On our way, we stopped for pictures together at all the scenic points.
 
 [![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-3.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-3.jpg)
 

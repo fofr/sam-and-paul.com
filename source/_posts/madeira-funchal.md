@@ -1,4 +1,5 @@
 title: 'A week in Madeira'
+listing-image: http://host.trivialbeing.org/up/small/madeira-063-ponto-de-sao-lourenco-walk.jpg
 tags:
   - europe
   - funchal
@@ -54,11 +55,11 @@ Finishing up our bottle of house red, we were stuffed and intoxicated, and we st
 
 <!--nextpage-->
 
-Up in time for the 8 - 10am continental breakfast (the staple slice of toast, sliced cheese, meat slices, eggs and cake, with tea and some sort of coffee), we spent Saturday finding our feet. 
+Up in time for the 8 - 10am continental breakfast (the staple slice of toast, sliced cheese, meat slices, eggs and cake, with tea and some sort of coffee), we spent Saturday finding our feet.
 
-Madeira is colourful and filled with crazy flora. The roads down to the centre of Funchal were lined with beautiful trees in a purple blossom, and preparations were already starting for the flower festival which we’d miss by a couple of days. 
+Madeira is colourful and filled with crazy flora. The roads down to the centre of Funchal were lined with beautiful trees in a purple blossom, and preparations were already starting for the flower festival which we’d miss by a couple of days.
 
-We stopped at the grassy Carlton Park overlooking the Marina before walking down to the commercial district. Funchal is broken up by roads and concrete waterways clearly designed to avoid flash flooding. The sun shone on our faces and we felt warm, behind us dark, brooding clouds grew. 
+We stopped at the grassy Carlton Park overlooking the Marina before walking down to the commercial district. Funchal is broken up by roads and concrete waterways clearly designed to avoid flash flooding. The sun shone on our faces and we felt warm, behind us dark, brooding clouds grew.
 
 [![](http://host.trivialbeing.org/up/small/madeira-005-carlton-park-funchal.jpg)](http://host.trivialbeing.org/up/madeira-005-carlton-park-funchal.jpg)
 
@@ -76,7 +77,7 @@ From the interesting yet macabre market the road took us down to the beach, if y
 
 [![](http://host.trivialbeing.org/up/small/madeira-016-storm-coming.jpg)](http://host.trivialbeing.org/up/madeira-016-storm-coming.jpg)
 
-Then it was a different place, as quickly as it had arrived the storm disappeared, revealing clear blue skies and a hot sunshine. Wet weather gear, available at an instant, is a must have. All the puddles dried up and by a fountain we gobbled up some Madeira honey cake. 
+Then it was a different place, as quickly as it had arrived the storm disappeared, revealing clear blue skies and a hot sunshine. Wet weather gear, available at an instant, is a must have. All the puddles dried up and by a fountain we gobbled up some Madeira honey cake.
 
 When the cable cars reopened we took the 20 minute trip up to Monte, a €15 roundtrip. Sam’s fear of heights materialised when we sat down, first from the delayed closing of the car doors, then the swaying and the sudden rocking as the car passed large green masts. Whilst Sam grabbed on for dear life, I hopped around shooting all sorts of photos as we climbed up the mountain, much to Sam’s annoyance I asked her to pose,  “pull a worried look,” I said.
 
@@ -133,7 +134,7 @@ We left the Piornais Levada at Santa Quiteria, a hill we mistakenly climbed, whe
 
 [![](http://host.trivialbeing.org/up/small/madeira-038-picnic.jpg)](http://host.trivialbeing.org/up/madeira-038-picnic.jpg)
 
-Along the Levada do Curral we continued for another hour, climbing ever higher, the guide warning of a point where the walk grew “very dangerous”. The houses ended, and we passed a pool of singing frogs. Onwards and upwards, the railings became less frequent, the concrete more cracked and the drops higher and more severe, but we were rewarded with beautiful valley views. 
+Along the Levada do Curral we continued for another hour, climbing ever higher, the guide warning of a point where the walk grew “very dangerous”. The houses ended, and we passed a pool of singing frogs. Onwards and upwards, the railings became less frequent, the concrete more cracked and the drops higher and more severe, but we were rewarded with beautiful valley views.
 
 [![](http://host.trivialbeing.org/up/small/madeira-039-levada-walk.jpg)](http://host.trivialbeing.org/up/madeira-039-levada-walk.jpg)
 
@@ -256,7 +257,7 @@ This was undoubtedly one of the greatest dining experiences we’ve ever had.
 
 Wednesday started nervously as we embarked on our great ‘wrong side of the road’ car rental adventure. After a light brekkie and a slow queue at the Hertz office we picked up the blue Ford Fiesta and headed for the hills. At a quiet road I practiced gear changes and manoeuvring in an attempt to avoid bashing the door with my elbow every time I changed gear. Throwing in a bit of hill start practice too, it might as well have been a driving lesson for half an hour.
 
-Soon enough I was confident I could control the car and we began our car tour, number 5 in the [sunflower book](http://amzn.to/mcTwRT "Read reviews on Amazon"). We headed north, through the Encumeadá tunnel to São Vicente on the north coast. In the north trees clung to steep rock faces and natural waterfalls flowed from impenetrable clouds, and without the direct sun it all felt that much darker. 
+Soon enough I was confident I could control the car and we began our car tour, number 5 in the [sunflower book](http://amzn.to/mcTwRT "Read reviews on Amazon"). We headed north, through the Encumeadá tunnel to São Vicente on the north coast. In the north trees clung to steep rock faces and natural waterfalls flowed from impenetrable clouds, and without the direct sun it all felt that much darker.
 
 [![](http://host.trivialbeing.org/up/small/madeira-083-waterfalls.jpg)](http://host.trivialbeing.org/up/madeira-083-waterfalls.jpg)
 

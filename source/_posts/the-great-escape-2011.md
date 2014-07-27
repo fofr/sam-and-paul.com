@@ -1,4 +1,5 @@
 title: 'The Great Escape 2011'
+listing-image: http://host.trivialbeing.org/up/small/great-escape-braids.jpeg
 id: 43
 categories:
   - Music
@@ -6,7 +7,7 @@ date: 2011-06-26 19:54:21
 tags:
 ---
 
-Festival season starts early in Brighton (or does it ever end?), and just a few days back from Madeira we took a little more holiday to enjoy our first festival together, The Brighton Great Escape. Three days spread across the city, with over 100 acts playing, I’d dedicated a good portion of the week to planning who to see, listening to festival playlists and discovering new music. 
+Festival season starts early in Brighton (or does it ever end?), and just a few days back from Madeira we took a little more holiday to enjoy our first festival together, The Brighton Great Escape. Three days spread across the city, with over 100 acts playing, I’d dedicated a good portion of the week to planning who to see, listening to festival playlists and discovering new music.
 
 We were joined by Sarah and Mark, travelling down from Bristol they arrived early on Thursday morning. After some coffee, fresh croissants and a lot of comparing schedules we started our festival. Sam was still working, so for now it was just the three of us.
 

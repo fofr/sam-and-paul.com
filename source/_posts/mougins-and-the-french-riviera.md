@@ -1,4 +1,5 @@
 title: 'Mougins and the French Riviera'
+listing-image: http://host.trivialbeing.net/fofr/images/DSC02221.jpg
 tags:
   - cannes
   - europe
@@ -12,7 +13,7 @@ categories:
 date: 2005-04-13 09:01:47
 ---
 
-Hello, here is a fine welcome to you all from me in my latest journal entry. In this particular episode I shall be talking to you about my holiday to the French Riviera. Thanks to an impressive holiday-package deal my mum is part of, both I and my girlfriend were privileged with ‘free' accommodation at a four/five star resort somewhere in the world, after perusing the catalogue we opted for "Le Club Mougins" in the valley of Mougins, an area in the south of france, 6km north of Cannes. It's a covey, remote, old and rural region with very kind people and the luxuries of French living; a boulangerie, a fruiterie and a poissonerie. 
+Hello, here is a fine welcome to you all from me in my latest journal entry. In this particular episode I shall be talking to you about my holiday to the French Riviera. Thanks to an impressive holiday-package deal my mum is part of, both I and my girlfriend were privileged with ‘free' accommodation at a four/five star resort somewhere in the world, after perusing the catalogue we opted for "Le Club Mougins" in the valley of Mougins, an area in the south of france, 6km north of Cannes. It's a covey, remote, old and rural region with very kind people and the luxuries of French living; a boulangerie, a fruiterie and a poissonerie.
 
 On Thursday, the last day of March, I packed together my things:
 
