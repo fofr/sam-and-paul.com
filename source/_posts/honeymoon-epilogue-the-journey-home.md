@@ -1,0 +1,131 @@
+title: 'Honeymoon epilogue: The journey home'
+tags:
+  - ash-cloud
+  - dieppe
+  - europcar
+  - europe
+  - flight
+  - frankfurt
+  - honeymoon
+id: 16
+categories:
+  - Holidays
+date: 2010-06-10 18:31:53
+---
+
+Our journey home started without a hitch, up at 5:15am, packed, checked out and whisked to Chiang Mai airport via our transfer.
+
+After hanging around amongst thousands of mosquitos waiting for the check-in desk to open, we deposited our luggage and ate our packed breakfast - hearty tuna sandwiches. In the lounge we reminisced about our holiday, sad that it was all over.
+
+We took the 8:25am Air Asia flight to the familiar Suvarnabhumi airport in Bangkok, touching down an hour later.
+<!--more-->
+
+[![](http://host.trivialbeing.org/up/small/honeymoon-247.jpg)](http://host.trivialbeing.org/up/honeymoon-247.jpg)
+
+One last pad thai and mango shake before we leave and then onto our 12:25pm flight home. 11 hours to Heathrow, London. 
+
+In flight entertainment was lacking, without personal screens and only poorly positioned monitors, we avoided watching Avatar and instead amused ourselves, writing about the honeymoon, playing games and so-on.
+
+An arduous ten hours later, about 45 minutes from home, the pilot informed us of some problems. Because of a volcano eruption in Iceland, and drifting ash, all English airports were closed. So we’re being diverted--first thought was Paris CDG, but now we’re landing in Frankfurt! Getting home will now be interesting!
+
+We made a big circle in the sky and back-tracked to Frankfurt, Germany. Landing at approx 7pm local time. Our first thoughts were for our wedding gift list, meant to be delivered at 7am the next morning, in Brighton. Calling around, our families were amazing - they’d sorted everything already and Amanda would be at the flat to pick everything up.
+
+The next task: getting home. Paris would have been easy - trains, ferries, etc., lots of options. Being another 600km away meant our options would be limited. 
+
+At the airport no-one really knew what to do. Some people went through passport control by mistake, the rest of us were guided by staff around in circles a couple of times--up and down escalators before finding us a departure lounge. A Thai airways representative will be with you shortly.
+
+[![](http://host.trivialbeing.org/up/small/honeymoon-251.jpg)](http://host.trivialbeing.org/up/honeymoon-251.jpg)
+
+Two hours later and we had no representative and no more information. We listened to savvy travellers organising trains or car rentals, we wanted to stick with them, but whilst Sam was grabbing provisions they made a dash for it.
+
+[![](http://host.trivialbeing.org/up/small/honeymoon-253.jpg)](http://host.trivialbeing.org/up/honeymoon-253.jpg)
+
+On our own again we heard the Lufthansa spokeswoman give us the first tidbits of information. “Everything that could have gone wrong has gone wrong”. A lighting conference meant that all hotels were booked up and that we’d most likely be staying on Frankfurt airport’s floors. At 10am tomorrow in C13 we will give you more information, food will arrive shortly. If you do go, please leave your luggage here so we don’t have to check them through security again.
+
+Whilst on her provisions hunt, Sam found a couple, just engaged, that had managed to book a hotel online. Using one of the expensive terminals. If we did the same we could share a taxi and have a bed for the night. For seven frantic minutes we attempted to book the hotel, watching our euro credit drop by the second. Two double rooms left, 130 euros. Done.
+
+We were off, through passport control, to the baggage carousel, where all bags were randomly arranged, we could have gone into anyone’s suitcase. We grabbed the essentials, but couldn’t find the European travel adapter, we quickly left the airport and took a taxi to the city centre.
+
+Frankfurt’s neon skyline looked gorgeous against a crisp clear night.
+
+The hotel was a poor IBIS imitation, two singles were pushed together badly to make a double, there was no complimentary shampoo and above all, no tea or coffee! Instead we gobbled up the duty free Toblerone. At least we had a bed and relative comfort.
+
+[![](http://host.trivialbeing.org/up/small/honeymoon-255.jpg)](http://host.trivialbeing.org/up/honeymoon-255.jpg)
+
+<!--nextpage-->
+
+I can’t say that was the best night’s sleep I’ve ever had, fidgeting, I dreamt of strange Thai tourist traps and weird water trading, as we tried in vain to get home. It didn’t help that Sam elbowed me in the eye in the middle of the night.
+
+In the morning we watched BBC world news and realised we wouldn’t be flying home anytime soon. At 9am in the lobby we met up wit the couple from the night before, a teacher and a scientist. I charged my phone via pilfering energy from a computer’s USB port.
+
+We casually walked to the nearby train station, bought our tickets, grabbed some croissants for breakfast (Germany has the most excellent patisseries) and the obligatory coffee, worked out our journey, then hopped on the train to the airport.
+
+On arrival we questioned where to go. “C13? Thai Airways - they are calling for you!” the German lady answered. Oh dear they are going to leave without us! Run! We pretty much ran right across the airport, through the fastest security checks ever, to reach C13\. At C13 there was nothing happening, no one was going anywhere. At 10am there was also no representative, but they did want to move us to where there would be food.
+
+From a room with comfy leather chairs, power supplies and newspapers we were escorted to a corridor featuring a hard concrete floor and a broken escalator. This is where you’ll stay, we’ll get your food now. Coke, an apple and a marmalade sandwich. Those on the stranded Chinese flight had 30 euro meal vouchers.
+
+[![](http://host.trivialbeing.org/up/small/honeymoon-258.jpg)](http://host.trivialbeing.org/up/honeymoon-258.jpg)
+
+[![](http://host.trivialbeing.org/up/small/honeymoon-257.jpg)](http://host.trivialbeing.org/up/honeymoon-257.jpg)
+
+[![](http://host.trivialbeing.org/up/small/honeymoon-260.jpg)](http://host.trivialbeing.org/up/honeymoon-260.jpg)
+
+As before, we tried to stay close to the savvy travellers, those that knew what they were doing or were making their own plans to get home. The problem was the lack of information - if we left the airport would we be stranded? Could we get a train? Were the ferries booked? How much would it all cost?
+
+I contacted Stuart at home in Bristol to enlist his help in getting us a route out. All the big ferry destinations were overwhelmed and there were long queues for trains. Most travel websites were down, Eurostar would cost £400 each.
+
+The couple we’d shared a taxi with decided to go into Frankfurt for the day, to enjoy themselves. Meanwhile the airline started making plans for everyone to stay in a hotel, about an hour outside of Frankfurt.
+
+Stuart called, he’d found ferry availability on the TransMarche crossing from Dieppe to New Haven at 6pm. We couldn’t make the 6pm one, but 6am was an option. Where was Dieppe? Where was New Haven? How would we get there?
+
+We mulled over the answers to those questions whilst eating lunch, Burger King, my first fast food in four years. Let’s buy the tickets now then work out how to get there. The three we ate lunch with seemed to like the idea, so we’d have someone to travel with.
+
+Dieppe to New Haven, ferry tickets booked, now we had 14 hours to get there. First stop, the baggage carousel, where we had to wait almost an hour for our bags to be removed from the plane (they’d been put back on). Hotel rooms were being allocated by the airline and everyone else had to get their bags too. Meanwhile Stuart was looking at train options; Frankfurt > Koln > Brussels > Paris > Rouen > Dieppe. Leaving in 20 mins, we wouldn’t make it in time, we’d get stranded in Rouen and miss the ferry. The bags took so long trains were not an option.
+
+The three we were with, two incidentally were teachers, got the jitters and booked a hotel room. It looks like we’re on our own again. With bags in hand, at last, we rushed to the car rental zone. Maybe we could drive there. Google maps says about six hours. If we were quick, and a car wasn’t an option, we could get on the coach and go to the hotel with the others.
+
+Through Frankfurt airport’s underground labyrinth we followed signs to the rental zone. Avis, Hertz and others all said we couldn’t take the car out of Germany. Europcar said we could, but only let groups of four or more rent a car, to please as many customers as possible. We needed two more! Estimated price would be about 500 euros.
+
+I sprinted back to the coaches and attempted to convince the other three that this was a good idea. The men were up for it, but the cautious wife had the sway and wanted to stick with the airline. We were on our own, and the coaches were leaving.
+
+Back at Europcar we waited, for two more people to come to Dieppe, for two to go to Paris, or even somewhere in France. Anyone!?
+
+Two people from our flight that we’d spoken to arrived, YES! Sam thought. Two brits, we could share with them. They were closely followed by two others, the four of them had their car sorted and would shortly be driving to Cannes. We started to despair. I told them about the Dieppe crossing and they took our advice, driving through Belgium to get to the crossing we needed to be on.
+
+We began clutching at straws, a spaniard wanted to drive south and was willing to come to Paris with us, we needed one more. An American looking to get to the UK showed some interest but wanted assurances. We said we would buy him a ticket. He said, “go on without me, I’ll work something else out”, infuriating Sam - we can’t go without you, we need you!
+
+Two hours had passed, sitting and waiting at Europcar. When the American left and it looked like the spaniard would have a lift with someone else, Sam couldn’t take any more. We needed two people again. We tried to call Thai Airways to get to the hotel, but the numbers we’d written down didn’t work. We were stranded.
+
+I prayed that we’d get home safely, and in good time, that two people would turn up and we’d get a car, and make the ferry on time. We had 11 hours to get there.
+
+A film crew turned up and interviewed, “Sam from Brighton”, we were on our honeymoon, trying to get home from Bangkok.
+
+Whilst they were filming, I overheard two Brits returning a car. “Where are you from? Are you trying to get back to England? Do you want to rent a car and get a ferry from Dieppe?”. To my amazement and utter relief the two mancunian businessmen said “sure”. They also offered to put the car rental costs on their business account (650 euros) AND drive the whole journey. I called Stuart and he purchased their ferry tickets. We had our out, and it was a perfect one - a miracle if ever I’ve seen one.
+
+In the Volkswagen Caddy, amidst Frankfurt’s rush hour traffic we sped away. 600km to go, six hours to go. Through rolling German countryside we travelled, hitting 130mph on the autobahn. At the France/Germany border we stopped for coffee (and red bull) and cake and a driver switch over.
+
+Then into France, past hills of wind turbines, the sun set was clear, crisp and beautiful. We were on our way home, at an average speed of 90mph. We took the French toll roads, and at each stop Sam had the right change. Frankfurt to Metz, to Reims, north of Paris, north of Rouen to Dieppe.
+
+In the Champagne region we stopped for food. My burger wasn’t cooked, it was red right through, I left feeling queasy, but nothing came of it. Typical that the worst chance of food poisoning, after being in Thailand for so long, came from a diner in France.
+
+[![](http://host.trivialbeing.org/up/small/honeymoon-261.jpg)](http://host.trivialbeing.org/up/honeymoon-261.jpg)
+
+Two petrol stops and we reached Dieppe four hours early at 2am, and we made it there ahead of the four that left an hour or so before us. With time to kill, we sat in the small cold waiting room and watched the latest Star Trek movie on a small laptop screen, with the volume up loud enough to annoy anyone trying to sleep (especially those sleeping on the pool table).
+
+Sam put on all the clothes she could to beat the cold -- shorts over trousers, three t-shirts, a jumper, a summer hat, a sarong, two pairs of socks. An assorted collection of summer clothes.
+
+[![](http://host.trivialbeing.org/up/small/honeymoon-263.jpg)](http://host.trivialbeing.org/up/honeymoon-263.jpg)
+
+Getting onto the ferry took an age, and we were nervous it might be a small, cramped affair. We had to clamber onto a coach beforehand, and their system was a mess, clearly not used to these numbers.
+
+The ferry itself was much bigger than expected, with two restaurants, many floors and even escalators. We carved out a corner in the rear bar/lounge area where we sat with the four others from our flight. The crossing would take four hours.
+
+Those hours flew by as we laughed and joked with our new friends. Waving bye to France, we drank tea and coffee, ate fresh French croissants and watched the sun rise. We talked about weddings and hilarious speeches, university, jobs, our time out in Thailand and Songkran experiences. At times we laughed so much we cried and we celebrated the sight of England’s coastline. We were all so relieved to be almost home.
+
+[![](http://host.trivialbeing.org/up/small/honeymoon-269.jpg)](http://host.trivialbeing.org/up/honeymoon-269.jpg)
+
+[![](http://host.trivialbeing.org/up/small/honeymoon-267.jpg)](http://host.trivialbeing.org/up/honeymoon-267.jpg)
+
+England welcomed us with clear blue skies and a warm sun. Amanda was in New Haven to pick us up (20 mins from Brighton) (“Is that your sister?”). We said our farewells, so happy to have enjoyed the last four hours of our extended honeymoon. 
+
+We got home and fell asleep. It was all over, from hotel to home it took, all in all, 60 hours. An ash cloud adventure to end the holiday.
