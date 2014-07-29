@@ -8,6 +8,8 @@ id: 90
 categories:
   - Holidays
 date: 2014-05-19 19:17:14
+pages: 2
+page: 1
 ---
 
 The first leg of our Malaysia and Borneo tour began in Kuala Lumpur (KL), at the upmarket Traders hotel. It’s in the centre of town, 40 minutes from the airport, and with probably the best views of the Petronas Towers. Buildings in KL go straight up; condominiums, skyscrapers, office blocks, most buildings must be over 20 floors. Our hotel was no exception, and our room was on the 29th floor.
@@ -41,48 +43,3 @@ I was in a foul mood most of the night and didn’t think the food was worth the
 My mood lightened as soon as we left the ‘revolvaurant’, and the slow walk back via the towers and park was more romantic. The mall was still open, and despite it being 10pm, the park was alive with people. By the lake we saw a long-tailed mammal scarper up a tree, it looked a bit like an otter or a marten, but my online searches haven’t revealed what’s usually seen in the park, or what city wildlife lives in KL.
 
 Sunday night at the Traders Skybar was too clubby-wubby for us tonight, so we called it a day.
-
-<!--nextpage-->
-
-With a breakfast snack from a kiosk outside Traders, we took a taxi to KL Bird Park, one of the few attractions that opens on a Monday. We’re not keen on seeing caged animals, but for the most part the park is free-flying and expansive, and it would be good practice at photographing wildlife before going into the jungle. We paid the fee and put on the orange wristband. The sun was out too, and out of the shade it was really very hot.
-
-Inside small egrets (some red), storks, crowned-pigeons, parrots and peacocks fly (or walk) around. There’s a flamingo section, some cages containing a few eagles and owls, an indoor parrot shed, some pens with emus, ostriches and the dinosaur like Australian cassowary, and a free-flying hornbill area near the exit. It’s inevitable that a bird will shit on you, or your bag, or both.
-
-Using auto-focus on the F4 zoom lens meant the eyes of the birds were often out of focus, and switching to manual was fiddly, but gave significantly better results, provided the bird hung around long enough. The practice was welcome, the 200mm lens was still new to us both.
-
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Egret at KL Bird Park](http://host.trivialbeing.org/up/1240/kuala-lumpur-017.jpg)](http://host.trivialbeing.org/up/kuala-lumpur-017.jpg)<figcaption class="generated-figure-caption">Egret at KL Bird Park</figcaption></figure>
-
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Western and Victorian Crowned Pigeon at KL Bird Park](http://host.trivialbeing.org/up/1240/kuala-lumpur-018.jpg)](http://host.trivialbeing.org/up/kuala-lumpur-018.jpg)<figcaption class="generated-figure-caption">Western and Victorian Crowned Pigeon at KL Bird Park</figcaption></figure>
-
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Hornbill eating berries at KL Bird Park](http://host.trivialbeing.org/up/1240/kuala-lumpur-028.jpg)](http://host.trivialbeing.org/up/kuala-lumpur-028.jpg)<figcaption class="generated-figure-caption">Hornbill eating berries at KL Bird Park</figcaption></figure>
-
-After a few hours with the birds we stopped for lunch at the Hornbill Cafe, an impressive little place with really good food. This was our first opportunity to have Nasi Lemak and Nasi Goreng, and the fried chicken Samantha ate here was the best she had in all of Malaysia. We’d advise against sitting outside though, as you finish your meal the egrets with their pointy beaks know you’re nearly done and begin to encroach. If you walk away before your plates are taken there’ll be an unsightly bird melee, chicken bones and rice will be flung over the terrace. We definitely didn’t do that, and we didn’t run away either.
-
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Egret wants my lunch](http://host.trivialbeing.org/up/1240/borneo-iphone-004.jpg)](http://host.trivialbeing.org/up/borneo-iphone-004.jpg)<figcaption class="generated-figure-caption">Egret wants my lunch</figcaption></figure>
-
-Just as we boarded the rundown taxi (it was a poor old green thing, lovingly kept together with sticky tape) it began raining. Not too bothered about doing much, or seeing much (very unlike us), we spent the rest of our afternoon in the hotel’s Skybar on floor 33\. That meant a lot of swimming and lounging about with fabulous views. With everything else being shut, or wet, the comfy red sofas and cocktails kept us entertained until dinner.
-
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Relaxing by the rooftop pool](http://host.trivialbeing.org/up/1240/kuala-lumpur-032.jpg)](http://host.trivialbeing.org/up/kuala-lumpur-032.jpg)<figcaption class="generated-figure-caption">Relaxing by the rooftop pool</figcaption></figure>
-
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--portrait">[![Cocktails by the towers](http://host.trivialbeing.org/up/1240/kuala-lumpur-033.jpg)](http://host.trivialbeing.org/up/kuala-lumpur-033.jpg)<figcaption class="generated-figure-caption">Cocktails by the towers</figcaption></figure>
-
-At dusk I tried putting up a tripod to capture the Petronas towers – just as the sun sets and the lights come on (“magic time”). Apparently that’s not allowed, something about licensing a waiter said, probably just a pool-bar ambience thing. I settled with resting it sideways on a well positioned ash-tray, balanced on a window ledge, that did the job. We thought about venturing out for dinner, but the reviews for “Upstairs at Gobo”, part of Traders, were all positive, we took the easy option and stayed in. Our booking was quite late, 9pm, so we hung about the Skybar a little longer, where they make a very good caipirinha (once you’ve convinced the waiter, and your wife, that you did see it on the menu, and it is available).
-
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--portrait">[![Samantha at the Skybar](http://host.trivialbeing.org/up/1240/kuala-lumpur-001.jpg)](http://host.trivialbeing.org/up/kuala-lumpur-001.jpg)<figcaption class="generated-figure-caption">Samantha at the Skybar</figcaption></figure>
-
-Smart casual, business savvy Gobo Upstairs was quiet when we arrived, but for a long table of conference delegates; something about international obesity. Through the glass ceiling and the large windows the twinkles of Kuala Lumpur’s towering lights shone in, giving the restaurant a prestigious ambiance. The bread basket included freshly made charcoal bread, something we hadn’t ever seen before, but given how much we saw it again it must be popular in Malaysia — it’s not burnt, and it tasted just like any other bread, but it’s black through. The menu was split into land and sea dishes, we had one from each. It was the fine dining experience we were looking for, everything was cooked exquisitely.
-
-<div class="menu">
-
-### Menu
-
-*   grilled black angus tenderloin with king prawn (truffle mashed potato, braised asparagus and bordelaise sauce)
-*   crispy skin sea bass with orange butter sauce and truffle mashed potato
-*   bread and butter pudding
-</div>
-
-Our last night in KL before [flying south to Kuching](/2014/05/kuching-borneo/ "Kuching, Borneo") (Borneo) and the LimeTree hotel, we packed our bags and took a few last photos of the towers. Our flight was early, and our taxi was leaving at 7am.
-
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--portrait">[![Samantha at Gobo](http://host.trivialbeing.org/up/1240/borneo-iphone-005.jpg)](http://host.trivialbeing.org/up/borneo-iphone-005.jpg)<figcaption class="generated-figure-caption">Samantha at Gobo</figcaption></figure>
-
-Next morning, when we left, the moon was still out. Through KL’s morning rush hour, along the freeway, back past the condominiums, endless high rises and Asian suburbia, we drove through the eerie mist and palm plantations to the airport. At the LCC terminal, with a cheap Starbucks breakfast, [we boarded the AirAsia flight to Sarawak](/2014/05/kuching-borneo/ "Kuching, Borneo"). Goodbye KL, we’ll see you again in a couple of weeks.

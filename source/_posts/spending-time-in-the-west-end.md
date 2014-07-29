@@ -1,5 +1,5 @@
 title: 'Spending time in the West End'
-listing-image: http://host.trivialbeing.org/up/small/mrfofr-20080911-zorro.jpg 
+listing-image: http://host.trivialbeing.org/up/small/mrfofr-20080911-zorro.jpg
 tags:
   - 39-steps
   - avenue-q
