@@ -4,8 +4,11 @@
   <%- partial('_partial/head') %>
 </head>
 <body>
+  <% background = typeof page.background === "undefined" ? '/images/backgrounds/borneo-007.jpg' : page.background %>
+  <div class="blurred-background" style="background-image: url('<%= background %>');">
+  </div>
   <%
-   wrapperClass = "hfeed";
+   wrapperClass = "page-wrapper hfeed";
    if (is_home()) {
      wrapperClass += " home";
    }

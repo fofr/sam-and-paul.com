@@ -11,6 +11,7 @@ categories:
 date: 2014-05-19 21:56:59
 pages: 5
 page: 1
+background: http://host.trivialbeing.org/up/1240/kota-kinabalu-098.jpg
 ---
 
 <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Shangri-la Rasa Ria, a beachside paradise](http://host.trivialbeing.org/up/1240/kota-kinabalu-098.jpg)](http://host.trivialbeing.org/up/kota-kinabalu-098.jpg)<figcaption class="generated-figure-caption">Shangri-la Rasa Ria, a beachside paradise</figcaption></figure>
