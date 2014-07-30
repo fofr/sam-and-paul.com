@@ -1,9 +1,9 @@
 <%
-  while (post.prev && post.prev.layout != post.layout) {
+  while (post.prev && post.prev.page > 1) {
     post.prev = post.prev.prev || null;
   }
 
-  while (post.next && post.next.layout != post.layout) {
+  while (post.next && post.next.page > 1) {
     post.next = post.next.next || null;
   }
 %>
