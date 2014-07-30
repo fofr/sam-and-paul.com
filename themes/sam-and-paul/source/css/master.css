@@ -367,6 +367,7 @@ a.inherit {
   font-size: 24px;
   color: #ddd;
   margin-right: -5px;
+  text-decoration: none;
 }
 
 .top-bar {
@@ -384,7 +385,8 @@ a.inherit {
 }
 
 .masthead a:hover {
-  text-decoration: underline;
+  text-decoration: none;
+  border-bottom: 3px solid #fff;
 }
 
 .masthead nav ul {
