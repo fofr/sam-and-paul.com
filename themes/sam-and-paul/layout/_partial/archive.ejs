@@ -1,4 +1,4 @@
-<section class="listing clearfix">
+<section class="listing wrapper clearfix">
   <% page.posts.each(function(post, i){ %>
     <% if (typeof post.page === "undefined" || post.page === 1) { %>
       <%- partial('archive-post', {post: post}) %>

@@ -1,15 +1,10 @@
-<article class="listing-item">
-  <header class="listing-header">
-    <h2 class="listing-title entry-title">
-      <a href="<%- config.root %><%- post.path %>" class="inherit" rel="bookmark">
-        <div class="img-container" title="<%= post.title %>" style="background-image: url('<%= post['listing-image'] %>')">
-          <img src="<%= post['listing-image'] %>" alt="<%= post.title %>" />
-        </div>
-        <%= post.title %>
-      </a>
+<article class="listing-item" style="background-image: url('<%= post['listing-image'] %>')">
+  <a href="<%- config.root %><%- post.path %>" class="listing-header" rel="bookmark">
+    <h2 class="listing-title">
+      <span class="entry-title"><%= post.title %></span><br />
+      <time datetime="<%= date_xml(post.date) %>" class="listing-date entry-date published dt-published" pubdate>
+        <%= date(post.date, 'MMM YYYY') %>
+      </time>
     </h2>
-  </header>
-  <div class="entry-summary">
-    <%= post.excerpt %>
-  </div>
+  </a>
 </article>

@@ -271,7 +271,7 @@ body {
   font-size: 1em;
   line-height: 1.5em;  /* 16px/24px default */
   color: #fff;
-  background: #74c9e9; /*#678861;*/
+  background: #666; /*#74c9e9;*/ /*#678861;*/
 }
 
 body, textarea, .sans {
@@ -380,10 +380,6 @@ a.inherit {
   height: 60px;
 }
 
-.top-bar-home {
-  height: 20px;
-}
-
 .masthead a {
   text-decoration: none;
 }
@@ -426,56 +422,54 @@ a.inherit {
    Listing
    ========================================================================== */
 
+.listing {
+  border-top: 10px solid rgba(0,0,0,0.25);
+  border-bottom: 10px solid rgba(0,0,0,0.25);
+  background: rgba(0,0,0,0.25);
+}
+
 .listing-title {
   font-size: 24px;
-  color: #000;
   line-height: 28px;
-  padding: 18px 0;
+  padding: 36px 20px;
 }
 
 .listing-item {
-  padding: 24px 20px;
-  background: #fff;
-  color: #666;
-  text-shadow: none;
-  border-radius: 0;
-  position: relative;
-  padding-right: 520px;
-  padding-top: 12px;
-  overflow: hidden;
-  min-height: 250px;
-}
-
-.listing-item:first-child {
-  border-radius: 7px 7px 0 0;
-}
-
-.listing-item:last-of-type {
-  border-radius: 0 0 7px 7px;
+  width: 50%;
+  float: left;
+  text-align: center;
+  background-size: cover;
+  height: 340px;
 }
 
 .listing-header {
-  font-size: 36px;
-  margin-bottom: 12px;
-  line-height: 48px;
-  border-bottom: 5px dotted #ddd;
+  display: table;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(transparent, rgba(0,0,0,0.1), rgba(0,0,0,0.6), rgba(0,0,0,0.9));
+  text-decoration: none;
 }
 
-.listing .img-container {
-  position: absolute;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  width: 494px;
-  box-shadow: inset rgba(0,0,0,0.3) 2px 0 3px;
+.listing-header:hover {
+  text-decoration: none;
 }
 
-.listing-item:first-child .img-container {
-  border-radius: 0 7px 0 0;
+.listing-title {
+  display: table-cell;
+  vertical-align: bottom;
+  text-align: center;
+  color: #fff;
+  text-shadow: #000 0 2px 0;
+  opacity: 1;
 }
 
-.listing-item:last-of-type .img-container {
-  border-radius: 0 0 7px 0;
+.listing-header:hover .entry-title {
+  text-decoration: underline;
+}
+
+.listing-date {
+  font-size: 18px;
+  font-weight: normal;
 }
 
 .post-pages {
@@ -527,6 +521,7 @@ article h1 {
   border-bottom-color: rgba(255,255,255,0.5);
   text-align: center;
   margin-bottom: 48px;
+  padding-top: 24px;
 }
 
 .single-entry-content {
