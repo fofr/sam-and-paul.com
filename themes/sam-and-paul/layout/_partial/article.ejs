@@ -3,12 +3,12 @@
     <h1 class="main-content-title single-title entry-title">
       <%= post.title %>
     </h1>
+    <div class="meta" role="contentinfo">
+      <%- partial('post/published') %>
+      <%- partial('post/nav') %>
+    </div>
   </header>
   <%- partial('post/pages', {pageClass: 'pages-top'}) %>
-  <div class="meta" role="contentinfo">
-    <%- partial('post/published') %>
-    <%- partial('post/nav') %>
-  </div>
   <div class="single-entry-content entry-content e-content">
     <%- post.content %>
     <%- partial('post/page-nav') %>

@@ -552,7 +552,7 @@ article h1 {
 }
 
 /* Pages nestled on top of content */
-.pages + .meta + .single-entry-content {
+.pages + .single-entry-content {
   border-radius: 0;
 }
 
@@ -572,10 +572,10 @@ article h1 {
 }
 
 article .meta {
-  position: absolute;
-  text-align: right;
-  left: 10px;
-  width: 140px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 48px;
 }
 
 article .meta time {
@@ -688,7 +688,7 @@ article nav li {
 }
 
 /* … but not when there are pages */
-.pages + .meta + .single-entry-content > .generated-figure:first-child img {
+.pages + .single-entry-content > .generated-figure:first-child img {
   border-radius: 0;
 }
 
