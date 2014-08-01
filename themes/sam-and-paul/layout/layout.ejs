@@ -4,9 +4,26 @@
   <%- partial('_partial/head') %>
 </head>
 <body>
-  <% background = typeof page.background === "undefined" ? '/images/backgrounds/borneo-007.jpg' : page.background %>
-  <div class="blurred-background" style="background-image: url('<%= background %>');">
-  </div>
+  <% backgroundBase = '/images/backgrounds/blurred/'; %>
+  <% if (is_post()) { %>
+    <% background = backgroundBase + page.slug.replace('/', '-') + '.jpg' %>
+  <% } else if (page.posts) { %>
+    <%
+      background = null;
+      page.posts.each(function(i) {
+        if (background === null &&
+            (typeof i.page === "undefined" || i.page === 1)
+           ) {
+          background = backgroundBase + i.slug.replace('/', '-') + '.jpg'
+        }
+      });
+    %>
+  <% } %>
+  <% if (typeof background === "string") { %>
+    <div class="blurred-background" style="background-image: url('<%= background %>');">
+    </div>
+  <% } %>
+
   <%
    wrapperClass = "page-wrapper hfeed";
    if (is_home()) {

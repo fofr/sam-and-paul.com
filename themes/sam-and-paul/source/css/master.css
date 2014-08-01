@@ -520,6 +520,10 @@ a.inherit {
   bottom: 0;
   left: 0;
   background-size: cover;
+  /*
+    Images are pre-processed, but when testing image
+    suitability this filter is helpful.
+  */
   /* -webkit-filter: blur(10px); */
   opacity: 0.8;
   z-index: -1;
