@@ -1,12 +1,11 @@
-<!DOCTYPE html>
-<html lang="en" id="paulrhayes-com" class="no-js">
+<!doctype html>
+<html lang="en" id="sam-and-paul-com">
 <head>
   <%- partial('_partial/head') %>
 </head>
 <body>
-  <% backgroundBase = '/images/backgrounds/blurred/'; %>
   <% if (is_post()) { %>
-    <% background = backgroundBase + page.slug.replace('/', '-') + '.jpg' %>
+    <% background = '/images/backgrounds/blurred/' + page.slug.replace('/', '-') + '.jpg' %>
     <div class="blurred-background" style="background-image: url('<%= background %>');">
     </div>
   <% } %>
