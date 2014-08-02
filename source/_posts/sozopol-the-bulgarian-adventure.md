@@ -1,4 +1,4 @@
-title: 'Sozopol, the Bulgarian adventure'
+title: 'Sozopol, Bulgaria'
 listing-image: /images/sozopol/DSC03757.JPG
 tags:
   - bulgaria
