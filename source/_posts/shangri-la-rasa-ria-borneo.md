@@ -24,13 +24,10 @@ The reception is enormous, and filled with lounging guests in flip-flops. It loo
 
 At Coast, one of the many restaurants on site, it was Lobster night and that won Sam’s vote. The decor is an “under the sea” design, with deep blue lighting and enormous jellyfish lights over the bar. We celebrated an early anniversary dinner with Italian prosecco (then a chardonnay, a sauvignon-blanc and a rosatello), and Sam had the delicious tail of lobster special (which cost about the same as everything else combined).
 
-<div class="menu">
-
-### Menu
-
-*   maguro tuna tartare (crispy tofu sheet . seaweed . daikon . orange . semi dried tomato . soy lime emulsion)
-*   poached farm egg (cinnamon dust . local spinach . braised leek . asparagus . grilled ciabatta . cauliflower veloute)
-*   seared duck breast (jerusalem artichoke puree . pineapple chutney . pickled onion . crispy potato . orange jus)
-</div>
+{% menu %}
+* maguro tuna tartare (crispy tofu sheet . seaweed . daikon . orange . semi dried tomato . soy lime emulsion)
+* poached farm egg (cinnamon dust . local spinach . braised leek . asparagus . grilled ciabatta . cauliflower veloute)
+* seared duck breast (jerusalem artichoke puree . pineapple chutney . pickled onion . crispy potato . orange jus)
+{% endmenu %}
 
 <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--portrait">[![Jellyfish lights at Coast](http://host.trivialbeing.org/up/1240/kota-kinabalu-005.jpg)](http://host.trivialbeing.org/up/kota-kinabalu-005.jpg)<figcaption class="generated-figure-caption">Jellyfish lights at Coast</figcaption></figure>

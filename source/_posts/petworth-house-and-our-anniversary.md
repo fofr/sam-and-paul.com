@@ -42,16 +42,13 @@ In the wake of the much hotter, sunnier and blue skied Sunday, we relaxed on our
 
 To celebrate our 7th anniversary we went to the Michelin recommended “Riddle and Finns” champagne and oyster bar, in the lanes. On the high seated stone tables, with a bottle of sauvignon blanc between us, we ordered…
 
-<div class="menu">
-
-### Menu
-
-*   Bread, mackerel pate and condiments
-*   New England clam chowder
-*   Seared tiger prawns with a teriyaki & sesame glaze
-*   Sea bream with salad and sautéed potatoes
-*   Smoked haddock fillet with colcannon, poached egg, prosciutto & a champagne sauce
-</div>
+{% menu %}
+* Bread, mackerel pate and condiments
+* New England clam chowder
+* Seared tiger prawns with a teriyaki & sesame glaze
+* Sea bream with salad and sautéed potatoes
+* Smoked haddock fillet with colcannon, poached egg, prosciutto & a champagne sauce
+{% endmenu %}
 
 Yum, yum, yum. We will surely attempt to recreate the tiger prawn dish ourselves, and this was the first fish complete with head and tailed I’ve had the pleasure of eating in England.
 

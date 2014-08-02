@@ -31,15 +31,10 @@ We’re staying in Hotel Sol Ixent, a new build 20mins out of town. The “Gala�
 Lugging the suitcases across town was thirsty business and we gambled with the hotel restaurant on the first night. Sam had swotted up on some culture beforehand, and pre-meal she shared her knowledge, “We keep our cutlery for all courses and we have to pay for bread, water and olives”, “Most places serve Paella but few use Saffron”.
 
 Our menu choices were conservative:
-<div class="menu">
-
-### Menu
-
-<ul>
-<li>Bread and olives</li>
-<li>Beef escalope with wild mushrooms, butternut squash and hazelnut sauce</li>
-<li>Pork with potato (it was really good).</li>
-<ul>
-</div>
+{% menu %}
+* Bread and olives
+* Beef escalope with wild mushrooms, butternut squash and hazelnut sauce
+* Pork with potato (it was really good)
+{% endmenu %}
 
 Until now I hadn’t been particular to mushrooms, their slimy texture and shrink when you cook ‘em nature rarely appealed. These were different, they were wild, fresh, and I was addicted. (Addicted to ‘shrooms on the first day of the holiday? whatever next!)

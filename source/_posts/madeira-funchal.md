@@ -41,15 +41,12 @@ Acquainted and unpacked we headed into Funchal for our first night, albeit a lit
 
 Unaware that portions here were gargantuan, we ordered mains and starters and ploughed into a garlic bread that could have served four. One of Madeira’s many specialties is Skabbard (Espada), a deep sea fish caught in only a few places worldwide, it is served with locally grown banana and passion fruit. The sweet fishy combination is particularly tasty. And every meal seems to come with potatoes and boiled vegetables, whether its appropriate or not.
 
-<div class="menu">
-
-### Menu
-
-*   Fish soup served in bread
-*   Local meat soup
-*   Skabbard with banana and passion fruit, served with boiled potatoes and vegetables.
-*   Deer with a red wine sauce, mushrooms and a red bean and rice stew
-</div>
+{% menu %}
+* Fish soup served in bread
+* Local meat soup
+* Skabbard with banana and passion fruit, served with boiled potatoes and vegetables.
+* Deer with a red wine sauce, mushrooms and a red bean and rice stew
+{% endmenu %}
 
 [![](http://host.trivialbeing.org/up/small/madeira-003-chalet-vicente-fish-soup.jpg)](http://host.trivialbeing.org/up/madeira-003-chalet-vicente-fish-soup.jpg)
 

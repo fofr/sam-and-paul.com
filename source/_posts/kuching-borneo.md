@@ -33,14 +33,11 @@ From the waterfront promenade we found new chinatown and the main bazaar. T-shir
 
 For dinner we felt adventurous, looking for some authentic and radical local cuisine. Dyak seemed perfect, it specialises in traditional Dayak recipes — concoctions of flavours with fresh rainforest vegetables that are unheard of. Dayak is a collective term for the indigenous tribesfolk of Borneo. Photos of tribes and traditional tribal acts adorned the walls, alongside oil paintings and peculiar spiralling murals. We started by knocking back a shot of Tuak Indu each, a local fortified rice wine. We weren’t sure how much to order, but dishes were cheap, so we ended up with much more than we could eat but with a bit of everything we wanted.
 
-<div class="menu">
-
-### Menu
-
-*   Paku kubok (Giant jungle ferns — midin, stir fried with wild ginger flowers, anchovies and chillies)
-*   Tilapia gulai terung dayak asam terjun (Spicy tilapia soup — with fish head, and orange egg-plant)
-*   Ulam raja (Shallots, wild ginger flower, ginger, lemongrass, lots of chillies, anchovies, lime)
-</div>
+{% menu %}
+* Paku kubok (Giant jungle ferns — midin, stir fried with wild ginger flowers, anchovies and chillies)
+* Tilapia gulai terung dayak asam terjun (Spicy tilapia soup — with fish head, and orange egg-plant)
+* Ulam raja (Shallots, wild ginger flower, ginger, lemongrass, lots of chillies, anchovies, lime)
+{% endmenu %}
 
 The curly jungle ferns tasted odd, both fresh and pithy. Wild ginger flower is quite delicious.
 
