@@ -53,17 +53,14 @@ By the Picasso museum we stopped at the BCN design hub, dHUB, for their free wal
 
 Our hotel sat very close to the excellent and widely recommended tapas bar and restaurant, Cerveceria Catalana, which I can neither spell nor pronounce. It is always busy. You can either sit at a table, with a menu, and order dishes as and when you please, or more excitingly, sit at the bar where all the freshly prepared food is laid out in front of you. Then you just point, and keep eating and ordering until your bellies are full or your wallets empty. On this occasion we did a bit of both, while waiting for our table we ordered from the seafood bar; yummy razor clams in garlic, before going to our table. Plate after plate kept coming, as we drank our jug of Sangria. The fried baby squids, complete with cute tentacles, were delicious, not to mention the date, bacon and cheese flute, that I managed to get Sam tasting AND liking.
 
-<div class="menu">
-
-### Menu
-
-*   Razor clams
-*   Fuet sausage
-*   Fried baby squids
-*   Bacon, cheese and date flute
-*   Sangria
-*   Mushrooms and potatoes
-</div>
+{% menu %}
+* Razor clams
+* Fuet sausage
+* Fried baby squids
+* Bacon, cheese and date flute
+* Sangria
+* Mushrooms and potatoes
+{% endmenu /%}
 
 [![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-161.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-161.jpg)
 
