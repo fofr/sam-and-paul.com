@@ -9,7 +9,7 @@ tags:
   - vulcano
 id: 86
 categories:
-  - Holidays
+  - holidays
 date: 2013-08-03 10:26:51
 pages: 7
 page: 1

@@ -2,7 +2,7 @@ title: 'The Great Escape 2011'
 listing-image: http://host.trivialbeing.org/up/small/great-escape-braids.jpeg
 id: 43
 categories:
-  - Music
+  - music
 date: 2011-06-26 19:54:21
 pages: 3
 page: 1

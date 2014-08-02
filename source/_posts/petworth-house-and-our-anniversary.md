@@ -8,7 +8,7 @@ tags:
   - petworth
 id: 27
 categories:
-  - Life
+  - life
 date: 2010-10-18 08:12:44
 ---
 

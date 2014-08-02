@@ -10,7 +10,7 @@ tags:
   - honeymoon
 id: 16
 categories:
-  - Holidays
+  - holidays
 date: 2010-06-10 18:31:53
 pages: 2
 page: 1

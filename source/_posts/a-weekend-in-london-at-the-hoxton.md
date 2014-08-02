@@ -7,8 +7,8 @@ tags:
   - rain-man
 id: 5
 categories:
-  - Holidays
-  - Theatre
+  - holidays
+  - theatre
 date: 2008-10-20 14:21:15
 ---
 

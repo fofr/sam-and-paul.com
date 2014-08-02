@@ -9,7 +9,7 @@ tags:
   - nice
 id: 9
 categories:
-  - Holidays
+  - holidays
 date: 2005-04-13 09:01:47
 ---
 

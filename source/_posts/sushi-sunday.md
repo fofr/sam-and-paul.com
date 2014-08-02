@@ -6,7 +6,7 @@ tags:
   - sushi
 id: 20
 categories:
-  - Food
+  - food
 date: 2010-07-20 16:47:09
 ---
 

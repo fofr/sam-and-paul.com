@@ -8,8 +8,8 @@ tags:
   - worthing
 id: 34
 categories:
-  - Life
-  - Theatre
+  - life
+  - theatre
 date: 2011-03-10 23:57:07
 ---
 

@@ -7,7 +7,7 @@ tags:
   - utah
 id: 6
 categories:
-  - Holidays
+  - holidays
 date: 2008-10-19 16:56:12
 ---
 

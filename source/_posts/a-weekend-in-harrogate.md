@@ -2,7 +2,7 @@ title: 'A weekend in Harrogate'
 listing-image: http://host.trivialbeing.org/up/small/harrogate-038.jpg
 id: 58
 categories:
-  - Holidays
+  - holidays
 date: 2012-04-07 12:50:45
 tags:
 pages: 3

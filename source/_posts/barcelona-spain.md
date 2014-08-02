@@ -7,7 +7,7 @@ tags:
   - spain
 id: 26
 categories:
-  - Holidays
+  - holidays
 date: 2010-10-13 08:47:06
 pages: 5
 page: 1

@@ -7,7 +7,7 @@ tags:
   - vietnam
 id: 74
 categories:
-  - Holidays
+  - holidays
 date: 2012-12-05 09:19:15
 pages: 6
 page: 1

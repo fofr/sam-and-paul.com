@@ -7,8 +7,8 @@ tags:
   - wolseley
 id: 29
 categories:
-  - Cinema
-  - Life
+  - cinema
+  - life
 date: 2011-02-24 20:16:10
 ---
 

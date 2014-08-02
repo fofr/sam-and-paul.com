@@ -6,9 +6,9 @@ tags:
   - thai
 id: 31
 categories:
-  - Food
-  - Life
-  - Theatre
+  - food
+  - life
+  - theatre
 date: 2011-02-25 20:33:56
 ---
 

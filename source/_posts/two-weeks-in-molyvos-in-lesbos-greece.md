@@ -7,7 +7,7 @@ tags:
   - molyvos
 id: 3
 categories:
-  - Holidays
+  - holidays
 date: 2008-09-11 22:14:08
 pages: 5
 page: 1

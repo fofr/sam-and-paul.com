@@ -10,7 +10,7 @@ tags:
   - wildlife
 id: 93
 categories:
-  - Holidays
+  - holidays
 date: 2014-05-20 10:45:06
 pages: 5
 page: 1

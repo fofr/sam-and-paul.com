@@ -6,7 +6,7 @@ tags:
   - 'great escape'
 id: 60
 categories:
-  - Music
+  - music
 date: 2012-06-10 00:33:07
 pages: 4
 page: 1

@@ -7,7 +7,7 @@ tags:
   - thailand
 id: 15
 categories:
-  - Holidays
+  - holidays
 date: 2010-06-10 18:32:17
 pages: 9
 page: 1

@@ -9,8 +9,8 @@ tags:
   - 'v and a'
 id: 79
 categories:
-  - Cinema
-  - Life
+  - cinema
+  - life
 date: 2013-02-10 18:31:41
 pages: 2
 page: 1

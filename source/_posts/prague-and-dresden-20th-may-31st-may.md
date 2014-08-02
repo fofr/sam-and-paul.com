@@ -9,7 +9,7 @@ tags:
   - prague
 id: 12
 categories:
-  - Holidays
+  - holidays
 date: 2009-06-28 20:36:12
 pages: 5
 page: 1

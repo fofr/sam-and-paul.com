@@ -7,7 +7,7 @@ tags:
   - south-america
 id: 48
 categories:
-  - Holidays
+  - holidays
 date: 2011-12-01 10:52:10
 pages: 4
 page: 1

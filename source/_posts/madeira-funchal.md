@@ -11,7 +11,7 @@ tags:
   - walks
 id: 39
 categories:
-  - Holidays
+  - holidays
 date: 2011-05-18 22:07:03
 pages: 8
 page: 1

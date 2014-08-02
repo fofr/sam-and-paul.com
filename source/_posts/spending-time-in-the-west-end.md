@@ -11,7 +11,7 @@ tags:
   - zorro
 id: 10
 categories:
-  - Theatre
+  - theatre
 date: 2008-11-09 19:04:14
 ---
 

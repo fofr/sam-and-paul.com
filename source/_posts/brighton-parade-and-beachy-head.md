@@ -7,7 +7,7 @@ tags:
   - up-in-the-air
 id: 23
 categories:
-  - Life
+  - life
 date: 2010-08-09 18:39:15
 ---
 

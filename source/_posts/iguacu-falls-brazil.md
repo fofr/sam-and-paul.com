@@ -11,7 +11,7 @@ tags:
   - waterfall
 id: 49
 categories:
-  - Holidays
+  - holidays
 date: 2011-12-01 13:33:50
 pages: 3
 page: 1

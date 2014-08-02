@@ -7,7 +7,7 @@ tags:
   - old-vic
 id: 19
 categories:
-  - Theatre
+  - theatre
 date: 2010-07-09 08:57:45
 ---
 

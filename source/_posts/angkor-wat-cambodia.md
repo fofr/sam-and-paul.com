@@ -7,7 +7,7 @@ tags:
   - temple
 id: 76
 categories:
-  - Holidays
+  - holidays
 date: 2012-12-22 14:22:12
 pages: 6
 page: 1

@@ -6,7 +6,7 @@ tags:
   - sozopol
 id: 7
 categories:
-  - Holidays
+  - holidays
 date: 2006-10-03 15:13:56
 pages: 3
 page: 1

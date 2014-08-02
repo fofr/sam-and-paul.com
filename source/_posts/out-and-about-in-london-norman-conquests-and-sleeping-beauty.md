@@ -8,7 +8,7 @@ tags:
   - sleeping-beauty
 id: 11
 categories:
-  - Theatre
+  - theatre
 date: 2009-01-08 16:54:22
 ---
 

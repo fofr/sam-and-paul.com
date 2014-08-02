@@ -13,7 +13,7 @@ tags:
   - volleyball
 id: 66
 categories:
-  - Life
+  - life
 date: 2012-08-24 15:21:26
 pages: 9
 page: 1

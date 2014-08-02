@@ -9,7 +9,7 @@ tags:
   - thailand
 id: 14
 categories:
-  - Holidays
+  - holidays
 date: 2010-06-10 18:32:59
 pages: 7
 page: 1

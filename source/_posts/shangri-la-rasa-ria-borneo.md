@@ -7,7 +7,7 @@ tags:
   - malaysia
 id: 92
 categories:
-  - Holidays
+  - holidays
 date: 2014-05-19 21:56:59
 pages: 5
 page: 1

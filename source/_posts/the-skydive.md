@@ -6,7 +6,7 @@ tags:
   - sports
 id: 62
 categories:
-  - Life
+  - life
 date: 2012-07-30 21:18:33
 ---
 

@@ -9,8 +9,8 @@ tags:
   - theatre-royal
 id: 22
 categories:
-  - Cinema
-  - Theatre
+  - cinema
+  - theatre
 date: 2010-07-30 20:46:40
 ---
 
