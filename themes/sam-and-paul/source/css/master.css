@@ -337,7 +337,7 @@ a.inherit {
 }
 
 .blog-title {
-  margin-top: 36px;
+  margin: 72px auto 36px;
   position: relative;
 }
 
