@@ -563,7 +563,7 @@ article h1 {
   color: #333;
 }
 
-.single-entry-content h3 {
+.single-entry-content h2 {
   margin: 48px 0 24px;
   font-size: 24px;
   color: #000;
@@ -715,7 +715,9 @@ article nav li {
 }
 
 .menu .menu-header {
-  margin-top: 0;
+  margin: 0 0 24px;
+  font-size: 24px;
+  color: #000;
 }
 
 .menu ol,

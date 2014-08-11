@@ -21,7 +21,7 @@ Living in St Albans I've recently taken the opportunity to see as much theatre a
 
 <!--more-->
 
-### Les Miserables
+## Les Miserables
 
 I've long been a great hater of musicals that sing every. single. word. ♫ I'm going to get the milk ♫, that sort of thing. By that logic I should absolutely despise Les Mis', listening to the songs briefly beforehand certainly suggested I would. Our seats were upper circle front row, I'd bought them with my sister for my mum's birthday; we had a good view and I sat back unsure what to expect, 'Look Down and see'.
 
@@ -29,7 +29,7 @@ Ahead of me the stories of Valjean, Fantine, Javert, Cosette, Eponine et al unfo
 
 I left wanting more.
 
-### Marguerite
+## Marguerite
 
 ![](http://host.trivialbeing.org/up/mrfofr-20081109-marguerite.jpg)
 
@@ -37,7 +37,7 @@ I had already seen Miss Saigon, although I do believe it wasn't one of the best 
 
 The show, music and performances were all bitterly disappointing; the leading singing male came across as an over zealous stereotypical stage fella for which we did not emote. It was all a little lackluster, and no doubt others agreed - leading to the shows premature end in September. Luckily an overly chirpy and entertaining train conductor kept us happy on the way home; if only they were all as happy as him.
 
-### Fat Pig
+## Fat Pig
 
 ![](http://host.trivialbeing.org/up/mrfofr-20081109-fat-pig.jpg)
 
@@ -47,13 +47,13 @@ Jo, Sam and I saw Fat Pig in its first English incarnation at the Trafalgar stud
 
 I heartily recommend this, though cannot vouch for the new lineup or venue.
 
-### 39 Steps
+## 39 Steps
 
 ![](http://host.trivialbeing.org/up/mrfofr-20080911-39steps-1.jpg)
 
 Another comedy, we got tickets cheap for this one in the stalls, and thought why not. None of us had actually seen the movie, so we didn't know quite what to expect, especially with only four cast members playing the role of many. It turned out to be a slapstick affair with very clever prop jokes, costume changes and role switching; a good laugh and another recommended night out.
 
-### Avenue Q
+## Avenue Q
 
 ![](http://host.trivialbeing.org/up/mrfofr-20080911-avenue-q-london.jpg)
 
@@ -63,7 +63,7 @@ Sam and I saw this one on our weekend to the [Hoxton Hotel](http://www.mrfofr.co
 
 This adult puppet comedy, although making us laugh, really didn't grab us as we had thought and hoped it might. A tad disappointing, it might have been the understudies but probably just all the hype surrounding it.
 
-### Rain Man
+## Rain Man
 
 ![](http://host.trivialbeing.org/up/mrfofr-20080911-rainman.jpg)
 
@@ -73,7 +73,7 @@ Another performance caught on the Hoxton weekend, lucky enough to get tickets on
 
 It is very much a love story, a comedy and a drama. I must remember to now watch the movie (adding to my LoveFilm list). I'm not sure how we would have reacted to it had we seen the movie. To no surprise, a large proportion of the audience were female. I do agree that Hartnett is a stud, even in _The Black Dahlia_ with its stellar cast, which I caught last night, a poor attempt at a film noir.
 
-### Zorro
+## Zorro
 
 [![](http://host.trivialbeing.org/up/small/mrfofr-20080911-zorro.jpg)](http://host.trivialbeing.org/up/mrfofr-20080911-zorro.jpg)
 

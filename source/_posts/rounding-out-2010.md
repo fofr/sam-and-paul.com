@@ -14,7 +14,7 @@ date: 2011-02-24 20:16:10
 
 We closed 2010 with a film festival, some fine dining at The Wolseley, a wildlife photography exhibit and a week of gorging turkey and trimmings over Christmas.
 
-### Cinecity Film festival
+## Cinecity Film festival
 
 In November Brighton had its very own film festival, which duly lead us to our favourite movie-place, the Duke of Yorks, for a number of fantastic movies. The festival opened with a packed out screening of The King’s Speech, with complimentary Jamesons’ ginger beer cocktail (oddly tasty) and homemade carrot cake. Colin Firth’s performance was  astounding.
 
@@ -30,7 +30,7 @@ In between these screenings, our small screen viewings also stood out. “An Edu
 
 <!--more-->
 
-### The Wolseley
+## The Wolseley
 
 As a birthday treat I took Sam to the luxurious Wolseley in London where we enjoyed the finest Champagne tea, our own small slice of decadence. Champagne tea? Crustless and exquisite finger sandwiches, perfect pastries, homemade scones and jam (specially made without fruit by request - there’s nothing Sam likes less than raisins in her scones!), two pots of tea (the Wolesely afternoon blend and Sam’s favourite, Assam), and a glass of Pommery Brut Royal NV each. That’s one of Timeout’s 1000 things to do in London crossed out.
 
@@ -48,7 +48,7 @@ As an aspiring photographer, I left wanting to travel, to build my own hide and 
 
 [![](http://host.trivialbeing.org/up/small/wildlife-of-the-year-2010-langurs.jpeg)](http://host.trivialbeing.org/up/wildlife-of-the-year-2010-langurs.jpeg)
 
-### Christmas
+## Christmas
 
 [![](http://host.trivialbeing.org/up/small/xmas-2010-biscotti-tree.jpg)](http://host.trivialbeing.org/up/xmas-2010-biscotti-tree.jpg)
 

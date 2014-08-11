@@ -50,7 +50,7 @@ Worth every penny.
 
 [![](http://host.trivialbeing.org/up/small/fofr-20090108-fire-and-stone.JPG)](http://host.trivialbeing.org/up/fofr-20090108-fire-and-stone.JPG)
 
-### The Ballet
+## The Ballet
 
 The next big venture into London for Sam and I was to the Coliseum to see the English National Ballet performing Sleeping Beauty; my first foray into the world of ballet and dance. Approaching the night sleepified and docile, I wasn't looking forward to the three hour performance despite pepping up with a home-made burger from a nearby Moroccan place off Leicester Square.  
 

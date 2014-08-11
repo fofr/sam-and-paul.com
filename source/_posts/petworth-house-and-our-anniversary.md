@@ -52,7 +52,7 @@ To celebrate our 7th anniversary we went to the Michelin recommended “Riddle a
 
 Yum, yum, yum. We will surely attempt to recreate the tiger prawn dish ourselves, and this was the first fish complete with head and tailed I’ve had the pleasure of eating in England.
 
-### Lacock
+## Lacock
 
 Whilst Sam was away in Bath at Sally Nun’s for the baby shower, my sister and I stopped off at the village of Lacock, on the way to Bristol, near Chippenham. It’s here they filmed “Lark Rise to Candleford” and a number of scenes in the Harry Potter films.
 

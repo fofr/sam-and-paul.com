@@ -23,7 +23,7 @@ Before going in we were accosted by video interviewing hipsters from some new me
 
 With second row, royal circle seats we had a perfect view. And in a very hot, humid theatre, the play opened to a stuffy July night in New York, with Mel moaning about the heat...
 
-### Synopsis
+## Synopsis
 
 > Mel Edison (Jeff Goldblum) can't sleep. In the heat of a New York City summer his air-conditioning has broken, his neighbours won't shut-up, his job is hanging by a thread and there are a gang of burglars on the prowl. As things go from bad to worse, Mel heads for a meltdown and his loyal wife Edna (Mercedes Ruehl) is left to pick up the pieces.
 

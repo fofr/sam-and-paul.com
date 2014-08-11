@@ -17,7 +17,7 @@ Taking a break from planning a holiday, or stressful thoughts about buying a fla
 
 <!--more-->
 
-### Lancing
+## Lancing
 
 As a break from all the holiday planning and house hunting, we took a Sunday drive along the coast, from Brighton, West to Lancing and Worthing.
 
@@ -37,7 +37,7 @@ Post-photography and tuna mayo sandwiches, we drove West, along the coast, into 
 
 The tide was out and where the pebbles stopped we found sand! Sand! Who’d have thought there’d be sand here! Birds nibbled at sea creatures as the sun began to dip. We bought a fresh flat fish from the fisherman and, back at home in Brighton, made homemade fish and chips as the sun, a glowing ball of red, dipped behind Worthing in the distance.
 
-### In a forest dark and deep
+## In a forest dark and deep
 
 A long time ago, when Sam had a little more free time, she signed up to numerous theatre newsletters, the emails keep coming. One such email included bargainous deals to see Neil LaBute’s new play, world premiering at the Vaudeville, “In a forest dark and deep”. Starring Matthew Fox (Lost) and Olivia Williams (Dollhouse) as sibling rivals in a dark comedy. The kicker? An invite to a post-show Q & A session with Matthew, Olivia and Neil.
 
@@ -51,7 +51,7 @@ The Q & A gave us a fascinating insight into the ongoing work at the early stage
 
 In a very English accent, this was thoroughly enjoyable.
 
-### Albannach Whisky Flight
+## Albannach Whisky Flight
 
 I’ve never been into Whisky, probably because I’m young and just hadn’t given it a chance. I missed the last Whisky outing some friends organised, so I wasn’t going to miss this one. At the Albannach, with its Scottish menu and antler themed interior, we sat in candlelight, Trafalgar Square just outside the window.
 

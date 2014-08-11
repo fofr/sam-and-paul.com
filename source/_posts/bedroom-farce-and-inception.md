@@ -30,7 +30,7 @@ Last night's "Bedroom Farce" was a very similar affair to the "Norman Conquests"
 
 I couldn't help but repeat "Rex Manning day" in my head whenever Maxwell was performing (watch Empire Records if you haven't already), though Sam was more elated by his prior appearance in Grease 2.
 
-### Synopsis
+## Synopsis
 
 > Bedroom farce is centred on three double beds and four couples. An opportunity for a bit of bed hopping you might think but not in that sense. The mature couple expertly portrayed by Juliet Mills (sounding for all the world like the ageing Katherine Hepburn) and Bruce Montague were cruising through their latter bedroom years when interrupted by the spectre of “bed issues” suffered by their intense son Trevor (Oliver Boot,) and his neurotic wife Samantha played by Natasha Alderslade.>
 > This couple on the verge of a comically violent break up managed to disrupt the love nest of Kate, (the impressive Julia Mallam) and Malcolm, played by Ayden Callaghan and the tension behind the relationship of Jan (Clare Wilkie) and Nick (Maxwell Caulfield.)

@@ -18,7 +18,7 @@ We’ve only been able to see each other at the weekend, or an occasional midwee
 
 <!--more-->
 
-### Birthday
+## Birthday
 
 This year felt like a double birthday. On Tuesday, the day before, Sam treated me to a homemade birthday meal and we watched The Social Network on my little laptop screen. Then, come the big day, a fried breakfast in Guildford, fresh croissants in the office, lunch at  Asadal (a Korean restaurant), and an evening meal at Blenio’s in Brighton. Scrumptious scrumptious pear and gruyere salad. Somewhere in all that was a singing Cliff Richard card, almost certainly the highlight!
 
@@ -26,7 +26,7 @@ Come Thursday it was my last day at TSL, and with it came cake, presents and a p
 
 [![](http://host.trivialbeing.org/up/small/IMG_2911.JPG)](http://host.trivialbeing.org/up/IMG_2911.JPG)
 
-### Out and about
+## Out and about
 
 Despite all this busy-ness, we’ve caught a couple of fantastic things at the cinema, and a not so great thing at the opera.
 
@@ -42,7 +42,7 @@ The King’s Speech was very good, but Black Swan took film-making to a whole ne
 
 We’d been hoping to see Keira Knightley in “Children’s Hour”, but evening and weekend tickets cost a small fortune. Aha! Such a trifle matter never thwarts Sam, and she took a troupe of trainee clinical biochemists to see a student-discounted Wednesday matinee. It was stellar, and my envy of them is only matched by my lethargy to book a single ticket for myself.
 
-### Board games in the pub
+## Board games in the pub
 
 Anyone that knows us well will know of our unhealthy board game obsession. A blue wardrobe in the bedroom is filled with a treasure trove of games. From Carcasonne and its expansions to an original ‘30s monopoly, we’ve been slowly building our collection with each birthday and Christmas.
 
@@ -50,7 +50,7 @@ And now we’re no longer confined to our living room. Friends at TSL spawned a 
 
 The Crown Tavern, near Farringdon station, is perfectly suited. The upstairs room dons large tables, is quieter, and even has an open fire. The food’s not bad either. So far we’ve only played Settlers, but I’m sure other games will feature.
 
-### A Thai feast
+## A Thai feast
 
 We’ve been meaning for Sam’s friends from Leicester to come down to Brighton for a while now, but the logistics never quite worked. At last we managed to get everyone together for a weekend of, dare I say, ‘authentic’, Thai cuisine.
 
