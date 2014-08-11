@@ -1,4 +1,4 @@
-title: 'Two weeks in Molyvos, Lesbos'
+title: 'Molyvos, Lesbos'
 listing-image: http://host.trivialbeing.org/up/small/molyvos-harbour.JPG
 tags:
   - europe

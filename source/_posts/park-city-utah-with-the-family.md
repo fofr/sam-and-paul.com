@@ -1,4 +1,4 @@
-title: 'Park City, Utah with the family'
+title: 'Park City, Utah'
 listing-image: http://host.trivialbeing.org/up/small/park-city-20081019-view-from-eatery-antelope-isle.JPG
 tags:
   - family
