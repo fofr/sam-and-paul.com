@@ -41,6 +41,16 @@
     <%- body %>
   </div>
   <%- partial('_partial/footer') %>
+  <!--[if lte IE 8]>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script>!window.jQuery && document.write('<script src="/js/jquery-1.11.1.min.js"><\/script>')</script>
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script>!window.jQuery && document.write('<script src="/js/jquery-2.1.1.min.js"><\/script>')</script>
+  <!--<![endif]-->
+  <script src="/js/mousetrap.min.js"></script>
+  <script src="/js/master.js?<%= config.site_build %>"></script>
   <script>var _gaq=[['_setAccount','UA-59763-16'],['_trackPageview']];(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;g.src='//www.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s)}(document,'script'))</script>
 </body>
 </html>

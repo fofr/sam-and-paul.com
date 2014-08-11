@@ -5,12 +5,12 @@
 %>
   <nav class="nextPage clearfix">
     <% if (post.page !== 1) { %>
-      <a href="<%- config.root %><%- pagePath %><% if (previousPage > 1) { %><%= previousPage %>/<% } %>">
+      <a href="<%- config.root %><%- pagePath %><% if (previousPage > 1) { %><%= previousPage %>/<% } %>" data-key="left">
         <span class="previous">&larr; Previous</span>
       </a>
     <% } %>
     <% if (post.page < post.pages) { %>
-      <a href="<%- config.root %><%- pagePath %><%= nextPage %>/">
+      <a href="<%- config.root %><%- pagePath %><%= nextPage %>/"  data-key="right">
         <span class="next">Next &rarr;</span>
       </a>
     <% } %>
