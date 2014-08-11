@@ -1,10 +1,10 @@
-<article class="listing-item" style="background-image: url('<%= post['listing-image'] %>')">
+<article class="listing-item">
   <a href="<%- config.root %><%- post.path %>" class="listing-header" rel="bookmark">
     <h2 class="listing-title">
-      <span class="entry-title"><%= post.title %></span><br />
       <time datetime="<%= date_xml(post.date) %>" class="listing-date entry-date published dt-published" pubdate>
         <%= date(post.date, 'MMM YYYY') %>
       </time>
+      <span class="entry-title"><%= post.title %></span>
     </h2>
   </a>
 </article>

@@ -8,6 +8,9 @@
     <% background = '/images/backgrounds/blurred/' + page.slug.replace('/', '-') + '.jpg' %>
     <div class="blurred-background" style="background-image: url('<%= background %>');">
     </div>
+  <% } else { %>
+    <div class="blurred-background" style="background-image: url('/images/backgrounds/blurred/kuching-borneo.jpg');">
+    </div>
   <% } %>
   <%
    wrapperClass = "page-wrapper hfeed";
