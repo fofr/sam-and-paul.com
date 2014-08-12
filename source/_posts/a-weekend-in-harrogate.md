@@ -13,6 +13,8 @@ At 6pm I left work to meet Samantha at Kings Cross station for our train to Harr
 
 We arrived at 10ish, and after a short wait because we'd been pressing the wrong bell, were shown to our room. Number 10, it was smart, quaint and comfortable, with a skylight over the bed.
 
+## Fountains Abbey
+
 Up promptly at 8:30am, we went down for breakfast and dutifully had our full English with coffee, toast and orange juice. At 10:30 we picked up the car and headed north west towards Ripon, specifically to Fountains Abbey, a national trust day out.
 
 With the last of our national trust wedding vouchers from Sam's aunt, we bought a yearlong membership and set about exploring the grounds. The bright sun made the grass glow green, the odd fluffy cloud dallying above us.
@@ -61,9 +63,13 @@ Further along, past all the pretty lakes and ponds, we came to the end of the gr
 
 Beyond the tended grounds the grass grew long and scattered with mole hills. We climbed up towards a nearby church before heading back round to the car. A full four hours of walking complete.
 
+## Ripon
+
 In the car we drove through the beautiful Yorkshire countryside to Ripon, stopping to peruse the local shops, grab a tasty homemade pork pie and explore the cathedral, complete with ancient crypt. We learnt the history of Ripon through knitted cushions adorning the church edge.
 
 [![](http://host.trivialbeing.org/up/small/harrogate-023.jpg)](http://host.trivialbeing.org/up/harrogate-023.jpg)
+
+## Orchid
 
 Back in Harrogate we set out for an evening meal. We discovered the Michelin recommended Orchid restaurant, serving a variety of Asian foods from Thailand, Korea, Hong Kong and Indonesia. Their cocktail menu was none too shabby. We sipped our alcoholic concoctions in smart leather seats, chop sticks poised and awaiting food.
 

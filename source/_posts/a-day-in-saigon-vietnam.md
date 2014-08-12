@@ -13,6 +13,8 @@ date: 2012-12-23 17:22:07
 
 Flying into Saigon, for the second time, but this time in daylight, it's clear Saigon is a much larger, modern city than Hanoi. We grabbed our bags and left them in a baggage room (for an extortionate fee), and then attempted to get a taxi into town without being ripped off. The tip: avoid taxis at arrivals, go up stairs to departures and grab a taxi that's just brought someone in.
 
+## The War Remnants museum
+
 The War Remnants museum please, formerly known as the museum of Chinese and American war crimes. We had lunch outside, at Nha Toi, very much a tourist restaurant with average but expensive food, but the Vietnamese iced coffee was nice.
 
 The museum itself is cheap to get in, only a $1\. Outside your heart races and the adrenaline kicks in as you explore old tanks, helicopters, jets and mounted guns. But once inside, you are numbed, and your heart breaks, as room after room, photo after photo, the museum exhibits the true atrocities and destruction of war. It's sickening, and you just want to cry.
@@ -32,6 +34,8 @@ The opposition to the war is strongly conveyed, a whole section of the museum is
 The most terrifying and depressing of all exhibits was the Agent Orange room. Large full coloured images showcase the continuing problems that use of Agent Orange (and other biological warfare) has caused in Vietnam; poisoned water supplies, poisoned food supplies and atrocious birth defects and deformities. I couldn't take it, and left to sit outside, pondering the point of all this while waiting for Samantha.
 
 <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![A room portraying the aftermath of Agent Orange attacks. Truly horrific.](http://host.trivialbeing.org/up/1240/saigon-hcmc-005.jpg)](http://host.trivialbeing.org/up/saigon-hcmc-005.jpg)<figcaption class="generated-figure-caption">A room portraying the aftermath of Agent Orange attacks. Truly horrific.</figcaption></figure>
+
+## Level 23 at the Sheraton
 
 Slightly numbed, but glad we visited this museum, we walked to the last item in our Saigon itinerary. It was pouring outside, but rather than get a taxi, we wanted to see more of the city, so we walked from the museum to Lam Son square and the Sheraton hotel, in our ponchos and sandals, buying some street-side waffles en-route.
 
