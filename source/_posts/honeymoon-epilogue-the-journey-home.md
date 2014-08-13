@@ -16,12 +16,13 @@ pages: 2
 page: 1
 ---
 
+## It was all going to plan
+
 Our journey home started without a hitch, up at 5:15am, packed, checked out and whisked to Chiang Mai airport via our transfer.
 
 After hanging around amongst thousands of mosquitos waiting for the check-in desk to open, we deposited our luggage and ate our packed breakfast - hearty tuna sandwiches. In the lounge we reminisced about our holiday, sad that it was all over.
 
 We took the 8:25am Air Asia flight to the familiar Suvarnabhumi airport in Bangkok, touching down an hour later.
-<!--more-->
 
 [![](http://host.trivialbeing.org/up/small/honeymoon-247.jpg)](http://host.trivialbeing.org/up/honeymoon-247.jpg)
 
@@ -29,9 +30,13 @@ One last pad thai and mango shake before we leave and then onto our 12:25pm flig
 
 In flight entertainment was lacking, without personal screens and only poorly positioned monitors, we avoided watching Avatar and instead amused ourselves, writing about the honeymoon, playing games and so-on.
 
+## The Ash Cloud
+
 An arduous ten hours later, about 45 minutes from home, the pilot informed us of some problems. Because of a volcano eruption in Iceland, and drifting ash, all English airports were closed. So we’re being diverted--first thought was Paris CDG, but now we’re landing in Frankfurt! Getting home will now be interesting!
 
 We made a big circle in the sky and back-tracked to Frankfurt, Germany. Landing at approx 7pm local time. Our first thoughts were for our wedding gift list, meant to be delivered at 7am the next morning, in Brighton. Calling around, our families were amazing - they’d sorted everything already and Amanda would be at the flat to pick everything up.
+
+## Stuck in Frankfurt
 
 The next task: getting home. Paris would have been easy - trains, ferries, etc., lots of options. Being another 600km away meant our options would be limited.
 

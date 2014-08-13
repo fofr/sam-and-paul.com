@@ -15,17 +15,19 @@ pages: 7
 page: 1
 ---
 
+## A secret honeymoon, beginning in Phuket
+
 After an overnight stay at the Heathrow IBIS, a bus to the terminal, check-in and an EAT steak sandwich, we were on our Thai Airways flight to Bangkok.
 
 The location of our honeymoon was kept a tight lipped secret until the last moments; Sam believed we were headed for Japan.
 
 [![](http://host.trivialbeing.org/up/small/honeymoon-36.jpg)](http://host.trivialbeing.org/up/honeymoon-36.jpg)
 
-<!--more-->
-
 The 10 hour flight passed smoothly, and I wrote up our wedding day, much like this. Connect 4, some films and food passed the time.
 
 At Bangkok we waited four hours for our connecting flight to Phuket. 12:30am our time, we were exhausted. Whilst queueing for immigration, the slowest moving queue ever, we spoke with a Korean man about life and travelling.
+
+## The Indigo Pearl
 
 The 1h30 Phuket flight felt instant, asleep on take off, awake on landing (with a bump). Enter the searing 38C tropical heat. Almost there, just one taxi ride and we were at our destination, the Indigo Pearl, Nai Yang.
 

@@ -12,6 +12,8 @@ pages: 5
 page: 1
 ---
 
+## Hoi An to Hue
+
 Travel day, we were heading to Hue (pronounced "who-A") from [Hoi An](/2012/12/hoi-an-vietnam/), and I was in travel mode. What does that mean? Well, my body basically shuts down and refuses to handle food or liquids until my subconscious is suitably calmed or distracted. I was clearly worried about getting to Hue, despite knowing we had our taxi booked, our luggage ready and our train tickets in hand.
 
 I left Sam to her own devices, she cycled into town to pick up her made to measure clothes. A dress (or two), a couple of tops, some shorts, some trousers and something secret she doesn't want me to know about. What did I do? A bit of packing, a bit of sleeping, not a lot really. I ran to breakfast and caught the last of the food as they were packing up.
@@ -28,6 +30,8 @@ The twelve train carriages snaked left and right, up and down the mountainside. 
 
 The trip took a couple of hours, and the train moved rather slowly. But the scenery more than made up for that.
 
+## La Residence hotel
+
 At Hue our four minute walk to our hotel, La Residence, was thwarted by a bridge no longer existing. From the looks of things it had fallen into the river and was being rebuilt. This confused us, and we walked, laden with backpacks and all that heavy newly bought clothing, a short way in the wrong direction.
 
 Passing locals with our backpacks, we were greeted with smiles, the occasional laugh and more often than not a look of bemusement. A taxi driver offered to help, but we knew it wouldn't be far, and we continued onwards, in the 35C evening heat. Sure enough the hotel was just around the corner, our own little diversion completed. We stumbled into the five star luxury hotel sweaty and panting. “Can we check in please?”
@@ -35,6 +39,8 @@ Passing locals with our backpacks, we were greeted with smiles, the occasional l
 Our room was a little smaller than before, and the wifi a little patchy, but we had a balcony overlooking Perfume River, and at twilight it really was quite beautiful. The enormous flag tower stands proudly in the distance, marking the entrance to both the citadel and the imperial city.
 
 <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Our room at La Residence](http://host.trivialbeing.org/up/1240/hue-307.jpg)](http://host.trivialbeing.org/up/hue-307.jpg)<figcaption class="generated-figure-caption">Our room at La Residence</figcaption></figure>
+
+##  Le Parfum restaurant
 
 Too exhausted to venture out into the heat, we chose to eat at the hotel's rather excellent restaurant, Le Parfum. We sat outside and listened to the crickets and frogs play their tunes.
 

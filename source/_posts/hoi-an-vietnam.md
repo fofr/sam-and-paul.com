@@ -12,13 +12,17 @@ pages: 3
 page: 1
 ---
 
+## Brighton to Hoi An
+
 To Vietnam, from Brighton. One train, three flights and a taxi transfer, over 24 hours. With Emirates, we flew from Gatwick to Dubai, we spotted the world's tallest building from the airport, and then on, to Saigon, and a very tight connection to Da Nang, which included our visa applications. We arrived in Hoi An, and our hotel, at midnight, and we relished a shower and a comfortable bed.
 
 <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Our comfortable bed at Life Heritage Resort](http://host.trivialbeing.org/up/1240/hoi-an-113.jpg)](http://host.trivialbeing.org/up/hoi-an-113.jpg)<figcaption class="generated-figure-caption">Our comfortable bed at Life Heritage Resort</figcaption></figure>
 
+## Life Heritage Resort
+
 It's now our first day in Hoi An. We're staying at the rather luxurious Life Heritage Resort, on the edge of town, about ten minutes walk into the centre. The walls are a subtle pink, the foliage luscious and the atmosphere tranquil. A perfect, relaxing introduction to the holiday.
 
-The travelling took its toll, three flights a train and a taxi and we were exhausted. Yet we didn't sleep well, and at 9am, a little dreary, not really jet lagged, we had to adjust to the climate. A very humid 25C. It grows to the hight thirties in the day, at least until the rains come.
+The travelling took its toll, three flights a train and a taxi and we were exhausted. Yet we didn't sleep well, and at 9am, a little dreary, not really jet lagged, we had to adjust to the climate. A very humid 25C. It grows to the high thirties in the day, at least until the rains come.
 
 Dainty, we had our breakfast, the usual coffee and fruit juices, the more exotic fruits — mango, dragonfruit, pineapple, some noodles (I love noodles for breakfast) and various mini breads. We sat on the Senses restaurant balcony and overlooked the river. A motor boat chugged past, followed by a man in a pyramidal straw hat, rowing his small thin wooden boat. Calm, wonderful.
 
@@ -27,6 +31,8 @@ Dainty, we had our breakfast, the usual coffee and fruit juices, the more exotic
 <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Breakfast - Noodles, Egg and Dragonfruit](http://host.trivialbeing.org/up/1240/hoi-an-116.jpg)](http://host.trivialbeing.org/up/hoi-an-116.jpg)<figcaption class="generated-figure-caption">Breakfast - Noodles, Egg and Dragonfruit</figcaption></figure>
 
 The skies were clear, a relief after all the weather forecasts that suggested constant storms and downpours. It is of course the start of the rainy season. And Hoi An is known to suffer badly, the river often rising 1m, and more recently, 2m causing havoc with the bohemian town. The humidity is however overbearing, a constant sauna, the only break being our dry air-con, whirring away to keep our room comfy at 25C. I'm not sure how we'll cope without it later in the holiday.
+
+## Exploring Hoi An
 
 Unlike normal, I was raring to go and Sam was little drowsy, I left Sam to sleep it off and set out exploring my first taste of Vietnam alone. In my shorts, hat and sunglasses, camera slung around my neck, I was the obvious western tourist.
 
@@ -50,6 +56,8 @@ Storm clouds grew in the distance, the rumble of thunder got louder, and closer,
 
 <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Poolside snacks - spring rolls, beef and prawns](http://host.trivialbeing.org/up/1240/hoi-an-130.jpg)](http://host.trivialbeing.org/up/hoi-an-130.jpg)<figcaption class="generated-figure-caption">Poolside snacks - spring rolls, beef and prawns</figcaption></figure>
 
+## Evening in Hoi An
+
 That evening, a Sunday night, we headed out into town, this time together. The evening changes Hoi An, the lanterns come on, red, yellow, different shapes, hung outside most shops. The roads become “walking streets”, and there's a relaxed casual atmosphere about the place, less hustle and bustle, although still the hard sells.
 
 Passing the market place on the way into town, old women sat in the road, their fresh fish sitting in upturned lids and baskets. Live shrimp hopped from one basket to another, amidst piles of fresh fruit. The smell of durian in the air, pungent and unmistakeable. Bikes whizzed by, pulling across in front of us to buy 30,000 VND of this, or that, noodles, vegetables, meat, and so on.
@@ -62,6 +70,8 @@ Earlier that night, when I'd suggested perhaps we should take the wet weather ge
 
 <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![An evening on the river in Hoi An, as the rain starts](http://host.trivialbeing.org/up/1240/hoi-an-135.jpg)](http://host.trivialbeing.org/up/hoi-an-135.jpg)<figcaption class="generated-figure-caption">An evening on the river in Hoi An, as the rain starts</figcaption></figure>
 
+## Morning Glory restaurant
+
 Eventually, more by blind luck, we stumbled on “Morning Glory”. Inside an open kitchen filled the restaurant, with tables surrounding it. Two women prepared fresh rice wraps and noodles in front of us.
 
 For starters we shared barbecued beef skewers in sesame seeds, which we removed from their sticks and placed in a rice wrap with a thin rectangular noodle, and oodles of fresh herbs - thai basil, coriander, mint. Scrumptious, and washed down with local Larue beer, a light sort of lager.
@@ -73,6 +83,8 @@ A smokey aubergine dish with sticky rice, the smokey flavour matched the flavour
 <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![An open kitchen at Morning Glory](http://host.trivialbeing.org/up/1240/hoi-an-136.jpg)](http://host.trivialbeing.org/up/hoi-an-136.jpg)<figcaption class="generated-figure-caption">An open kitchen at Morning Glory</figcaption></figure>
 
 <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Our first authentic Vietnamese Pho](http://host.trivialbeing.org/up/1240/hoi-an-140.jpg)](http://host.trivialbeing.org/up/hoi-an-140.jpg)<figcaption class="generated-figure-caption">Our first authentic Vietnamese Pho</figcaption></figure>
+
+## Cocktails at Q
 
 We couldn't eat any more, but the rain kept pouring. We got the bill and paid very slowly, yet still the rain continued. We eventually made a mad dash for it, the equivalent of jumping under a shower fully clothed. We made it three shops down to a lovely stylish cocktail bar called Q, pumping out Moby in the damp night air.
 
