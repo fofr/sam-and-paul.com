@@ -15,8 +15,6 @@ With mum visiting for the weekend, it was another excuse to explore Brighton’s
 
 [![](http://host.trivialbeing.org/up/small/beachy-head-1.jpg)](http://host.trivialbeing.org/up/beachy-head-1.jpg)
 
-<!--more-->
-
 Up and out early (for a Saturday at least), we meandered through the North Laine, shopping for books and sunglasses, stopping for some cyber candy, passing through the pavilion gardens and halting at the parade to see the LGBT floats go by, one by one, to the tunes of Katy Perry’s “I kissed a girl”, Abba and so on.
 
 For lunch we parked ourselves at the ever tasty Foodilic (pronounced ilick  or ilich?), for roasted butternut squash, greek salad, lamb casserole, and the rest of the all you can eat buffet. Excellent value for £6.95.

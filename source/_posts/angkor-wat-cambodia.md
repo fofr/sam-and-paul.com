@@ -19,6 +19,8 @@ Our flight from Hanoi touched down in Siem Reap at 8pm, and we were greeted by a
 
 A man from our hotel met us, but we wasn't holding our names. Confusion ensued, there were a couple of phone calls, a bit of waiting, a mild panic that we'd booked the wrong dates, and then we were on our way. Our driver was very kind, and en-route he talked about Cambodia's culture and history. Many of the older generations here speak French, he explained. He pointed out the sights in the dark; lavish new hotels that have popped up everywhere, new apartments, the oldest hotel in town. Siem Reap at night felt wealthy and new, the darkness smoothing over the rough edges. It's a town very much built on tourism, and mostly within the last decade.
 
+## Pavillon D'Orient
+
 Choosing our Siem Reap hotel was painless. One hotel stood out from the rest, the number one trip advisor recommendation where every review was glowingly positive, Pavillon D'Orient. It's a little out of town, but that is by no means a bad thing.
 
 Cheerful staff were waiting our arrival, they helped us out of the car and emphatically greeted us. Welcome, welcome, sit down, have a cool lemongrass and jasmine tea. The staff were beaming, excitable even, eager to tell us all about breakfast, the restaurant, our complimentary tuk tuk and the temple tours. There was a lot to tell! A free spa treatment, all day breakfast, a temple guide book, a tuk-tuk for the duration of the stay; all included in our modest room rate.

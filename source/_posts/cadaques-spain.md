@@ -16,8 +16,6 @@ From Brighton Station and the usual decrepit First Capital Connect trains, then 
 
 [![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-21.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-21.jpg)
 
-<!--more-->
-
 Cadaques just oozes serenity, waves wash against small beaches and coves, scooters whiz along the one-way beach roads whilst golden brown Spaniards light up and coolly puff their smoke into the air.
 
 The town and cathedral sit pretty at the foot of towering mountains, the sun bakes the terracotta rooftops, whilst kids climb on the Dali statue in the centre. Open air restaurants secure the latest fishermen’s catch, and most menus include Paella.
@@ -25,6 +23,8 @@ The town and cathedral sit pretty at the foot of towering mountains, the sun bak
 Boats litter the bay, the wind clanging ropes against their metal masts, amongst the sound of kids sunbathing on jetties and French tourists’ camera shutters, snapping views of the cathedral Santa Maria.
 
 [![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-30.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-30.jpg)
+
+## Hotel Sol Ixent
 
 We’re staying in Hotel Sol Ixent, a new build 20mins out of town. The “Gala” restaurant has photos of Dali and his wife, the reception dons art books and a piece by Joan Comella. The pool glistens turquoise, but a tip toe in reveals its true temperature. The room itself is stark, but for a painted canvas of crashing waves, and a TV that we wont turn on. Still, the shower is nice and big.
 

@@ -569,6 +569,12 @@ article h1 {
   color: #000;
 }
 
+.single-entry-content h3 {
+  margin: 24px 0;
+  font-size: 20px;
+  color: #666;
+}
+
 .single-entry-content h2:first-child {
   margin-top: 0;
 }

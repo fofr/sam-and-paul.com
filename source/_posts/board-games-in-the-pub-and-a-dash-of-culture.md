@@ -16,8 +16,6 @@ Since the New Year we’ve been busy bees. Our search for a house stepped up a n
 
 We’ve only been able to see each other at the weekend, or an occasional midweek stopover. But that hasn't stopped our theatre, cinema and gaming adventures!
 
-<!--more-->
-
 ## Birthday
 
 This year felt like a double birthday. On Tuesday, the day before, Sam treated me to a homemade birthday meal and we watched The Social Network on my little laptop screen. Then, come the big day, a fried breakfast in Guildford, fresh croissants in the office, lunch at  Asadal (a Korean restaurant), and an evening meal at Blenio’s in Brighton. Scrumptious scrumptious pear and gruyere salad. Somewhere in all that was a singing Cliff Richard card, almost certainly the highlight!

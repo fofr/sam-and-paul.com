@@ -18,8 +18,6 @@ Amongst our search for a house to purchase, in Brighton or Haywards Heath, we've
 
 [![](http://host.trivialbeing.org/up/small/bedroom-farce.jpg)](http://host.trivialbeing.org/up/bedroom-farce.jpg)
 
-<!--more-->
-
 I'd been lucky enough to not know anything about "Inception" before stepping in, beyond that it was supposedly weird and confusing and starred some of my favourite actors--namely Leonardo DiCaprio, Joseph Gordon-Levitt and Ellen Page. I've embedded the trailer below and highly recommend seeing it. If you've seen ExistenZ it might be a bit deja-vu in places. Many of the concepts were similar to Alex Garland's book, "The Coma", which you could probably read in an hour or so (or ten minutes if reading whilst asleep, or one minute if you're asleep whilst asleep).
 
 <div style="text-align:center"><object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/66TuSJo4dZM&amp;hl=en_GB&amp;fs=1?rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/66TuSJo4dZM&amp;hl=en_GB&amp;fs=1?rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object></div>

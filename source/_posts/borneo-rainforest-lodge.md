@@ -16,13 +16,19 @@ pages: 5
 page: 1
 ---
 
+## Kota Kinabalu to Danum Valley
+
 From the [Shangri-La Rasa Ria in Kota Kinabalu](/2014/05/shangri-la-rasa-ria-borneo/ "Shangri-la Rasa Ria, Borneo") and a stopover at The Crown Hotel near the airport, we headed via Malaysia Airlines to Lahad Datu. A 4:30am wake-up call roused us, though we were half-awake already, the whirr of the pathetic air-con keeping us conscious. On the complimentary airport shuttle we shared stories with a rig worker from Louisiana making his way to Miri, he’d been travelling most of his life and his accent was thick; layered with the histories of places I’ll never know.
 
 Lahad Datu is a small town in the east of Sabah. Our flight (the plane had propellers) touched down at 7:30am at what can be described as a small concrete hut, not unlike a backwater railway station. J from Borneo Adventure Tours was there to meet us, six of us in all; Darren and Emma from Guernsey, Jamie and Ed — medics from the UK, and Samantha and I.
 
 <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Danum valley jungle, 77km from civilisation](http://host.trivialbeing.org/up/1240/borneo-011.jpg)](http://host.trivialbeing.org/up/borneo-011.jpg)<figcaption class="generated-figure-caption">Danum valley jungle, 77km from civilisation</figcaption></figure>
 
+## 77km into the jungle
+
 The journey to Borneo Rainforest Lodge isn’t quick. From Lahad Datu it’s a 2h30 drive into the rainforest on a gravel road that disintegrates a little with every fork. On entering the Danum Valley conservation area a sign reads: “Rainforest Lodge 77km”. From thereon the route is lined with nothing but thick jungle foliage, which we rigorously scanned for signs of life. Months old elephant poo was scattered across the road, and the occasional eagle or oriental dart flew overhead. A wild boar, yellow skinned, did run out in front of us, while a mysterious dark eagle sat in a tree watching, but otherwise the journey was uneventful.
+
+## Borneo Rainforest Lodge
 
 “Selamat datang ke Borneo Rainforest Lodge”, a wooden sign welcomed us. Two women in luminous orange shirts placed pandanus wreaths over our heads and ushered us upstairs (shoes off) for a cool lemongrass and ginger welcome drink. The lodge is a beautiful high-ceilinged wooden building; dark wood panels on the walls, and spacious wooden floors dotted with comfy sofas. Fans spin in the rooftops and great lamps hang down into the bar. At the back a veranda opens up to a view of Danum river, lined with tables where we’d dine for breakfast, lunch and dinner (all included). The ground floor is paved, there’s a small shop (where you buy essential bright green leech socks), reception desk and a presentation room. And of course there’s the boot-rack — where all the muddy leech-laden footwear comes to rest after a sweaty trek.
 
@@ -40,6 +46,8 @@ Between resting in our room and meeting our guide we moseyed about the lodge, re
 
 <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Playful red lead monkeys](http://host.trivialbeing.org/up/1240/borneo-007.jpg)](http://host.trivialbeing.org/up/borneo-007.jpg)<figcaption class="generated-figure-caption">Playful red lead monkeys</figcaption></figure>
 
+## Wild orangutan on our first trek
+
 Our guide was Faezen, broad and sturdy, friendly, he welcomed us, he’d be our guide for the duration. Necessary kit for a hike into the jungle; good boots — check, trousers — check, long-sleeved top, insect repellant, sun lotion, special leech socks (to stop them getting to your toes), a camera with a decent zoom lens, binoculars, wet weather gear (poncho, umbrella), and plenty of water — check. Our first venture would be a short introductory one, a nature trail (a few 100m) followed by the Hornbill trail, about 1km. While we’d rested it had been raining heavily, and the ground was sodden, and protruding tree roots were slippery. The clouds still looked ominous. Don’t come to the rainforest and expect it not to rain.
 
 Despite the introductory nature of this trek it was one of our most eventful. From the offset, in front of us grew an enormous strangling fig tree, a common sight in this virgin rainforest; they begin life as seedlings in the canopy, nested in the knot of another tree, from which they send down their roots. As they grow they entwine and envelop the host tree, often killing it and leaving a peculiar hollow core. Although parasitic, Faezen explained that they fruit more often than the trees they encompass, producing more food for the wildlife. There was a rich smell too, jasmine-like; barritonia flowers scattered the forrest floor, messy, decaying, but that aroma was incredible. Something I hadn’t expected was that much of the jungle would smell spectacular.
@@ -50,11 +58,15 @@ Shortly off the wooden nature trail, and round to a river viewing platform we ca
 
 In the sweaty, humid forest we followed Faezen, stopping briefly here and there for an explanation of one plant or another. Although seemingly calm and still, the jungle is evidently a brutal and competitive place. The plant life resembles a still frame from a war epic; vines strangling trunks, leaves fighting for sunlight, ants pilfering supplies, fungus eating away at crevices, roots zigzagging for the best water source. Yet it is still, motionless, almost silent, a war played out over decades.
 
+### Leeches!
+
 As Faezen was pointing to a tree, probably something poisonous or a favourite fruit of orangutan (ebony fruit), I felt an itch on my chest. That’s odd I thought, scratching I felt a short, wet, squiggly thing. Oh no. “I’ve got a leech” I casually said to Sam, the news spread quickly and Faezen intervened — I unbuttoned and bore my chest, and he plucked off the blood-sucking creature with a sharp tug, blood continuing to ooze out into my white shirt. Mild panic ensued as everyone then checked their leech socks; the tiny suckers were climbing up our legs, Ed and I flicked away ten or eleven, (it’s best to flick when they are shaped in a loop, it’s like fighting a slinky) and more kept appearing, the floor was squirming with them. They’re most active after rain, and then, amidst the first great flicking-war the heavens opened. Throughout the trip we were all paranoid a leech was somewhere it shouldn’t be, somewhere up our leg, or on our back, or in darker moister parts we don’t want to think about. I’ve donated blood to the Danum Valley tiger leeches, and I have a certificate to prove it.
 
 A walkie-talkie buzzed and our guide responded, we’re heading back to the orangutan, it’s on the move. They don’t like the rain, and in the downpour they’d decided to up sticks and move. Through our steamed up glasses, speckled with water drops, or struggling to focus through the binoculars, we watched two orangutans swing down and move about the tree-top. Still obscured by foliage, we could see them better now, orange furry apes grasping with all four limbs. The views were fleeting, as, ultimately, the rain made our glasses useless, we couldn’t see anything in the wet. By the end we were just standing outside in the storm, getting drenched. Frustrated but exhilarated, we returned to our chalets desperate for a shower and a decent leech check.
 
 <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Can you see the orang-utan?](http://host.trivialbeing.org/up/1240/borneo-008.jpg)](http://host.trivialbeing.org/up/borneo-008.jpg)<figcaption class="generated-figure-caption">Can you see the orang-utan?</figcaption></figure>
+
+## Night drive
 
 After sunset we returned for our next adventure, a night drive in an open topped truck with an enormous movable lamp for finding wildlife in the trees. Thankfully it had stopped raining, but going out right after rain makes spotting hard. Wildlife doesn’t come out so much in the wet, and where you’d usually use movement in the trees or leaves to find things, instead the leaves move with dripping water — anything that is there is effectively camouflaged. Nevertheless, we boarded the truck and continued. It’s hard to imagine you’d see much anyway, the great roar of the truck must scare off whatever is lying in wait.
 

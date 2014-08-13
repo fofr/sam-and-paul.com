@@ -22,6 +22,8 @@ I knew we were staying in London, on Thursday Sam had asked me to pack an overni
 
 We boarded the District line at Blackfriars, and headed West. “So where are we going?”, I asked. Samantha, unlike usual, kept shtum, she wasn't revealing anything. From Earl's Court we followed her printed directions to our 'nh hotel' and checked in. It was a stylish room that overlooked a snowy garden. Before sitting down we were off again, back on the District line, to South Kensington.
 
+## Hollywood Costumes at the V&A
+
 From the tube station we took a tunnel, past throngs of people leaving the nearby museums. To my surprise we passed the Natural History Museum, and continued on to the V&A. Sam had tickets to the Hollywood Costume exhibit, with a 6:45pm entrance. A little early, we perused the ancient sculptures, foreign artefacts, the gift shop and the Japanese Lolita costumes.
 
 The exhibition itself was marvellous. It was split into three acts, “deconstruction” — the research and process behind a costume, “dialogue” — the collaborative process between designer, director and actor, and “finale” — a room filled with memorable costumes from the most famous of films.
@@ -51,6 +53,8 @@ Beyond was the third room, the finale. This room was filled with costumes of all
 <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--portrait">[![Spider-man](http://host.trivialbeing.org/up/birthday-hollywood-costumes-16.jpeg)](http://host.trivialbeing.org/up/birthday-hollywood-costumes-16.jpeg)<figcaption class="generated-figure-caption">Spider-man</figcaption></figure>
 
 That was excellent. Simply fantastic. In the tacky Hollywood gift shop outside we discussed our favourite moments, and examined design and fashion books. I couldn't help but wonder how I would define a costume for myself, and what message I want my clothes to put across. Perhaps when I go clothes shopping next time, if I consider it a design process, I might enjoy it a little more.
+
+## Comptoir Libanais
 
 The museum was closing now, open late on a Friday, but shutting now it was 9 o'clock. We stepped out into the cold streets of Kensington, hungry for some dinner. We stumbled on Comptoir Libanais, a Lebanese restaurant with an exciting menu, and teaming with diners. Seated at the far end Sam enjoyed a Lamb and Prune tagine, and I had the lamb and harissa burger with Lebanese fries, which were simply scrumptious.
 
