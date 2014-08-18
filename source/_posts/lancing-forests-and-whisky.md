@@ -15,8 +15,6 @@ date: 2011-03-10 23:57:07
 
 Taking a break from planning a holiday, or stressful thoughts about buying a flat, and taking one last opportunity to relax before Sam's exams, we took a drive along the coast to Lancing and Worthing. Then in the week we saw the world premiere of Neil LaBute's "In a forest dark and deep" and I topped it off with a Whisky flight at The Albannach.
 
-<!--more-->
-
 ## Lancing
 
 As a break from all the holiday planning and house hunting, we took a Sunday drive along the coast, from Brighton, West to Lancing and Worthing.

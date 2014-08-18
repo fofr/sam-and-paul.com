@@ -19,6 +19,8 @@ pages: 9
 page: 1
 ---
 
+## Let the games begin
+
 In 2011 Samantha and I ran the Olympic games ticketing website gauntlet, and in the public ballot we came away with tickets for two Olympic events; hockey and table tennis. Then in the second round, getting up at 6am, Sam nabbed basketball, canoe sprint and volleyball. A good haul.
 
 [![](http://host.trivialbeing.org/up/small/olympics-003.jpg)](http://host.trivialbeing.org/up/olympics-003.jpg)
@@ -28,6 +30,8 @@ One year later and it was time for the games to begin. Day one of the London 201
 <iframe width="580" height="326" src="http://www.youtube.com/embed/66molzUEkWI" frameborder="0" allowfullscreen></iframe>
 
 Pink signs adorned London stations, along with new snake like queuing systems. But on this morning it was all quiet, like the calm before the storm. The visitors hadn't arrived yet and the Londoners were on holiday. London was empty, if only for a day.
+
+### Opening ceremony
 
 Time for Danny Boyle’s opening ceremony. I turned on the HDTV, whacked up the volume and waited, with a half made cup of tea sitting in the kitchen. I had zero confidence this would be any good. The ten minute snippet at the end of the Beijing games made me embarrassed, I was convinced this would be more of the same.
 

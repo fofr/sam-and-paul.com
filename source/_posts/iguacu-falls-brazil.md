@@ -25,6 +25,8 @@ We flew Gol airlines to Foz do Iguacu, and with our Lonely Planet guide we knew 
 
 Outside the airport we befriended a Canadian couple going to the same place as us, and we waited half an hour for the green bus that runs every 20 mins. Eventually it arrived and we paid the R$3 bus fare to Parque Nacional do Iguaçu before struggling to lift our heavy backpacks over the in-bus turnstile whilst the vehicle zoomed around a corner, flinging us left and right. Turnstiles are a trait common to all brazilian buses. At the park we paid the R$40 entrance fee and caught an in-park bus towards the waterfalls.
 
+## Hotel Cataratas
+
 We were staying at Hotel Cataratas, a five star orient express hotel. This was our splurge, a small slice of decadence and a chance to indulge in a little grandeur and opulence. After all, we’d had a friendly cheque from the HMRC, so why not treat ourselves?
 
 [![](http://host.trivialbeing.org/up/small/brazil-110.jpg)](http://host.trivialbeing.org/up/brazil-110.jpg)
@@ -36,6 +38,8 @@ We’d booked a pricey two nights, and arrived at 5pm, just as the park was clos
 The sounds of nature enriched the place, birds nested above the restaurant and huge lizards scuttled about, as if on a day trip from the forest. Swallows flitted down and drank from the pool. By the pool we covered ourselves in bug repellant and sun lotion and tried a vanilla ice cream and coke cocktail.
 
 [![](http://host.trivialbeing.org/up/small/brazil-085.jpg)](http://host.trivialbeing.org/up/brazil-085.jpg)
+
+## Exploring the falls at dusk
 
 Time to explore the ‘cataratas’ (falls) for the first time. Starting at the viewpoint closest to the hotel we took the 1.2km trilha das cataratas that follows the river shore. The first view shows a phenomenal crescent of two tiered waterfalls out across the other side of the river (on the Argentinian side).
 
@@ -63,11 +67,15 @@ The paved route had a green wooden barrier, and headed down towards the waterfal
 
 [![](http://host.trivialbeing.org/up/small/brazil-095.jpg)](http://host.trivialbeing.org/up/brazil-095.jpg)
 
+### Garganta do diablo
+
 Then we reached Garganta do Diablo, where there is a walkway right out into the middle of the thundering waterfalls. The spray from the falls is like heavy rainfall, and walking out you are going to get soaked. We braved it with our bags and Sam donned a poncho for the occasion, I risked the camera too in it’s waterproof bag. Out into the falls we eked, the cold refreshing water driving into our faces, water drops trickling down our cheeks, soaking and delighting us. From the edge of the final platform you can look right down into the abyss, where the river plunges deeper into the darkness, so far and so deep all you can see is the rebounding spray and the occasional crazy swallow flying into the waterfall.
 
 [![](http://host.trivialbeing.org/up/small/brazil-097.jpg)](http://host.trivialbeing.org/up/brazil-097.jpg)
 
 [![](http://host.trivialbeing.org/up/small/brazil-099.jpg)](http://host.trivialbeing.org/up/brazil-099.jpg)
+
+### Personal paradise
 
 This must be one of the most beautiful places on the planet and we had it all to ourselves at sunset. We took a moment to appreciate the glory of nature as the sun disappeared on the Argentinian side of the park and as flocks of swallows flew high above us. We slowly meandered back to our hotel, a little sopping, in awe of what we’d just experienced.
 
