@@ -15,7 +15,7 @@ page: 1
 
 [![](http://host.trivialbeing.org/up/small/brazil-211.jpg)](http://host.trivialbeing.org/up/brazil-211.jpg)
 
-**But first, getting from Iguaçu Falls to Paraty via Sao Paulo and 24 hours of bus travel.**
+## Iguaçu Falls to Paraty in 24 hours, by bus
 
 On the national park bus we left the park, outside we waited for the sunday bus into town. In town, at the bus station we worked through the portugese-english language barrier to determine when the next bus to the ‘rodoviaria’ was, i.e. the large out of town bus stop for long distance travel.
 
@@ -28,6 +28,8 @@ Many conversations with Brazilians followed this pattern,
 “No”
 
 At which point they lift their hands in the air and look exasperated. But then they always seemed to go out of their way to find someone that spoke English, or to help us as best they could. In this case we gestured with hand signals to work out the time and used fingers for numbers, before eventually an English speaker materialised and explained everything. Our bus arrived, we were starving but didn’t want to miss our coach.
+
+### 16 hour sleeper bus to São Paulo
 
 Three buses down and we were ready for our 16 hour long sleeper bus to São Paulo; but not before some greasy spoon fast food from the only food outlet in the bus station. Bus stations are universally horrible. I had the weirdest pizza, I thought it was olives, peppers and sweetcorn, but it was processed chicken, peas and sweetcorn, no tomato.
 
@@ -51,11 +53,15 @@ The journey into São Paulo took an age, the huge concrete city surrounded us as
 
 [![](http://host.trivialbeing.org/up/small/IMG_3834.JPG)](http://host.trivialbeing.org/up/IMG_3834.JPG)
 
+### 6 hour coach to Paraty
+
 Before we knew it we were boarding a regular Costa Verde coach towards Paraty; this journey would only take six hours. It was much the same; road after road, cars overtaking us, a service station stop (with some goats and baby chicks), reclining seats and leg rests. I listened to Joni Mitchell and Sam tried to sleep.
 
 As we neared the coast the route grew hilly, with gorgeous sea views. The bus accelerated around U-turn corners, down towards the sea, through coastal villages, over their belly-in-mouth speed bumps, and back up the hill, over to the next village with more of the same. We endured three hours of stuffy queasiness travelling through Caraguátuba and Ubatuba. It was almost too much for Sam, and she tried to ignore it, but the rocking and swaying was ceaseless. In the meantime my appetite returned and I gobbled up all the snacks we’d been lugging around with us since Rio.
 
 Fortunately we had a service station stop, a break from the movement and a chance to recover. Afterwards the bus wasn’t so bad, and I slept the last two hours.
+
+## Eliconial hotel
 
 At 6pm on Monday, about 27 hours after setting off, we arrived in Paraty, thoroughly exhausted and needing a shower. We grabbed a fixed rate 20 reais taxi with a one armed driver to our hotel, Eliconial, a short walk outside of town and on Praia do Jabaquara.
 
@@ -70,6 +76,8 @@ Inside we had a living room, a kitchen and a bedroom, all packed into a small sp
 [![](http://host.trivialbeing.org/up/small/IMG_4714.JPG)](http://host.trivialbeing.org/up/IMG_4714.JPG)
 
 “It’s safe here, you can go anywhere at night, even walk along the beach”, were welcomed words. Having spent so much time in Rio (and on the buses) stressing about safety and valuables this came as a great relief.
+
+## Pizza and caipirinhas
 
 A quick snooze on the firm beds, a wash, and we were out looking for a decent cooked meal. The guys recommended a pizzeria down the road, Sereia do Mar hostel. Amongst the wooden beams, the nearby beach and the blasting 90s music, we sat down and ordered all you can eat pizza.
 

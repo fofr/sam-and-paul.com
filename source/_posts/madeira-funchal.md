@@ -19,11 +19,13 @@ page: 1
 
 [![](http://host.trivialbeing.org/up/small/madeira-067-madeira-view.jpg)](http://host.trivialbeing.org/up/madeira-067-madeira-view.jpg)
 
+## An unplanned trip
+
 Our trip to Funchal, Madeira wasn’t planned, and it came about through the circuitous route of a cancelled 3 week holiday in Japan, but that’s another and much less exciting story. Booking last minute, we opted for a one week Thomson (TUI) package, with flights and hotel included, which is very unlike us. But we needed a holiday, had to book it fast and it had to be somewhere hot, not too expensive and interesting; Madeira fit the bill perfectly.
 
-<!--more-->
-
 The Thomson flight landed on a Friday evening, the plane bouncing once on the runway which juts out into the sea, raised up on its enormous stilts. The balmy English weather we had over Easter was much the same as Funchal’s, a hot sun with a cool wind. Madeira’s peaks rose up and were topped with thick cloud.
+
+## Vila Vicencia hotel
 
 A brief coach transfer took us to our hotel, Vila Vicencia. Through tunnels, over concrete bridges and deep valleys and into Funchal, with its whitewashed houses and terracotta rooftops. Hotel tower blocks stood tall in the distance, as the buildings dotted themselves over the hilltops, petering out as the roads continued upwards and inland.
 
@@ -34,6 +36,8 @@ We stayed, rather unsurprisingly, in the [hotel zone](http://www.dpbolvw.net/cli
 The room was for three, and we enjoyed the extra space of a living room and balcony. Wooden wardrobes and creaky beds contrasted the flat screen TV. We brought our own tea, we knew we would have a kettle, and a fridge for the milk.
 
 [![](http://host.trivialbeing.org/up/small/madeira-002-vila-vicencia.jpg)](http://host.trivialbeing.org/up/madeira-002-vila-vicencia.jpg)
+
+## Chalet Vicente restaurant
 
 Acquainted and unpacked we headed into Funchal for our first night, albeit a little chillier than expected. We passed the [famous Reids hotel](http://www.dpbolvw.net/click-2796858-10780389?url=http://www.hotels.com/ho141078/reids-palace-funchal-portugal/ "Hotels.com") and the kitschy Casino. The restaurants were all very similar, clearly geared towards tourism, many had resorted to our most hated of things; restaurant touts, not to mention menus with poorly photographed pictures of meals. Very unsure of ourselves, and starving, we stopped at the first place with a bit of character and a menu that detailed dishes; Chalet Vicente.
 

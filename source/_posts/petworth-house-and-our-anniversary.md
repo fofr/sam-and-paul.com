@@ -12,15 +12,17 @@ categories:
 date: 2010-10-18 08:12:44
 ---
 
+## 7 years
+
 It’s been a busy couple of weeks for us; Brighton to Bristol and back two weeks running, once for a biochemistry pals meet-up and another for Kayte’s baby shower. This weekend we took some time-out for our 7th anniversary, which landed on 10/10/10.
+
+## Petworth house and park
 
 With an Indian summer forecast, and likely the last t-shirt wearing weekend for at least six months, we made the most of our National Trust membership with a visit to Petworth house and park. Saturday was colder than expected.
 
 With the Peugeot squeezed into the only available space, we carried our picnic up to the top of the hill, and on the hidden bench, beneath falling chestnuts, we ate our roast chicken and bread rolls. Out in the misty valley, deer ran away from scary dogs and the tree leaves were already turning yellow.
 
 [![](http://host.trivialbeing.org/up/small/petworth-house-7.jpg)](http://host.trivialbeing.org/up/petworth-house-7.jpg)
-
-<!--more-->
 
 I packed the SLR, and with all the mist and wildlife it was a perfect opportunity for a spot of photography. Deer lay in the long grass, and as we neared they galloped away, leaving us to lament our limited zoom, incorrect camera settings and pictures of deer hind. Never mind, I still had the chance to explain aperture and shutter speeds to Sam as we knelt in the muddy grass to photograph great red mushrooms.
 
@@ -39,6 +41,8 @@ Back at Petworth House, and after a cup of tea, a cookie and some grapes, we mea
 That night we watched The Pianist, a sobering Polanski movie about the trials of a talented Jewish musician during World War II, we sincerely recommend it.
 
 In the wake of the much hotter, sunnier and blue skied Sunday, we relaxed on our balcony, feet up, book in hand, watching the day go by and the boats on the sea.
+
+## Riddle and Finns
 
 To celebrate our 7th anniversary we went to the Michelin recommended “Riddle and Finns” champagne and oyster bar, in the lanes. On the high seated stone tables, with a bottle of sauvignon blanc between us, we ordered…
 

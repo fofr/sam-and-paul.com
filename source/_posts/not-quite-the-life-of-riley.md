@@ -11,8 +11,6 @@ This past week has been tumultuous. Our holiday plans, three weeks in Japan, hav
 
 We’re not planning to be in Japan until 5 weeks from the day the earthquake hit, and we’re not visiting the north east. But now the FCO is advising against non-essential travel to Tokyo, until that restraint is lifted, our insurance is invalid and we’ll be forced to cancel. The kicker, our insurance won’t payout for cancellation of a trip on the recommendation of the FCO, even though this advice renders the trip impossible by the terms of the insurance.
 
-<!--more-->
-
 Airline tickets are non-transferable and non-refundable, and Alitalia aren’t offering us a refund on flights. An option to rebook or reroute is an alternative, but we’d need to complete our travel before the end of May, which really isn’t enough time to plan and book another extravagant holiday somewhere else far-away.
 
 This week Samantha also had her finals, the last exams of her masters; cocooning herself and avoiding all Japan news, she had to buckle down and study. But that’s all over now, and after ten weeks of being a student, she’s back home and we’re your average married couple again. Although Sam is yet to fully recover from the exams or the nights out drinking in celebration.

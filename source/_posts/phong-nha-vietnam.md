@@ -12,6 +12,8 @@ pages: 3
 page: 1
 ---
 
+## Phong Nha Farmstay
+
 We arrived into Dong Hoi about 4pm, the evening was encroaching and our taxi driver picked us up. We were heading for Ben and Bich's Phong Nha Farmstay, a relatively new hostel-like accommodation that had rave reviews on Trip Advisor and Lonely Planet. We were headed to the area to see Paradise Cave, an enormous newly opened cave that looked simply incredible.
 
 It took about an hour to get from Dong Hoi to the farmstay, through quiet rural roads, past rice paddies that were being harvested, and water buffalo grazing. We turned left down a narrow road, alongside towers of drying rice plants and a local community playing volleyball, stopping briefly to pick up Ben's son, then onwards to our accommodation.
@@ -25,6 +27,8 @@ The view from the bedroom however was breathtaking. Bright green rice paddies st
 <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![View from Phong Nha farmstay](http://host.trivialbeing.org/up/1240/phong-nha-380.jpg)](http://host.trivialbeing.org/up/phong-nha-380.jpg)<figcaption class="generated-figure-caption">View from Phong Nha farmstay</figcaption></figure>
 
 Downstairs again we said our hellos, and got to know a couple of people, Andy and Beth were on their honeymoon, they'd been to Hoi An and we shared stories and plans, as you do.
+
+## Picking an activity
 
 We had beer, some very good beef Pho and umm'd and ahh'd about which tour we should do. Tomorrow there was a crazy Paradise Cave trek taking place — 14km through pitch black caves, pretty expensive at $125 each; it was that or a bike ride to Phong Nha caves. We questioned a lot of people and eventually committed to doing the trek, signing up our names on the board in red marker pen. We signed up for the National Park tour the day after, a tour that runs every other day.
 

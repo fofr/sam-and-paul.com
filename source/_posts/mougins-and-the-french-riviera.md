@@ -13,15 +13,13 @@ categories:
 date: 2005-04-13 09:01:47
 ---
 
+## Le Club Mougins
+
 Hello, here is a fine welcome to you all from me in my latest journal entry. In this particular episode I shall be talking to you about my holiday to the French Riviera. Thanks to an impressive holiday-package deal my mum is part of, both I and my girlfriend were privileged with ‘free' accommodation at a four/five star resort somewhere in the world, after perusing the catalogue we opted for "Le Club Mougins" in the valley of Mougins, an area in the south of france, 6km north of Cannes. It's a covey, remote, old and rural region with very kind people and the luxuries of French living; a boulangerie, a fruiterie and a poissonerie.
 
-On Thursday, the last day of March, I packed together my things:
+On Thursday, the last day of March, I packed together my things and headed to my girlfriend's house.
 
 ![](/images/mougins/DSC01865.jpg)
-
-and headed to my girlfriend's house.
-
-<!--more-->
 
 ![](/images/mougins/sam.jpg)
 
@@ -37,7 +35,7 @@ We purchased fine cheese from the supermarche and baguettes from the boulangerie
 
 ![](/images/mougins/DSC02486.jpg)![](/images/mougins/DSC01891.jpg)
 
-Needless to say, we were happy with our choice. After spending an hour in a little shop while Samantha chose a watercolour painting of the region and admiring a modern art gallery we were shown to our apartment
+Needless to say, we were happy with our choice. After spending an hour in a little shop while Samantha chose a watercolour painting of the region and admiring a modern art gallery we were shown to our apartment.
 
 ![](/images/mougins/DSC02462.jpg)![](/images/mougins/DSC02460.jpg)
 
@@ -48,6 +46,8 @@ A one bedroom, full bathroom, half (well-appointed) kitchen, tv, stereo, dining 
 Our first full day in the resort was a Sunday, so rather than trying to travel to any of the local cities we decided to trek around the local region and head up the hill across the way from us which looked to have a castle at its mount. It turns out the region was a splatter with rich peoples expensive villas, lavender farms, stunning view points and a strong wind. We found an extremely remote little area to enjoy our French dinner, sitting on a crumbling old wall amongst wild flowers we watched over a view of local town Grasse, it looked a little like this:
 
 ![](/images/mougins/DSC01937.jpg)
+
+## Cannes
 
 On Monday (Lundi) we navigated via the bus routes to Cannes, the city famous for its film festival. We sifted through the streets, passing the Ferrari shop and the Chanel shop, we were shuffled away from the Palais du Festival because they were setting up something big. We did get a chance to see all the famous film stars hand prints surrounding the complex, my favourite being Akira Kurosawa's:
 
@@ -65,21 +65,27 @@ After taking in more picturesque views, the large docks and expensive boats, the
 
 Tuesday was our day of quiet rest, we lounged in our room and enjoyed the facilities of the resort, in particular the crazy golf course which had some impossibly difficult holes, loop the loops and tunnels. In the evening we went for a special night out, dressing up we visited the supremely posh restaurants that could be found in the medieval town of Mougins. We tried translating the menus but soon just opted for the nicest looking, least crowded eatery with trees growing through the roof, much like the image shown above. The meal was absolutely delicious and perfectly cooked and prepared. Sam ate escargots (snails) in a garlic & tomato sauce with a lemon garnished salad for starter whilst I ate a crab and lobster dish. We ordered the dry white house wine and for the main course I had a knife-slices-so-easily-through duck that you wouldn't believe was poultry with a fine sauce, courgettes, cauliflower, strange potato cakes, celeriac and more tasty supplements. Sam enjoyed the best-cooked lamb she had ever tasted and was positively enthralled by it, indeed saying so to the waiters. For dessert she enjoyed a chocolate sponge thing with vanilla ice cream and  real vanilla pods. I had the pear soaked in a red wine with added cinnamon crumble. Our very expensive meal was extremely delicious and well worth the money.
 
+## Nice by train
+
 Come Wednesday and with it our first big trip, we travelled to Nice by train from Cannes. French desk clerks and store peoples always seem so much more helpful than their English counterparts. Our problems and worries at the station were all kindly sorted by the French desk lady. We made it to Nice in good time and spent the day wandering their streets, looking through the flower market, passing by the open air theatre and sea front casinos, throwing pebbles in the sea and spending money to use public toilets. At the far end of the beach we travelled up to the top of a cliff where an old castle used to stand. There were public gardens, waterfalls, panoramas and a fantastic viewpoint for watching the planes fly in over Nice and land in the airport.
 
 ![](/images/mougins/DSC02260.jpg)
 ![](/images/mougins/DSC02243.jpg)
 ![](/images/mougins/DSC02221.jpg)
 
+## St. Marguerite
+
 On Thursday we had a lie in and in the afternoon travelled back to Cannes for a boat trip to the offshore island St. Marguerite.
 
 ![](/images/mougins/DSC02307.jpg)
 
-It was a quiet island with the only buildings being an old fort and the chambers where the man in the iron mask was supposedly kept. We slowly walked around the island, taking in the magnificent Caribbean like qualities and feeding three kind and non-begging cats some of our fromage. Eucalyptus trees and pine trees adorned the land mass:
+It was a quiet island with the only buildings being an old fort and the chambers where the man in the iron mask was supposedly kept. We slowly walked around the island, taking in the magnificent Caribbean like qualities and feeding three kind and non-begging cats some of our fromage. Eucalyptus trees and pine trees adorned the land mass.
 
 ![](/images/mougins/DSC02314.jpg)
 ![](/images/mougins/DSC02293.jpg)
 ![](/images/mougins/DSC02288.jpg)
+
+## Monaco
 
 It just so happened, that in the week I was in France both the Pope and Prince Rainier of Monaco died. This put a slight damper on our trip to the impressive city built into a rock face, as did the overcast weather. Half mast Monaco flags covered the city which we reached by train. The weather put us off visiting the exotic gardens and caves of the region, yet despite circumstances we still decided to visit the principality. Firstly we had to find a public lift down to the bottom, this was no easy task; finally we found a lift and it brought us to the entrance of the hospital. From there we were greeted by whordes (sic) of press, camera crews and photographers waiting for the prince to leave the hospital, here's my not so good sneaky picture of a few of them:
 
