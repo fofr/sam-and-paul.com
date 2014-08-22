@@ -28,8 +28,6 @@ In between these screenings, our small screen viewings also stood out. “An Edu
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/p/BD9C39F7CBE998FA?hl=en_GB&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/p/BD9C39F7CBE998FA?hl=en_GB&fs=1" type="application/x-shockwave-flash" width="480" height="385" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-<!--more-->
-
 ## The Wolseley
 
 As a birthday treat I took Sam to the luxurious Wolseley in London where we enjoyed the finest Champagne tea, our own small slice of decadence. Champagne tea? Crustless and exquisite finger sandwiches, perfect pastries, homemade scones and jam (specially made without fruit by request - there’s nothing Sam likes less than raisins in her scones!), two pots of tea (the Wolesely afternoon blend and Sam’s favourite, Assam), and a glass of Pommery Brut Royal NV each. That’s one of Timeout’s 1000 things to do in London crossed out.

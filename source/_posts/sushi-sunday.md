@@ -16,8 +16,6 @@ We had all the ingredients ready; sushi rice, sushi vinegar, the bamboo rolling 
 
 [![](http://host.trivialbeing.org/up/small/sushi-1.jpg)](http://host.trivialbeing.org/up/sushi-1.jpg)
 
-<!--more-->
-
 Not really sure what we were doing, beyond what a guy had told Sam over the shop counter, we consulted recipe books and YouTube’s “How to make Sushi” videos. joschez’s 4 min short was the most helpful:
 
 <object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/T9hVp4Sd9NU&amp;hl=en_GB&amp;fs=1?rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/T9hVp4Sd9NU&amp;hl=en_GB&amp;fs=1?rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>

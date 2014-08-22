@@ -16,21 +16,29 @@ One month later we had a date and it was booked, with UK parachuting. For a mont
 
 After an internal Last.fm hack day, Marek, Linda and I headed down to Brighton, had some Japanese takeaway and filled in the paperwork. Then an early night and an early start, leaving at 7:30am to get to Beccles, in Suffolk, for midday.
 
+## Beccles airfield
+
 After a false start, and a few hours drive north, to the tunes of M83, we arrived at Beccles airfield, nerves frayed and anxious to get on with it. Marek had turned a slightly paler shade of white. Looking up, there were seven colourful parachutes coming down to earth.
 
 We paid our cashmonies, I bought the video (a guy will be flying down with me filming the whole thing), and we swiftly proceeded to the hangar for our briefing.
 
 A stocky fella you wouldn't want to mess with gave us the briefing for our tandem dives. We'll be attached at the shoulders and the waist, he said, holding a black harness up for everyone to see. These are the positions you need to take for the jump; bend your legs back behind you, cross your arms on your chest and put your head back; for landing make sure you put your legs up as high as possible. He waved photos in front of us, and we made mental notes, weary of doing anything wrong. And here are your jumpsuits.
 
+## Jumpsuits
+
 We put on the tight, but rather stylish, blue jumpsuits and were transformed into geeky superheroes. Then we donned the harness which was ever so tight on the groin, these things clearly weren't made for walking in. And then the leather cap to finish it off, it covered our ears and held the goggles in place.
 
 By this time most of my nerves had gone, it's always the waiting that's worst. This whole time people were landing next to us, completing their jumps, and every few minutes a new plane went up, the routine was comforting. We stood on the runway and waited for our ride and tandem partners. The stocky guy that gave the briefing would be strapped to my back.
+
+## Tiny plane
 
 The aircraft was tiny, and without seats. Seven of us were jumping, and we squeezed in, sitting between each others legs. It would take ten minutes to reach the jumping altitude of 10,000ft. And off we went, climbing higher and higher, the great flat expanse of Suffolk growing beneath us. Higher and higher, there's no turning back now. Towards the clouds, through the clouds and above the clouds.
 
 [![](http://host.trivialbeing.org/up/small/IMG_8817.jpg)](http://host.trivialbeing.org/up/IMG_8817.jpg)
 
 [![](http://host.trivialbeing.org/up/small/IMG_8825.JPG)](http://host.trivialbeing.org/up/IMG_8825.JPG)
+
+## Falling with style
 
 Then the aircraft slowed down, and the time had come. The hatch opened and the girl in front of me was gone, falling to the ground. My turn next. No time to think, do what they say, feet out and crossed behind the plane, lean back, look at the camera. Jump.
 

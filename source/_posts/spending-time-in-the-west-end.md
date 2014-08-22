@@ -19,8 +19,6 @@ Living in St Albans I've recently taken the opportunity to see as much theatre a
 
 [![](http://host.trivialbeing.org/up/small/mrfofr-20081109-les-mis.jpg)](http://host.trivialbeing.org/up/mrfofr-20081109-les-mis.jpg)
 
-<!--more-->
-
 ## Les Miserables
 
 I've long been a great hater of musicals that sing every. single. word. ♫ I'm going to get the milk ♫, that sort of thing. By that logic I should absolutely despise Les Mis', listening to the songs briefly beforehand certainly suggested I would. Our seats were upper circle front row, I'd bought them with my sister for my mum's birthday; we had a good view and I sat back unsure what to expect, 'Look Down and see'.

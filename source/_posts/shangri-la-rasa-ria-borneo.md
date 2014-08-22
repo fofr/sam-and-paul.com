@@ -22,6 +22,8 @@ The reception is enormous, and filled with lounging guests in flip-flops. It loo
 
 <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Sunset in paradise](http://host.trivialbeing.org/up/1240/kota-kinabalu-003.jpg)](http://host.trivialbeing.org/up/kota-kinabalu-003.jpg)<figcaption class="generated-figure-caption">Sunset in paradise</figcaption></figure>
 
+## Coast restaurant
+
 At Coast, one of the many restaurants on site, it was Lobster night and that won Sam’s vote. The decor is an “under the sea” design, with deep blue lighting and enormous jellyfish lights over the bar. We celebrated an early anniversary dinner with Italian prosecco (then a chardonnay, a sauvignon-blanc and a rosatello), and Sam had the delicious tail of lobster special (which cost about the same as everything else combined).
 
 {% menu %}

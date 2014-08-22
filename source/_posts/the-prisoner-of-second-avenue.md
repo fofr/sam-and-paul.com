@@ -15,8 +15,6 @@ After a scrumptious Jamaican burger (mango and ginger relish included) from the 
 
 ![](http://host.trivialbeing.org/up/prisonerSecondAvenue.gif)
 
-<!--more-->
-
 We didn't really know much about the play before deciding to go and see it, or even before we walked in. A black comedy starring Jeff Goldblum was enough to sway me and Jo, and Sam reluctantly came along for the ride - though she was glad she did. The play also starred the excellent Mercedes Ruehl, and was originally written by Neil Simon. There's a Jack Lemmon film as well.
 
 Before going in we were accosted by video interviewing hipsters from some new media company, they couldn't have done their job that well because I can't for the life of me remember the name of their website. But Jo's Uncle kindly put down a comic interview for them.
