@@ -575,6 +575,11 @@ article h1 {
   color: #666;
 }
 
+.single-entry-content h4 {
+  margin: 24px 0;
+  color: #666;
+}
+
 .single-entry-content h2:first-child {
   margin-top: 0;
 }
@@ -582,6 +587,12 @@ article h1 {
 .single-entry-content p:last-child,
 .single-entry-content img:last-child {
   margin-bottom: 0;
+}
+
+.single-entry-content hr {
+  border-width: 5px 0 0 0;
+  border-top: 5px solid #eee;
+  margin: 24px 0;
 }
 
 article .meta {
