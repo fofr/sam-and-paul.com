@@ -62,4 +62,4 @@ Whilst Sam was away in Bath at Sally Nun’s for the baby shower, my sister and 
 
 The abbey, another National Trust site, is where the first photo negative was invented, by Fox Talbot. I recreated the original negative on my phone (typical I forgot the SLR), however corny that may sound. The exhibition of early photos and cameras was fascinating.
 
-Before leaving we had home-made pasties and cake from the local Lacock bakery. To round off our middle-aged day trip, we listened to “From our own correspondent” on BBC Radio 4--I LOVE this show. I’m still only 25\. Who know’s what exciting things I’ll be up to when I’m in my forties.
+Before leaving we had home-made pasties and cake from the local Lacock bakery. To round off our middle-aged day trip, we listened to “From our own correspondent” on BBC Radio 4--I LOVE this show. I’m still only 25. Who know’s what exciting things I’ll be up to when I’m in my forties.

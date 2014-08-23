@@ -17,7 +17,7 @@ Flying into Saigon, for the second time, but this time in daylight, it's clear S
 
 The War Remnants museum please, formerly known as the museum of Chinese and American war crimes. We had lunch outside, at Nha Toi, very much a tourist restaurant with average but expensive food, but the Vietnamese iced coffee was nice.
 
-The museum itself is cheap to get in, only a $1\. Outside your heart races and the adrenaline kicks in as you explore old tanks, helicopters, jets and mounted guns. But once inside, you are numbed, and your heart breaks, as room after room, photo after photo, the museum exhibits the true atrocities and destruction of war. It's sickening, and you just want to cry.
+The museum itself is cheap to get in, only a $1. Outside your heart races and the adrenaline kicks in as you explore old tanks, helicopters, jets and mounted guns. But once inside, you are numbed, and your heart breaks, as room after room, photo after photo, the museum exhibits the true atrocities and destruction of war. It's sickening, and you just want to cry.
 
 <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![A chinook at the War Remnants museum](http://host.trivialbeing.org/up/1240/saigon-hcmc-001.jpg)](http://host.trivialbeing.org/up/saigon-hcmc-001.jpg)<figcaption class="generated-figure-caption">A chinook at the War Remnants museum</figcaption></figure>
 
