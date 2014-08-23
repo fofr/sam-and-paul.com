@@ -330,6 +330,7 @@ a.inherit {
   margin: 0;
   z-index: 1;
   color: #fff;
+  text-shadow: rgba(0,0,0,0.2) 0 1px 0;
 }
 
 .masthead-title-amp {
@@ -342,7 +343,7 @@ a.inherit {
 .top-bar {
   position: absolute;
   background: #333;
-  background: rgba(0,0,0,0.5);
+  background: rgba(0,0,0,0.2);
   width: 100%;
   top: 0;
   left: 0;
