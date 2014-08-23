@@ -1,7 +1,9 @@
-<section class="listing wrapper clearfix">
-  <% page.posts.each(function(post, i){ %>
-    <% if (typeof post.page === "undefined" || post.page === 1) { %>
-      <%- partial('archive-post', {post: post}) %>
-    <% } %>
-  <% }) %>
+<section class="listing clearfix">
+  <div class="listing-posts">
+    <% page.posts.each(function(post, i){ %>
+      <% if (typeof post.page === "undefined" || post.page === 1) { %>
+        <%- partial('archive-post', {post: post}) %>
+      <% } %>
+    <% }) %>
+  </div>
 </section>

@@ -219,47 +219,6 @@ ul ul, ol ol, ol ul, ul ol, dl dl, dl ul, dl ol, ul dl, ol dl {
   overflow: visible;
 }
 
-/* Forms
-========================================================================== */
-
-.form-row label {
-  display: block;
-  font-weight: normal;
-  margin: 8px 0;
-}
-
-.form-row textarea.text,
-.form-row input.text {
-  margin-bottom: 1.33333333em;
-  font-size: 1em;
-  font-weight: normal;
-  padding: 8px 10px;
-  border-radius: 3px;
-  border: none;
-}
-
-.submit {
-  font-size: 1em;
-  background: #eee;
-  background: -webkit-linear-gradient(#eee,#ccc);
-  background: -moz-linear-gradient(#eee,#ccc);
-  background: -ms-linear-gradient(#eee,#ccc);
-  background: -o-linear-gradient(#eee,#ccc);
-  background: linear-gradient(#eee,#ccc);
-  border-radius: 3px;
-  padding: 16px 20px;
-  border: none;
-}
-
-.submit:active {
-  background: #ddd;
-  background: -webkit-linear-gradient(#aaa,#ccc);
-  background: -moz-linear-gradient(#aaa,#ccc);
-  background: -ms-linear-gradient(#aaa,#ccc);
-  background: -o-linear-gradient(#aaa,#ccc);
-  background: linear-gradient(#aaa,#ccc);
-}
-
 /* ==========================================================================
    The Adventures of Samantha and Paul
    ========================================================================== */
@@ -339,14 +298,24 @@ a.inherit {
 .blog-title {
   margin: 72px auto 36px;
   position: relative;
+  max-width: 580px;
+  padding: 0 20px;
 }
 
 .blog-title small {
   font-size: 24px;
   position: absolute;
   top: 0;
-  left: 2.1em;
+  left: 72px;
   line-height: 1em;
+}
+
+.blog-title-amp {
+  font-size: 62px;
+  color: #ddd;
+  margin-right: -20px;
+  margin-left: -10px;
+  text-decoration: none;
 }
 
 /* ==========================================================================
@@ -439,12 +408,17 @@ a.inherit {
    ========================================================================== */
 
 .listing {
-  border-top: 10px solid rgba(0,0,0,0.25);
-  border-bottom: 10px solid rgba(0,0,0,0.25);
-  background: #555;
-  background: rgba(0,0,0,0.25);
-  margin-bottom: 48px;
-  border-radius: 3px;
+  border-top: 20px solid rgba(0,0,0,0.25);
+  border-bottom: 20px solid rgba(0,0,0,0.25);
+  border-radius: 7px;
+  position: relative;
+  max-width: 580px;
+  margin: 0 auto 72px;
+}
+
+.listing-posts {
+  background: #fff;
+  color: #666;
   min-height: 400px;
 }
 
@@ -454,12 +428,13 @@ a.inherit {
 
 .listing-item a {
   display: block;
+  color: #333;
 }
 
 .listing-item a:hover,
 .listing-item a:focus {
   background: #333;
-  background: rgba(0,0,0,0.25);
+  background: rgba(50,50,50,0.1);
 }
 
 .listing-title {
@@ -474,10 +449,6 @@ a.inherit {
 
 .listing-header:hover {
   text-decoration: none;
-}
-
-.listing-title {
-  color: #fff;
 }
 
 .listing-header:hover .entry-title {
@@ -528,7 +499,7 @@ a.inherit {
   z-index: -1;
 }
 
-article {
+article header {
   text-shadow: rgba(0,0,0,0.2) 0 1px 0;
   position: relative;
 }
