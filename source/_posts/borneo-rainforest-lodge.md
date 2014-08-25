@@ -22,7 +22,9 @@ From the [Shangri-La Rasa Ria in Kota Kinabalu](/2014/05/shangri-la-rasa-ria-bor
 
 Lahad Datu is a small town in the east of Sabah. Our flight (the plane had propellers) touched down at 7:30am at what can be described as a small concrete hut, not unlike a backwater railway station. J from Borneo Adventure Tours was there to meet us, six of us in all; Darren and Emma from Guernsey, Jamie and Ed — medics from the UK, and Samantha and I.
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Danum valley jungle, 77km from civilisation](http://host.trivialbeing.org/up/1240/borneo-011.jpg)](http://host.trivialbeing.org/up/borneo-011.jpg)<figcaption class="generated-figure-caption">Danum valley jungle, 77km from civilisation</figcaption></figure>
+{% figure borneo-011.jpg landscape %}
+Danum valley jungle, 77km from civilisation
+{% endfigure %}
 
 ## 77km into the jungle
 
@@ -32,19 +34,29 @@ The journey to Borneo Rainforest Lodge isn’t quick. From Lahad Datu it’s a 2
 
 “Selamat datang ke Borneo Rainforest Lodge”, a wooden sign welcomed us. Two women in luminous orange shirts placed pandanus wreaths over our heads and ushered us upstairs (shoes off) for a cool lemongrass and ginger welcome drink. The lodge is a beautiful high-ceilinged wooden building; dark wood panels on the walls, and spacious wooden floors dotted with comfy sofas. Fans spin in the rooftops and great lamps hang down into the bar. At the back a veranda opens up to a view of Danum river, lined with tables where we’d dine for breakfast, lunch and dinner (all included). The ground floor is paved, there’s a small shop (where you buy essential bright green leech socks), reception desk and a presentation room. And of course there’s the boot-rack — where all the muddy leech-laden footwear comes to rest after a sweaty trek.
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Welcome to the rainforest lodge](http://host.trivialbeing.org/up/1240/borneo-086.jpg)](http://host.trivialbeing.org/up/borneo-086.jpg)<figcaption class="generated-figure-caption">Welcome to the rainforest lodge</figcaption></figure>
+{% figure borneo-086.jpg landscape %}
+Welcome to the rainforest lodge
+{% endfigure %}
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Borneo Rainforest Lodge](http://host.trivialbeing.org/up/1240/borneo-088.jpg)](http://host.trivialbeing.org/up/borneo-088.jpg)<figcaption class="generated-figure-caption">Borneo Rainforest Lodge</figcaption></figure>
+{% figure borneo-088.jpg landscape %}
+Borneo Rainforest Lodge
+{% endfigure %}
 
 From the lodge we were shown to our room, along a raised wooden walk-way to Deluxe 15, a chalet with a river view and an outdoor bath. There’s no air-conditioning, but you don’t need it. Despite the humidity and heat, the eco-friendly design of the building circulates air efficiently, pulling up cool air from beneath, and venting out hot from the roof — we were always comfortable. There’s little glass, instead air is allowed to circulate through the gaps where you’d expect windows, a tight mesh keeps out the bugs. The room is effectively open to the unrelenting but wonderful smells and sounds of the jungle. At night the chirps of the leafhoppers, squeaks of the geckos, croaks of the frogs and distant howling of gibbons layer to form your midnight lullaby. From our room I watched a deer and her calf carefully cross the river, keeping a watchful eye-out for would-be predators.
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Our luxurious, perfect jungle chalet](http://host.trivialbeing.org/up/1240/borneo-002.jpg)](http://host.trivialbeing.org/up/borneo-002.jpg)<figcaption class="generated-figure-caption">Our luxurious, perfect jungle chalet</figcaption></figure>
+{% figure borneo-002.jpg landscape %}
+Our luxurious, perfect jungle chalet
+{% endfigure %}
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Sambar deer and calf](http://host.trivialbeing.org/up/1240/borneo-003.jpg)](http://host.trivialbeing.org/up/borneo-003.jpg)<figcaption class="generated-figure-caption">Sambar deer and calf</figcaption></figure>
+{% figure borneo-003.jpg landscape %}
+Sambar deer and calf
+{% endfigure %}
 
 Between resting in our room and meeting our guide we moseyed about the lodge, refuelled on the fantastic buffet the lodge puts on everyday, and watched golden red leaf monkeys play amongst the trees above us, a sole monitor lizard scuttled by beneath us.
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Playful red lead monkeys](http://host.trivialbeing.org/up/1240/borneo-007.jpg)](http://host.trivialbeing.org/up/borneo-007.jpg)<figcaption class="generated-figure-caption">Playful red lead monkeys</figcaption></figure>
+{% figure borneo-007.jpg landscape %}
+Playful red leaf monkeys
+{% endfigure %}
 
 ## Wild orangutan on our first trek
 
@@ -52,7 +64,9 @@ Our guide was Faezen, broad and sturdy, friendly, he welcomed us, he’d be our 
 
 Despite the introductory nature of this trek it was one of our most eventful. From the offset, in front of us grew an enormous strangling fig tree, a common sight in this virgin rainforest; they begin life as seedlings in the canopy, nested in the knot of another tree, from which they send down their roots. As they grow they entwine and envelop the host tree, often killing it and leaving a peculiar hollow core. Although parasitic, Faezen explained that they fruit more often than the trees they encompass, producing more food for the wildlife. There was a rich smell too, jasmine-like; barritonia flowers scattered the forrest floor, messy, decaying, but that aroma was incredible. Something I hadn’t expected was that much of the jungle would smell spectacular.
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![A barritonia flower](http://host.trivialbeing.org/up/1240/borneo-iphone-025.jpg)](http://host.trivialbeing.org/up/borneo-iphone-025.jpg)<figcaption class="generated-figure-caption">A [barritonia](http://www.projectnoah.org/spottings/231146016 "Project Noah") flower</figcaption></figure>
+{% figure borneo-iphone-025.jpg landscape %}
+A [barritonia](http://www.projectnoah.org/spottings/231146016 "Project Noah") flower
+{% endfigure %}
 
 Shortly off the wooden nature trail, and round to a river viewing platform we came across another guide with a party of two, necks arced upwards, they all stared into the canopy. “Orangutan” the guide whispered, “two”. We clamoured for a view, but the tree was so tall and they were at the very top, already comfortable in their newly made nest of leaves. Sam caught a glimpse from the base, looking straight up. But Faezen warned, “don’t stand too close, you don’t want the hot shower or the hot chocolate”. With the orangutans inactive for now, we continued.
 
@@ -64,7 +78,9 @@ As Faezen was pointing to a tree, probably something poisonous or a favourite fr
 
 A walkie-talkie buzzed and our guide responded, we’re heading back to the orangutan, it’s on the move. They don’t like the rain, and in the downpour they’d decided to up sticks and move. Through our steamed up glasses, speckled with water drops, or struggling to focus through the binoculars, we watched two orangutans swing down and move about the tree-top. Still obscured by foliage, we could see them better now, orange furry apes grasping with all four limbs. The views were fleeting, as, ultimately, the rain made our glasses useless, we couldn’t see anything in the wet. By the end we were just standing outside in the storm, getting drenched. Frustrated but exhilarated, we returned to our chalets desperate for a shower and a decent leech check.
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Can you see the orang-utan?](http://host.trivialbeing.org/up/1240/borneo-008.jpg)](http://host.trivialbeing.org/up/borneo-008.jpg)<figcaption class="generated-figure-caption">Can you see the orang-utan?</figcaption></figure>
+{% figure borneo-008.jpg landscape %}
+Can you see the orang-utan?
+{% endfigure %}
 
 ## Night drive
 
@@ -74,4 +90,6 @@ Our first spotting was a family of sambar deer, unfazed by the truck withs its l
 
 Back at the lodge we ate another spectacular buffet. A few bugs zipped about the place, but by our feet was a docile rhinoceros beetle, about the size of my hand. Despite its size we got very close for pictures, it was quite harmless (unless you didn’t see him and stood on him with your bare feet). He hung about for the rest of our trip, always somewhere about the place. I’ve got this far into the day and failed to mention that it was our fourth wedding anniversary! So much happened that we too forgot for the most part. We celebrated with some wine and retired for the night, tomorrow’s trek would begin at 6:30am.
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Male rhinocerous beetle](http://host.trivialbeing.org/up/1240/borneo-010.jpg)](http://host.trivialbeing.org/up/borneo-010.jpg)<figcaption class="generated-figure-caption">Male rhinocerous beetle</figcaption></figure>
+{% figure borneo-010.jpg landscape %}
+Male rhinocerous beetle
+{% endfigure %}
