@@ -12,9 +12,17 @@
   rendered markdown version of caption for use as
   alt text.
 
+  By default it includes images from a 1240 sub-directory,
+  this can be replaced or removed using the third argument.
+  eg original, or 500
+
   Usage:
-  {% figure src orientation %}
+  {% figure src orientation [directory] %}
   Some _caption_ with markdown
+  {% endfigure}
+
+  {% figure image.jpg landscape original %}
+  Original image
   {% endfigure}
 */
 
@@ -27,9 +35,17 @@ hexo.extend.tag.register('figure', function(args, content, options) {
   var render = hexo.render,
       image = args[0],
       orientation = args[1],
+      directory = typeof args[2] === "undefined" ? "1240" : args[2],
       markdownCaption = render.renderSync({text: content, engine: 'markdown'}),
       renderedCaption = $(markdownCaption).unwrap().html(), //remove wrapping paragraph element
       caption = $(markdownCaption).text();
 
-  return '<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--'+ orientation +'"><a href="http://host.trivialbeing.org/up/'+ image +'"><img src="http://host.trivialbeing.org/up/1240/'+ image +'" alt="'+ caption +'"></a><figcaption class="generated-figure-caption">'+ renderedCaption +'</figcaption></figure>';
+  // Special case original directory
+  if (directory === "original") {
+    directory = '';
+  } else {
+    directory = directory + '/';
+  }
+
+  return '<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--'+ orientation +'"><a href="http://host.trivialbeing.org/up/'+ image +'"><img src="http://host.trivialbeing.org/up/' + directory + image +'" alt="'+ caption +'"></a><figcaption class="generated-figure-caption">'+ renderedCaption +'</figcaption></figure>';
 }, true);
