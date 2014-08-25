@@ -16,9 +16,9 @@ page: 1
 
 The first leg of our Malaysia and Borneo tour began in Kuala Lumpur (KL), at the upmarket Traders hotel. It’s in the centre of town, 40 minutes from the airport, and with probably the best views of the Petronas Towers. Buildings in KL go straight up; condominiums, skyscrapers, office blocks, most buildings must be over 20 floors. Our hotel was no exception, and our room was on the 29th floor.
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--portrait">[![View of the Petronas Towers from Traders hotel](http://host.trivialbeing.org/up/1240/kuala-lumpur-034.jpg)](http://host.trivialbeing.org/up/kuala-lumpur-034.jpg)<figcaption class="generated-figure-caption">View of the Petronas Towers from Traders hotel</figcaption></figure>
+{% figure kuala-lumpur-034.jpg portrait %}View of the Petronas Towers from Traders hotel{% endfigure %}
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Our room with a view](http://host.trivialbeing.org/up/1240/kuala-lumpur-002.jpg)](http://host.trivialbeing.org/up/kuala-lumpur-002.jpg)<figcaption class="generated-figure-caption">Our room with a view</figcaption></figure>
+{% figure kuala-lumpur-002.jpg landscape %}Our room with a view{% endfigure %}
 
 Jet-lagged and exhausted we’d checked in late the night before, just awake enough to be astonished by our [perfect nighttime cityscape](http://instagram.com/p/lkbDlXNFC8/ "Instagram"). When we opened the curtains the next morning [we could barely see them](http://host.trivialbeing.org/up/kuala-lumpur-003.jpg "Foggy towers"), thick fog and rain made a day of slumber our best choice. We were however up in time for breakfast at 10:30am, the buffet was large but expensive, and with so many options in town we only had breakfast here once. My highlight was a Chinese noodle soup in a rich chicken broth, but there was sushi and fried rice, fresh fruit and pastries too.
 
@@ -32,13 +32,13 @@ Our relaxation was interrupted by mild camera panic, some photos were showing vi
 
 Being in Malaysia one week after the MH370 plane disappearance was profound. Everywhere people were glued to TVs and radios, waiting for the next announcement from the prime minister. Taxi drivers had little TVs, and big screens blasted out the news. Where was it? What had happened to the plane? Everyone in Malaysia was keen to find out. Radio DJs read out “Pray for MH370” messages, and outside malls were large prayer walls, with heartfelt letters and prayers of safe return. Purple ribbons symbolised the disaster, and the news events remained with us throughout our holiday.
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Prayers for MH370](http://host.trivialbeing.org/up/1240/borneo-iphone-002.jpg)](http://host.trivialbeing.org/up/borneo-iphone-002.jpg)<figcaption class="generated-figure-caption">Prayers for MH370</figcaption></figure>
+{% figure borneo-iphone-002.jpg landscape %}Prayers for MH370{% endfigure %}
 
 ## Petronas towers
 
 The weather brightened a bit by the afternoon, and we walked back to Traders via the Petronas towers and another mall. It turned out that perhaps today wasn’t the best day to relax and do nothing, as our only other day, a Monday, everything would be closed. Nevermind, it’s a kind of forceful relaxation. KL is much the concrete jungle, its recent development, widespread construction and faceless modernness suck out whatever character it might have had. It’s probably a great place to live, or do business, but as a holiday destination it’s best as a short stop over. That suited us just fine.
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Beneath the Petronas Towers](http://host.trivialbeing.org/up/1240/kuala-lumpur-005.jpg)](http://host.trivialbeing.org/up/kuala-lumpur-005.jpg)<figcaption class="generated-figure-caption">Beneath the Petronas Towers</figcaption></figure>
+{% figure kuala-lumpur-005.jpg landscape %}Beneath the Petronas Towers{% endfigure %}
 
 ## Atmosphere 360
 
@@ -46,9 +46,9 @@ That night, based on reviews and the Lonely Planet, we took a taxi to the observ
 
 I was in a foul mood most of the night and didn’t think the food was worth the price. Samantha made the most of her buffet (and my awful company), and enjoyed the seafood, stews, rice and so on. Perhaps it was the jet lag and lack of sleep getting to me? Yeah, I’ll go with that, definitely.
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Twilight view of Kuala Lumpur from Atmosphere](http://host.trivialbeing.org/up/1240/kuala-lumpur-012.jpg)](http://host.trivialbeing.org/up/kuala-lumpur-012.jpg)<figcaption class="generated-figure-caption">Twilight view of Kuala Lumpur from Atmosphere</figcaption></figure>
+{% figure kuala-lumpur-012.jpg landscape %}Twilight view of Kuala Lumpur from Atmosphere{% endfigure %}
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--portrait">[![Observation tower and Atmosphere 360](http://host.trivialbeing.org/up/1240/borneo-iphone-003.jpg)](http://host.trivialbeing.org/up/borneo-iphone-003.jpg)<figcaption class="generated-figure-caption">Observation tower and Atmosphere 360</figcaption></figure>
+{% figure borneo-iphone-003.jpg portrait %}Observation tower and Atmosphere 360{% endfigure %}
 
 My mood lightened as soon as we left the ‘revolvaurant’, and the slow walk back via the towers and park was more romantic. The mall was still open, and despite it being 10pm, the park was alive with people. By the lake we saw a long-tailed mammal scarper up a tree, it looked a bit like an otter or a marten, but my online searches haven’t revealed what’s usually seen in the park, or what city wildlife lives in KL.
 

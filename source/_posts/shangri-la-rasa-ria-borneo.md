@@ -14,13 +14,13 @@ page: 1
 background: http://host.trivialbeing.org/up/1240/kota-kinabalu-098.jpg
 ---
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Shangri-la Rasa Ria, a beachside paradise](http://host.trivialbeing.org/up/1240/kota-kinabalu-098.jpg)](http://host.trivialbeing.org/up/kota-kinabalu-098.jpg)<figcaption class="generated-figure-caption">Shangri-la Rasa Ria, a beachside paradise</figcaption></figure>
+{% figure kota-kinabalu-098.jpg landscape %}Shangri-la Rasa Ria, a beachside paradise{% endfigure %}
 
 From the [LimeTree hotel in Kuching](/2014/05/kuching-borneo/) we took a leisurely afternoon flight to Kota Kinabalu, and a 40 minute taxi north to the Shangri-La Rasa Ria resort, near Tuaran. Our taxi driver enjoyed cheesy pop music which was broken up by a soporific American-accented radio DJ, the standout track was “hashtag selfie”, with all the depth and nuance of an internet meme. Rasa Ria is so large that it has two receptions, and we arrived at The Garden Wing. “Welcome, this is for you”, beamed the porter, and he struck a gong. Live traditional music begun to play for us, a harmonious reception.
 
 The reception is enormous, and filled with lounging guests in flip-flops. It looks out past the pool at the pristine beach and exudes a sense of calm. Our room was on the fourth floor and had a “rainforest view”, which suited us just fine. I don’t think we’ve ever seen a bed so big. The beach faces west for a perfect beachside sunset. As the sun went down and the sky turned red, guests flocked to the sea with their expensive cameras and tripods (or iPads) to try and capture it.
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Sunset in paradise](http://host.trivialbeing.org/up/1240/kota-kinabalu-003.jpg)](http://host.trivialbeing.org/up/kota-kinabalu-003.jpg)<figcaption class="generated-figure-caption">Sunset in paradise</figcaption></figure>
+{% figure kota-kinabalu-003.jpg landscape %}Sunset in paradise{% endfigure %}
 
 ## Coast restaurant
 
@@ -32,4 +32,4 @@ At Coast, one of the many restaurants on site, it was Lobster night and that won
 * seared duck breast (jerusalem artichoke puree . pineapple chutney . pickled onion . crispy potato . orange jus)
 {% endmenu %}
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--portrait">[![Jellyfish lights at Coast](http://host.trivialbeing.org/up/1240/kota-kinabalu-005.jpg)](http://host.trivialbeing.org/up/kota-kinabalu-005.jpg)<figcaption class="generated-figure-caption">Jellyfish lights at Coast</figcaption></figure>
+{% figure kota-kinabalu-005.jpg portrait %}Jellyfish lights at Coast{% endfigure %}

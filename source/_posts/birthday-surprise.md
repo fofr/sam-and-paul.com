@@ -58,6 +58,6 @@ That was excellent. Simply fantastic. In the tacky Hollywood gift shop outside w
 
 The museum was closing now, open late on a Friday, but shutting now it was 9 o'clock. We stepped out into the cold streets of Kensington, hungry for some dinner. We stumbled on Comptoir Libanais, a Lebanese restaurant with an exciting menu, and teaming with diners. Seated at the far end Sam enjoyed a Lamb and Prune tagine, and I had the lamb and harissa burger with Lebanese fries, which were simply scrumptious.
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--portrait">[![Lebanese Burger at Comptoir Libanais](http://host.trivialbeing.org/up/1240/birthday-comptoir-01.JPG)](http://host.trivialbeing.org/up/birthday-comptoir-01.JPG)<figcaption class="generated-figure-caption">Lebanese Burger at Comptoir Libanais</figcaption></figure>
+{% figure birthday-comptoir-01.JPG portrait %}Lebanese Burger at Comptoir Libanais{% endfigure %}
 
 We walked the snowy, icy streets of Kensington back to our hotel. It wasn't even my birthday yet, and I was having a fabulous time.

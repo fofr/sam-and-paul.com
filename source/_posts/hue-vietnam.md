@@ -22,9 +22,9 @@ Soon enough it was time to go, a 40 minute taxi ride to Da Nang, a little too ho
 
 We were in the front carriage of our train, soft seats with air conditioning and a television that played Vietnamese comedy. The train followed the Hai Van peninsula north, along the gorgeous coastline.
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--portrait">[![On the train from Da Nang to Hue](http://host.trivialbeing.org/up/1240/hue-304.jpg)](http://host.trivialbeing.org/up/hue-304.jpg)<figcaption class="generated-figure-caption">On the train from Da Nang to Hue</figcaption></figure>
+{% figure hue-304.jpg portrait %}On the train from Da Nang to Hue{% endfigure %}
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Going over the Hai Van peninsula to Hue](http://host.trivialbeing.org/up/1240/hue-303.jpg)](http://host.trivialbeing.org/up/hue-303.jpg)<figcaption class="generated-figure-caption">Going over the Hai Van peninsula to Hue</figcaption></figure>
+{% figure hue-303.jpg landscape %}Going over the Hai Van peninsula to Hue{% endfigure %}
 
 The twelve train carriages snaked left and right, up and down the mountainside. Da Nang appearing against the coastline every now and then, the odd tunnel plunging us into darkness.
 
@@ -38,7 +38,7 @@ Passing locals with our backpacks, we were greeted with smiles, the occasional l
 
 Our room was a little smaller than before, and the wifi a little patchy, but we had a balcony overlooking Perfume River, and at twilight it really was quite beautiful. The enormous flag tower stands proudly in the distance, marking the entrance to both the citadel and the imperial city.
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Our room at La Residence](http://host.trivialbeing.org/up/1240/hue-307.jpg)](http://host.trivialbeing.org/up/hue-307.jpg)<figcaption class="generated-figure-caption">Our room at La Residence</figcaption></figure>
+{% figure hue-307.jpg landscape %}Our room at La Residence{% endfigure %}
 
 ##  Le Parfum restaurant
 
@@ -46,10 +46,10 @@ Too exhausted to venture out into the heat, we chose to eat at the hotel's rathe
 
 With some white wine and a Festival beer, we enjoyed the four elements of Hue starter, while trying to avoid any Mosquitoes. The starters was comprised of Fire: scrambled egg, scallop and Minh Mang; Earth: Grilled chicken stuffed with truffle; Wind: Green papaya with ginger salad and deep fried rice coated prawns and Water: Exotic fruits gazpacho, mango sorbet and pesto. Yumm-eeee.
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![The four elements of Hue starter](http://host.trivialbeing.org/up/1240/hue-308.jpg)](http://host.trivialbeing.org/up/hue-308.jpg)<figcaption class="generated-figure-caption">The four elements of Hue starter</figcaption></figure>
+{% figure hue-308.jpg landscape %}The four elements of Hue starter{% endfigure %}
 
 And our mains were simply scrumptious too. Pan Fried Mahi Mahi crusted with Vietnamese coffee, chocolate and local spices, with turmeric rice, asia pear salad and spicy lemongrass rougail and garlic emulsion. Grilled calamari with Vietnamese satay and lemongrass, pineapple fried rice, shrimp and sautéed pak choi with garlic. Delicious.
 
 And for dessert, a little risky, Durian ice cream with papaya fruit and star anise. It was sort of like a Vietnamese rhubarb crumble.
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--landscape">[![Durian ice cream with papaya fruit and star anise](http://host.trivialbeing.org/up/1240/hue-310.jpg)](http://host.trivialbeing.org/up/hue-310.jpg)<figcaption class="generated-figure-caption">Durian ice cream with papaya fruit and star anise</figcaption></figure>
+{% figure hue-310.jpg landscape %}Durian ice cream with papaya fruit and star anise{% endfigure %}
