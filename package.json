@@ -8,6 +8,8 @@
     "hexo-migrator-wordpress": "^0.1.0",
     "hexo-renderer-ejs": "*",
     "hexo-renderer-marked": "*",
-    "hexo-renderer-stylus": "*"
+    "hexo-renderer-stylus": "*",
+    "jsdom": "1.0.0-pre.3",
+    "jquery": "2.1.1"
   }
 }
