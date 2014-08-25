@@ -100,7 +100,7 @@ We crossed over the river and watched from afar, taking pictures of Hoi An at ni
 
 {% figure hoi-an-146.jpg landscape %}Lanterns in Hoi An{% endfigure %}
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--portrait">[![A child selling lanterns, sitting with the faeries](http://host.trivialbeing.org/up/1000/hoi-an-148.jpg)](http://host.trivialbeing.org/up/hoi-an-148.jpg)<figcaption class="generated-figure-caption">A child selling lanterns, sitting with the faeries</figcaption></figure>
+{% figure 1000/hoi-an-148.jpg portrait original %}A child selling lanterns, sitting with the faeries{% endfigure %}
 
 The sky threatened again, and not wishing to become drenched once more, we headed back. The skies opened just as we got to our hotel, perfect timing.
 
