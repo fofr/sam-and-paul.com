@@ -21,7 +21,7 @@ page: 1
 
 Rewinding to last Wednesday, I left the office amidst a flurry of work for two weeks, lugging my suitcase behind. In West Ewell, after crossing London, we ate Sam's risotto of "things left in the fridge", I watched Man Utd nervously and luckily win the Champions League against Chelsea whilst Sam hurriedly tried to remember all the things she might forget. Come 3:45am, the serenade of my phone alarm assaults us and throws us out of bed, diving into suitcases to triple check our tickets and passports - before being whisked to Gatwick by Sam's mum for our 7:00am flight to [Mitilene](http://en.wikipedia.org/wiki/Mitilene), the [Lesbos](http://en.wikipedia.org/wiki/Lesbos) capital, via First Choice airlines.
 
-We booked the holiday and flights through First Choice two months in advance for £850, choosing to stay at the [Sun Rise Hotel](http://www.dpbolvw.net/click-2796858-10780389?url=http://www.hotels.com/ho326612/sunrise-lesvos-greece/), next to Molyvos, in North Lesbos.
+We booked the holiday and flights through First Choice two months in advance for £850, choosing to stay at the Sun Rise Hotel, next to Molyvos, in North Lesbos.
 
 I shall not get into our laborious process of deciding which island/resort to visit in Greece, but we decided on Lesbos for its vegetation, size, relatively ow tourism, direct flights and culture. The Sun Rise Hotel was also highly rated on [Trip Advisor](http://www.tripadvisor.com/Hotels-g189479-Lesbos_Northeast_Aegean_Islands-Hotels.html) (other candidates were the Olive Press Hotel (too noisy), The Sea Horse (no pool) and a couple of others (Petra, Anaxos, too far from the beautiful Molyvos).
 

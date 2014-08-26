@@ -31,7 +31,7 @@ A brief coach transfer took us to our hotel, Vila Vicencia. Through tunnels, ove
 
 [![](http://host.trivialbeing.org/up/small/madeira-030-cable-car-view.jpg)](http://host.trivialbeing.org/up/madeira-030-cable-car-view.jpg)
 
-We stayed, rather unsurprisingly, in the [hotel zone](http://www.dpbolvw.net/click-2796858-10780389?url=http://www.hotels.com/de1072741/hotels-funchal-portugal/ "Hotels.com in Funchal"), but Vila Vicencia was very different to its surroundings. A set of three converted houses, it’s a hidden gem amongst the monsters. Surrounded by tightly packed luscious gardens and with a quaint, timely and sun bleached decor, it ekes out its own slice of personality amongst the faceless. It’s certainly not five or even four star, but it’s small enough to know the other guests and to make friends.
+We stayed, rather unsurprisingly, in the hotel zone, but Vila Vicencia was very different to its surroundings. A set of three converted houses, it’s a hidden gem amongst the monsters. Surrounded by tightly packed luscious gardens and with a quaint, timely and sun bleached decor, it ekes out its own slice of personality amongst the faceless. It’s certainly not five or even four star, but it’s small enough to know the other guests and to make friends.
 
 The room was for three, and we enjoyed the extra space of a living room and balcony. Wooden wardrobes and creaky beds contrasted the flat screen TV. We brought our own tea, we knew we would have a kettle, and a fridge for the milk.
 
@@ -39,7 +39,7 @@ The room was for three, and we enjoyed the extra space of a living room and balc
 
 ## Chalet Vicente restaurant
 
-Acquainted and unpacked we headed into Funchal for our first night, albeit a little chillier than expected. We passed the [famous Reids hotel](http://www.dpbolvw.net/click-2796858-10780389?url=http://www.hotels.com/ho141078/reids-palace-funchal-portugal/ "Hotels.com") and the kitschy Casino. The restaurants were all very similar, clearly geared towards tourism, many had resorted to our most hated of things; restaurant touts, not to mention menus with poorly photographed pictures of meals. Very unsure of ourselves, and starving, we stopped at the first place with a bit of character and a menu that detailed dishes; Chalet Vicente.
+Acquainted and unpacked we headed into Funchal for our first night, albeit a little chillier than expected. We passed the famous Reids hotel and the kitschy Casino. The restaurants were all very similar, clearly geared towards tourism, many had resorted to our most hated of things; restaurant touts, not to mention menus with poorly photographed pictures of meals. Very unsure of ourselves, and starving, we stopped at the first place with a bit of character and a menu that detailed dishes; Chalet Vicente.
 
 [![](http://host.trivialbeing.org/up/small/madeira-142-chalet-vicente.jpg)](http://host.trivialbeing.org/up/madeira-142-chalet-vicente.jpg)
 
