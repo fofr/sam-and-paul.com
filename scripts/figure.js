@@ -32,7 +32,8 @@ var jsdom = require('jsdom').jsdom,
 
 hexo.extend.tag.register('figure', function(args, content, options) {
 
-  var render = hexo.render,
+  var image_dir = hexo.config.image_dir,
+      render = hexo.render,
       image = args[0],
       orientation = args[1],
       directory = typeof args[2] === "undefined" ? "1240" : args[2],
@@ -47,5 +48,5 @@ hexo.extend.tag.register('figure', function(args, content, options) {
     directory = directory + '/';
   }
 
-  return '<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--'+ orientation +'"><a href="http://host.trivialbeing.org/up/'+ image +'"><img src="http://host.trivialbeing.org/up/' + directory + image +'" alt="'+ caption +'"></a><figcaption class="generated-figure-caption">'+ renderedCaption +'</figcaption></figure>';
+  return '<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--'+ orientation +'"><a href="' + image_dir + image +'"><img src="' + image_dir + directory + image +'" alt="'+ caption +'"></a><figcaption class="generated-figure-caption">'+ renderedCaption +'</figcaption></figure>';
 }, true);
