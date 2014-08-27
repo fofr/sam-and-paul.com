@@ -25,3 +25,9 @@ if (is_archive()){
 <link rel="icon" type="image/png" href="/favicon.png" />
 <script src="http://use.typekit.com/fdb0guo.js"></script>
 <script>try{Typekit.load();}catch(e){}</script>
+<%
+  // Prefetch the next page of posts
+  if (typeof page.pages === "number") {
+  pagePath = page.path.replace(/\/[\d]+\/$/, '/');
+  nextPage = page.page + 1;
+%><link rel="prefetch" href="<%- config.root %><%- pagePath %><%= nextPage %>/" /><% } %>
