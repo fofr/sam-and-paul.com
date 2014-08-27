@@ -4,28 +4,7 @@
   <%- partial('_partial/head') %>
 </head>
 <body>
-  <% backgroundBase = '/images/backgrounds/blurred/'; %>
-  <% if (is_post()) { %>
-    <% background = backgroundBase + page.slug.replace('/', '-') + '.jpg' %>
-    <div class="blurred-background" style="background-image: url('<%= background %>');">
-    </div>
-  <% } else if (page.posts) { %>
-    <%
-      background = null;
-      page.posts.each(function(i) {
-        if (background === null &&
-            (typeof i.page === "undefined" || i.page === 1)
-           ) {
-          background = backgroundBase + i.slug.replace('/', '-') + '.jpg'
-        }
-      });
-    %>
-    <div class="blurred-background" style="background-image: url('<%= background %>');">
-    </div>
-  <% } else { %>
-    <div class="blurred-background" style="background-image: url('/images/backgrounds/blurred/kuching-borneo.jpg');">
-    </div>
-  <% } %>
+  <div class="blurred-background" style="background-image: url('<%= backgroundImage(page) %>');"></div>
   <%
    wrapperClass = "page-wrapper hfeed";
    if (is_home()) {
