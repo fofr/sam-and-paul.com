@@ -27,7 +27,6 @@ if (is_archive()){
 <script>try{Typekit.load();}catch(e){}</script>
 <%
   // Prefetch the next page of posts
-  if (typeof page.pages === "number") {
-  pagePath = page.path.replace(/\/[\d]+\/$/, '/');
-  nextPage = page.page + 1;
-%><link rel="prefetch" href="<%- config.root %><%- pagePath %><%= nextPage %>/" /><% } %>
+  nextPage = nextPagePath(page);
+  if (nextPage) {
+%><link rel="prefetch" href="<%= nextPage %>" /><% } %>

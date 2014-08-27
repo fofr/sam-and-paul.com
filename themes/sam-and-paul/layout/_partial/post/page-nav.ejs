@@ -1,16 +1,17 @@
-<% if (typeof post.pages === "number") {
-  pagePath = post.path.replace(/\/[\d]+\/$/, '/');
-  previousPage = post.page - 1;
-  nextPage = post.page + 1;
+<%
+  prevPage = prevPagePath(post);
+  nextPage = nextPagePath(post);
+
+  if (prevPage || nextPage) {
 %>
   <nav class="nextPage clearfix">
-    <% if (post.page !== 1) { %>
-      <a href="<%- config.root %><%- pagePath %><% if (previousPage > 1) { %><%= previousPage %>/<% } %>" data-key="left">
+    <% if (prevPage) { %>
+      <a href="<%= prevPage %>" data-key="left">
         <span class="previous">&larr; Previous</span>
       </a>
     <% } %>
-    <% if (post.page < post.pages) { %>
-      <a href="<%- config.root %><%- pagePath %><%= nextPage %>/"  data-key="right">
+    <% if (nextPage) { %>
+      <a href="<%= nextPage %>"  data-key="right">
         <span class="next">Next &rarr;</span>
       </a>
     <% } %>
