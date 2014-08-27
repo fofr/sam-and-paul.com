@@ -29,4 +29,5 @@ if (is_archive()){
   // Prefetch the next page of posts
   nextPage = nextPagePath(page);
   if (nextPage) {
-%><link rel="prefetch" href="<%= nextPage %>" /><% } %>
+%><link rel="prefetch" href="<%= nextPage %>" />
+<link rel="prefetch" href="<%= nextPageBackground(page) %>" /><% } %>
