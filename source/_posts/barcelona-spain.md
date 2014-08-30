@@ -13,7 +13,7 @@ pages: 5
 page: 1
 ---
 
-[![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-319.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-319.jpg)
+{% figure spain-cadaques-barcelona-319.jpg portrait %}La Sagrada Família{% endfigure %}
 
 ## Cadaques to Barcelona
 
@@ -25,9 +25,9 @@ Two more hours going south, past Girona, to Barcelona--shut eye opportunity impe
 
 In the cool, air conditioned room, with its dark brown wooden décor, tiled and glistening bathroom, thick curtains and huge beds, we recovered, in four star luxury.
 
-[![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-306.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-306.jpg)
+{% figure spain-cadaques-barcelona-306.jpg portrait %}Samantha explaining the photograph I should take outside Hotel Center{% endfigure %}
 
-[![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-144.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-144.jpg)
+{% figure spain-cadaques-barcelona-144.jpg landscape %}Our room in Hotel Center{% endfigure %}
 
 ## Walking tour
 
@@ -35,15 +35,15 @@ Soon enough, Sam was tired of relaxing and wanted to do something. “Can we try
 
 Las Ramblas is packed with shopping stalls, pet stalls and street performers; from terrible Zorros and painted silver statues (chatting during their break), to perfectly executed floating genies that left crowds gasping. Dodgy looking men sold squeaky plastic mouthpieces and paranoid for our valuables, we hugged our bags and pockets tightly.
 
-[![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-147.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-147.jpg)
+{% figure spain-cadaques-barcelona-147.jpg landscape %}Outside Palau Güell{% endfigure %}
 
 First stop, Palau Güell, an early Gaudí project, closed for renovations. Then to Plaça de Sant Jaume a large open square with central fountain and surrounding eateries. Now in the Barri Gòtic quarter we meandered through thin streets, round to the catedral (not the only cathedral in BCN under scaffolding) and Iglesia Santa María del Mar. We didn’t go in, a wedding was going on, we instead sat on the wall nearby, watching the smartly dressed passers by, and the quirky artist that appeared to be a misanthrope. We stopped again at the Plaça del Rei, a quiet enclosed square with steps perfectly placed for seating--here I strained to photograph those sitting near us in an artistic way.
 
-[![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-152.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-152.jpg)
+{% figure spain-cadaques-barcelona-152.jpg portrait %}Iglesia Santa María del Mar{% endfigure %}
 
-[![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-150.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-150.jpg)
+{% figure spain-cadaques-barcelona-150.jpg landscape %}Man smoking in Plaça del Rei{% endfigure %}
 
-[![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-148.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-148.jpg)
+{% figure spain-cadaques-barcelona-148.jpg portrait %}Narrow streets of the Barri Gòtic quarter{% endfigure %}
 
 Round the back of the cathedral we paused for strawberry and raspberry ice creams, as another performer created huge soapy bubbles, leaving the air smelling of washing up liquid.
 
@@ -53,9 +53,9 @@ The tour continued, taking us past the Museo de Picasso, we didn’t go in, then
 
 By the Picasso museum we stopped at the BCN design hub, dHUB, for their free wallpaper exhibition. Sounds dull, certainly wasn’t. Exhibits included a post-it note wall, a rucked up roll of solid paper which formed a stylish shelf, textured papers, paper that changed based on temperature and designs that flowed around wall objects, like sockets and lamps.
 
-[![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-156.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-156.jpg)
+{% figure spain-cadaques-barcelona-156.jpg landscape %}A wall of post-it notes at dHUB wallpaper exhibition{% endfigure %}
 
-[![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-157.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-157.jpg)
+{% figure spain-cadaques-barcelona-157.jpg landscape %}Wallpaper curving around a light fitting at dHUB wallpaper exhibition{% endfigure %}
 
 ## Cerveceria Catalana tapas
 
@@ -70,8 +70,8 @@ Our hotel sat very close to the excellent and widely recommended tapas bar and r
 * Mushrooms and potatoes
 {% endmenu /%}
 
-[![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-161.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-161.jpg)
+{% figure spain-cadaques-barcelona-161.jpg landscape %}Razor clams at Cerveceria Catalana{% endfigure %}
 
-[![](http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-162.jpg)](http://host.trivialbeing.org/up/spain-cadaques-barcelona-162.jpg)
+{% figure spain-cadaques-barcelona-162.jpg landscape %}Fried baby squids at Cerveceria Catalana{% endfigure %}
 
 We shared tips on menu choices and Barca trips with the tables either side; a slightly drunken (three jugs of Sangria?) American-Asian now living in China, trying to chat up some Japanese girls on one side, and two English girls on a long girly weekend of sightseeing and good food, on the other.
