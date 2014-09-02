@@ -24,7 +24,7 @@ After hanging around amongst thousands of mosquitos waiting for the check-in des
 
 We took the 8:25am Air Asia flight to the familiar Suvarnabhumi airport in Bangkok, touching down an hour later.
 
-[![](http://host.trivialbeing.org/up/small/honeymoon-247.jpg)](http://host.trivialbeing.org/up/honeymoon-247.jpg)
+{% figure honeymoon-247.jpg landscape %}Suvarnabhumi airport, Bangkok{% endfigure %}
 
 One last pad thai and mango shake before we leave and then onto our 12:25pm flight home. 11 hours to Heathrow, London.
 
@@ -42,11 +42,11 @@ The next task: getting home. Paris would have been easy - trains, ferries, etc.,
 
 At the airport no-one really knew what to do. Some people went through passport control by mistake, the rest of us were guided by staff around in circles a couple of times--up and down escalators before finding us a departure lounge. A Thai airways representative will be with you shortly.
 
-[![](http://host.trivialbeing.org/up/small/honeymoon-251.jpg)](http://host.trivialbeing.org/up/honeymoon-251.jpg)
+{% figure honeymoon-251.jpg landscape %}Stuck in Frankfurt{% endfigure %}
 
 Two hours later and we had no representative and no more information. We listened to savvy travellers organising trains or car rentals, we wanted to stick with them, but whilst Sam was grabbing provisions they made a dash for it.
 
-[![](http://host.trivialbeing.org/up/small/honeymoon-253.jpg)](http://host.trivialbeing.org/up/honeymoon-253.jpg)
+{% figure honeymoon-253.jpg portrait %}No news, no-one’s going anywhere{% endfigure %}
 
 On our own again we heard the Lufthansa spokeswoman give us the first tidbits of information. “Everything that could have gone wrong has gone wrong”. A lighting conference meant that all hotels were booked up and that we’d most likely be staying on Frankfurt airport’s floors. At 10am tomorrow in C13 we will give you more information, food will arrive shortly. If you do go, please leave your luggage here so we don’t have to check them through security again.
 
@@ -58,4 +58,4 @@ Frankfurt’s neon skyline looked gorgeous against a crisp clear night.
 
 The hotel was a poor IBIS imitation, two singles were pushed together badly to make a double, there was no complimentary shampoo and above all, no tea or coffee! Instead we gobbled up the duty free Toblerone. At least we had a bed and relative comfort.
 
-[![](http://host.trivialbeing.org/up/small/honeymoon-255.jpg)](http://host.trivialbeing.org/up/honeymoon-255.jpg)
+{% figure honeymoon-255.jpg landscape %}A room for the night{% endfigure %}

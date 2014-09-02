@@ -22,7 +22,7 @@ This year felt like a double birthday. On Tuesday, the day before, Sam treated m
 
 Come Thursday it was my last day at TSL, and with it came cake, presents and a pub send off! Friday was lost to a hangover, and all those good intentions for a day off between jobs fell into oblivion.
 
-[![](http://host.trivialbeing.org/up/small/IMG_2911.JPG)](http://host.trivialbeing.org/up/IMG_2911.JPG)
+{% figure IMG_2911.JPG landscape original %}‘Good luck Paul’ leaving cake{% endfigure %}
 
 ## Out and about
 
