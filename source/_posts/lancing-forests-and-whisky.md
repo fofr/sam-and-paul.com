@@ -23,15 +23,15 @@ From the A27 we spotted a large cathedral on the south downs. Trying to reach it
 
 Back down the hill, through the narrow one way lanes, back in a circle. Take two. We turned left instead of straight on and found ourselves at Lancing College with its towering chapel and ornate school buildings. The chapel was open to the public, and by ourselves, we toured the crypt, pulpit et al. Some gloves sat on the back of a chair.
 
-[![](http://host.trivialbeing.org/up/small/IMG_7894.JPG)](http://host.trivialbeing.org/up/IMG_7894.JPG)
+{% figure IMG_7894.JPG landscape %}Lancing College{% endfigure %}
 
-[![](http://host.trivialbeing.org/up/small/IMG_7849.JPG)](http://host.trivialbeing.org/up/IMG_7849.JPG)
+{% figure IMG_7849.JPG landscape %}Interior of Lancing College{% endfigure %}
 
 Post-photography and tuna mayo sandwiches, we drove West, along the coast, into the sun and towards Worthing, passing the pier and stopping by the sea.
 
-[![](http://host.trivialbeing.org/up/small/IMG_7930.JPG)](http://host.trivialbeing.org/up/IMG_7930.JPG)
+{% figure IMG_7930.JPG landscape %}Worthing beach{% endfigure %}
 
-[![](http://host.trivialbeing.org/up/small/IMG_7956.JPG)](http://host.trivialbeing.org/up/IMG_7956.JPG)
+{% figure IMG_7956.JPG landscape %}Old man Paul by the sea{% endfigure %}
 
 The tide was out and where the pebbles stopped we found sand! Sand! Who’d have thought there’d be sand here! Birds nibbled at sea creatures as the sun began to dip. We bought a fresh flat fish from the fisherman and, back at home in Brighton, made homemade fish and chips as the sun, a glowing ball of red, dipped behind Worthing in the distance.
 
@@ -41,9 +41,9 @@ A long time ago, when Sam had a little more free time, she signed up to numerous
 
 We’d seen Fat Pig a short while back, and knew we enjoyed LaBute’s work, and “In a forest” did not disappoint. Whilst not wanting to spoil anything, it had Metallica, a lot of swearing, audience alienation (in a good way), and a lot of fighting. Both Sam and I highly recommend it, its run ends in June.
 
-![](http://host.trivialbeing.org/up/in-a-forest-dark-and-deep-1.jpg)
+{% figure in-a-forest-dark-and-deep-1.jpg landscape original %}Matthew Fox and Olivia Williams in, “In a forest dark and deep”{% endfigure %}
 
-[![](http://host.trivialbeing.org/up/small/in-a-forest-dark-and-deep-2.jpg)](http://host.trivialbeing.org/up/in-a-forest-dark-and-deep-2.jpg)
+{% figure in-a-forest-dark-and-deep-2.jpg landscape original %}Matthew Fox and Olivia Williams in, “In a forest dark and deep”{% endfigure %}
 
 The Q & A gave us a fascinating insight into the ongoing work at the early stages of a new production, chopping bits out, making other parts flow better, responding to audience reaction, getting the script “locked down” and preparing for press night.
 
@@ -55,7 +55,7 @@ I’ve never been into Whisky, probably because I’m young and just hadn’t gi
 
 Five of us ordered the Whisky Tour, five 250ml samples covering the lowlands, highlands, Speyside, Campbeltown and Orkney. I preferred the darker, smoother Whiskies, the 12yr Old Pulteney was a common favourite, as was the Mortlach 16yr. Until now I couldn’t distinguish one Whisky from another, but having five samples to compare helped me pick out the subtle (and not so subtle) differences; spiciness, lightness, smoothness, loch-ness (Scottish pun, my bad).
 
-[![](http://host.trivialbeing.org/up/small/albannach.jpg)](http://host.trivialbeing.org/up/albannach.jpg)
+{% figure albannach.jpg square original %}Whiskies at the Albannach{% endfigure %}
 
 Obviously with this much Whisky we needed some food, the braised rabbit leg was very tasty, as was the Cullen Skink (smoked haddock and potato soup) starter.
 
