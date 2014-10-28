@@ -6,7 +6,7 @@ tags:
   - shaanxi
 categories:
   - holidays
-date: 2014-09-16
+date: 2014-09-15
 pages: 2
 page: 1
 ---
