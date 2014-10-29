@@ -10,7 +10,7 @@ categories:
 date: 2014-09-16
 ---
 
-From [Xi’an](/2014/09/xian-china/) we flew to Jiuzhaihuanglong airport, and had a transfer into [Songpan](https://en.wikipedia.org/wiki/Songpan_County)&nbsp;(松潘, Sōngpān) — not somewhere we'd read much about, it came as part of our Jiuzhaigou leg, it's 40km south of the solitary runway. We were at our hotel and checked in by 10:30am.
+From [Xi’an](/2014/09/xian-china/) we flew to Jiuzhaihuanglong airport, and had a transfer into [Songpan](https://en.wikipedia.org/wiki/Songpan_County)&nbsp;(松潘, Sōngpān) — not somewhere we'd read much about, it came as part of our [Jiuzhaigou](/2014/09/jiuzhaigou-huanglong-china/) leg, it's 40km south of the solitary runway. We were at our hotel and checked in by 10:30am.
 
 Songpan is a small historic town with rebuilt city walls, ancient city gates and old wooden covered bridges, nestled in a valley along the major river. It's a casual, laid back place, with a backpacker vibe, although the honking horns of great trucks passing up and down the single main road tends to shatter the peace.
 
