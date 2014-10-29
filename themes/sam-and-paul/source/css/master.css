@@ -654,7 +654,7 @@ article nav li {
 
 .generated-figure {
   margin-top: 24px;
-  margin-bottom: 24px;
+  margin-bottom: 30px; /* 24px + 6px from figcaption */
 }
 
 .generated-figure--620 {
@@ -669,7 +669,7 @@ article nav li {
 
 /* Pull images together when shown next to each other */
 .generated-figure + .generated-figure {
-  margin-top: -25px;
+  margin-top: -31px;
 }
 
 /* Pull image to top when first content in article */
@@ -697,10 +697,11 @@ article nav li {
   font-weight: normal;
   text-align: center;
   background: #eee;
-  padding: 12px 0;
+  padding: 12px 10px;
   margin-top: -6px;
   margin-bottom: -6px;
   border-bottom: 1px solid #ddd;
+  border-top: 1px solid #ddd;
 }
 
 /* Food menu
