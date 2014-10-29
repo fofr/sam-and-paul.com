@@ -678,9 +678,19 @@ article nav li {
   border-top: none;
 }
 
-/* … and the image needs a border radius now too, to fit nicely */
+/* … and the image needs a border radius to fit nicely */
 .single-entry-content > .generated-figure:first-child img {
   border-radius: 7px 7px 0 0;
+}
+
+/* Pull image to bottom when last content in article */
+.single-entry-content > .generated-figure:last-child {
+  margin-bottom: -30px;
+}
+
+/* … and the caption needs a border radius to fit nicely */
+.single-entry-content > .generated-figure:last-child .generated-figure-caption {
+  border-radius: 0 0 7px 7px;
 }
 
 /* … but not when there are pages */
