@@ -5,16 +5,8 @@ hexo.extend.helper.register('backgroundImage', function(page){
 
   if (page.layout == "post") {
     background = backgroundFromSlug(page.slug);
-  } else if (page.posts) {
-    page.posts.each(function(i) {
-      if (background === null &&
-          (typeof i.page === "undefined" || i.page === 1)
-         ) {
-        background = backgroundFromSlug(i.slug);
-      }
-    });
   } else {
-    background = backgroundBase + 'kuching-borneo.jpg'
+    background = backgroundBase + 'songpan-china.jpg'
   }
 
   function backgroundFromSlug(slug) {
