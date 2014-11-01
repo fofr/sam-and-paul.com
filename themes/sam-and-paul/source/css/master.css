@@ -589,7 +589,25 @@ article .meta li {
   display: block;
 }
 
+.article-footer {
+  background: #333;
+  background: rgba(0,0,0,0.2);
+  padding: 24px;
+  width: 572px;
+  margin: 0 auto 48px;
+  border-radius: 7px;
+  font-size: 16px;
+  position: relative;
+}
+
+.article-footer .next-prev-post {
+  position: static;
+  text-align: center;
+  margin-bottom: 12px;
+}
+
 .pages {
+  background: #333;
   background: rgba(0,0,0,0.2);
   padding: 12px;
   width: 596px;

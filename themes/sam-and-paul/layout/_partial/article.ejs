@@ -1,4 +1,4 @@
-<%- partial('post/nav') %>
+<%- partial('post/nav', {keys: true}) %>
 <article class="article wrapper h-entry" role="main">
   <header>
     <h1 class="main-content-title single-title entry-title">
@@ -13,4 +13,5 @@
     <%- post.content %>
   </div>
   <%- partial('post/pages', {pageClass: 'pages-bottom'}) %>
+  <%- partial('post/article-footer') %>
 </article>
