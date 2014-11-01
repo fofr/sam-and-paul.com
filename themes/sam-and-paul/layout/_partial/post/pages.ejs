@@ -2,6 +2,7 @@
   pagePath = post.path.replace(/\/[\d]+\/$/, '/');
 %>
   <nav class="pages <%= pageClass %>">
+    <%- partial('page-nav') %>
     Pages:
     <% for(var i = 1, l = post.pages; i <= l; i++) { %>
       <% if (post.page === i) { %>

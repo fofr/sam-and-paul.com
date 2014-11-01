@@ -4,16 +4,20 @@
 
   if (prevPage || nextPage) {
 %>
-  <nav class="nextPage clearfix">
+  <div class="page-nav">
     <% if (prevPage) { %>
-      <a href="<%= prevPage %>" data-key="left">
-        <span class="previous">&larr; Previous</span>
-      </a>
+      <span class="previous">
+        <a href="<%= prevPage %>" rel="previous" data-key="left">
+          &larr; Previous page
+        </a>
+      </span>
     <% } %>
     <% if (nextPage) { %>
-      <a href="<%= nextPage %>"  data-key="right">
-        <span class="next">Next &rarr;</span>
-      </a>
+      <span class="next">
+        <a href="<%= nextPage %>" rel="next" data-key="right">
+          Next page &rarr;
+        </a>
+      </span>
     <% } %>
-  </nav>
+  </div>
 <% } %>

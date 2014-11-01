@@ -616,20 +616,21 @@ article .meta li {
   font-weight: normal;
 }
 
-.nextPage {
-  padding: 0 1em 1em;
+.page-nav {
   position: relative;
 }
 
-.nextPage a span {
+.page-nav .next,
+.page-nav .previous {
   position: absolute;
+  font-weight: normal;
 }
 
-.nextPage a .next {
+.page-nav .next {
   right: 0;
 }
 
-.nextPage a .previous {
+.page-nav .previous {
   left: 0;
 }
 
@@ -685,12 +686,7 @@ article nav li {
 
 /* Pull image to bottom when last content in article */
 .single-entry-content > .generated-figure:last-child {
-  margin-bottom: -30px;
-}
-
-/* … and the caption needs a border radius to fit nicely */
-.single-entry-content > .generated-figure:last-child .generated-figure-caption {
-  border-radius: 0 0 7px 7px;
+  margin-bottom: -24px;
 }
 
 /* … but not when there are pages */
