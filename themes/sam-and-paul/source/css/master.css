@@ -473,15 +473,6 @@ a.inherit {
 }
 
 /* ==========================================================================
-   Categories
-   ========================================================================== */
-
-.archive .content h1 {
-  border: none;
-  margin-bottom: 36px;
-}
-
-/* ==========================================================================
    Single post
    ========================================================================== */
 
@@ -501,18 +492,27 @@ a.inherit {
   z-index: -1;
 }
 
-article header {
+.article-header {
   text-shadow: rgba(0,0,0,0.2) 0 1px 0;
   position: relative;
 }
 
-.main-content-title,
-.archive h1,
-article h1 {
+.main-content-title {
   font-style: italic;
   text-align: center;
   margin-bottom: 24px;
   padding: 24px 0;
+}
+
+.single-entry-subtitle {
+  border-bottom: 1px solid #ddd;
+  padding: 12px 10px;
+  text-align: center;
+  color: #666;
+  font-size: 16px;
+  margin: -24px -20px 0;
+  background: #eee;
+  font-style: normal;
 }
 
 .single-entry-content {
@@ -694,6 +694,11 @@ article nav li {
 /* Pull image to top when first content in article */
 .single-entry-content > .generated-figure:first-child {
   margin-top: -24px;
+  border-top: none;
+}
+
+.single-entry-content > header + .generated-figure {
+  margin-top: 0;
   border-top: none;
 }
 

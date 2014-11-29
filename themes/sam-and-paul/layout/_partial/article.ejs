@@ -1,6 +1,6 @@
 <%- partial('post/nav', {keys: true}) %>
 <article class="article wrapper h-entry" role="main">
-  <header>
+  <header class="article-header">
     <h1 class="main-content-title single-title entry-title">
       <%= post.title %>
     </h1>
@@ -9,9 +9,14 @@
     </div>
   </header>
   <%- partial('post/pages', {pageClass: 'pages-top'}) %>
-  <div class="single-entry-content entry-content e-content">
+  <section class="single-entry-content entry-content e-content">
+    <% if (post.subtitle) { %>
+      <header>
+        <h1 class="single-entry-subtitle"><%= post.subtitle %></h1>
+      </header>
+    <% } %>
     <%- post.content %>
-  </div>
+  </section>
   <%- partial('post/pages', {pageClass: 'pages-bottom'}) %>
   <%- partial('post/article-footer') %>
 </article>
