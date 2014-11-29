@@ -1,4 +1,5 @@
 title: 'Xi’an, China'
+subtitle: 'Tasting the Xianease street food in the Muslim quarter'
 tags:
   - asia
   - china
@@ -13,7 +14,7 @@ page: 1
 
 ## Raining in Xi'an
 
-Our overnight sleeper train (the [20:43 Z19](http://www.seat61.com/China.htm) [from Beijing](/2014/09/beijing-china)) pulled into Xi'an at 8am — a comfortable and economic journey that didn't feel like 11 hours. Its preferable to a long-haul flight in economy that's for sure. What wasn't quite so good was the weather — outside it was raining, and raining hard, the pavements were forming little rivers and in sandals it was pretty cold. The rain didn't let up, and for the entire time we stayed in Xi'an, from stepping off the train to boarding our flight to Jiuzhaigou, it rained, and it rained heavy. We were soaked just walking to the minibus which would drive us the short route to our hotel.
+Our overnight sleeper train (the [20:43 Z19](http://www.seat61.com/China.htm) [from Beijing](/2014/09/beijing-china)) pulled into Xi'an at 8am — a comfortable and economic journey that didn't feel like 11 hours. It’s preferable to a long-haul flight in economy that's for sure. What wasn't quite so good was the weather — outside it was raining, and raining hard, the pavements were forming little rivers and in sandals it was pretty cold. The rain didn't let up, and for the entire time we stayed in Xi'an, from stepping off the train to boarding our flight to Jiuzhaigou, it rained, and it rained heavy. We were soaked just walking to the minibus which would drive us the short route to our hotel.
 
 {% figure china-xian-010.jpg landscape %}The wet Beiyuanmen street in the Muslim quarter of Xi’an {% endfigure %}
 

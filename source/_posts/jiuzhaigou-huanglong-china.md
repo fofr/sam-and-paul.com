@@ -1,4 +1,5 @@
-title: 'Jiuzhaigou and Huanglong, China'
+title: 'Jiuzhaigou & Huanglong, China'
+subtitle: 'A day at Huanglong National park, and a traffic jam to forget'
 tags:
   - asia
   - china
@@ -18,13 +19,13 @@ After our traditional Tibetan breakfast ([butter tea](http://en.wikipedia.org/wi
 
 Songpan is already at an altitude of 3000m, but the route kept climbing higher and higher. Our driver stopped and offered us something on the way — all in Chinese we couldn't fathom what it was, we turned him down but later realised it was probably something for altitude sickness. We felt a little light headed, and I noticed a quickened heart rate, but otherwise we were fine, except perhaps for Sam's panicking that we wouldn't be. She stopped worrying when the beautiful sight of mountaintops shrouded in mist appeared, and in the bitterly cold wind we stopped to get some photos.
 
-{% figure china-huanglong-001.jpg landscape %}Route X120 through Minshan mountains to Huanglong{% endfigure %}
+{% figure china-huanglong-001.jpg landscape %}Route X120 through Min mountains to Huanglong{% endfigure %}
 
 ## Huanglong national park
 
 The drive was only about an hour and soon we'd arrived at [Huanglong](http://en.wikipedia.org/wiki/Huanglong,_Sichuan), a place famed for its bright blue rock pools created from calcite deposits. It's a UNESCO world heritage site. With charades we agreed a pick up time and place with our driver and headed up the mountain in a cable car. Its best to start from the top and work your way down, especially given how much more difficult it is hiking up hill at these altitudes.
 
-From the cable car station there's a magnificent vista of the Minshan mountain range. It looks out on Route X120 which we'd meandered down to reach the park. The range itself sits on the edge of the Tibetan plateau. Chinese tourists jostle on the wooden platform to get the best spot for selfies and pictures taken with an iPad. Nearby there's the first of many oxygen bars for those suffering with altitude sickness, and of course there was a shop selling panda merchandise, as is custom all over Sichuan province.
+From the cable car station there's a magnificent vista of the Min mountain range. It looks out on Route X120 which we'd meandered down to reach the park. The range itself sits on the edge of the Tibetan plateau. Chinese tourists jostle on the wooden platform to get the best spot for selfies and pictures taken with an iPad. Nearby there's the first of many oxygen bars for those suffering with altitude sickness, and of course there was a shop selling panda merchandise, as is custom all over Sichuan province.
 
 {% figure china-huanglong-002.jpg landscape %}Route to the clouds — view from the cable car station of the road we drove down to reach the park.{% endfigure %}
 

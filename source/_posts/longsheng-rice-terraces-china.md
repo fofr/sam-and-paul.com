@@ -1,4 +1,5 @@
 title: 'Longsheng Rice Terraces, China'
+subtitle: 'Two days in Ping’an'
 tags:
   - asia
   - china

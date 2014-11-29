@@ -1,4 +1,5 @@
 title: 'Beijing, China'
+subtitle: 'Four days at Courtyard 7 in the Hutong'
 tags:
   - asia
   - china

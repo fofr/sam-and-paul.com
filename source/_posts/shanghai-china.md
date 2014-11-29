@@ -1,4 +1,5 @@
 title: 'Shanghai, China'
+subtitle: 'The Bund, Shanghai Museum and night photography'
 tags:
   - asia
   - china

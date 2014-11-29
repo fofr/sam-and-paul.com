@@ -1,4 +1,5 @@
 title: 'Chengdu, China'
+subtitle: 'Giant Pandas and Red Pandas'
 tags:
   - asia
   - china

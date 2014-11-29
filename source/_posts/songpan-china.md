@@ -1,4 +1,5 @@
 title: 'Songpan, China'
+subtitle: 'One day in Sichuan’s wild west'
 tags:
   - asia
   - china

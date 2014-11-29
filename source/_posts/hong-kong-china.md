@@ -1,4 +1,5 @@
 title: 'Hong Kong, China'
+subtitle: 'Two nights of photography'
 tags:
   - asia
   - china

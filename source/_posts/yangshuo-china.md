@@ -1,4 +1,5 @@
 title: 'Yangshuo, China'
+subtitle: 'Three relaxing days at Yangshuo Mountain Retreat'
 tags:
   - asia
   - china
