@@ -1,5 +1,5 @@
 title: 'A weekend in Harrogate'
-listing-image: http://host.trivialbeing.org/up/small/harrogate-038.jpg
+subtitle: 'Fountains Abbey and Ripon'
 id: 58
 categories:
   - holidays
