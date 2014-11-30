@@ -1,5 +1,5 @@
 title: 'Hue, Vietnam'
-listing-image: http://host.trivialbeing.org/up/500/hue-343.jpg
+subtitle: 'Four nights at La Residence'
 tags:
   - asia
   - hue

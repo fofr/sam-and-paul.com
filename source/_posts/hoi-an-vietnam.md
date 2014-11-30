@@ -1,5 +1,5 @@
 title: 'Hoi An, Vietnam'
-listing-image: http://host.trivialbeing.org/up/500/hoi-an-135.jpg
+subtitle: 'Four nights at Life Heritage Resort'
 tags:
   - asia
   - 'hoi an'
@@ -100,7 +100,7 @@ We crossed over the river and watched from afar, taking pictures of Hoi An at ni
 
 {% figure hoi-an-146.jpg landscape %}Lanterns in Hoi An{% endfigure %}
 
-{% figure 1000/hoi-an-148.jpg portrait original %}A child selling lanterns, sitting with the faeries{% endfigure %}
+{% figure hoi-an-148.jpg portrait original %}A child selling lanterns, sitting with the faeries{% endfigure %}
 
 The sky threatened again, and not wishing to become drenched once more, we headed back. The skies opened just as we got to our hotel, perfect timing.
 

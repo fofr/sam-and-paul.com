@@ -1,5 +1,5 @@
 title: 'Birthday Surprise'
-listing-image: http://host.trivialbeing.org/up/500/birthday-2013-09.JPG
+subtitle: 'Hollywood Costumes at the V&A then Comptoir Libanais'
 tags:
   - birthday
   - europe

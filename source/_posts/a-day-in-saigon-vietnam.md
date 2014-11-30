@@ -1,5 +1,5 @@
 title: 'A day in Saigon, Vietnam'
-listing-image: http://host.trivialbeing.org/up/500/saigon-hcmc-011.jpg
+subtitle: 'War Remnants museum then end of trip cocktails at Level 23'
 tags:
   - asia
   - hcmc

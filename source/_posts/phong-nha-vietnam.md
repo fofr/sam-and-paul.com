@@ -1,5 +1,5 @@
 title: 'Phong Nha, Vietnam'
-listing-image: http://host.trivialbeing.org/up/500/phong-nha-434.jpg
+subtitle: 'Two incredible days at Phong Nha Farmstay'
 tags:
   - asia
   - 'phong nha'

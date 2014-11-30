@@ -1,5 +1,5 @@
 title: 'Hanoi and Halong Bay, Vietnam'
-listing-image: http://host.trivialbeing.org/up/500/hanoi-halong-bay--038.jpg
+subtitle: 'First day; water puppets, Madame Hien’s and Hoan Kiem lake'
 tags:
   - asia
   - 'halong bay'

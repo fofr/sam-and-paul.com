@@ -1,5 +1,5 @@
 title: 'Angkor Wat, Cambodia'
-listing-image: http://host.trivialbeing.org/up/500/angkor-wat--097.jpg
+subtitle: 'Four fabulous days at Pavillon D’Orient, Siem Reap'
 tags:
   - asia
   - cambodia
@@ -13,7 +13,7 @@ pages: 6
 page: 1
 ---
 
-From Hanoi, Vietnam we fly south, to Siem Reap, Cambodia.
+From [Hanoi, Vietnam](/2012/12/hanoi-and-halong-bay-vietnam/) we fly south, to Siem Reap, Cambodia.
 
 Our flight from Hanoi touched down in Siem Reap at 8pm, and we were greeted by a decadent tiny airport that might well have been an extension of a five star hotel; evoking luxury and historical significance. With our freshly stamped visas we entered Cambodia.
 
