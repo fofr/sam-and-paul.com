@@ -1,5 +1,5 @@
 title: 'Kuala Lumpur, Malaysia'
-listing-image: http://host.trivialbeing.org/up/500/kuala-lumpur-012.jpg
+subtitle: 'A room with a view at Traders hotel'
 tags:
   - asia
   - 'kuala lumpur'

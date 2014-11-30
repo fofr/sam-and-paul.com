@@ -1,5 +1,5 @@
 title: 'Borneo Rainforest Lodge'
-listing-image: http://host.trivialbeing.org/up/500/borneo-090.jpg
+subtitle: 'Four days and three nights in Danum Valley'
 tags:
   - borneo
   - 'borneo rainforest lodge'

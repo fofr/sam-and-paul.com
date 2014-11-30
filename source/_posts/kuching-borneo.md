@@ -1,5 +1,5 @@
 title: 'Kuching, Borneo'
-listing-image: http://host.trivialbeing.org/up/500/kuching-110.jpg
+subtitle: 'Four nights at LimeTree hotel for exploring national parks'
 tags:
   - asia
   - borneo
