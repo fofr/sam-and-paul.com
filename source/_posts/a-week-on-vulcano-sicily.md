@@ -1,5 +1,5 @@
 title: 'A week on Vulcano, Sicily'
-listing-image: http://host.trivialbeing.org/up/500/vulcano-048.jpg
+subtitle: 'Staying in luxury at Therasia Resort'
 tags:
   - europe
   - italy
