@@ -1,5 +1,5 @@
 title: 'London 2012'
-listing-image: http://host.trivialbeing.org/up/small/olympics-089.jpg
+subtitle: 'Let the games begin'
 tags:
   - athletics
   - basketball
