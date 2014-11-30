@@ -3,8 +3,12 @@
 <%
 var title = page.title;
 
+if (page.pages) {
+  title = title + ' ('+ page.page + '/' + page.pages +')'
+}
+
 if (page.subtitle) {
-  title = title + ' — ' + page.subtitle
+  title = title + ': ' + page.subtitle
 }
 
 if (is_archive()){
