@@ -6,16 +6,11 @@
 */
 hexo.extend.tag.register('menu', function(args, content, options){
 
-  var items = content.split('\n'),
-      list = "";
-
-  for (var i = 0, l = items.length; i < l; i++) {
-    var text = items[i].replace('*', '');
-    list += "<li>" + text + "</li>";
-  }
+  var render = hexo.render,
+      menu = render.renderSync({text: content, engine: 'markdown'});
 
   return '<aside class="menu">\
     <h3 class="menu-header">Menu</h3>\
-    <ul>' + list + '</ul>\
+    ' + menu + '\
     </aside>';
 }, true);
