@@ -567,6 +567,13 @@ a.inherit {
   margin-bottom: 0;
 }
 
+.single-entry-content .note {
+  text-align: center;
+  background: #FCF7DE;
+  padding: 24px 20px;
+  border-radius: 3px;
+  margin-bottom: 24px;
+}
 .single-entry-content hr {
   border-width: 5px 0 0 0;
   border-top: 5px solid #eee;
