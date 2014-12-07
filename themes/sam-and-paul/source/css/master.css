@@ -774,3 +774,7 @@ article nav li {
   list-style: disc inside;
   margin: 0;
 }
+
+.michelin {
+  color: #ce3a26;
+}
