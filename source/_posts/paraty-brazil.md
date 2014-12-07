@@ -1,5 +1,5 @@
 title: 'Paraty, Brazil'
-listing-image: http://host.trivialbeing.org/up/small/brazil-211.jpg
+subtitle: '24 hours by coach to Paraty'
 tags:
   - brazil
   - parati
@@ -63,7 +63,7 @@ Fortunately we had a service station stop, a break from the movement and a chanc
 
 ## Eliconial hotel
 
-At 6pm on Monday, about 27 hours after setting off, we arrived in Paraty, thoroughly exhausted and needing a shower. We grabbed a fixed rate 20 reais taxi with a one armed driver to our hotel, Eliconial, a short walk outside of town and on Praia do Jabaquara.
+At 6pm on Monday, about 27 hours after setting off, we arrived in Paraty, thoroughly exhausted and needing a shower. We grabbed a fixed rate 20 reais taxi with a one armed driver to our hotel, [Eliconial](http://www.tripadvisor.co.uk/Hotel_Review-g303503-d1187580-Reviews-Eliconial-Paraty_State_of_Rio_de_Janeiro.html), a short walk outside of town and on Praia do Jabaquara.
 
 All we wanted to do was check-in, but the welcoming French man, Yvan, complicated matters by pushing us towards staying more than one night at a better rate in a better chalet, along with a story about the standard rooms being unavailable the following night. Our intention was to stay longer, but we wanted to scope the place out first. Whatever, let’s do the good one, it was only a few reais more.
 
