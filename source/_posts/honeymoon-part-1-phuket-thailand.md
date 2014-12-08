@@ -1,5 +1,5 @@
-title: 'Honeymoon part 1: Phuket, Thailand'
-listing-image: http://host.trivialbeing.org/up/small/honeymoon-42.jpg
+title: 'Phuket, Thailand'
+subtitle: 'Honeymoon luxury at Indigo Pearl in Nai Yang'
 tags:
   - asia
   - honeymoon

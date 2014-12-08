@@ -1,5 +1,5 @@
-title: 'Honeymoon part 2: Chiang Mai, Thailand'
-listing-image: http://host.trivialbeing.org/up/small/honeymoon-146.jpg
+title: 'Chiang Mai, Thailand'
+subtitle: 'Honeymoon continues with a week at Rimping Village'
 tags:
   - asia
   - chiang-mai

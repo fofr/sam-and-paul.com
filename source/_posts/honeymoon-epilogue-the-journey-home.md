@@ -1,5 +1,5 @@
-title: 'Honeymoon epilogue: The journey home'
-listing-image: http://host.trivialbeing.org/up/small/honeymoon-247.jpg
+title: 'Honeymoon epilogue'
+subtitle: 'Ash clouds, the journey home and Frankfurt'
 tags:
   - ash-cloud
   - dieppe
