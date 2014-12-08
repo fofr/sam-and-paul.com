@@ -1,5 +1,5 @@
 title: 'Rio de Janeiro, Brazil'
-listing-image: http://host.trivialbeing.org/up/small/brazil-070.jpg
+subtitle: '4 nights at O Veleiro B&B'
 tags:
   - brazil
   - holiday

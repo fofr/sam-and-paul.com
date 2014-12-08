@@ -1,5 +1,5 @@
 title: 'Iguaçu Falls, Brazil'
-listing-image: http://host.trivialbeing.org/up/small/brazil-176.jpg
+subtitle: '3 nights at Hotel Cataratas'
 tags:
   - argentina
   - brazil
@@ -16,6 +16,8 @@ date: 2011-12-01 13:33:50
 pages: 3
 page: 1
 ---
+
+## Rio to Iguaçu
 
 {% figure brazil-176.jpg landscape %}Iguazu Falls{% endfigure %}
 
