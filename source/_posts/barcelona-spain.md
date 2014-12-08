@@ -1,5 +1,5 @@
 title: 'Barcelona, Spain'
-listing-image: http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-361.jpg
+subtitle: 'Hotel Center, walking tour then tapas at Cerveceria Catalana'
 tags:
   - barcelona
   - europe
@@ -13,9 +13,9 @@ pages: 5
 page: 1
 ---
 
-{% figure spain-cadaques-barcelona-319.jpg portrait %}La Sagrada Família{% endfigure %}
-
 ## Cadaques to Barcelona
+
+{% figure spain-cadaques-barcelona-319.jpg portrait %}La Sagrada Família{% endfigure %}
 
 From our [trip to Cadaqués](/2010/10/cadaques-spain/), the return route to Barcelona took us a different way. Up at 7am, checked out by 8am, with breakfast wrapped in napkins, the hotel director dropped us at the bus station in his jeep. Adiós. On the Sarfa bus we went up and around the mountain roads again, bus swaying left to right to left, perilously close to the barriers and sheer drops, shades of the [Lesvos tour bus](/2008/09/two-weeks-in-molyvos-in-lesbos-greece/4/) we’d been on. Sounds of kids getting travel sick in the back left us listening to the “500 days of summer” soundtrack. We were on our way to Figueres; the bus arrived late, and we had a mad dash sprint to the train, luggage in tow. Sam bought the tickets, I used the loo. Then down the steps, under the platform, up again and onto the train, a full 30 seconds to spare.
 

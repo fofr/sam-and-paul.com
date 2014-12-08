@@ -1,5 +1,5 @@
 title: 'Cadaqués, Spain'
-listing-image: http://host.trivialbeing.org/up/small/spain-cadaques-barcelona-21.jpg
+subtitle: '5 nights in Girona and the Costa Brava'
 tags:
   - cadaques
   - europe
