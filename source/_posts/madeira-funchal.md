@@ -1,5 +1,5 @@
 title: 'A week in Madeira'
-listing-image: http://host.trivialbeing.org/up/small/madeira-063-ponto-de-sao-lourenco-walk.jpg
+subtitle: 'At Vila Vicencia hotel, Funchal'
 tags:
   - europe
   - funchal
