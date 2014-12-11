@@ -1,5 +1,4 @@
 title: 'Brighton parade and Beachy Head'
-listing-image: http://host.trivialbeing.org/up/small/beachy-head-4.jpg
 tags:
   - beachy-head
   - brighton

@@ -1,5 +1,5 @@
 title: 'Bedroom Farce and Inception'
-listing-image: http://host.trivialbeing.org/up/small/bedroom-farce.jpg
+subtitle: 'Local theatre and a movie'
 tags:
   - ayckbourn
   - bedroom-farce

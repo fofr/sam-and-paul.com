@@ -1,5 +1,5 @@
 title: 'Sozopol, Bulgaria'
-listing-image: /images/sozopol/DSC03757.JPG
+subtitle: 'A week at Hotel Diamanti'
 tags:
   - bulgaria
   - europe

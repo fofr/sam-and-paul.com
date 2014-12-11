@@ -1,5 +1,5 @@
 title: 'Molyvos, Lesbos'
-listing-image: http://host.trivialbeing.org/up/small/molyvos-harbour.JPG
+subtitle: 'Two weeks on a Greek island'
 tags:
   - europe
   - greece

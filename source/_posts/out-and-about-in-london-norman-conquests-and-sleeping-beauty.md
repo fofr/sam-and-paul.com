@@ -1,5 +1,5 @@
 title: 'Norman Conquests and Sleeping Beauty'
-listing-image: http://host.trivialbeing.org/up/small/fofr-20090108-norman-conquests-1.jpg
+subtitle: 'Discovering The Old Vic'
 tags:
   - ayckbourn
   - ballet

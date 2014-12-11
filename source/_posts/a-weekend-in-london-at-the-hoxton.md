@@ -1,5 +1,5 @@
 title: 'The Hoxton, London'
-listing-image: http://host.trivialbeing.org/up/small/hoxton-20081020-our-room.JPG
+subtitle: 'A weekend of Theatre, Museums and Sights'
 tags:
   - avenue-q
   - hoxton

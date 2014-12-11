@@ -1,5 +1,5 @@
 title: 'Sushi Sunday'
-listing-image: http://host.trivialbeing.org/up/small/sushi-2.jpg
+subtitle: 'Learning how to make sushi'
 tags:
   - fish
   - japanese

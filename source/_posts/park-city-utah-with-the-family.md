@@ -1,5 +1,5 @@
 title: 'Park City, Utah'
-listing-image: http://host.trivialbeing.org/up/small/park-city-20081019-view-from-eatery-antelope-isle.JPG
+subtitle: 'Two weeks near Salt Lake City'
 tags:
   - family
   - park-city
