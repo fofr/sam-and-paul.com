@@ -1,5 +1,5 @@
 title: 'Prague & Dresden'
-listing-image: http://host.trivialbeing.org/up/small/DSC05387.JPG
+subtitle: 'Two weeks in the Czech Republic, two days in Germany'
 tags:
   - blues
   - dresden
