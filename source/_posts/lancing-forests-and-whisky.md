@@ -1,5 +1,4 @@
 title: 'Lancing, Forests and Whisky'
-listing-image: http://host.trivialbeing.org/up/small/in-a-forest-dark-and-deep-2.jpg
 tags:
   - albannach
   - labute

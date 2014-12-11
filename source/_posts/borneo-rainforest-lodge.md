@@ -8,7 +8,6 @@ tags:
   - nature
   - rainforest
   - wildlife
-id: 93
 categories:
   - holidays
 date: 2014-05-20 10:45:06

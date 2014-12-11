@@ -4,7 +4,6 @@ tags:
   - cadaques
   - europe
   - spain
-id: 25
 categories:
   - holidays
 date: 2010-10-13 08:43:27

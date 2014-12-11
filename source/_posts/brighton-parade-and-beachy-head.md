@@ -4,7 +4,6 @@ tags:
   - brighton
   - jason-reitman
   - up-in-the-air
-id: 23
 categories:
   - life
 date: 2010-08-09 18:39:15

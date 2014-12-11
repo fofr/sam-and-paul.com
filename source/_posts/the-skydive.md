@@ -1,10 +1,8 @@
 title: 'The Skydive'
-listing-image: http://host.trivialbeing.org/up/small/IMG_8837.JPG
 tags:
   - beccles
   - skydive
   - sports
-id: 62
 categories:
   - life
 date: 2012-07-30 21:18:33

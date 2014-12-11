@@ -5,7 +5,6 @@ tags:
   - cambodia
   - 'siem reap'
   - temple
-id: 76
 categories:
   - holidays
 date: 2012-12-22 14:22:12

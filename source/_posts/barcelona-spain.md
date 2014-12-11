@@ -5,7 +5,6 @@ tags:
   - europe
   - gaudí
   - spain
-id: 26
 categories:
   - holidays
 date: 2010-10-13 08:47:06

@@ -1,10 +1,8 @@
 title: 'The Great Escape 2012'
-listing-image: http://host.trivialbeing.org/up/small/tge-2012-yacht.jpeg
 tags:
   - brighton
   - festival
   - 'great escape'
-id: 60
 categories:
   - music
 date: 2012-06-10 00:33:07

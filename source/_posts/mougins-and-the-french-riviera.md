@@ -1,5 +1,4 @@
 title: 'Mougins and the French Riviera'
-listing-image: /images/mougins/DSC02221.jpg
 tags:
   - cannes
   - europe

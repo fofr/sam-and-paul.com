@@ -7,7 +7,6 @@ tags:
   - sunset
   - volcano
   - vulcano
-id: 86
 categories:
   - holidays
 date: 2013-08-03 10:26:51

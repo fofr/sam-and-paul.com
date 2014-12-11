@@ -7,7 +7,6 @@ tags:
   - dukes-of-york
   - inception
   - theatre-royal
-id: 22
 categories:
   - cinema
   - theatre

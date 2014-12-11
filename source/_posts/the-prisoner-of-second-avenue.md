@@ -1,11 +1,9 @@
 title: 'The Prisoner of Second Avenue'
-listing-image: http://host.trivialbeing.org/up/prisonerSecondAvenue.gif
 tags:
   - gbk
   - 'jeff goldblum'
   - london
   - old-vic
-id: 19
 categories:
   - theatre
 date: 2010-07-09 08:57:45

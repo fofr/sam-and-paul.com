@@ -1,5 +1,4 @@
 title: 'Petworth House and Our Anniversary'
-listing-image: http://host.trivialbeing.org/up/small/petworth-house-6.jpg
 tags:
   - anniversary
   - england

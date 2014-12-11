@@ -1,10 +1,8 @@
 title: 'Board games in the pub, and a dash of culture'
-listing-image: http://host.trivialbeing.org/up/small/IMG_2911.JPG
 tags:
   - birthday
   - 'settlers of catan'
   - thai
-id: 31
 categories:
   - food
   - life

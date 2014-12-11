@@ -7,7 +7,6 @@ tags:
   - 'natural history museum'
   - oxo
   - 'v and a'
-id: 79
 categories:
   - cinema
   - life

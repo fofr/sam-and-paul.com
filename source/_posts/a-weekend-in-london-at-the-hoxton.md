@@ -5,7 +5,6 @@ tags:
   - hoxton
   - london
   - rain-man
-id: 5
 categories:
   - holidays
   - theatre
