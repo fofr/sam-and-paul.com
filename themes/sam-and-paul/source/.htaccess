@@ -10,9 +10,12 @@ RewriteRule ^(\d{4})/(\d{2})/?$ /archive/$1/ [R=301,NC,L]
 RewriteRule ^feed/ /atom.xml [R=301,NC,L]
 
 # Renamed or date altered posts
-RewriteRule ^2010/06/honeymoon-part-1-phuket-thailand/ /2010/04/honeymoon-part-1-phuket-thailand/ [R=301,NC,L]
-RewriteRule ^2010/06/honeymoon-part-2-chiang-mai-thailand/ /2010/04/honeymoon-part-2-chiang-mai-thailand/ [R=301,NC,L]
-RewriteRule ^2010/06/honeymoon-epilogue-the-journey-home/ /2010/04/honeymoon-epilogue-the-journey-home/ [R=301,NC,L]
+RewriteRule ^2010/06/honeymoon-part-1-phuket-thailand/(\d{1})/?$ /2010/04/honeymoon-part-1-phuket-thailand/$1/ [R=301,NC,L]
+RewriteRule ^2010/06/honeymoon-part-1-phuket-thailand/?$ /2010/04/honeymoon-part-1-phuket-thailand/ [R=301,NC,L]
+RewriteRule ^2010/06/honeymoon-part-2-chiang-mai-thailand/(\d{1})/?$ /2010/04/honeymoon-part-2-chiang-mai-thailand/$1/ [R=301,NC,L]
+RewriteRule ^2010/06/honeymoon-part-2-chiang-mai-thailand/?$ /2010/04/honeymoon-part-2-chiang-mai-thailand/ [R=301,NC,L]
+RewriteRule ^2010/06/honeymoon-epilogue-the-journey-home/(\d{1})/?$ /2010/04/honeymoon-epilogue-the-journey-home/$1/ [R=301,NC,L]
+RewriteRule ^2010/06/honeymoon-epilogue-the-journey-home/?$ /2010/04/honeymoon-epilogue-the-journey-home/ [R=301,NC,L]
 
 # Avoid www. in URL
 RewriteBase /
