@@ -13,7 +13,7 @@ pages: 4
 page: 1
 ---
 
-[![](http://host.trivialbeing.org/up/small/brazil-070.jpg)](http://host.trivialbeing.org/up/brazil-070.jpg)
+{% figure brazil-070.jpg landscape %}Samantha with a Caipirinha on Sugarloaf mountain{% endfigure %}
 
 We felt unprepared for Brazil, we booked the flights and the first week of hotels but left the second week open for whatever we pleased. The holiday sneaked up on us whilst we were busy working, and suddenly we were on the plane from Heathrow, stopping at Paris for some Camembert and an excellent nighttime view of the Eiffel tower, then onwards, to Rio, via an 11 hour Air France flight with complimentary champagne.
 
@@ -25,9 +25,9 @@ It took an hour or so to make it to Botafogo and our hotel, O Veleiro B&B, atop 
 
 Inside a dark wooden staircase takes you up to the living room and communal dining area where we checked in. Our room was simple with wooden shutter doors, a double bed, sink, some mosquito spray and an outdoor shared toilet and shower next to some hammocks.
 
-[![](http://host.trivialbeing.org/up/small/IMG_3603.JPG)](http://host.trivialbeing.org/up/IMG_3603.JPG)
+{% figure IMG_3603.JPG landscape %}O Veleiro B&B{% endfigure %}
 
-[![](http://host.trivialbeing.org/up/small/IMG_3602.JPG)](http://host.trivialbeing.org/up/IMG_3602.JPG)
+{% figure IMG_3602.JPG landscape %}Gardens at O Veleiro B&B{% endfigure %}
 
 Hoteliers Rob and Rich showed us around and pointed out the sights, Botafogo below us, the head of Christ the Redeemer to the right, and sugarloaf hiding behind the trees. All checked-in and ready to go, we set off to explore Rio for the first time, very aware of our belongings and security.
 
@@ -39,17 +39,17 @@ Tourists are advised to use taxis but the metro is very safe, and simple too. R$
 
 There was a sunny haze about the beach. Huge waves crashed against the shore amongst perfect bodied volleyballers, skaters, swimmers and sunbathers. Military personnel stood around in shorts and t-shirt, their guns holstered but hanging out for all to see. The sand was fine and warm between our toes.
 
-[![](http://host.trivialbeing.org/up/small/brazil-003.jpg)](http://host.trivialbeing.org/up/brazil-003.jpg)
+{% figure brazil-003.jpg landscape %}Ipanema beach{% endfigure %}
 
 Every 200m or so you can find a corn on the cob stand, which we had to try. We nipped into town looking for food. At Polis Sucos we ordered freshly made juice, but guessed from the foreign menu, I remembered maracuja was passion fruit, the other juice was pink, and probably raspberry and something, but I can’t be sure.
 
-[![](http://host.trivialbeing.org/up/small/brazil-004.jpg)](http://host.trivialbeing.org/up/brazil-004.jpg)
+{% figure brazil-004.jpg landscape %}Sam with her corn on the cob{% endfigure %}
 
 ### Brazilian-japanese sushi fusion
 
 We came out next to Ipanema lagoon. Across the water was Christ the Redeemer. Joggers and cyclists ran by, many on Rio’s orange Boris bikes. Desperate for some food, we sat down at the fluorescent orange Koni, a trendy new restaurant chain, for some brazilian-japanese sushi fusion.
 
-[![](http://host.trivialbeing.org/up/small/brazil-005.jpg)](http://host.trivialbeing.org/up/brazil-005.jpg)
+{% figure brazil-005.jpg landscape %}Ipanema lagoon{% endfigure %}
 
 Koni’s specialty is based on a ‘cone’ of rice wrapped in seaweed. You choose your filling, which is usually tempura. The honey roast tuna, shimeji tempura and salmon tempura were all yummy. We washed it all down with some iced tea.
 
