@@ -217,26 +217,39 @@ a.inherit {
 }
 
 .blog-title {
-  margin: 72px auto 36px;
+  margin: 0.75em auto 0.375em; /* 72px auto 36px - base 96 */
   position: relative;
   max-width: 580px;
   padding: 0 20px;
 }
 
 .blog-title small {
-  font-size: 24px;
+  font-size: 0.25em; /* 24px - base 96 */
   position: absolute;
   top: 0;
-  left: 72px;
+  left: 3em; /* 72px - base 24 */
   line-height: 1em;
 }
 
 .blog-title-amp {
-  font-size: 62px;
-  color: #ddd;
-  margin-right: -20px;
-  margin-left: -10px;
+  font-size: 0.64583em; /* 62px - base 96 */
+  margin-right: -0.32268em; /* -20px - base 62 */
+  margin-left:  -0.16129em; /* -10px - base 62 */
   text-decoration: none;
+}
+
+@media all and (max-width: 620px) {
+  .blog-title small {
+    display: none;
+  }
+
+  .blog-title {
+    font-size: 48px;
+    margin: 36px auto 28px;
+    text-align: center;
+    line-height: 1em;
+    text-indent: -4px;
+  }
 }
 
 /* ==========================================================================
