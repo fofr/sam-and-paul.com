@@ -735,7 +735,7 @@ article .meta li {
 
   .page-number {
     display: inline-block;
-    padding: 15px;
+    padding: 10px 15px;
     min-width: 10px;
     text-decoration: none;
     border-radius: 3px;
@@ -743,11 +743,12 @@ article .meta li {
   }
 
   .page-link {
-    background: rgba(0,0,0,0.5);
+    background: rgba(0,0,0,0.3);
   }
 
   .page-current {
-    border: 1px dotted rgba(0,0,0,0.5);
+    border: 2px solid #ddd;
+    background: rgba(0,0,0,0.5);
   }
 
   .page-link:hover,
