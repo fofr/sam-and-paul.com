@@ -150,45 +150,6 @@ ul ul, ol ol, ol ul, ul ol, dl dl, dl ul, dl ol, ul dl, ol dl {
   display: block;
 }
 
-/* Media object. See https://github.com/stubbornella/oocss/tree/master/core/media
-========================================================================== */
-
-.media {
-  display: block;
-  margin-bottom: 0.66666666666667em; /* 16/24px */
-  overflow: hidden;
-}
-
-.media--overflow-visible {
-  overflow: visible;
-}
-
-.media--overflow-visible:after {
-  content: ".";
-  display: block;
-  height: 0;
-  clear: both;
-  visibility: hidden;
-}
-
-.media-pull-left {
-  float: left;
-  margin-right: 20px;
-}
-
-.media-pull-right {
-  float: right;
-  margin-left: 20px;
-}
-
-.media-body {
-  overflow: hidden;
-}
-
-.media-body--overflow-visible {
-  overflow: visible;
-}
-
 /* ==========================================================================
    The Adventures of Samantha and Paul
    ========================================================================== */
