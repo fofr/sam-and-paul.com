@@ -31,6 +31,7 @@ if (is_archive()){
 <% if (page.metaDescription) { %>
 <meta name="description" content="<%= page.metaDescription %>" />
 <% } %>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 <link rel="stylesheet" href="/css/master.css?<%= config.site_build %>" />
 <link rel="alternate" href="<%- theme.rss %>" title="<%= config.title %>" type="application/atom+xml">

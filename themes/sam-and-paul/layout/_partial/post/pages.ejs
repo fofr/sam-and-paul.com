@@ -3,12 +3,12 @@
 %>
   <nav class="pages <%= pageClass %>">
     <%- partial('page-nav') %>
-    Pages:
+    <span class="pages-header">Pages:</span>
     <% for(var i = 1, l = post.pages; i <= l; i++) { %>
       <% if (post.page === i) { %>
-        <span><%= i %></span>
+        <span class="page-number page-current"><%= i %></span>
       <% } else { %>
-        <a href="<%- config.root %><%- pagePath %><% if (i > 1) { %><%= i %>/<% } %>"><span><%= i %></span></a>
+        <a href="<%- config.root %><%- pagePath %><% if (i > 1) { %><%= i %>/<% } %>" class="page-number page-link"><span><%= i %></span></a>
       <% } %>
     <% } %>
   </nav>
