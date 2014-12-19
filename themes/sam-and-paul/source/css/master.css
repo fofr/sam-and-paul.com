@@ -216,6 +216,22 @@ a.inherit {
   margin: 82px auto 24px;
 }
 
+@media all and (max-width: 676px) {
+  .main-content-title {
+    font-size: 72px;
+    line-height: 72px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+}
+
+@media all and (max-width: 325px) {
+  .main-content-title {
+    font-size: 64px;
+    line-height: 64px;
+  }
+}
+
 .blog-title {
   margin: 0.75em auto 0.375em; /* 72px auto 36px - base 96 */
   position: relative;
