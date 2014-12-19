@@ -150,36 +150,6 @@ ul ul, ol ol, ol ul, ul ol, dl dl, dl ul, dl ol, ul dl, ol dl {
   display: block;
 }
 
-/* ==========================================================================
-   Grid
-   ========================================================================== */
-
-.g1 { width:60px; }
-.g2 { width:140px; }
-.g3 { width:220px; }
-.g4 { width:300px; }
-.g5 { width:380px; }
-.g6 { width:460px; }
-.g7 { width:540px; }
-.g8 { width:620px; }
-.g9 { width:700px; }
-.g10 { width:780px; }
-.g11 { width:860px; }
-.g12 { width:940px; }
-
-.g {
-  margin: 0 10px;
-  overflow: hidden;
-  float: left;
-  display: inline;
-}
-
-.r {
-  width: 960px;
-  margin: 0 auto;
-  overflow: hidden;
-}
-
 /* Media object. See https://github.com/stubbornella/oocss/tree/master/core/media
 ========================================================================== */
 
