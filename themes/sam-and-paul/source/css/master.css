@@ -127,11 +127,6 @@ dfn[title] {
   display: none;
 }
 
-.col {
-  margin-bottom: -30000px;
-  padding-bottom: 30000px;
-}
-
 ul ul, ol ol, ol ul, ul ol, dl dl, dl ul, dl ol, ul dl, ol dl {
   margin-bottom: 0;
 }
@@ -203,14 +198,9 @@ a.inherit {
   color: inherit;
 }
 
-.wrapper,
-.grid {
+.wrapper {
   width: 960px;
   margin: 0 auto;
-}
-
-.grid {
-  overflow: visible;
 }
 
 /* ==========================================================================
