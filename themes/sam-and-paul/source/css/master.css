@@ -774,6 +774,7 @@ article .meta li {
   margin-bottom: 3em;
 }
 
+/* Legacy images */
 .single-entry-content p > a > img,
 .single-entry-content p > img {
   padding: 24px;
@@ -782,6 +783,11 @@ article .meta li {
   background: rgba(0,0,0,0.1);
   display: block;
   margin: 0 auto;
+
+  max-width: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .generated-figure {
