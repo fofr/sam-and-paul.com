@@ -387,17 +387,17 @@ a.inherit {
   margin: 24px auto 0;
 }
 
-.page-footer {
-  margin: 3em 0;
+.site-footer {
+  margin: 3em 20px;
   text-align: center;
   text-shadow: rgba(0,0,0,0.8) 0 0 3px;
 }
 
-.page-footer-links {
+.site-footer-links {
   margin-top: 3px;
 }
 
-.page-footer a {
+.site-footer a {
   color: #fff;
 }
 
