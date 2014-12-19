@@ -352,6 +352,12 @@ a.inherit {
   margin: 0 auto 3em;
 }
 
+@media all and (max-width: 620px) {
+  .listing {
+    margin: 0 20px 3em;
+  }
+}
+
 .listing-posts {
   background: #fff;
   color: #666;
@@ -379,6 +385,14 @@ a.inherit {
   padding: 24px 20px;
 }
 
+@media all and (max-width: 620px) {
+  .listing-title {
+    font-size: 16px;
+    line-height: 18px;
+    padding: 18px 15px;
+  }
+}
+
 .listing-header {
   text-decoration: none;
 }
@@ -395,6 +409,14 @@ a.inherit {
   margin-right: 20px;
   font-weight: normal;
   display: inline-block;
+}
+
+@media all and (max-width: 620px) {
+  .listing-date {
+    margin-right: 0;
+    margin-bottom: 3px;
+    display: block;
+  }
 }
 
 .post-pages {
