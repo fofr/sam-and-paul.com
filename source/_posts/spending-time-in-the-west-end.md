@@ -17,7 +17,7 @@ date: 2008-11-09 19:04:14
 
 Living in St Albans I've recently taken the opportunity to see as much theatre as possible, and now I have a couple of spare minutes between all the shows, holiday and traveling, I'll write a bit about them all.
 
-[![](http://host.trivialbeing.org/up/small/mrfofr-20081109-les-mis.jpg)](http://host.trivialbeing.org/up/mrfofr-20081109-les-mis.jpg)
+{% figure mrfofr-20081109-les-mis.jpg landscape original %}Les Miserables poster{% endfigure %}
 
 ## Les Miserables
 
@@ -29,7 +29,7 @@ I left wanting more.
 
 ## Marguerite
 
-![](http://host.trivialbeing.org/up/mrfofr-20081109-marguerite.jpg)
+{% figure mrfofr-20081109-marguerite.jpg square original %}Marguerite poster{% endfigure %}
 
 I had already seen Miss Saigon, although I do believe it wasn't one of the best performances, I didn't overly enjoy it. It probably deserves a second chance with my now renewed interest. Marguerite was a new musical with songs by Michel Legrand (see Umbrellas of Cherbourg!) and the hook, lyrics by Alain Boublil and Claude-Michel Schonberg.
 
@@ -37,7 +37,7 @@ The show, music and performances were all bitterly disappointing; the leading si
 
 ## Fat Pig
 
-![](http://host.trivialbeing.org/up/mrfofr-20081109-fat-pig.jpg)
+{% figure mrfofr-20081109-fat-pig.jpg portrait original %}Fat Pig poster{% endfigure %}
 
 Jo, Sam and I saw Fat Pig in its first English incarnation at the Trafalgar studios with Kris Marshall and Robert Webb. The comedy has a simple premise; some guy begins dating a fat girl and must face his work colleagues and their taunts - the 'obsessed with looks' ex-date and the crude and womanizing buddy.
 
@@ -47,13 +47,13 @@ I heartily recommend this, though cannot vouch for the new lineup or venue.
 
 ## 39 Steps
 
-![](http://host.trivialbeing.org/up/mrfofr-20080911-39steps-1.jpg)
+{% figure mrfofr-20080911-39steps-1.jpg square original %}39 Steps{% endfigure %}
 
 Another comedy, we got tickets cheap for this one in the stalls, and thought why not. None of us had actually seen the movie, so we didn't know quite what to expect, especially with only four cast members playing the role of many. It turned out to be a slapstick affair with very clever prop jokes, costume changes and role switching; a good laugh and another recommended night out.
 
 ## Avenue Q
 
-![](http://host.trivialbeing.org/up/mrfofr-20080911-avenue-q-london.jpg)
+{% figure mrfofr-20080911-avenue-q-london.jpg landscape original %}Avenue Q{% endfigure %}
 
 Sam and I saw this one on our weekend to the [Hoxton Hotel](http://www.mrfofr.com/2008/10/hoxton-hotel-london/),
 
@@ -63,7 +63,7 @@ This adult puppet comedy, although making us laugh, really didn't grab us as we 
 
 ## Rain Man
 
-![](http://host.trivialbeing.org/up/mrfofr-20080911-rainman.jpg)
+{% figure mrfofr-20080911-rainman.jpg portrait original %}Rain Man poster{% endfigure %}
 
 Another performance caught on the Hoxton weekend, lucky enough to get tickets on the day,
 
@@ -73,7 +73,7 @@ It is very much a love story, a comedy and a drama. I must remember to now watch
 
 ## Zorro
 
-[![](http://host.trivialbeing.org/up/small/mrfofr-20080911-zorro.jpg)](http://host.trivialbeing.org/up/mrfofr-20080911-zorro.jpg)
+{% figure mrfofr-20080911-zorro.jpg landscape original %}Zorro{% endfigure %}
 
 Zorro is the most recent of musicals I have seen after Sam grabbed four tickets for £40; this opened earlier in the year and Matt Rawle plays the lead and once again I had no expectations or even a clue as to the story. The show is none too serious (despite the brilliant 'Man behind the Mask' number) and comes accompanied with flamenco gypsy dancing, heel stomping, sword fights, fire and The Gypsy Kings (see Bamboleo); 'a fun filled romp' some tabloid review might say and it certainly was. With a dance and clap encore I left with dancing feet completely satisfied with my night out, bar the Gypsy King tracks that looped around my cranium for the remainder of the night.
 
