@@ -15,7 +15,7 @@ page: 1
 
 <!-- As with our trip to Sozopol, Bulgaria, I'm taking a quick moment out of a few days to recant our recent tails. Those lucky enough to find this rare and valuable hard copy will note the delightful [Molyvos](http://en.wikipedia.org/wiki/Molyvos) image on the front of this book. -->
 
-[![](http://host.trivialbeing.org/up/small/molyvos-harbour.JPG)](http://host.trivialbeing.org/up/molyvos-harbour.JPG)
+{% figure molyvos-harbour.JPG landscape %}Molyvos harbour on the island of Lesvos{% endfigure %}
 
 ## London to Lesbos
 
@@ -29,10 +29,10 @@ I shall not get into our laborious process of deciding which island/resort to vi
 
 On landing we discarded our jumpers, breathed in the hot air and set about across the mountainous terrain of Lesbos, via taxi, to the north of the island - about an hours drive, at a speedy pace with horn honking at junctions and overtaking of one handed motorcyclists that were texting on their phones. We checked in and proceeded up the 100-odd steps to our room, with a glorious North Lesvos sea view, and Turkey clear in our sights over the water. The room is nice, excellent for sleeping and looking after our clothes, which is all we need it for. The Sun Rise Hotel offers a full and half board food service, we got the breakfasts but opted out of the evening meals - we like our restaurants! A good choice considering their food is over priced and not very good (we sampled a chicken a la creme, a tuna salad and a burger on our first day - though not again since - Sam also made the Chicken Creme mistake in Sozopol).
 
-[![](http://host.trivialbeing.org/up/small/greece-sun-rise-hotel-room.JPG)](http://host.trivialbeing.org/up/greece-sun-rise-hotel-room.JPG)
+{% figure greece-sun-rise-hotel-room.JPG landscape %}Our room in the Sun Rise Hotel{% endfigure %}
 
 ---
 
 I'm currently sitting by their pool, basking in the hot sun, as I write this - it looks so refreshing and the sound of the water fountain is soothing. Every now and then a House Martin swoops down to take a quick drink. Sam's reading her book "The Lollipop Shoes" and her sun burn has mostly gone down, though I am sure it will quickly return. I am reading Mark Danielewski's "House of Leaves". We've played some table tennis but hand to eye co-ordination isn't Sam's strong point.
 
-[![](http://host.trivialbeing.org/up/small/greece-sun-rise-hotel-pool.JPG)](http://host.trivialbeing.org/up/greece-sun-rise-hotel-pool.JPG)
+{% figure greece-sun-rise-hotel-pool.JPG landscape %}Sun Rise Hotel swimming pool{% endfigure %}
