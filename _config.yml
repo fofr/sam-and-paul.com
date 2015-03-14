@@ -5,7 +5,7 @@
 # Site
 title: Sam and Paul
 author: Paul Hayes
-email:
+site_email:
 language: en
 site_build: local
 
