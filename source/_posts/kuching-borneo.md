@@ -19,7 +19,9 @@ page: 1
 
 Kuching was the first of three stops in Borneo, a “sophisticated and chic city” surrounded with luscious natural parks, all within easy day-visit reach. We’d be in Kuching for four days, staying at the LimeTree hotel, highest rated on Trip Advisor. A white minibus picked us up from the airport, “Just two?” our driver asked. On the surface, and compared to Kuala Lumpur, the city is small, and beyond the golden crowned Sarawak State Assembly and pointed library, it looked like there wasn’t much to do. Equally, switching from five star business luxury to a modest but quirky and characterful hotel was a shock to the system. Nonetheless, we loved everything about this city and this hotel, and we could have stayed twice as long — there’s so many places to see and places to eat. It exudes a relaxed charm, not unlike [Hoi An in Vietnam](/2012/12/hoi-an-vietnam/), or even [Paraty in Brazil](/2011/12/paraty-brazil/).
 
-{% figure kuching-109.jpg landscape %}Kuching at night{% endfigure %}
+{% figure kuching-109.jpg landscape %}
+Kuching at night
+{% endfigure %}
 
 ## The LimeTree hotel
 
@@ -33,7 +35,9 @@ Settled, unpacked, and over the newly found [crack on the camera’s screen](htt
 
 From the waterfront promenade we found new chinatown and the main bazaar. T-shirts bore the Sarawak emblem of a hornbill bird, wrapped in a green Starbucks-esque circle. Shops overflow onto the paths, and there are many cultural craft shops and galleries, some with classic or antique carvings that are both mysterious and frightening. Little stalls on the roadside sell Kek Lapis, tasty layer cakes of all flavours, from chocolate to bright green pandan leaves — tastings are free and we must have bought at least four of these lovely treats. Though the canned “winter melon” and “green tea jasmine” soft drinks were so weird we only took two sips, then bought ice cream and more drinks to washout the flavour.
 
-{% figure borneo-iphone-006.jpg square %}Yucky winter watermelon and green tea drinks{% endfigure %}
+{% figure borneo-iphone-006.jpg square %}
+Yucky winter watermelon and green tea drinks
+{% endfigure %}
 
 ## Traditional Dayak cuisine
 
@@ -47,4 +51,6 @@ For dinner we felt adventurous, looking for some authentic and radical local cui
 
 The curly jungle ferns tasted odd, both fresh and pithy. Wild ginger flower is quite delicious.
 
-{% figure borneo-iphone-008.jpg square %}A tower of Dayak cuisine, Ulam raja{% endfigure %}
+{% figure borneo-iphone-008.jpg square %}
+A tower of Dayak cuisine, Ulam raja
+{% endfigure %}

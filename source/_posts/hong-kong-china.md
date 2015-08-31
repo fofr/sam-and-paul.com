@@ -21,7 +21,9 @@ While waiting for the Guangzhou flight we had the good fortune of bumping into o
 
 The flight arrived in Guangzhou on time, we said our farewells to Emmie and Jan and took the air-conditioned car into town. The humid heat of the tropical south hit us as we exited the airport, nowhere else in China had it been this hot and humid. Of course there was a traffic jam, and the drive took an hour, but we arrived at the station early enough for Roger and I to pursue an earlier train ticket, though our efforts were in vain (couldn’t find the ticket desk, then we queued in the wrong queue, and then it was too late). So we whiled away the time on the top floor of the station at E-taste; on the scale of “restaurants in train stations” it’s one of the best.
 
-{% figure china-hong-kong-006.jpg landscape %}Trying to change our train tickets, without much success{% endfigure %}
+{% figure china-hong-kong-006.jpg landscape %}
+Trying to change our train tickets, without much success
+{% endfigure %}
 
 The train to Hong Kong takes about 2 hours. Crossing the border my phone buzzed with excitement; free roaming data with 3, and no more ‘great firewall’, the phone drained all its juice doing everything it had struggled to do for the last three weeks. It also meant we could track our location as we travelled through the New Territories and into Kowloon, outside the buildings grew taller and denser. Through passport control, out of the station and over the road and we’d reached our hotel.
 
@@ -29,7 +31,9 @@ The train to Hong Kong takes about 2 hours. Crossing the border my phone buzzed 
 
 [Harbour Plaza Metropolis](http://www.tripadvisor.co.uk/Hotel_Review-g294217-d305854-Reviews-Harbour_Plaza_Metropolis-Hong_Kong.html) is lightyears away from [LiQing guesthouse](/2014/09/longsheng-rice-terraces-china/); a spangly modern hotel with perfectly polished reception, speedy lifts and dazzling lights, found amidst a shopping mall. Our room was on the 17th floor and looked south to Kowloon and Hong Kong Island. All the plug sockets were British and the shower was big enough for two.
 
-{% figure china-hong-kong-001.jpg landscape %}View of Hong Kong island from our room at Harbour Plaza Metropolis{% endfigure %}
+{% figure china-hong-kong-001.jpg landscape %}
+View of Hong Kong island from our room at Harbour Plaza Metropolis
+{% endfigure %}
 
 This was the first hotel in three weeks of travel with a swimming pool, and despite having just one free day in Hong Kong we’d be making the most of it. On the top floor, where the best views are, is a private lounge that you need to pay extra to access (although Samantha managed to sneak some early-morning dawn shots from there before the place properly opened). Breakfast wasn’t included and it’s pricey, 150HKD each (about £15), but not wanting to traipse around looking for a cafe on our last day of holiday, we’d indulge here too.
 
@@ -41,8 +45,14 @@ In the cooler night time we set out with tripods and cameras. A gig was going on
 
 Stopping just before the Star ferry port we setup our tripods and gazed out at the extraordinary Asian skyline in all its neon luminescent glory. Red sailed tourist-galleons sailed by, and the sky was clear. Nowhere else in the world looks quite like this.
 
-{% figure china-hong-kong-005.jpg landscape %}Samantha, a tripod and the Hong Kong skyline{% endfigure %}
+{% figure china-hong-kong-005.jpg landscape %}
+Samantha, a tripod and the Hong Kong skyline
+{% endfigure %}
 
-{% figure china-hong-kong-007.jpg landscape %}Classic Hong Kong skyline, as seen from Kowloon{% endfigure %}
+{% figure china-hong-kong-007.jpg landscape %}
+Classic Hong Kong skyline, as seen from Kowloon
+{% endfigure %}
 
-{% figure china-hong-kong-003.jpg landscape %}A long exposure of Hong Kong as an old red-sailed galleon passes close by{% endfigure %}
+{% figure china-hong-kong-003.jpg landscape %}
+A long exposure of Hong Kong as an old red-sailed galleon passes close by
+{% endfigure %}

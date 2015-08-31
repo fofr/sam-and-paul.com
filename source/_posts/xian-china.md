@@ -16,7 +16,9 @@ page: 1
 
 Our overnight sleeper train (the [20:43 Z19](http://www.seat61.com/China.htm) [from Beijing](/2014/09/beijing-china)) pulled into Xi'an at 8am — a comfortable and economic journey that didn't feel like 11 hours. It’s preferable to a long-haul flight in economy that's for sure. What wasn't quite so good was the weather — outside it was raining, and raining hard, the pavements were forming little rivers and in sandals it was pretty cold. The rain didn't let up, and for the entire time we stayed in Xi'an, from stepping off the train to boarding our flight to Jiuzhaigou, it rained, and it rained heavy. We were soaked just walking to the minibus which would drive us the short route to our hotel.
 
-{% figure china-xian-010.jpg landscape %}The wet Beiyuanmen street in the Muslim quarter of Xi’an {% endfigure %}
+{% figure china-xian-010.jpg landscape %}
+The wet Beiyuanmen street in the Muslim quarter of Xi’an 
+{% endfigure %}
 
 ## Bell Tower Hotel
 
@@ -32,27 +34,41 @@ After a nap and a shower, with wet weathers and sandals on, we set out to explor
 
 Mercifully we were close to the Muslim quarter, although the whole area is perpetuated with street-food and open-air stalls — each with their own form of umbrella to protect them, that always somehow managed to funnel the water onto my head. That said, the street food was the best we've ever had.
 
-{% figure china-xian-003.jpg landscape %}Street-food vendor in Xi’an’s Muslim quarter. Meat on a stick.{% endfigure %}
+{% figure china-xian-003.jpg landscape %}
+Street-food vendor in Xi’an’s Muslim quarter. Meat on a stick.
+{% endfigure %}
 
 Right at the entrance to [Beiyuanmen](http://www.tripadvisor.co.uk/Attraction_Review-g298557-d1805544-Reviews-Beiyuanmen_Street-Xi_an_Shaanxi.html) we found a place selling [Rou jia mo](http://en.wikipedia.org/wiki/Rou_jia_mo), or Chinese hamburgers. At this stall a long queue were waiting for slow cooked lamb to be diced and shredded, slipped into a _mo_ flatbread, before a little bit of sauce is drizzled on top ([video](http://instagram.com/p/s6vGQlNFGg/)). These were so good we came back for more on two more occasions.
 
-{% figure china-xian-007.jpg portrait %}Street-food vendor making our first [Rou jia mo](http://en.wikipedia.org/wiki/Rou_jia_mo), or Chinese hamburger{% endfigure %}
+{% figure china-xian-007.jpg portrait %}
+Street-food vendor making our first [Rou jia mo](http://en.wikipedia.org/wiki/Rou_jia_mo), or Chinese hamburger
+{% endfigure %}
 
-{% figure china-xian-008.jpg landscape %}A delicious Rou jia mo{% endfigure %}
+{% figure china-xian-008.jpg landscape %}
+A delicious Rou jia mo
+{% endfigure %}
 
 Next door a stall was selling crispy fried squid on a stick. Of course we had to try that too. Then there was meat cooked on wooden skewers, walnuts were being rolled around in sugar, pigs trotters coated in sauce and sesame seeds, baked cakes and desserty snacks, rice pudding cakes, fried potatoes, swirls of mushroom and tofu, men beating slabs of sugar with mallets, fresh pomegranate juice — and so much more. We reached a point where we were too full to eat any more.
 
-{% figure china-xian-001.jpg landscape %}Squids on sticks{% endfigure %}
+{% figure china-xian-001.jpg landscape %}
+Squids on sticks
+{% endfigure %}
 
-{% figure china-xian-009.jpg portrait %}Samantha eating that thing out of Aliens{% endfigure %}
+{% figure china-xian-009.jpg portrait %}
+Samantha eating that thing out of Aliens
+{% endfigure %}
 
 ### Folk house (Gaojia Dayuan)
 
 Inside the Muslim quarter, down Beiyuanmen street is an old folk house that provided just enough cover from the rain to let us dry off a bit. I say just enough, it's a few buildings that you still need to hop between, so inevitably you never really dry off. We paid a bit extra for the tickets to go and see the shadow puppets and have a drink of tea (it's never just a drink, always a ceremony). The shadow puppet story was all in Chinese, so we were simply bemused by shadowy figures flying around a white canvas. The buildings themselves are filled with antique furniture, paintings and calligraphy; the ceilings are wooden and outside hang traditional red lanterns. It doesn’t quite meet the standards you’d expect of say a National Trust place in the UK, but it’s a good stop for an hour or so.
 
-{% figure china-xian-004.jpg landscape %}Entrance to the folk house (Gaojia dayuan){% endfigure %}
+{% figure china-xian-004.jpg landscape %}
+Entrance to the folk house (Gaojia dayuan)
+{% endfigure %}
 
-{% figure china-xian-005.jpg landscape %}Tea ceremony at the folk house{% endfigure %}
+{% figure china-xian-005.jpg landscape %}
+Tea ceremony at the folk house
+{% endfigure %}
 
 ## Finding dinner
 
@@ -60,7 +76,9 @@ After returning to the hotel, drying off and heading back out again, it was time
 
 From the Kaiyuan shopping mall we took some evening photos of the bell tower, and inside we checked out the food court. All the places looked good, but they were mostly buffet and we wanted a proper sit-down-meal after eating street food all day. The mall itself could have been in any country, and the lifts were painfully slow.
 
-{% figure china-xian-006.jpg landscape %}Xi’an drum and bell towers at night{% endfigure %}
+{% figure china-xian-006.jpg landscape %}
+Xi’an drum and bell towers at night
+{% endfigure %}
 
 Outside the rain continued, and we meandered up and down streets, peering in restaurant windows and checking out the few menus we could find. At one point we found ourselves in a trendy karaoke night club by mistake, thinking it was somewhere we could eat. Eventually we gambled on a place which we couldn’t see in from the outside, [some red steps](http://www.dianping.com/photos/78216520) went up to a higher floor, but the sign clearly showed a stylised picture of some noodles.
 
@@ -74,4 +92,6 @@ The specialty seemed to be bullfrog, but we played it safe, ordering fried rice,
 
 Not quite done with the day, we had the hotel bar prepare us some cocktails, before sneaking to the roof to get some night shots of the bell tower.
 
-{% figure china-xian-011.jpg landscape %}Xi’an bell tower at night{% endfigure %}
+{% figure china-xian-011.jpg landscape %}
+Xi’an bell tower at night
+{% endfigure %}

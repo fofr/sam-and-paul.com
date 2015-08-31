@@ -11,7 +11,9 @@ date: 2010-07-09 08:57:45
 
 After a scrumptious Jamaican burger (mango and ginger relish included) from the [Gourmet Burger Kitchen](http://4sq.com/a3pchq) near Covent Garden, Jo, Jo's Aunt and Uncle, Sam and I headed to the [Vaudeville theatre](http://foursquare.com/venue/143717) for the recently opened, "Prisoner of Second Avenue".
 
-{% figure prisonerSecondAvenue.gif portrait original %}The Prisoner of Second Avenue poster{% endfigure %}
+{% figure prisonerSecondAvenue.gif portrait original %}
+The Prisoner of Second Avenue poster
+{% endfigure %}
 
 We didn't really know much about the play before deciding to go and see it, or even before we walked in. A black comedy starring Jeff Goldblum was enough to sway me and Jo, and Sam reluctantly came along for the ride - though she was glad she did. The play also starred the excellent Mercedes Ruehl, and was originally written by Neil Simon. There's a Jack Lemmon film as well.
 

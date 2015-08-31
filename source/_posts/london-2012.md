@@ -23,7 +23,9 @@ page: 1
 
 In 2011 Samantha and I ran the Olympic games ticketing website gauntlet, and in the public ballot we came away with tickets for two Olympic events; hockey and table tennis. Then in the second round, getting up at 6am, Sam nabbed basketball, canoe sprint and volleyball. A good haul.
 
-{% figure olympics-003.jpg landscape %}Our London 2012 olympic tickets{% endfigure %}
+{% figure olympics-003.jpg landscape %}
+Our London 2012 olympic tickets
+{% endfigure %}
 
 One year later and it was time for the games to begin. Day one of the London 2012 Olympics. After seven years of planning, preparations, new hotels, new venues, an excellent and fun 'get ahead of the games' campaign, the ticket buying fiasco, the hoo-ha over the logo and goodness knows what else, the time had come.
 

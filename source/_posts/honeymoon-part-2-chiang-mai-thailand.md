@@ -19,9 +19,13 @@ Part one of our holiday was over, we checked out, returned the rental and took a
 
 With a complimentary airport transfer we arrived at Rimping Village, our next port of call. Unlike the previous resorts, this was a small, personal and homely place -- all rooms overlook the pool, and the grounds are dominated by a grand Banyan tree. We traded in luxury for warmth, friendliness and new friends. We loved it, the guests and the staff.
 
-{% figure honeymoon-130.jpg landscape %}Rimping Village welcomes us honeymooners{% endfigure %}
+{% figure honeymoon-130.jpg landscape %}
+Rimping Village welcomes us honeymooners
+{% endfigure %}
 
-{% figure honeymoon-152.jpg landscape %}Rimping Village and pool{% endfigure %}
+{% figure honeymoon-152.jpg landscape %}
+Rimping Village and pool
+{% endfigure %}
 
 ## Dusty Chiang Mai
 

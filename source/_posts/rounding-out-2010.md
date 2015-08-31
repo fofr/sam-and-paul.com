@@ -31,7 +31,9 @@ In between these screenings, our small screen viewings also stood out. “An Edu
 
 As a birthday treat I took Sam to the luxurious Wolseley in London where we enjoyed the finest Champagne tea, our own small slice of decadence. Champagne tea? Crustless and exquisite finger sandwiches, perfect pastries, homemade scones and jam (specially made without fruit by request - there’s nothing Sam likes less than raisins in her scones!), two pots of tea (the Wolesely afternoon blend and Sam’s favourite, Assam), and a glass of Pommery Brut Royal NV each. That’s one of Timeout’s 1000 things to do in London crossed out.
 
-{% figure IMG_2736.JPG square original %}[The Wolseley goodie bag](http://instagram.com/p/eGD5/){% endfigure %}
+{% figure IMG_2736.JPG square original %}
+[The Wolseley goodie bag](http://instagram.com/p/eGD5/)
+{% endfigure %}
 
 Beforehand we paid a visit to the Natural History Museum to see this years Wildlife Photographer of the year exhibit. After a short queue we entered a dark room where 3ft by 2ft photos were mounted perfectly along the walls. Back-lit, the sharpness and delicate detail of the photos and nature itself shone through. Our world felt fleeting, fragile and perfect.
 
@@ -39,21 +41,31 @@ A downward shot of a seabird diving from a cliff gave us vertigo and a majestic 
 
 As an aspiring photographer, I left wanting to travel, to build my own hide and to sit with patience, ready to capture that all too rare wildlife moment.
 
-{% figure wildlife-of-the-year-2010-drop.jpg landscape original %}[The drop](http://www.nhm.ac.uk/visit-us/wpy/gallery/2010/images/animals-in-their-environment/4319/the-drop.html) by Andrew Parkinson{% endfigure %}
+{% figure wildlife-of-the-year-2010-drop.jpg landscape original %}
+[The drop](http://www.nhm.ac.uk/visit-us/wpy/gallery/2010/images/animals-in-their-environment/4319/the-drop.html) by Andrew Parkinson
+{% endfigure %}
 
-{% figure wildlife-of-the-year-2010-cheetahs.jpg landscape original %}[The moment](http://www.nhm.ac.uk/visit-us/wpy/gallery/2010/images/behaviour-mammals/4337/the-moment.html) by Bridgena Barnard{% endfigure %}
+{% figure wildlife-of-the-year-2010-cheetahs.jpg landscape original %}
+[The moment](http://www.nhm.ac.uk/visit-us/wpy/gallery/2010/images/behaviour-mammals/4337/the-moment.html) by Bridgena Barnard
+{% endfigure %}
 
-{% figure wildlife-of-the-year-2010-langurs.jpeg landscape original %}[Sunset moment](http://www.nhm.ac.uk/visit-us/wpy/gallery/2010/images/urban-wildlife/4410/sunset-moment.html) by Olivier Puccia{% endfigure %}
+{% figure wildlife-of-the-year-2010-langurs.jpeg landscape original %}
+[Sunset moment](http://www.nhm.ac.uk/visit-us/wpy/gallery/2010/images/urban-wildlife/4410/sunset-moment.html) by Olivier Puccia
+{% endfigure %}
 
 ## Christmas
 
-{% figure xmas-2010-biscotti-tree.jpg portrait %}Homemade Christmas biscotti{% endfigure %}
+{% figure xmas-2010-biscotti-tree.jpg portrait %}
+Homemade Christmas biscotti
+{% endfigure %}
 
 This Christmas we were in Banstead where Sam’s mum made us a delicious traditional turkey roast with all the trimmings. Petra, the dog, ran around with her new squeaky toy, (thankfully she’s now grown out of all the toe nipping and lace tugging) and ate up a couple of flying cracker toys.
 
 After dinner we sat in front of the roaring wood fire and shamelessly sat back to endure a little Poirot, amongst the ad breaks and the cheese and crackers (all too full to really embrace the fine cheese). Amanda’s indoor helicopter toy was carefully manoeuvred from the table to the ceiling, making sure Petra was out of sight.
 
-{% figure 2010-12-25-IMG_7525.jpg portrait %}Petra, the dog{% endfigure %}
+{% figure 2010-12-25-IMG_7525.jpg portrait %}
+Petra, the dog
+{% endfigure %}
 
 The recent snow hadn’t melted and it was the perfect white Christmas - crisp, white and snowy, but without the immediate travel chaos. With some Christmas cake wrapped in foil, and packed into an old Quality Streets tin, we drove to Bristol on boxing day, with some delicious smoked salmon and scrambled egg on toast to keep us going.
 
@@ -61,7 +73,9 @@ In Yate, after enduring the obvious M25 traffic jam, my mum and sister treated u
 
 We rushed about Bristol seeing friends and family while we could, stopping at my aunts in Yatton for a bite to eat and a talk about the horses and cats, with ET on in the background, muted. At my Grandparents my Grandpa knocked up a delicious quick bubble n squeak from Xmas day leftovers, complete with the much needed pickled onions and homemade quiche, and trifle for dessert. And we went to my old friend Gary’s for an evening, to see how he’s settling into his new house with fiancee Rachel; Sam’s Xbox skills were pushed to her limit as she played a run, jump and explode teamwork game. Each day, and with each stop, we dropped off a box of our homemade truffles and Christmas biscotti, and sometimes a plant or a bottle of mulling syrup (the good stuff from Selsley) too.
 
-{% figure 2010-12-28-IMG_7695.jpg landscape %}My aunt’s cat{% endfigure %}
+{% figure 2010-12-28-IMG_7695.jpg landscape %}
+My aunt’s cat
+{% endfigure %}
 
 Back in Brighton, in the downtime before New Year’s, we found the perfect oak bed from Warren Ellis, complete with 55% + 10% off. It’s gorgeous, and the smell of new wood continues to permeate the flat. And that’s not the best part, the bed is high enough for us to see out the window from our pillows, I can see the sea from my pillow. My bed is my new favourite place.
 

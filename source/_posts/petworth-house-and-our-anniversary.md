@@ -21,21 +21,33 @@ With an Indian summer forecast, and likely the last t-shirt wearing weekend for 
 
 With the Peugeot squeezed into the only available space, we carried our picnic up to the top of the hill, and on the hidden bench, beneath falling chestnuts, we ate our roast chicken and bread rolls. Out in the misty valley, deer ran away from scary dogs and the tree leaves were already turning yellow.
 
-{% figure petworth-house-7.jpg landscape %}Petworth house and park{% endfigure %}
+{% figure petworth-house-7.jpg landscape %}
+Petworth house and park
+{% endfigure %}
 
 I packed the SLR, and with all the mist and wildlife it was a perfect opportunity for a spot of photography. Deer lay in the long grass, and as we neared they galloped away, leaving us to lament our limited zoom, incorrect camera settings and pictures of deer hind. Never mind, I still had the chance to explain aperture and shutter speeds to Sam as we knelt in the muddy grass to photograph great red mushrooms.
 
-{% figure petworth-house-6.jpg landscape original %}Stag{% endfigure %}
+{% figure petworth-house-6.jpg landscape original %}
+Stag
+{% endfigure %}
 
-{% figure petworth-house-5.jpg landscape %}Mushrooms in autumn{% endfigure %}
+{% figure petworth-house-5.jpg landscape %}
+Mushrooms in autumn
+{% endfigure %}
 
 Back at Petworth House, and after a cup of tea, a cookie and some grapes, we meandered the great hallways. Walls were lined with fantastic works of art, including many original pieces by Turner and William Blake. A view of Brighton from the sea, by Turner, sat alongside a portrait of Henry VIII in the ‘carved room’.
 
-{% figure petworth-house-3.jpg portrait %}Paul tossing grapes{% endfigure %}
+{% figure petworth-house-3.jpg portrait %}
+Paul tossing grapes
+{% endfigure %}
 
-{% figure petworth-house-2.jpg landscape %}“Carved room” in Petworth house{% endfigure %}
+{% figure petworth-house-2.jpg landscape %}
+“Carved room” in Petworth house
+{% endfigure %}
 
-{% figure petworth-house-1.jpg landscape %}Gallery and sculptures in Petworth house{% endfigure %}
+{% figure petworth-house-1.jpg landscape %}
+Gallery and sculptures in Petworth house
+{% endfigure %}
 
 That night we watched The Pianist, a sobering Polanski movie about the trials of a talented Jewish musician during World War II, we sincerely recommend it.
 

@@ -32,9 +32,13 @@ By this time most of my nerves had gone, it's always the waiting that's worst. T
 
 The aircraft was tiny, and without seats. Seven of us were jumping, and we squeezed in, sitting between each others legs. It would take ten minutes to reach the jumping altitude of 10,000ft. And off we went, climbing higher and higher, the great flat expanse of Suffolk growing beneath us. Higher and higher, there's no turning back now. Towards the clouds, through the clouds and above the clouds.
 
-{% figure IMG_8817.jpg portrait %}Paul on the plane before takeoff{% endfigure %}
+{% figure IMG_8817.jpg portrait %}
+Paul on the plane before takeoff
+{% endfigure %}
 
-{% figure IMG_8825.JPG landscape %}The nervous fliers{% endfigure %}
+{% figure IMG_8825.JPG landscape %}
+The nervous fliers
+{% endfigure %}
 
 ## Falling with style
 
@@ -42,27 +46,43 @@ Then the aircraft slowed down, and the time had come. The hatch opened and the g
 
 OH SHIT! My genuine first thought, as the unnatural feeling of weightlessness takes hold. We roll over, and I look up at the clear blue sky and the underbelly of the plane flying off.
 
-{% figure IMG_8836.JPG landscape %}Leaning out of the plane{% endfigure %}
+{% figure IMG_8836.JPG landscape %}
+Leaning out of the plane
+{% endfigure %}
 
-{% figure IMG_8837.JPG landscape %}Too late to back out now{% endfigure %}
+{% figure IMG_8837.JPG landscape %}
+Too late to back out now
+{% endfigure %}
 
-{% figure IMG_8838.JPG landscape %}Oh shit!{% endfigure %}
+{% figure IMG_8838.JPG landscape %}
+Oh shit!
+{% endfigure %}
 
 Now the weightlessness disappears, and all you can feel is the rush of air against you, getting stronger and stronger as you accelerate up to 120mph. But as you're falling you have time to think, to notice that the cloud is getting closer, to think about your breathing as the wind tries to take your breath away. And to think, this is amazing, this is magnificent. I was breathless and awestruck.
 
-{% figure IMG_8847.JPG landscape %}Paul and the clouds{% endfigure %}
+{% figure IMG_8847.JPG landscape %}
+Paul and the clouds
+{% endfigure %}
 
-{% figure IMG_8848.JPG landscape %}Hey, this isn’t so bad{% endfigure %}
+{% figure IMG_8848.JPG landscape %}
+Hey, this isn’t so bad
+{% endfigure %}
 
-{% figure IMG_8887.JPG landscape %}Incoming clouds{% endfigure %}
+{% figure IMG_8887.JPG landscape %}
+Incoming clouds
+{% endfigure %}
 
 I put my arms out and felt the air fly past me, and then we hit the cloud, and we're falling through fog. The moisture gathers on my face, and it's refreshing. Then the parachute is deployed, a sharp halt and I switch from a falling to a standing position. I watch as my cameraman disappears into the fog beneath me, like some weird scene in The Neverending Story. And all is quiet again, the rushing wind stops and the fog clears.
 
-{% figure IMG_8894.JPG landscape %}Time to open the parachute{% endfigure %}
+{% figure IMG_8894.JPG landscape %}
+Time to open the parachute
+{% endfigure %}
 
 I look up and see the blue parachute above me. I look down, I see my feet, my familiar Converse shoes, and then a field, a long long way down. I am floating in the sky, it is silent, and wonderful. Except perhaps for the tightness across my chest.
 
-{% figure IMG_8899.JPG landscape %}Landing zone{% endfigure %}
+{% figure IMG_8899.JPG landscape %}
+Landing zone
+{% endfigure %}
 
 The silence was unexpected, the guy on my back points out the sights as we descend. Great Yarmouth, Norwich, the sea, and so on.
 
@@ -70,9 +90,13 @@ Then, unexpectedly, it's my turn to control. I put my hands in the yellow parach
 
 Beneath me I see the plane landing, and the landing zone. I relinquish control and we come in for our landing, legs up, legs up, and down, bums skidding across the grass, back on solid ground. With an ear to ear grin, I shake the guys hand and sit back to watch Marek and Linda landing behind me.
 
-{% figure IMG_8901.JPG landscape %}Legs up for landing{% endfigure %}
+{% figure IMG_8901.JPG landscape %}
+Legs up for landing
+{% endfigure %}
 
-{% figure IMG_8913.JPG landscape %}Too dazed to pose for a picture{% endfigure %}
+{% figure IMG_8913.JPG landscape %}
+Too dazed to pose for a picture
+{% endfigure %}
 
 <iframe width="580" height="326" src="http://www.youtube.com/embed/AfxSk1l4UgQ" frameborder="0" allowfullscreen></iframe>
 

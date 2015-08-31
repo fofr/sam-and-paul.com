@@ -24,7 +24,9 @@ Our room was modest. A bed with mosquito nets, a small bathroom, some shelves an
 
 The view from the bedroom however was breathtaking. Bright green rice paddies stretched out into the distance until they met towering limestone mountains which climbed gloriously into the sky, the sun setting just behind, amidst the orange hue of a few clouds. We stood for a few minutes just to take it all in.
 
-{% figure phong-nha-380.jpg landscape %}View from Phong Nha farmstay{% endfigure %}
+{% figure phong-nha-380.jpg landscape %}
+View from Phong Nha farmstay
+{% endfigure %}
 
 Downstairs again we said our hellos, and got to know a couple of people, Andy and Beth were on their honeymoon, they'd been to Hoi An and we shared stories and plans, as you do.
 
@@ -34,10 +36,14 @@ We had beer, some very good beef Pho and umm'd and ahh'd about which tour we sho
 
 Dave, a loud, brash, and self-proclaimed fat Australian, wearing his red hawaiian shirt, explained the cave tour. “Underground rivers, kayaking, swimming, climbing over big fuckin' rocks, there were parts where if the guide hadn't been there I'd have died. This [the Phong Nha tour] is good, but this [pointing at the cave trek], this is better than Macchu Piccu. This is incredible”. Yes, a real adventure, but this unsettled us, what had we signed up for?
 
-{% figure phong-nha-453.jpg landscape %}The tour boards at Phong Nha farmstay{% endfigure %}
+{% figure phong-nha-453.jpg landscape %}
+The tour boards at Phong Nha farmstay
+{% endfigure %}
 
 We retired, but not before standing on the balcony and watching the stunning thunderstorm taking place over the mountains. A flash of fork lightning, spreading out across the sky, lighting up the rice paddies, and then the crack of thunder.
 
 That night I imagined what the tour would be like. Would we be stranded in some pitch black cavern, squeezing through the tiniest of spaces and climbing down small holes? What if we got lost? What if I was forced to swim — I don't really do swimming. But I swiftly fell asleep beneath the mosquito nets, the red light of the anti-mozzy spray glowing dimly.
 
-{% figure phong-nha-454.jpg portrait %}Night time at the farmstay{% endfigure %}
+{% figure phong-nha-454.jpg portrait %}
+Night time at the farmstay
+{% endfigure %}

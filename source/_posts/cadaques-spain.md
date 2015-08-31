@@ -13,7 +13,9 @@ page: 1
 
 From Brighton Station and the usual decrepit First Capital Connect trains, then Gatwick Airport and proficient EasyJet flight to Barcelona, then taxi to Estacio del Nord, and a 2h45 Sarfa bus north, through winding pyrenean roads, down to the coastal town of Cadaqués.
 
-{% figure spain-cadaques-barcelona-21.jpg landscape %}Cadaqués{% endfigure %}
+{% figure spain-cadaques-barcelona-21.jpg landscape %}
+Cadaqués
+{% endfigure %}
 
 Cadaques just oozes serenity, waves wash against small beaches and coves, scooters whiz along the one-way beach roads whilst golden brown Spaniards light up and coolly puff their smoke into the air.
 
@@ -21,7 +23,9 @@ The town and cathedral sit pretty at the foot of towering mountains, the sun bak
 
 Boats litter the bay, the wind clanging ropes against their metal masts, amongst the sound of kids sunbathing on jetties and French tourists’ camera shutters, snapping views of the cathedral Santa Maria.
 
-{% figure spain-cadaques-barcelona-30.jpg portrait %}Terracotta rooftops of Cadaqués{% endfigure %}
+{% figure spain-cadaques-barcelona-30.jpg portrait %}
+Terracotta rooftops of Cadaqués
+{% endfigure %}
 
 ## Hotel Sol Ixent
 
