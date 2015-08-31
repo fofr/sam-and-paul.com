@@ -67,7 +67,7 @@ Our hotel sat very close to the excellent and widely recommended tapas bar and r
 * Bacon, cheese and date flute
 * Sangria
 * Mushrooms and potatoes
-{% endmenu /%}
+{% endmenu %}
 
 {% figure spain-cadaques-barcelona-161.jpg landscape %}Razor clams at Cerveceria Catalana{% endfigure %}
 
