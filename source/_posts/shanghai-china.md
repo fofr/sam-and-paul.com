@@ -17,9 +17,13 @@ Our hectic China itinerary, booked through [Rickshaw travel](http://www.chinatra
 
 The Astor House hotel serves a delicious breakfast spread from the decadent and historic Peacock ballroom, once a famed and landmark place. The hotel itself is over 100 years old, it was the first western style hotel in the city and comes with an enormous amount of dark wood panelling. Our sixth floor room had a kingsize bed, a couple of sofas and two small windows which looked out over The Bund. A perfect location for a spot of night time photography.
 
-{% figure china-shanghai-007.jpg landscape %}Our room at Astor House hotel{% endfigure %}
+{% figure china-shanghai-007.jpg landscape %}
+Our room at Astor House hotel
+{% endfigure %}
 
-{% figure china-shanghai-009.jpg square %}Breakfast in the Peacock ballroom{% endfigure %}
+{% figure china-shanghai-009.jpg square %}
+Breakfast in the Peacock ballroom
+{% endfigure %}
 
 ## The Bund
 
@@ -29,7 +33,9 @@ The waterfront, lined with mid 19th century architecture, looks out across the H
 
 On our side of the river were the arguably more elegant HSBC building, Custom house with its Big Ben clock tower and the Fairmont Peace hotel.
 
-{% figure china-shanghai-006.jpg landscape %}Paul and Shanghai’s famous view from The Bund{% endfigure %}
+{% figure china-shanghai-006.jpg landscape %}
+Paul and Shanghai’s famous view from The Bund
+{% endfigure %}
 
 ## Shanghai museum and People’s square
 
@@ -39,11 +45,17 @@ We weren't in the mood for looking around a museum, but as we were here we shoul
 
 Given our mood and tiredness, it's testament to the quality and interestingness of the museum that we explored all of it. From 18th century BC bronze-wear, to Genghis Khan coins, a history of calligraphy, classic porcelain china, Qin dynasty furniture and exquisite Chinese paintings of mystical mountains and pagodas, this museum was spectacular.
 
-{% figure china-shanghai-005.jpg landscape %}A Buddha statue in the Shanghai museum{% endfigure %}
+{% figure china-shanghai-005.jpg landscape %}
+A Buddha statue in the Shanghai museum
+{% endfigure %}
 
-{% figure china-shanghai-004.jpg landscape %}Samantha examining some of the bronzeware exhibits{% endfigure %}
+{% figure china-shanghai-004.jpg landscape %}
+Samantha examining some of the bronzeware exhibits
+{% endfigure %}
 
-{% figure china-shanghai-003.jpg landscape %}Classic Chinese artwork on show in the Shanghai museum{% endfigure %}
+{% figure china-shanghai-003.jpg landscape %}
+Classic Chinese artwork on show in the Shanghai museum
+{% endfigure %}
 
 ## Pudong cityscape
 
@@ -55,9 +67,13 @@ Sadly the sky and clouds were unremarkable, a thick hazy mist blocked out whatev
 
 After dinner we walked back to our hotel along the promenade. By now, 10pm, the mists had cleared and tufty grey clouds gave the sky some substance whilst the full moon shone through. At last! With tripod setup again, we hung around for another half an hour taking more photos.
 
-{% figure china-shanghai-002.jpg landscape %}[Panoramic of Shanghai](https://500px.com/photo/87436849/shanghai-light-beams-by-paul-hayes) from The Bund as a boat passes by{% endfigure %}
+{% figure china-shanghai-002.jpg landscape %}
+[Panoramic of Shanghai](https://500px.com/photo/87436849/shanghai-light-beams-by-paul-hayes) from The Bund as a boat passes by
+{% endfigure %}
 
-{% figure china-shanghai-001.jpg landscape %}A full moon over Shanghai’s financial center{% endfigure %}
+{% figure china-shanghai-001.jpg landscape %}
+A full moon over Shanghai’s financial center
+{% endfigure %}
 
 ## Lost Heaven
 
@@ -67,7 +83,9 @@ The decor was dark panelled and luscious red, and inside it was dimly lit but aw
 
 For dinner we shared a Burmese beef curry, like a spicy stew; a plate of snow peas and stir fried lily bulbs — onion like in texture but sweeter and more watery; Dai spiced pork served in banana leaf; and crispy crab cakes with a mango sauce. All washed down with a pot of Pu-erh Yunnan tea. All dishes were scrumptious.
 
-{% figure china-shanghai-008.jpg portrait %}Samantha at Lost Heaven{% endfigure %}
+{% figure china-shanghai-008.jpg portrait %}
+Samantha at Lost Heaven
+{% endfigure %}
 
 ## A blight on our perfect day
 

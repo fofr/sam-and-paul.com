@@ -14,7 +14,9 @@ One year on and it's another Great Escape Festival in Brighton. Over 300 bands a
 
 As [like last year](/2011/06/the-great-escape-2011/), Sarah and Mark joined us from Bristol for the three days. And at midday on Thursday we set into town to grab our wrist bands and programmes, via co-op for some tasty fresh croissants. At Jubilee Square the TGE staff struggle to snap on each of our cotton itchy-feeling wrist bands.
 
-{% figure tge-2012-poster.jpeg portrait original %}The Great Escape 2012 lineup poster{% endfigure %}
+{% figure tge-2012-poster.jpeg portrait original %}
+The Great Escape 2012 lineup poster
+{% endfigure %}
 
 ## François and the Atlas Mountains, Porcelain Raft
 
@@ -24,11 +26,15 @@ The first set we wanted to see was at The Prince Albert, back up towards the sta
 
 **François and the Atlas Mountains** filled the stage next, on the small stage they were really very cramped. Sam and I had been playing their album beforehand, "E Volo Love", dancing around the living room to "Les Plus Beaux", as if we were on top of the pops. French lyrics meld with a joyous african rhythm, to create something lovely. But the performance wasn't without hindrance, a mic broke, and many songs were interrupted with white noise or feedback. The band shone through these technical problems, "these things happen", François said.
 
-{% figure tge-2012-francois-atlas-mountains.jpeg landscape %}[François and the Atlas Mountains](http://owlbynight.blogspot.co.uk/2012/05/great-escape-festival-2012-thursday_17.html){% endfigure %}
+{% figure tge-2012-francois-atlas-mountains.jpeg landscape %}
+[François and the Atlas Mountains](http://owlbynight.blogspot.co.uk/2012/05/great-escape-festival-2012-thursday_17.html)
+{% endfigure %}
 
 **Porcelain Raft** are one of my favourite bands at the moment. I'd seen them live with M83 but hadn't heard their album at that point. "Is it too deep for you?" and "Backwords" are fantastic, wistful, hypnotic, dreamy songs. Perhaps I'd hyped them up too much, but this set was awful, not that I fault the band themselves. The Prince Albert was full, people were squeezing in, it was hot and humid, we wanted lunch and it was overwhelming, but not in a good way. The two piece struggled to cope with The Prince Albert's sound setup: the snares were penetrating and the lyrics became drowned out, the balance was all wrong, not to mention the earthy buzz that surrounded everything. It was also very loud and we'd forgotten our ear plugs. Simply the wrong atmosphere and environment for this relaxing music.
 
-{% figure tge-2012-porcelain-raft.jpeg portrait %}Porcelain Raft by [Marcus Moxham](http://www.flickr.com/photos/moxcod/7199995740/in/set-72157629732958152){% endfigure %}
+{% figure tge-2012-porcelain-raft.jpeg portrait %}
+Porcelain Raft by [Marcus Moxham](http://www.flickr.com/photos/moxcod/7199995740/in/set-72157629732958152)
+{% endfigure %}
 
 ## Pompoko restaurant
 
@@ -44,7 +50,9 @@ It was overcast, the clouds were heavy and there was faint mist. We went home, h
 
 First up, Sticky Mike's Frog Bar for **Young Dreams**. Downstairs, in the dark, another small venue, we stood right at the front in the middle, Sam would at least see one band without some tall guy getting in the way. Described as tropicalia, psychedelic rock, they combined synths, guitars and tambourines with a pop sensibility. Their self-titled track, "Young Dreams", stood out from the set, it was excellent.
 
-{% figure tge-2012-young-dreams-3.jpg landscape %}Young Dreams{% endfigure %}
+{% figure tge-2012-young-dreams-3.jpg landscape %}
+Young Dreams
+{% endfigure %}
 
 **New Look** followed, a two piece haling from Canada. Futuristic, minimal pop laced with dubstep. Their self-titled album attracted me, "The Ballad" standing out. As a live act, Sarah Ruba looked gorgeous in 1940s attire, alongside her smartly dressed buttoned up collar husband, Adam Pavao. Together they played their minimal pop, as patterns of light danced across the stage. But the set lacked energy, and began to sound 'same-y', it was perhaps too minimal. Not until the final track, "Teen Need", did we really see what they were capable of.
 
@@ -56,11 +64,15 @@ Next up, the Pavilion Theatre for Club Uncut, a favourite venue of ours from las
 
 We got in before **TOY** started, a krautrock post-rock act with long hair, with a singer that sounded like a heavy Jarvis Cocker. Despite all that we really enjoyed their 7 minute epic tracks. A pleasant surprise.
 
-{% figure tge-2012-toy.jpeg landscape original %}[TOY](http://www.uncut.co.uk/blog/festivals/club-uncut-at-the-great-escape-day-one){% endfigure %}
+{% figure tge-2012-toy.jpeg landscape original %}
+[TOY](http://www.uncut.co.uk/blog/festivals/club-uncut-at-the-great-escape-day-one)
+{% endfigure %}
 
 Next up were **Django Django**, headlining the evening, a Scottish quartet, "art-rock that melds intangible electronic flourishes to the visceral rub of live instrumentation". You could also describe them as psychedelic rock, a concoction of 80s rhythm and 60s beach boy-esque vocal harmonies. Either way, I think they're awesome, and enjoyed the set immensely, dancing like a fool to all the tracks, even to the Egyptian themed "Skies over Cairo".
 
-{% figure tge-2012-django-django.jpeg landscape original %}Django Django{% endfigure %}
+{% figure tge-2012-django-django.jpeg landscape original %}
+Django Django
+{% endfigure %}
 
 <iframe width="580" height="435" src="http://www.youtube.com/embed/oCK8PYcJ2ZU" frameborder="0" allowfullscreen></iframe>
 

@@ -15,7 +15,9 @@ date: 2010-07-30 20:46:40
 
 Amongst our search for a house to purchase, in Brighton or Haywards Heath, we've been out a couple of nights this week to relax. Firstly, at last, to see the new Chris Nolan movie, "Inception" at the old school Dukes of York cinema in Brighton. And secondly, to Brighton's Theatre Royal for Alan Ayckbourn's "Bedroom Farce" starring Maxwell Caulfield.
 
-{% figure bedroom-farce.jpg landscape original %}Bedroom Farce poster{% endfigure %}
+{% figure bedroom-farce.jpg landscape original %}
+Bedroom Farce poster
+{% endfigure %}
 
 I'd been lucky enough to not know anything about "Inception" before stepping in, beyond that it was supposedly weird and confusing and starred some of my favourite actors--namely Leonardo DiCaprio, Joseph Gordon-Levitt and Ellen Page. I've embedded the trailer below and highly recommend seeing it. If you've seen ExistenZ it might be a bit deja-vu in places. Many of the concepts were similar to Alex Garland's book, "The Coma", which you could probably read in an hour or so (or ten minutes if reading whilst asleep, or one minute if you're asleep whilst asleep).
 

@@ -26,7 +26,9 @@ Cheerful staff were waiting our arrival, they helped us out of the car and empha
 
 We were shown to our room, through the small tropical garden and past the Indochine Angkor posters, old suitcases and Buddha statues, up the stairs. Along the corridor's ceiling the uncontrollable ants were chasing something sweet, avoiding the geckos that liked to snack on them.
 
-{% figure angkor-wat--002.jpg landscape %}Our room at the Pavillon D'orient{% endfigure %}
+{% figure angkor-wat--002.jpg landscape %}
+Our room at the Pavillon D'orient
+{% endfigure %}
 
 The room was large, light brown and beige with a wooden floor. It got the, “Oh, wow” response from both of us. Even the mosquito nets were somehow romantic. A balcony with seats looked out towards the pool, and a writing desk had fresh fruit, complimentary red wine and an intriguing paper maché sculpture.
 

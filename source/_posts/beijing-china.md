@@ -27,21 +27,29 @@ The alleyways here are fascinating. Grey-bricked single storey buildings line th
 
 Many of the buildings are quirky boutique shops and our hotel was just off The Alley, the main shopping hutong. It's Beijing's equivalent of Brighton’s lanes. Lots of good little eateries and bars, shops selling tea, clothes, sculptures, porcelain, hand painted art, leather-ware, stationary, souvenirs, and even ocarinas. The whole time we stayed here the alley was busy, filled with trendy looking Chinese teens (with bow ties in their hair, or kitten ears, or chunky platform boots and punk jackets, or t-shirts bearing nonsense English phrases — “truck furniture”), Chinese tourists with their big cameras and the occasional English speaker.
 
-{% figure china-beijing-003.jpg landscape %}A music bar in Beijing’s hutong{% endfigure %}
+{% figure china-beijing-003.jpg landscape %}
+A music bar in Beijing’s hutong
+{% endfigure %}
 
-{% figure china-beijing-004.jpg landscape %}Pu-er tea being sold in a hutong tea shop{% endfigure %}
+{% figure china-beijing-004.jpg landscape %}
+Pu-er tea being sold in a hutong tea shop
+{% endfigure %}
 
 The taxi couldn't get down the alley, so we were dropped off at the north gate and wheeled our luggage through the crowds and shops to our hotel, where we said goodbye, for now, to our guide.
 
 ## Courtyard 7
 
-{% figure china-beijing-005.jpg landscape %}Courtyard 7 at night{% endfigure %}
+{% figure china-beijing-005.jpg landscape %}
+Courtyard 7 at night
+{% endfigure %}
 
 The [courtyard](http://www.tripadvisor.co.uk/Hotel_Review-g294212-d1141369-Reviews-Courtyard_7-Beijing.html) is an escape from the hustle and bustle outside, in its tranquility it's easy to forget the enormous city you're in. The courtyard is a 300 year old original, surrounded in red-beamed grey-tiled historic rooms, each furnished with Chinese antiques.
 
 From reception you pass through a stone arch into a small yard with a restaurant. Through another wooden gate and you're faced with a beautiful walled courtyard, one room either side. We had been given a free upgrade, and through a small arch at the back we found our room, with its private courtyard, rocking chair, Chinese paintings and delightful fittings — golden fabrics, wood panelled bathroom and sauna, traditional bed and curtains.
 
-{% figure china-beijing-001.jpg landscape %}Our traditional room at Courtyard 7{% endfigure %}
+{% figure china-beijing-001.jpg landscape %}
+Our traditional room at Courtyard 7
+{% endfigure %}
 
 Breakfast was included, which was a spread of fresh fruit, salad, salami and cheese, with tea and coffee. It was quite average, but that's our only real complaint.
 
@@ -49,4 +57,6 @@ Breakfast was included, which was a spread of fresh fruit, salad, salami and che
 
 After checking in and settling down we set out to explore our surroundings. In the alley we queued at all the food stands that looked popular; a bag of fried squid bits, some fried sweet potato — oddly doused in sugar, lobster and cabbage fried balls, passion fruit drink, and a Tiger beer. Stuffed, and with a bit of bellyache, we retired for the night.
 
-{% figure china-beijing-002.jpg landscape %}Shops along Beijing’s busiest hutong{% endfigure %}
+{% figure china-beijing-002.jpg landscape %}
+Shops along Beijing’s busiest hutong
+{% endfigure %}

@@ -30,7 +30,7 @@ var jsdom = require('jsdom').jsdom,
     window = jsdom("").parentWindow,
     $ = require('jquery')(window);
 
-hexo.extend.tag.register('figure', function(args, content, options) {
+hexo.extend.tag.register('figure', function(args, content) {
 
   var image_dir = hexo.config.image_dir,
       render = hexo.render,
@@ -49,4 +49,4 @@ hexo.extend.tag.register('figure', function(args, content, options) {
   }
 
   return '<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--'+ orientation +'"><a href="' + image_dir + image +'"><img src="' + image_dir + directory + image +'" alt="'+ caption +'"></a><figcaption class="generated-figure-caption">'+ renderedCaption +'</figcaption></figure>';
-}, true);
+}, {ends: true});

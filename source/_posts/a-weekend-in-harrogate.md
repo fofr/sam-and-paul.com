@@ -20,41 +20,75 @@ With the last of our national trust wedding vouchers from Sam's aunt, we bought 
 
 Fountains abbey is a huge, ruined 12th century monument, and a UNESCO world heritage site. It is enormous! The spire still survives, along with the main walls of the church. Gaping holes show where beautiful stained glass would have been. A stone altar partly stands, looking down the length of the ruin, it's a roofless cathedral with a grass carpet. Above us a murder of crows shouts and squabbles, fighting over sitting space on the spire. Their nests are buried into the alcoves of the ruin. A group of school kids on a guided tour pass by, dressed head to toe as traditional monks, it's a strange sight. We listen as their guide explains the lavatorium and how monks would bathe four times a year. Between all the walls we stopped and shifted to get interesting photos, waiting and hoping for the birds to swoop at the right time, but never quite getting the shot we wanted.
 
-{% figure harrogate-002.jpg landscape %}Fountains Abbey{% endfigure %}
+{% figure harrogate-002.jpg landscape %}
+Fountains Abbey
+{% endfigure %}
 
-{% figure harrogate-003.jpg landscape %}Exploring the ruins{% endfigure %}
+{% figure harrogate-003.jpg landscape %}
+Exploring the ruins
+{% endfigure %}
 
-{% figure harrogate-005.jpg landscape %}Remains of Fountains Abbey{% endfigure %}
+{% figure harrogate-005.jpg landscape %}
+Remains of Fountains Abbey
+{% endfigure %}
 
-{% figure harrogate-006.jpg landscape %}Looking down the aisle{% endfigure %}
+{% figure harrogate-006.jpg landscape %}
+Looking down the aisle
+{% endfigure %}
 
-{% figure harrogate-007.jpg portrait %}Looking up the surviving belltower{% endfigure %}
+{% figure harrogate-007.jpg portrait %}
+Looking up the surviving belltower
+{% endfigure %}
 
-{% figure harrogate-008.jpg portrait %}Paul in the doorway{% endfigure %}
+{% figure harrogate-008.jpg portrait %}
+Paul in the doorway
+{% endfigure %}
 
-{% figure harrogate-009.jpg landscape %}Crows flying overhead{% endfigure %}
+{% figure harrogate-009.jpg landscape %}
+Crows flying overhead
+{% endfigure %}
 
-{% figure harrogate-010.jpg landscape %}Cloisters{% endfigure %}
+{% figure harrogate-010.jpg landscape %}
+Cloisters
+{% endfigure %}
 
-{% figure harrogate-011.jpg portrait %}Samantha in the doorway{% endfigure %}
+{% figure harrogate-011.jpg portrait %}
+Samantha in the doorway
+{% endfigure %}
 
-{% figure harrogate-012.jpg landscape %}The ancient and beautiful Fountains Abbey{% endfigure %}
+{% figure harrogate-012.jpg landscape %}
+The ancient and beautiful Fountains Abbey
+{% endfigure %}
 
 Beyond the ruin lies a water garden, where the natural river valley is sculpted into beautiful greens with statues and ducks, and fearless frogs that leap in front of you. Pheasants (not grouse), flicked up dead leaves searching for a tasty grub. We climbed the hillside to get the best viewpoints, from Anne Boleyn's shed and the more ornate temple. And we stopped for a picnic, I'd purchased some hobnobs, chocolate ones too.
 
-{% figure harrogate-014.jpg landscape %}Friendly pheasant{% endfigure %}
+{% figure harrogate-014.jpg landscape %}
+Friendly pheasant
+{% endfigure %}
 
-{% figure harrogate-021.jpg landscape %}Grumpy toad{% endfigure %}
+{% figure harrogate-021.jpg landscape %}
+Grumpy toad
+{% endfigure %}
 
-{% figure harrogate-016.jpg portrait %}Happy Samantha{% endfigure %}
+{% figure harrogate-016.jpg portrait %}
+Happy Samantha
+{% endfigure %}
 
-{% figure harrogate-017.jpg landscape %}River view from Anne Boleyn's shed{% endfigure %}
+{% figure harrogate-017.jpg landscape %}
+River view from Anne Boleyn's shed
+{% endfigure %}
 
-{% figure harrogate-018.jpg landscape %}[A gnarly tree](http://500px.com/photo/80856857/gnarly-tree-by-samantha-hayes){% endfigure %}
+{% figure harrogate-018.jpg landscape %}
+[A gnarly tree](http://500px.com/photo/80856857/gnarly-tree-by-samantha-hayes)
+{% endfigure %}
 
-{% figure harrogate-019.jpg landscape %}Paul by the lakes{% endfigure %}
+{% figure harrogate-019.jpg landscape %}
+Paul by the lakes
+{% endfigure %}
 
-{% figure harrogate-022.jpg landscape %}Quintessential Hobnobs{% endfigure %}
+{% figure harrogate-022.jpg landscape %}
+Quintessential Hobnobs
+{% endfigure %}
 
 Further along, past all the pretty lakes and ponds, we came to the end of the grounds and a small tea room. A perfect excuse for tea and carrot cake, while watching the crows dance about the outdoor tables.
 
@@ -64,7 +98,9 @@ Beyond the tended grounds the grass grew long and scattered with mole hills. We 
 
 In the car we drove through the beautiful Yorkshire countryside to Ripon, stopping to peruse the local shops, grab a tasty homemade pork pie and explore the cathedral, complete with ancient crypt. We learnt the history of Ripon through knitted cushions adorning the church edge.
 
-{% figure harrogate-023.jpg landscape %}Ripon cathedral{% endfigure %}
+{% figure harrogate-023.jpg landscape %}
+Ripon cathedral
+{% endfigure %}
 
 ## Orchid
 

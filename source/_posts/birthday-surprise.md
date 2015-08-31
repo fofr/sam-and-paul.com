@@ -31,9 +31,13 @@ The exhibition itself was marvellous. It was split into three acts, “deconstru
 
 In deconstruction we examined costumes: a Charlie Chaplin outfit in brown dusty colour; Michael Kaplan's Fight Club designs and Tyler Durden's famous blood stained red jacket; The Dude's bathrobe from The Big Leboswki; Jason Bourne's 'blend-in' style; The Addams Family, including Wednesday's sword-ed dress and Morticia's spider sequinned number; four outfits from Oceans Eleven; a selection of Elizabeths from assorted interpretations; and Indiana Jones with whip, customised Fedora, worn leather jacket, dusty shoes and gun holster.
 
-{% figure birthday-hollywood-costumes-11.jpeg portrait original %}Charlie Chaplin{% endfigure %}
+{% figure birthday-hollywood-costumes-11.jpeg portrait original %}
+Charlie Chaplin
+{% endfigure %}
 
-{% figure birthday-hollywood-costumes-08.jpeg landscape original %}The Addams Family and Fight Club{% endfigure %}
+{% figure birthday-hollywood-costumes-08.jpeg landscape original %}
+The Addams Family and Fight Club
+{% endfigure %}
 
 Each came with an insight into that specific costume design process; for instance, how Indy's hat was customised so his face could be seen, and how his jacket was sandpapered to look worn, and how the whole piece was put together to look like an old adventure flick, from a simple Spielberg sketch.
 
@@ -41,15 +45,23 @@ In dialogue we listened to actors, directors and designers talk about their cost
 
 The room opened out to two more exhibits, a collection of genre costumes — period, sci-fi, computer generated, where, obviously, Darth Vader was the star of the show; and a collection of Meryl Streep and Robert De Niro costumes from their movies; Taxi Driver, Raging Bull, The Iron Lady, etc.
 
-{% figure birthday-hollywood-costumes-14.jpeg landscape original %}Changing Contexts, with Darth Vader{% endfigure %}
+{% figure birthday-hollywood-costumes-14.jpeg landscape original %}
+Changing Contexts, with Darth Vader
+{% endfigure %}
 
-{% figure birthday-hollywood-costumes-12.jpeg landscape original %}Meryl Streep and Robert De Niro costumes{% endfigure %}
+{% figure birthday-hollywood-costumes-12.jpeg landscape original %}
+Meryl Streep and Robert De Niro costumes
+{% endfigure %}
 
 Beyond was the third room, the finale. This room was filled with costumes of all the famous characters you could imagine, classics that have defined the memories of millions. From Kate Winslett's Titanic costume, with its enormous purple hat; to action heroes Spider-man, Batman, Terminator, Hans Solo, Superman, Bond, Neo in the Matrix, Harry Potter and the yellow tracksuit from Kill Bill; to Keira Knightley's dress from Atonement, Holly Golightly from Breakfast at Tiffany's and Marilyn Monroe's dresses from Some Like it Hot and the infamous billowing white dress, behind a protective glass screen.
 
-{% figure birthday-hollywood-costumes-03.jpeg landscape original %}Costume finale with Hans Solo, Superman, Neo, Terminator and Kill Bill{% endfigure %}
+{% figure birthday-hollywood-costumes-03.jpeg landscape original %}
+Costume finale with Hans Solo, Superman, Neo, Terminator and Kill Bill
+{% endfigure %}
 
-{% figure birthday-hollywood-costumes-16.jpeg portrait original %}Spider-man{% endfigure %}
+{% figure birthday-hollywood-costumes-16.jpeg portrait original %}
+Spider-man
+{% endfigure %}
 
 That was excellent. Simply fantastic. In the tacky Hollywood gift shop outside we discussed our favourite moments, and examined design and fashion books. I couldn't help but wonder how I would define a costume for myself, and what message I want my clothes to put across. Perhaps when I go clothes shopping next time, if I consider it a design process, I might enjoy it a little more.
 
@@ -57,6 +69,8 @@ That was excellent. Simply fantastic. In the tacky Hollywood gift shop outside w
 
 The museum was closing now, open late on a Friday, but shutting now it was 9 o'clock. We stepped out into the cold streets of Kensington, hungry for some dinner. We stumbled on Comptoir Libanais, a Lebanese restaurant with an exciting menu, and teaming with diners. Seated at the far end Sam enjoyed a Lamb and Prune tagine, and I had the lamb and harissa burger with Lebanese fries, which were simply scrumptious.
 
-{% figure birthday-comptoir-01.JPG portrait %}Lebanese Burger at Comptoir Libanais{% endfigure %}
+{% figure birthday-comptoir-01.JPG portrait %}
+Lebanese Burger at Comptoir Libanais
+{% endfigure %}
 
 We walked the snowy, icy streets of Kensington back to our hotel. It wasn't even my birthday yet, and I was having a fabulous time.

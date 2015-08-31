@@ -14,7 +14,9 @@ Sam and I have been meaning to make our own sushi since my birthday, but what wi
 
 We had all the ingredients ready; sushi rice, sushi vinegar, the bamboo rolling mat, a ten pack of nori and something tasty for the middle.
 
-{% figure sushi-1.jpg landscape %}Homemade sushi{% endfigure %}
+{% figure sushi-1.jpg landscape %}
+Homemade sushi
+{% endfigure %}
 
 Not really sure what we were doing, beyond what a guy had told Sam over the shop counter, we consulted recipe books and YouTube’s “How to make Sushi” videos. joschez’s 4 min short was the most helpful:
 
@@ -26,16 +28,26 @@ We cleaned the rice, and let it soak for 30 mins. With the correctly measured am
 
 Now the fun bit; with the nori laid out on the rolling mat, we took turns making rolls. With wet hands (otherwise rice will stick to everything!), we spread the rice across the seaweed to create an even layer, leaving space at the back as the envelope edge.
 
-{% figure sushi-3.jpg landscape %}Laying out the rice and nori{% endfigure %}
+{% figure sushi-3.jpg landscape %}
+Laying out the rice and nori
+{% endfigure %}
 
-{% figure sushi-7.jpg landscape %}Sam checking the roll before slicing{% endfigure %}
+{% figure sushi-7.jpg landscape %}
+Sam checking the roll before slicing
+{% endfigure %}
 
 For the tasty middles we used whatever we could find; cucumber, pepper, wasabi, egg, tuna, crab sticks, onion, smoked salmon and haddock (we completely forgot about our umeboshi puree). Choosing some of these ingredients, we lay them out in the middle of the rice, before wetting the nori edge and rolling using the bamboo, slowly and forcefully, just like the video told us to. Using Sam’s expensive kitchen knife, dipped in water to stop it sticking, we sliced the rolls.
 
-{% figure sushi-4.jpg landscape %}A sushi roll ready to slice{% endfigure %}
+{% figure sushi-4.jpg landscape %}
+A sushi roll ready to slice
+{% endfigure %}
 
-{% figure sushi-6.jpg landscape %}Slicing the sushi{% endfigure %}
+{% figure sushi-6.jpg landscape %}
+Slicing the sushi
+{% endfigure %}
 
 All told, we made 6 different rolls and about 56 pieces of sushi. And we'll be eating them all week.
 
-{% figure sushi-2.jpg landscape %}Ready to eat sushi{% endfigure %}
+{% figure sushi-2.jpg landscape %}
+Ready to eat sushi
+{% endfigure %}

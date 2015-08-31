@@ -19,7 +19,9 @@ I’m currently sitting on a train, travelling from Prague through to Berlin, we
 
 Waking at 3:45am and flying from London Gatwick at 6:45am, we touched down in Prague (after sleeping through the flight), in the sun. Here we were greeted by Rebecca, our host, adorning a single flower for Samantha, she bought us coffee before guiding us through the public transport system; bus, Metro and tram.
 
-{% figure prague-02-wenceslas.JPG landscape %}St Wenceslas square{% endfigure %}
+{% figure prague-02-wenceslas.JPG landscape %}
+St Wenceslas square
+{% endfigure %}
 
 ## Prague first impressions
 
@@ -27,7 +29,9 @@ After a phase of rejuvenation through English Tetley tea and spurious instructio
 
 Rebecca and co. headed home whilst Sam and I explored a little more, walking up the river, into town, stopping at the first island; exhausted we fell asleep on the walls, circled by pedalos and wispy willow tree fluff.
 
-{% figure prague-01-wall-sleep.JPG landscape %}Sam asleep on the wall{% endfigure %}
+{% figure prague-01-wall-sleep.JPG landscape %}
+Sam asleep on the wall
+{% endfigure %}
 
 Not quite reaching the National Theatre, our feet not able to take us much further, we turned back for home - but not before feasting on stone-baked pizza in a hidden student tavern.
 
@@ -45,7 +49,9 @@ On Friday it rained and with rain came indoor events! At the National Museum we 
 
 That night we dressed up for the Prague State Opera’s rendition of Madame Butterfly, it was to be our first opera. Tickets cost 400Kc, for seats near the top, but with a good view of stage and accompanying English subtitles. We drank bubbly and ate salami and cheese 'open' sandwiches on the Opera House’s balcony, looking out at Prague.
 
-{% figure prague-03-opera-house.JPG landscape %}Prague State Opera House{% endfigure %}
+{% figure prague-03-opera-house.JPG landscape %}
+Prague State Opera House
+{% endfigure %}
 
 ## Prague castle and cathedral
 
@@ -53,11 +59,15 @@ We set aside Saturday and Sunday to explore the castle (prazsky hrad) and the ar
 
 The queues to the cathedral, which ran from the entrance right down the side, diverted us to the St. George national gallery. We both fell in love with the tiny postcard sized “A Red Parasol in the Summertime” by Josef Manes (1855). Moving on, the Powder Tower with its three floors of army histories and dressed up mannequins was lacklustre. In the beautiful warm sunshine we sat on a wall (before moving to a hidden courtyard) and ate the pre-prepared potato salad, grapes and scrumptious cherry tomato picnic. (Aside: these were the tastiest cherry tomatoes I’ve ever come across with a fresh and juicy explosion when eaten whole).
 
-{% figure prague-04-painting-parasol-summertime.jpg portrait original %}“A Red Parasol in the Summertime” by Josef Manes (1855){% endfigure %}
+{% figure prague-04-painting-parasol-summertime.jpg portrait original %}
+“A Red Parasol in the Summertime” by Josef Manes (1855)
+{% endfigure %}
 
 Sated, we learned all about the castle’s history--both old and recent, St Vitus, Wenceslas, phases of construction et al, zipping through the end of the exhibition because we were cold. We entered the cathedral itself just as the sunlight poured through the central stained glass windows, colouring the walls pink and purple. The crypt and southern tower were closed, leaving only the circular tour of the ground floor with its various chapels.
 
-{% figure prague-05-stained-glass.JPG portrait %}Stained glass window in Prague Cathedral{% endfigure %}
+{% figure prague-05-stained-glass.JPG portrait %}
+Stained glass window in Prague Cathedral
+{% endfigure %}
 
 We skipped Golden Lane, Kafka’s house and the old palace and had a cursory look at St George’s Basilica; all cultured out we took panoramic photos and stumbled down the steep hill into town, ready for an evening meal, albeit an early one.
 
@@ -65,4 +75,6 @@ We skipped Golden Lane, Kafka’s house and the old palace and had a cursory loo
 
 The Lonely Planet guide pointed us towards, “The Maltese Knights”, not much to look at from above, but downstairs the restaurant came into its own, a converted cavern, candlelit and mysteriously romantic. In shorts, and clearly tourist attire, I ate a delicious wild-boar steak in rose-hips sauce, Sam chose the lamb, sauerkraut and apple. We washed it down with an ’07 Muller-Thurgau white wine.
 
-{% figure prague-06-maltese-knights.JPG landscape %}Maltese Knights restaurant{% endfigure %}
+{% figure prague-06-maltese-knights.JPG landscape %}
+Maltese Knights restaurant
+{% endfigure %}

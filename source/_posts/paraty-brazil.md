@@ -13,7 +13,9 @@ pages: 6
 page: 1
 ---
 
-{% figure brazil-211.jpg landscape %}Paraty from the water{% endfigure %}
+{% figure brazil-211.jpg landscape %}
+Paraty from the water
+{% endfigure %}
 
 ## Iguaçu Falls to Paraty in 24 hours, by bus
 
@@ -37,7 +39,9 @@ We waited an hour or so for our bus, and passed the time with a bit of live foot
 
 Boarding time at last! We locked up our bags, weighed them, tagged them and threw them in the hold. We showed our passports and tickets and boarded our ‘leito’ sleeper bus. The seats were like armchairs; wide and comfortable with a handy fold-down leg rest. On an old CRT screen at the front were movies in Portuguese; ‘I am Legend’, Harry Potter and ‘Night at the Museum 2’.
 
-{% figure IMG_3828.JPG landscape %}Overnight sleeper coach{% endfigure %}
+{% figure IMG_3828.JPG landscape %}
+Overnight sleeper coach
+{% endfigure %}
 
 We set off slowly, heading out of Foz do Iguaçu onto the two lane highway and eastwards. The sun began to set and we had a roadside view of Brazil, through rolling green hills with rich red soils, through small towns and passing full to the brim churches, overflowing with people praising God. We stopped at Londrina for another pick-up and the bus filled up. The sun disappeared and the road beckoned.
 
@@ -51,7 +55,9 @@ The journey into São Paulo took an age, the huge concrete city surrounded us as
 
 90 minutes late we reached the rodoviaria. We picked up our next bus ticket and waited for the fifth and final bus in a bus station cafe, reclining on a leather sofa next to a piano and our large blue and red backpacks. Happy to be off the bus, we shared a ciabatta and freshly made fruit juice. The guy at the bar was excited to try out his English, and Sam had a conversation with him, as she loves to do.
 
-{% figure IMG_3834.JPG landscape %}São Paulo coach station{% endfigure %}
+{% figure IMG_3834.JPG landscape %}
+São Paulo coach station
+{% endfigure %}
 
 ### 6 hour coach to Paraty
 
@@ -69,11 +75,17 @@ All we wanted to do was check-in, but the welcoming French man, Yvan, complicate
 
 Inside we had a living room, a kitchen and a bedroom, all packed into a small space. The room felt dark, but then we had the shutters closed to stop the mosquitos getting in. There was a pleasant swimming pool and jacuzzi, and Heliconia plants are everywhere. By the pool is a green parrot with clipped wings, under the seats cats lie in the shade, and there’s a dalmatian puppy running around too, looking cute for all the guests. It’s a fairly small place, with only about eight rooms.
 
-{% figure brazil-206.jpg portrait %}Heliconia flower{% endfigure %}
+{% figure brazil-206.jpg portrait %}
+Heliconia flower
+{% endfigure %}
 
-{% figure brazil-207.jpg landscape %}Pet parrot at Eliconial hotel{% endfigure %}
+{% figure brazil-207.jpg landscape %}
+Pet parrot at Eliconial hotel
+{% endfigure %}
 
-{% figure IMG_4714.JPG landscape %}Our room at Eliconial{% endfigure %}
+{% figure IMG_4714.JPG landscape %}
+Our room at Eliconial
+{% endfigure %}
 
 “It’s safe here, you can go anywhere at night, even walk along the beach”, were welcomed words. Having spent so much time in Rio (and on the buses) stressing about safety and valuables this came as a great relief.
 

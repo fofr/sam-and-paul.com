@@ -20,9 +20,13 @@ From the [LimeTree hotel in Kuching](/2014/05/kuching-borneo/) we took a leisure
 
 The reception is enormous, and filled with lounging guests in flip-flops. It looks out past the pool at the pristine beach and exudes a sense of calm. Our room was on the fourth floor and had a “rainforest view”, which suited us just fine. I don’t think we’ve ever seen a bed so big. The beach faces west for a perfect beachside sunset. As the sun went down and the sky turned red, guests flocked to the sea with their expensive cameras and tripods (or iPads) to try and capture it.
 
-{% figure kota-kinabalu-098.jpg landscape %}Shangri-la Rasa Ria, a beachside paradise{% endfigure %}
+{% figure kota-kinabalu-098.jpg landscape %}
+Shangri-la Rasa Ria, a beachside paradise
+{% endfigure %}
 
-{% figure kota-kinabalu-003.jpg landscape %}Sunset in paradise{% endfigure %}
+{% figure kota-kinabalu-003.jpg landscape %}
+Sunset in paradise
+{% endfigure %}
 
 ## Coast restaurant
 
@@ -34,4 +38,6 @@ At Coast, one of the many restaurants on site, it was Lobster night and that won
 * seared duck breast (jerusalem artichoke puree . pineapple chutney . pickled onion . crispy potato . orange jus)
 {% endmenu %}
 
-{% figure kota-kinabalu-005.jpg portrait %}Jellyfish lights at Coast{% endfigure %}
+{% figure kota-kinabalu-005.jpg portrait %}
+Jellyfish lights at Coast
+{% endfigure %}
