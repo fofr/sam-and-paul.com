@@ -30,10 +30,6 @@ After a six hour drive up from Brighton via Papworth Everard in Cambridgeshire, 
 
 The lodge is a lovely little B&B run by Bill and Pauline, and their excitable brown ex-gun dog. They’re well travelled and talkative, and their morning fried breakfast is plentiful. From the breakfast table you can see songbirds feed close-up; blue tits, great tits, coal tits, bullfinches, nuthatches, and so on. Chickens run about the grounds and there’s a sheep that might stare at you through the window. It’s about 20 minutes from the Observatory.
 
-{% figure kielder-eals-lodge-breakfast.jpg landscape original %}
-Breakfast at Eal’s Lodge
-{% endfigure %}
-
 {% figure kielder-great-tit.jpg landscape %}
 Great Tit at Eal’s Lodge
 {% endfigure %}
