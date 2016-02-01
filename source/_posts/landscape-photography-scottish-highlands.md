@@ -1,4 +1,4 @@
-title: 'Landscape Photography in the Scottish Highlands'
+title: 'Scottish Highland Photography'
 subtitle: 'Two days photographing mountains in the snow'
 categories:
   - holidays
