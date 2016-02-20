@@ -13,7 +13,7 @@ date: 2014-09-08
 
 It took 24 hours door to door from our flat in Brighton to the [Astor House hotel](http://www.tripadvisor.co.uk/Hotel_Review-g308272-d303022-Reviews-Astor_House_Hotel-Shanghai.html) in Shanghai, via Dubai and two Emirates flights. I read half of HG Wells's Time Machine and watched X-men and Transcendence. We arrived at almost 2am, and Shanghai’s nighttime cityscape had already turned its lights off.
 
-Our hectic China itinerary, booked through [Rickshaw travel](http://www.chinatravelplan.co.uk/), gave us just one full day in the city, a day we expected to spend pretty jet-lagged. Despite not sleeping well (the mattresses were on the firm side), we were up for breakfast by 9am and felt pretty good about making the most of our day.
+Our hectic China itinerary, booked through [Rickshaw travel](https://www.rickshawtravel.co.uk/asia/china/), gave us just one full day in the city, a day we expected to spend pretty jet-lagged. Despite not sleeping well (the mattresses were on the firm side), we were up for breakfast by 9am and felt pretty good about making the most of our day.
 
 The Astor House hotel serves a delicious breakfast spread from the decadent and historic Peacock ballroom, once a famed and landmark place. The hotel itself is over 100 years old, it was the first western style hotel in the city and comes with an enormous amount of dark wood panelling. Our sixth floor room had a kingsize bed, a couple of sofas and two small windows which looked out over The Bund. A perfect location for a spot of night time photography.
 
