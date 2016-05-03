@@ -3,11 +3,10 @@ subtitle: ''
 tags:
   - central-america
   - costa-rica
-  - caribbean
   - la-fortuna
   - arenal
   - volcano
-date: 2016-03-10
+date: 2016-03-11
 pages: 3
 page: 1
 ---
