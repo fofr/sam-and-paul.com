@@ -1,5 +1,5 @@
 title: 'La Fortuna, Costa Rica'
-subtitle: ''
+subtitle: '3 days at the foot of a volcano'
 tags:
   - central-america
   - costa-rica
