@@ -1,0 +1,6 @@
+<% nextPagePost = nextPagePost(page) %>
+<% if (nextPagePost) { %>
+  <p>
+    <a href="/<%= nextPagePost.path %>"><strong><%= nextPagePost.subtitle %> &rarr;</strong></a>
+  </p>
+<% } %>
