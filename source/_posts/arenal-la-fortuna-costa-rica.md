@@ -19,7 +19,15 @@ We followed the Atlantic coast, and headed inwards past Siquirres on Route 32, b
 
 ## Casa Luna
 
-For three nights we’d be staying at the luxurious [Casa Luna](https://www.casalunahotel.com/), sat in the foothills of Arenal Volcano and close to La Fortuna town. We were lucky enough to have a first floor room with outdoor balcony that was also close to the pool. The views all look out onto the towering volcano, framed by lusciously landscaped tropical trees and flowers.
+For three nights we’d be staying at the luxurious [Casa Luna](https://www.casalunahotel.com/), sat in the foothills of [Arenal Volcano](https://en.wikipedia.org/wiki/Arenal_Volcano) and close to La Fortuna town. We were lucky enough to have a first floor room with outdoor balcony that was also close to the pool. The views all look out onto the towering volcano, framed by lusciously landscaped tropical trees and flowers.
+
+{% figure costa-rica-la-fortuna-view-from-room.jpg landscape %}
+View of [Arenal Volcano](https://en.wikipedia.org/wiki/Arenal_Volcano) from our room
+{% endfigure %}
+
+{% figure costa-rica-la-fortuna-casa-luna-room.jpg landscape %}
+Our room at Casa Luna
+{% endfigure %}
 
 Like at Atlantida lodge, we were given two very comfortable double beds. But now we also had aircon, a minibar, a fridge, a safe and a TV. We don’t watch TV on holiday, but I made an exception this time – you’ll soon learn why. On the wall, an abstract painting of hummingbirds, outside real hummingbirds, chirping and hovering.
 
@@ -31,9 +39,29 @@ Keen to make the most of our time, we perused the selection of tours that the ho
 
 We made a habit of sitting out on the balcony in the mornings, watching the tropical birds go about their daily business. One of Sam’s favourites was the brilliant black and red [Cherrie’s Tanager](https://en.wikipedia.org/wiki/Cherrie%27s_tanager). There were also [Rufous-tailed Hummingbirds](https://en.wikipedia.org/wiki/Rufous-tailed_hummingbird), Montezuma Oropendolas, copious yellow and black flycatchers, an inquisitive [grey knecked wood rail](https://en.wikipedia.org/wiki/Grey-necked_wood_rail) liked to poke it’s beak in everywhere, and a friendly [golden-olive woodpecker](https://en.wikipedia.org/wiki/Golden-olive_woodpecker).
 
+{% figure costa-rica-la-fortuna-golden-olive-woodpecker.jpg landscape %}
+[Golden-olive woodpecker](https://en.wikipedia.org/wiki/Golden-olive_woodpecker)
+{% endfigure %}
+
+{% figure costa-rica-la-fortuna-rufous-tailed-hummingbird.jpg landscape %}
+[Rufous-tailed hummingbird](https://en.wikipedia.org/wiki/Rufous-tailed_hummingbird)
+{% endfigure %}
+
 Some less common birds occasionally popped by too, such as a pair of [green honeycreepers](https://en.wikipedia.org/wiki/Green_honeycreeper); the male has the most beautiful turquoise body. In the tall trees we also caught a glimpse of an [Osprey](https://en.wikipedia.org/wiki/Osprey).
 
-## La Miss-fortuna
+{% figure costa-rica-la-fortuna-green-honeycreeper.jpg landscape %}
+[Green honeycreeper](https://en.wikipedia.org/wiki/Green_honeycreeper)
+{% endfigure %}
+
+{% figure costa-rica-la-fortuna-cherrie-tanager.jpg landscape %}
+[Cherrie’s Tanager](https://en.wikipedia.org/wiki/Cherrie%27s_tanager)
+{% endfigure %}
+
+{% figure costa-rica-la-fortuna-flycatcher.jpg landscape %}
+Flycatcher after having a bath
+{% endfigure %}
+
+## La Mis-fortuna
 
 During our first night in La Fortuna I became quite ill, presumably with food poisoning somewhere in Cahuita. We’re not sure exactly what caused it, Sam was fine, and we’d shared most of our meals, and I’m usually the more cautious eater. Anyway, I had food poisoning and it took me out for the entirety of our La Fortuna segment – 3 days in bed; no trips for me, no food for me; thankfully our hotel room was comfortable – and the Casa Luna staff were kind and caring, bringing chamomile (manzanilla in Spanish) tea, trying to make me as comfortable as possible.
 
