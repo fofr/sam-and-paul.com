@@ -13,7 +13,7 @@ page: 1
 
 ## From Cahuita to La Fortuna and Arenal
 
-The journey from Cahuita to La Fortuna and Arenal Volcano was 245km and took 5h30, one of our longest transfers. Sam’s powers of conversation were put to the test, and with 2 women from Maine, USA, and two Swedish couples, she managed to hold conversation for the duration of the trip.
+The journey from [Cahuita to La Fortuna](https://www.google.com/maps/d/viewer?mid=1-miyAjB1622StlyK3CCuJ001Lz4) and Arenal Volcano was 245km and took 5h30, one of our longest transfers. Sam’s powers of conversation were put to the test, and with 2 women from Maine (USA), and two Swedish couples, she managed to hold conversation for the duration of the trip.
 
 We followed the Atlantic coast, and headed inwards past Siquirres on Route 32, before driving up and around Braulio Carillo national park, and higher still, past Juan Castro Blanco national park. The views from Aguas Zarcas, looking down route 250 are astounding. Around here the trees were in full bloom, and we passed a few that were covered in glorious yellow flowers, unlike anything we’d ever seen; they were either [golden trumpet trees](https://en.wikipedia.org/wiki/Tabebuia_chrysotricha) or [corteza ones](https://en.wikipedia.org/wiki/Tabebuia_ochracea). Eventually the conical picture-perfect [Arenal volcano](https://en.wikipedia.org/wiki/Arenal_Volcano) appeared on the horizon, and we were all astounded by its prominence and beauty, even if its peak was shrouded in cloud.
 
@@ -37,7 +37,7 @@ Keen to make the most of our time, we perused the selection of tours that the ho
 
 ### Birdwatching from the balcony
 
-We made a habit of sitting out on the balcony in the mornings, watching the tropical birds go about their daily business. One of Sam’s favourites was the brilliant black and red [Cherrie’s Tanager](https://en.wikipedia.org/wiki/Cherrie%27s_tanager). There were also [Rufous-tailed Hummingbirds](https://en.wikipedia.org/wiki/Rufous-tailed_hummingbird), Montezuma Oropendolas, copious yellow and black flycatchers, an inquisitive [grey knecked wood rail](https://en.wikipedia.org/wiki/Grey-necked_wood_rail) liked to poke it’s beak in everywhere, and a friendly [golden-olive woodpecker](https://en.wikipedia.org/wiki/Golden-olive_woodpecker).
+We made a habit of sitting out on the balcony in the mornings, watching the tropical birds go about their daily business. One of Sam’s favourites was the brilliant black and red [Cherrie’s Tanager](https://en.wikipedia.org/wiki/Cherrie%27s_tanager). There were also [Rufous-tailed Hummingbirds](https://en.wikipedia.org/wiki/Rufous-tailed_hummingbird), Montezuma Oropendolas, copious yellow and black flycatchers, an inquisitive [grey knecked wood rail](https://en.wikipedia.org/wiki/Grey-necked_wood_rail) who liked to poke its beak in everywhere, and a friendly [golden-olive woodpecker](https://en.wikipedia.org/wiki/Golden-olive_woodpecker).
 
 {% figure costa-rica-la-fortuna-golden-olive-woodpecker.jpg landscape %}
 [Golden-olive woodpecker](https://en.wikipedia.org/wiki/Golden-olive_woodpecker)
