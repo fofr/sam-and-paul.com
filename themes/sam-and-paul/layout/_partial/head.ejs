@@ -3,30 +3,30 @@
 <%
 var title = page.title;
 
-if (page.pages) {
-  title = title + ' ('+ page.page + '/' + page.pages +')'
-}
-
 if (page.subtitle) {
-  title = title + ': ' + page.subtitle
+  if (page.pages && page.page > 1) {
+    title = page.subtitle + ' – ' + title;
+  } else {
+    title = title + ' – ' + page.subtitle;
+  }
 }
 
 if (is_archive()){
   if (is_month()){
     var d = moment([page.year, page.month - 1, 1]);
-    title = d.format('MMMM YYYY');
+    title = d.format('MMMM YYYY') + ' – ' + config.title;
   } else if (is_year()){
-    title = page.year;
+    title = page.year + ' – ' + config.title;
   }
 } else if (is_category()){
-  title = page.category;
+  title = page.category + ' – ' + config.title;
   title = title.charAt(0).toUpperCase() + title.slice(1);
 } else if (is_tag()){
-  title = page.tag;
+  title = page.tag + ' – ' + config.title;
   title = title.charAt(0).toUpperCase() + title.slice(1);
 }
 %>
-<title><% if (title){ %><%= title %> — <% } %><%= config.title %></title>
+<title><% if (title){ %><%= title %><% } else { %><%= config.title %><% } %></title>
 
 <% if (page.metaDescription) { %>
 <meta name="description" content="<%= page.metaDescription %>" />
