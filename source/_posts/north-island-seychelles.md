@@ -86,7 +86,7 @@ Sunset bar on West Beach
 
 #### Honeymoon Beach
 
-At the south of West Beach is a 5 minute rocky walk that takes you to a secluded bay known as Honeymoon beach. It's beautiful. With its seclusion, the hotel offers its guests fully private bathing, and the entrance is roped off.
+At the south of West Beach is a 5 minute rocky walk that takes you to a secluded bay known as Honeymoon beach. It's beautiful. With its seclusion, the hotel offers its guests fully private bathing, and when they do the entrance is roped off.
 
 {% figure seychelles-honeymoon-beach.jpg landscape %}
 Honeymoon beach
