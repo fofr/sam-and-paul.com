@@ -183,12 +183,53 @@ Down on the riverbed we spot the dogs, they’re confronting a herd of buffalo. 
 
 Kelsey gambles and we rush around to the guard post on the opposite side of the river. No sign of the dogs. The buffalo are here, moving in the herd, a young’un in the middle. Stars begin to dot the sky, the buffalo quietly walk by. “There’s nothing better than this, hey?”
 
-## Day 5 – Vultures, waiting for Brodies
+## Day 5 – A quiet vulture day
+
+This morning it’s cold. A mist fills the valley and the air is wet, the cold cuts through my coat, we shiver in our slumber. After seeing Alfie’s pack, we wanted to check-in on them again, they’d been seen with puppies on the road. We drive across the park to find them. When we get near the signal isn’t there, we don’t get a signal, we go higher and it seems the pack has returned to the wilderness. There’s another signal from a valley, we chase it a bit, but it was just a back signal. We fear they’ve returned to the wilderness.
+
+At Impila we have an early coffee and buy reserves. A vervet monkey hears us eating and gets too close, we fend it off and it scrams. "Those things will claw your face. You’ve got to show it who’s boss".
+
+Today is [International Vulture Awareness day](http://www.vultureday.org/2016/index.php), to mark this all the WildlifeAct reserves are putting out carcasses and doing vulture counts. At iMfolozi there’s some game that died while being transported to the bomas here, the carcass has been put out and we go to find it.
+
+We arrive to find a graveyard of bones and 3 untouched carcasses, the shrivelled skin of a buffalo sits behind them. Nothing is eating them, no lions, no vultures, the meat must be bad. This isn’t a good start. The stench of rotting animal fills the air, it’s foul and we cover our noses. Keeping our distance, we sit at the roadside and watch for vultures.
+
+Over Hluhluwe we see 30 spiralling in the thermals, but none are heading this way. We just need one to catch sight of it. We wait, others do their sudoku, read their books, we wait for over an hour. One heads down – a white-backed vulture, then another, about 10 arrive on the scene, but they don’t stay long and they don’t eat. We scan for tags on their wings, or GPS packs on their backs, but we see none.
+
+Our evening session isn’t much better. We head to Brodies pack and locate them, they’re resting just away from the road. We head up and down the road, scanning, but their occasional moving signals always stop, and they return to rest. No hunting tonight.
+
+On the drive home the crescent moon smiles at us, it sits just above Jupiter.
 
 ## Day 6 – Brodie’s pack make a kill
 
+We’re still on Brodie pack’s trail this morning. We get a quick signal to confirm their location and return to where we waited last night. But today there’s more sign of movement, “10 o’clock”, follow the road, keep going. "There, on the hill", two dogs are waiting. They aren’t hunting. "Where's the rest of them?" They disappear into the bush, in no big hurry. One more passes idly by, it’s Brodie herself, we try to see her _teats_, looking for signs of puppies.
 
+We found wild dogs, which was more than yesterday, and we turn our attention to cheetah signals. The CF13 is nearby but resting. We’ll have coffee at the Mpafa hide and then try again. A [yellow-breasted apalis](http://www.projectnoah.org/spottings/153341273) waits outside.
 
+The hide reveals some secrets. Down near the water there are signs of a battle, a red liver glows in the morning sun, some entrails sit at the base of a tree, and there’s blood in the water. The dogs did hunt, they made a kill, and they did it all in sight of this hide, and we missed it. Kelsey looks gutted, if you’ll pardon the inappropriate pun. We drink our coffee.
+
+"Dog", Feline shouts. On the ridge on the left a dog has appeared, shortly followed by four more. 5 of them, all from Brodie’s pack – Brodie and collared Munundi included, they all head down to the battle scene. They sniff at the body parts, then head into the undergrowth, there’s a carcass there. It’s a male nyala, they pull it out and feed. Painted dogs eat quickly, and they eat until they’re full. They then return to the pack and regurgitate the food for the pups. Some feed frantically while others rest, play or watch guard.
+
+Many come down to the water to drink, lying oddly on their front, chins in the water, ears flat back, quickly lapping up what they can. They pick up the organs and chew on them, two grab each side of the stomach, pulling it apart and spilling the green digesting grass on the floor; one rolls around in it. Adorable.
+
+A buffalo approaches and drinks from the water, there are terrapins too, and a Hamerkop is trying to swallow a chunk of fish. A little ringed plover skirts about besides a drinking dog.
+
+Other cars are beginning to arrive at the hide now, a WhatsApp message has told a group what’s to be seen. We watch the pack for an hour, a breathtaking and privileged sighting, we were all mesmerised by this charismatic animal’s behaviour. And we leave when the dogs leave, just as a queue of jeeps and SUVs turn up.
+
+We speed off in search of a cheetah, but never find it. Ironically a car that missed the dogs tells us, “You drove straight past a cheetah and a lion”. Now it seems the cheetah is headed into the wilderness after the male lion sent it fleeing. On the way home we stop to photograph impala, they were being pestered by oxpeckers.
+
+### Black rhino
+
+Sunday afternoon is for writing up data sheets and doing chores. We washed down the truck before its service tomorrow, and filled in all the excel spreadsheets for our week’s sightings. At 4pm we’d finished, so headed out to find the wilderness cheetah. We stayed until dark, we scanned, and searched, but we saw nothing. Philippine had stayed at the house and I was thinking "she’s missed nothing".
+
+Of course then we stumbled on three [black rhino](https://en.wikipedia.org/wiki/South-central_black_rhinoceros). A male, a female and a calf. Until now I'd wondered if I could tell the difference, the pictures show only subtle differences. It was immediately obvious, they behaved differently; the white rhino would be wary of us, but would walk away slowly, calmly, not really even noticing us; the black rhino definitely noticed us, they ran, turned and watched us from afar. It huffed; black rhinos are more likely to charge us, but they’re also inquisitive, they often come closer to inspect the vehicle and see what we are – then they charge or run away.
+
+We stayed silent, we dared not move, we wanted them to come closer, not only to get a better look, but to also get a good look at the notches on their ears, a branding that can be used to ID them. They didn't come closer, instead opting to run away, into the darkness.
+
+What a privilege it was to see this rare beast, only 2,000 still exist in the wild.
+
+### Bry
+
+At camp we made a fire, and Kelsey cooked us a bry; grilled chicken, sausage, venison burgers, curried butternut squash, potatoes and a chick-pea and baked bean sauce. A scrumptious feast cooked over hot coals.
 
 ## Species spotted
 
@@ -198,6 +239,7 @@ Kelsey gambles and we rush around to the guard post on the opposite side of the 
 * Cheetah, male and female
 * Painted dogs, African Wild dog, puppies
 * White rhino
+* Southern-central black rhino
 * Hyena
 * Wildebeest
 * Buffalo
@@ -216,23 +258,32 @@ Kelsey gambles and we rush around to the guard post on the opposite side of the 
 
 ## Birds
 
-* Lapet-faced vulture
-* Cape turtle dove
-* Southern ground hornbill (sound)
-* Southern boubou (sound)
 * African hoopoe
 * Black crowned tchagra (sound)
 * Blue waxbill
+* Cape turtle dove
+* Cape vulture
+* Common ringed [lover
 * European nightjar
+* Hamerkop
+* Lappet-faced vulture
 * Little bee-eater
+* Martial eagle
 * Mocking cliff chat
+* Natal spurfowl
 * Orange breasted bushshrike
+* Pied crow
+* Purple banded sunbird
 * Red-billed oxpecker
-* Rufous-breasted sparrowhawk
+* Southern boubou (sound)
+* Southern ground hornbill (sound)
 * Southern masked weaver
 * Southern yellow-billed hornbill
 * Speckled mousebird
+* White-backed vulture
 * Woolly-necked stork
+* Yellow-billed kite
+* Yellow-breasted apalis
 
 ## Other
 
