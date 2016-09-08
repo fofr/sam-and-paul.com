@@ -17,6 +17,10 @@ For 8 weeks, following my [4 weeks volunteering in Seychelles](/2016/08/north-is
 
 WildlifeAct volunteer groups are a maximum of 5 people; me, a young German guy – Jannes, a kiwi who’s been travelling around southern Africa – Claire, a Parisienne that hates Paris – Philippine, and a Dutch girl – Feline. We’d ride together on the back of the WildlifeAct truck, live together, and cook for each other. Our monitor was Kelsey – a lively and outspoken South African from the cape. We also met "Zulu warrior" Marumo, who picked us up, took us shopping and showed us the ropes before leaving for [Somkhanda](http://africaninsight.co.za/somkhanda-game-reserve/).
 
+{% figure imfolozi-group.jpg landscape %}
+My volunteer group. From left to right: Feline, Jannes, Claire, Me and Philippine
+{% endfigure %}
+
 Each of the reserves are in the East of South Africa, in the [KwaZulu-Natal](https://en.wikipedia.org/wiki/KwaZulu-Natal) region, to the north it borders Mozambique, in the South it borders Swaziland and Lesotho. Part of it used to be the [Zulu empire](https://en.wikipedia.org/wiki/Zulu_Kingdom). Zulu is a spoken language here, and many traditional beliefs, practices and superstitions are maintained.
 
 ## Entering iMfolozi
@@ -43,6 +47,10 @@ It’s the beginning of spring, which brings with it cold early mornings and sco
 
 The views from camp are astounding. Beyond the wire fence and trees lies a lookout point. From a precarious rock we can see out across the dry Black Umfolozi riverbed, the view stretches from the river, past the trees and out to the distant hills beyond. "You can come down here during the day, but never at night", Kelsey warns us. Dangerous creatures have been known to come up here. The rock resembles one from a movie, all we needed was a baboon to hold up a baby lion and some music playing "Circle of life".
 
+{% figure imfolozi-view-from-camp.jpg landscape %}
+The view from camp
+{% endfigure %}
+
 We were shown a WildlifeAct video introduction, we had a project intro by monitor Kelsey, and were told about the emergency procedures. There’s a volunteer phone which can be used to call emergency 24hour support – we can give them GPS co-ordinates and a chopper will arrive as fast as it can, just in case our monitor, Kelsey, is unavailable, say she was killed by a lion, or trampled by a rhino. We had some other sound advice; if you find yourself face to face with a rhino, climb a tree; if it’s a lion don’t run, you need to stand your ground and stare it down; if it’s a hyena you better not be sleeping, it'll think you’re dead and begin feeding; steer well clear of elephants and buffalo. Always shut the kitchen doors. Some volunteers left it open, a hyena got in and it trashed the place, including chewing off the fridge doors.
 
 ### Telemetry
@@ -67,11 +75,23 @@ With the training under our belt (we located an unused collar at camp), we set o
 
 Sure enough, beneath the shade of an umbrella acacia tree, was a pride of lions. Two males and four females, quietly sleeping in the morning sun. But this visit was not without a little drama – two tour groups had arrived with us, and another car, which had been watching them with their air-con on and the engine off had drained their battery. In-front of the lions the tour guides were attempting to jumpstart the 4x4, without much success. The noise the tourists made alarmed the lions and they soon left. We did too, escaping the burning sun for the shade at camp.
 
+{% figure imfolozi-first-lion.jpg landscape %}
+Our first lion sighting
+{% endfigure %}
+
+{% figure imfolozi-male-lion-in-shade.jpg landscape %}
+A male lion resting in the shade
+{% endfigure %}
+
 ### Waiting for Bheji’s pack
 
 A pack of wild dogs had been denning near the roadside, and in the past few days their pack and 13 pups had been seen in the road, playing and cavorting. With a signal from the hill besides camp, we headed there hoping to see them. Each morning and evening a pack is likely to leave their den and go on a hunt; based on the signal, Kelsey knows which road to park on to see the animals emerge.
 
 At iMfolozi you can't go off-road, so when you’ve pinpointed the signal and are as close as you can be, it’s a waiting and hoping game – hopefully they’ll cross besides us. We were close, we could hear the dogs and pups playing, their squeals and squabbles audible from the truck, but we couldn’t see anything through the thicket. We waited for hours, until the sun went down. Perhaps tomorrow.
+
+{% figure imfolozi-majestic-warthog.jpg landscape %}
+A majestic warthog spotted on route to Bheji pack’s den
+{% endfigure %}
 
 ### Vocalising lion
 
@@ -89,6 +109,10 @@ We started where we left off, and headed for the only male cheetah in the park, 
 
 In the dark he gets up and heads towards us, cautiously investigating the truck. We stay quiet, and avoid movement – the cheetah seemed agitated, but he soon calmed. He sat down 10m from us and watched, before returning to the bush.
 
+{% figure imfolozi-cheetah-cm19.jpg landscape %}
+Male cheetah, CM19
+{% endfigure %}
+
 ### Bheji’s pack
 
 After our disappointment at not seeing the pack and pups last night we set out to find them again. An early signal told us they weren’t at the den. Did they leave early on a hunt?
@@ -97,6 +121,10 @@ There’s something about the thrill of the chase that Kelsey loves; when she’
 
 "Dogs", Kelsey suddenly shouts, "photos, photos". To our right, coming out of the bush, a pack of dogs. They weren’t on a hunt, the dogs were with puppies, 13 puppies. The pack was moving den, and we’d found them in the act. Adult females moved ahead, checking the route for danger, others backed up the rear, while some checked the pups and pushed them along. Some puppies stopped to look, and then carried on. Within seconds they were disappearing again, their fluffy white tails dancing as they jog to their new home. What luck.
 
+{% figure imfolozi-bheji-pack-on-move.jpg landscape %}
+Bheji’s pack moving den with pups
+{% endfigure %}
+
 We snapped photos of as many as we could; we'd need the shots to ID each of the dogs; who's there, who's missing. A dog that’s missing may be injured, sick or dead. Or just elsewhere.
 
 "How lucky are we, hey?", Kelsey says, "If we’d left the Cheetah any later we'd have missed them". We wait a while to see if they re-emerge, but their signal tells us they’re resting. On a hill besides the boundary fence, we stop for coffee and rusks, a group of vervet monkeys flee in the distance.
@@ -104,6 +132,10 @@ We snapped photos of as many as we could; we'd need the shots to ID each of the 
 On the drive back to camp a [duiker](https://en.wikipedia.org/wiki/Duiker) bounds across in front of us, closely followed by a sprinting dog.
 
 In the midday sun we rest. While we eat bacon sandwiches a herd of elephants passes by in the valley below, buffalo sleep on the riverbed.
+
+{% figure imfolozi-elephants-near-camp.jpg landscape %}
+Elephants passing near to camp
+{% endfigure %}
 
 ### Lion cubs
 
@@ -121,7 +153,15 @@ Each day we rotate seats in the truck, another person records data, another is u
 
 At Mpafa hide we escape the vehicle to the shady confines of a wooden hide. Outside the scene looked landscaped, like some sort of zoo, but entirely natural. A beautiful tower of rocks formed a wall to the left, a small water pool beneath it, a gentle grassy slope leading down to it from the right. A perfect place to stop and watch.
 
-With our instant coffee and UHT milk, into which we dipped rusks, we watched a white rhino grazing. A large grey-backed kite swooped in, circled, and rested on a tree alongside us; a magnificent bird. Outside I fed the tame mocking cliff chats by hand. At 10am we ate ice cream at Impila camp, and at the volunteer camp we had french toast, and then we slept, the early mornings were catching up wit hus.
+With our instant coffee and UHT milk, into which we dipped rusks, we watched a white rhino grazing. A large grey-backed kite swooped in, circled, and rested on a tree alongside us; a magnificent bird. Outside I fed the tame mocking cliff chats by hand. At 10am we ate ice cream at Impila camp, and at the volunteer camp we had french toast, and then we slept, the early mornings were catching up with us.
+
+{% figure imfolozi-kite.jpg landscape %}
+A yellow-billed kite at Mpafa hide
+{% endfigure %}
+
+{% figure imfolozi-white-rhino.jpg landscape %}
+White rhino
+{% endfigure %}
 
 ### Let sleeping dogs lie
 
@@ -133,9 +173,21 @@ The dogs never moved, so we did.
 
 ### Nearby lions
 
-A stroke of good fortune led us to pick up a signal for HIP636, we left the dogs and drove towards it. The signal was strong, they were nearby. A slender mongoose ran across the road ahead, as we kept our eyes peeled for yellow bodies in the grass.
+A stroke of good fortune led us to pick up a signal for HIP636, we left the dogs and drove towards it. The signal was strong, they were nearby. A slender mongoose ran across the road ahead, as we kept our eyes peeled for yellow bodies in the grass. In the bare branches of a tree beside us sat a southern yellow-billed hornbill.
+
+{% figure imfolozi-diving-hornbill.jpg landscape %}
+Southern yellow-billed hornbill
+{% endfigure %}
 
 I saw them first, two females, "1 o’clock" I shouted to Kelsey, we stopped abruptly and immediately we were silent. These two lions were right besides us, we didn't want to scare them off. The younger one was spooked, she upped from her bed and hid behind the trees, we could see a moving head eyeing us between the branches suspiciously. The older female, the collared one, was nonchalant, she didn't move and she paid no attention. An incredible sight, to be so close to these powerful and majestic wild animals.
+
+{% figure imfolozi-fearful-lion.jpg landscape %}
+A fearful female lion sees us coming
+{% endfigure %}
+
+{% figure imfolozi-lion-at-sunset.jpg landscape %}
+The same lion enjoying the evening sun
+{% endfigure %}
 
 This pride’s story was a sad one, they’d once left the park and attacked livestock. One was shot and killed by the community, another died from poisoned meat, others later got tuberculosis and died; there used to be a pride with cubs, now there were two; a mother and daughter, presumably. The younger lion’s nervousness around people and vehicles was justified.
 
@@ -147,6 +199,14 @@ A cloudy start to the day, it was dry and warm. We took our bearings from the ne
 
 "What dog is that?", Kelsey asked. "What is it doing?", "Photos, photos". Another appeared, they paced up and down the road, defecated (this bit’s important) and then crossed into the bush. Kelsey put her foot down, climbed the hill, and turned off onto a little dirt road to a viewpoint so we could head them off. "Here they come". Now there was three, the third had a collar, we ID'd him as Zoom; Alfie’s pack. They continued up and over the hill to where we couldn’t follow. "Where are the others?". They seemed to casual to be hunting, "it's like they've lost something". We continue to scan for Zoom and Madlala, the two collared dogs in the pack, and return to where we first saw them.
 
+{% figure imfolozi-alfies-pack.jpg landscape %}
+A member of Alfie’s pack, spotted on the road
+{% endfigure %}
+
+{% figure imfolozi-wild-dog-macro.jpg landscape %}
+African wild dog "Macro", pacing up and down the road
+{% endfigure %}
+
 We didn’t need to wait long until more dogs appeared. Zoom returned, then two more, crossing the road and heading back to their den. Above the thicket line we spy another dog on the hill, sitting still, it looks like a guard post. The den must be in the valley. Another 3 dogs appear from nowhere and cross the road; we all scramble to get photos. The signal tells us the dogs are now resting.
 
 Remember the defecating bit? When a wild dog takes a shit and we can get to it, we bag it up. Researchers are using the faeces to identify the dog’s diets. Cue Philippine and Kelsey using sticks to push shit into a brown bag, "nooo, you’re letting it touch the sides". Two stinky bags of shit sat in the back of the truck for the rest of the morning. "Did one of you guys step in something?".
@@ -155,13 +215,25 @@ Remember the defecating bit? When a wild dog takes a shit and we can get to it, 
 
 One of the collared cheetahs, CF7, hadn’t been seen in a while, and while waiting for the dogs we picked up a strong signal for her. With speed we rush away from the dogs and scanned the horizon, our binoculars focusing on the hill, searching. “With a signal this good I don’t know why we can’t see her”. We pass a herd of zebra, warthogs munched on the grass, a [woolly necked stork](https://en.wikipedia.org/wiki/Woolly-necked_stork) stood amongst them. A group of [blue waxbills](https://en.wikipedia.org/wiki/Blue_waxbill) foraged in the dirt.
 
+{% figure imfolozi-zebra-misty-morning.jpg landscape %}
+Zebra on a misty morning
+{% endfigure %}
+
 “There she is”, Kelsey spots her up on the hill, right at the top, a spotted rock that’s hardly moving. Eyes like a hawk. Through my binoculars I could just about pick her out; she sat patiently on the hillside, no signs of cubs. We use a dead [knobthorn tree](https://en.wikipedia.org/wiki/Senegalia_nigrescens) to remember where we parked, the hooked and gnarly trunk became our signpost. She might move closer, we'll return later. (She did move, but only into the shade).
+
+{% figure imfolozi-cheetah-cf7.jpg landscape %}
+Cheetah CF7 high up on the hillside
+{% endfigure %}
 
 ### Lions in Hluhluwe
 
 The white WildlifeAct truck and the telemetry means tourist’s will regularly stop to ask what we're looking for, and where to find animals. One of them told us about a pride of lions over in Hluhluwe. The tarmac’d road leads us out of iMfolozi, beneath the corridor road, and into the adjacent park, Hluhluwe, where the foliage is more green but less palatable. We pass wildebeest, nyala and elephants.
 
 We try and try to find the lions, this would be the corridor pride. We see another truck stopped on the roadside, they’ve got their binoculars out. Sure enough, in the distance, there’s a male lion lying down and a female hanging in an acacia tree.
+
+{% figure imfolozi-lioness-in-tree.jpg landscape %}
+Lioness in a distant tree
+{% endfigure %}
 
 ### Bomas and centenary centre
 
@@ -171,7 +243,15 @@ From outside the large wooden pens we get close-up views of the wild animals we�
 
 It was feeding time for the two orphaned black rhino. They have been reared by humans and aren’t fearful. They’re fed a milky drink and hay, and don’t mind us watching them closely. They talk to each other, making high pitched squeaks, a bewitching and endearing noise; beasts this big shouldn’t make such delicate and delightful sounds. It makes you want to cry, like a soppy Disney movie.
 
-The centenary centre is just around the corner. The road there was filled with giraffe and elephant. We had our first close encounter with elephants, 4 bulls, nervously close, they walked our way. We’d heard horror stories about elephants trampling people and cars, one charged Claire’s car on a previous trip, tusking the girl next to her – a terrifying experience. "We should go now", Jannes said. But Kelsey kept her distance, and the elephants showed no signs of agitation, they crossed behind us without incident. At the centre we ate cheeseburgers and chips.
+The centenary centre is just around the corner. The road there was filled with playful giraffe and elephant. We had our first close encounter with elephants, 4 bulls, nervously close, they walked our way. We’d heard horror stories about elephants trampling people and cars, one charged Claire’s car on a previous trip, tusking the girl next to her – a terrifying experience. "We should go now", Jannes said. But Kelsey kept her distance, and the elephants showed no signs of agitation, they crossed behind us without incident. At the centre we ate cheeseburgers and chips.
+
+{% figure imfolozi-giraffe-sibling-love.jpg portrait %}
+Loving giraffe siblings
+{% endfigure %}
+
+{% figure imfolozi-feeding-bull-elephant.jpg portrait %}
+Elephant bull near centenary centre
+{% endfigure %}
 
 ### Buffalo and wild dogs
 
@@ -182,6 +262,10 @@ After an hour the signal starts to move, the sky above us is red and Kelsey puts
 Down on the riverbed we spot the dogs, they’re confronting a herd of buffalo. They don’t hunt them, but they enjoy toying with them; dogs will zip between them, too agile for the buffalo, nipping at their heels. We watch one charge them without much hope, one dog doesn't even rise from its rest. The dogs leave them be, and continue on their nightly hunt, moving out of sight.
 
 Kelsey gambles and we rush around to the guard post on the opposite side of the river. No sign of the dogs. The buffalo are here, moving in the herd, a young’un in the middle. Stars begin to dot the sky, the buffalo quietly walk by. “There’s nothing better than this, hey?”
+
+{% figure imfolozi-dogs-toying-with-buffalo.jpg landscape %}
+Bheji’s pack of dogs toying with buffalo
+{% endfigure %}
 
 ## Day 5 – A quiet vulture day
 
@@ -199,17 +283,45 @@ Our evening session isn’t much better. We head to Brodies pack and locate them
 
 On the drive home the crescent moon smiles at us, it sits just above Jupiter.
 
+{% figure imfolozi-moon-and-jupiter.jpg landscape %}
+The Moon and Jupiter
+{% endfigure %}
+
 ## Day 6 – Brodie’s pack make a kill
 
-We’re still on Brodie pack’s trail this morning. We get a quick signal to confirm their location and return to where we waited last night. But today there’s more sign of movement, “10 o’clock”, follow the road, keep going. "There, on the hill", two dogs are waiting. They aren’t hunting. "Where's the rest of them?" They disappear into the bush, in no big hurry. One more passes idly by, it’s Brodie herself, we try to see her _teats_, looking for signs of puppies.
+We’re still on the trail of Brodie pack’s again this morning. We get a quick signal from the hill besides camp and return to where we’d waited before. Today looks more positive, there’s more signs of activity, a moving signal – “10 o’clock”, we follow the road. "There, up on the hill", two dogs are waiting though they aren’t hunting. "Where's the rest?". They disappear into the bush, in no big hurry. One more passes idly by, it’s Brodie herself, we try to see her _teats_, looking for signs of puppies.
 
-We found wild dogs, which was more than yesterday, and we turn our attention to cheetah signals. The CF13 is nearby but resting. We’ll have coffee at the Mpafa hide and then try again. A [yellow-breasted apalis](http://www.projectnoah.org/spottings/153341273) waits outside.
+{% figure imfolozi-waiting-brodie-pack.jpg landscape %}
+Wild dogs waiting for the pack to return
+{% endfigure %}
 
-The hide reveals some secrets. Down near the water there are signs of a battle, a red liver glows in the morning sun, some entrails sit at the base of a tree, and there’s blood in the water. The dogs did hunt, they made a kill, and they did it all in sight of this hide, and we missed it. Kelsey looks gutted, if you’ll pardon the inappropriate pun. We drink our coffee.
+{% figure imfolozi-brodie-returning.jpg landscape %}
+Brodie returning to the den
+{% endfigure %}
+
+We found wild dogs, which was more than yesterday, and we turn our attention to cheetah signals. Cheetah CF13 is nearby but resting. We’ll have coffee at the Mpafa hide and then try again. A [yellow-breasted apalis](http://www.projectnoah.org/spottings/153341273) waits outside.
+
+{% figure imfolozi-yellow-breasted-apalis.jpg landscape %}
+A [yellow-breasted apalis](http://www.projectnoah.org/spottings/153341273)
+{% endfigure %}
+
+Inside the hide reveals some secrets. Down near the water there are signs of a battle, a red liver glows in the morning sun, some entrails sit at the base of a tree, and there’s blood in the water. The dogs did hunt, they made a kill, and they did it all in sight of this hide, and we missed it. Kelsey looks gutted, if you’ll pardon the inappropriate pun. We drink our coffee.
 
 "Dog", Feline shouts. On the ridge on the left a dog has appeared, shortly followed by four more. 5 of them, all from Brodie’s pack – Brodie and collared Munundi included, they all head down to the battle scene. They sniff at the body parts, then head into the undergrowth, there’s a carcass there. It’s a male nyala, they pull it out and feed. Painted dogs eat quickly, and they eat until they’re full. They then return to the pack and regurgitate the food for the pups. Some feed frantically while others rest, play or watch guard.
 
 Many come down to the water to drink, lying oddly on their front, chins in the water, ears flat back, quickly lapping up what they can. They pick up the organs and chew on them, two grab each side of the stomach, pulling it apart and spilling the green digesting grass on the floor; one rolls around in it. Adorable.
+
+{% figure imfolozi-wild-dog-drinking.jpg landscape %}
+Wild dog drinking
+{% endfigure %}
+
+{% figure imfolozi-wild-dog-with-food.jpg portrait %}
+Painted dog with food
+{% endfigure %}
+
+{% figure imfolozi-wild-dogs-tearing-stomach.jpg landscape %}
+Wild dogs tearing open a stomach
+{% endfigure %}
 
 A buffalo approaches and drinks from the water, there are terrapins too, and a Hamerkop is trying to swallow a chunk of fish. A little ringed plover skirts about besides a drinking dog.
 
