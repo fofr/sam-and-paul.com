@@ -339,9 +339,9 @@ We stayed silent, we dared not move, we wanted them to come closer, not only to 
 
 What a privilege it was to see this rare beast, only 2,000 still exist in the wild.
 
-### Bry
+### Braai
 
-At camp we made a fire, and Kelsey cooked us a bry; grilled chicken, sausage, venison burgers, curried butternut squash, potatoes and a chick-pea and baked bean sauce. A scrumptious feast cooked over hot coals.
+At camp we made a fire from dry tree branches and Kelsey cooked us a braai; grilled chicken, sausage, venison burgers, curried butternut squash, potatoes and a chick-pea and baked bean sauce. A scrumptious feast cooked over hot coals.
 
 ## Species spotted
 
