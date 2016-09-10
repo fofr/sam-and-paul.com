@@ -349,37 +349,59 @@ At camp we made a fire from dry tree branches and Kelsey cooked us a braai; gril
 
 * Lion, male, female, cubs
 * Cheetah, male and female
-* Painted dogs, African Wild dog, puppies
+* Painted dog, African Wild dog, puppies
 * White rhino
 * Southern-central black rhino
 * Hyena
 * Wildebeest
 * Buffalo
 * African elephant
-* Warthogs
+* Warthog
 * Nyala
+* Kudu
 * Duiker
 * Impala
+* Waterbuck
 * Giraffe
-* Vervet monkeys
-* Baboons
+* Vervet monkey
+* Baboon
 * Large spotted genet
 * Slender mongoose
-* Rabbits
-* Bats
+* Common banded mongoose
+* Scrub hare
+* Bat
 
 ## Birds
 
 * African hoopoe
+* African paradise flycatcher
+* Bateleur
+* Black-backed puffback
+* Black-collared barbet
 * Black crowned tchagra (sound)
 * Blue waxbill
+* Brown-hooded kingfisher
+* Brubru
+* Cape glossy starling
 * Cape turtle dove
 * Cape vulture
-* Common ringed [lover
+* Common fiscal
+* Common ringed plover
+* Crested guinefowl
+* Crowned hornbill
+* Crowned lapwing (plover)
+* Dark-capped (black-eyed) bulbul
+* Egyptian goose
 * European nightjar
+* Fiery-necked nightjar
+* Fork-tailed drongo
+* Hadeda ibis
 * Hamerkop
+* Helmeted guineafowl
 * Lappet-faced vulture
+* Lila-breasted roller
 * Little bee-eater
+* Little ringed plover
 * Martial eagle
 * Mocking cliff chat
 * Natal spurfowl
@@ -387,12 +409,20 @@ At camp we made a fire from dry tree branches and Kelsey cooked us a braai; gril
 * Pied crow
 * Purple banded sunbird
 * Red-billed oxpecker
+* Red-winged starling
+* Scarlet-chested sunbird
+* Secretarybird
+* Southern bald ibis
 * Southern boubou (sound)
-* Southern ground hornbill (sound)
+* Southern ground hornbill
 * Southern masked weaver
 * Southern yellow-billed hornbill
 * Speckled mousebird
+* Tawny eagle
+* Trumpeter hornbill
+* White-backed mousebird
 * White-backed vulture
+* White-fronted bee-eater
 * Woolly-necked stork
 * Yellow-billed kite
 * Yellow-breasted apalis
@@ -401,3 +431,4 @@ At camp we made a fire from dry tree branches and Kelsey cooked us a braai; gril
 
 * Terrapin
 * Bark scorpion
+* Millipede
