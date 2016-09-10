@@ -97,17 +97,17 @@ A majestic warthog spotted on route to Bheji pack’s den
 
 On the way back we stopped to scan for cheetah CM19, it had been spotted nearby. When the engine cut-off, and before the noisy buzz of the radio was turned on, we all heard it; a male lion vocalising nearby. Our attention shifted; where was this lion?
 
-With a red lamp Kelsey scanned the tree line, looking for two reflective eyes in the dark. Up and down the road we drove and reversed, one hand on the wheel, another on the torch, all eyes looking right. The vocals kicked off again, a beautiful nighttime call from this powerful beast. I made a recording, but we never saw him.
+With a red lamp Kelsey scanned the tree line, looking for two reflective eyes in the dark. We drove up, and reversed down, back and forth trying to find it. One hand on the wheel, another on the torch, all eyes looking right. The vocals kicked off again, a beautiful nighttime call from this powerful beast. I made a recording, but we never saw him.
 
 ## Day 2 – Puppies, cubs and cheetah
 
-Our first early start. Getting up at 4am for a 4:30am departure, a bark scorpion sat on the decking. We'd be getting up this early everyday for two weeks. At 4am it’s still night, and when the skies are clear you can see orion and [the magellanic clouds](https://en.wikipedia.org/wiki/Magellanic_Clouds). Gone are the sweltering hot winds and 30C temperatures, replaced with a cold stark breeze that cuts right through you; t-shirts and shorts replaced with thick coats, hats, gloves and jeans; sometimes blankets too.
+Our first _really_ early start, waking at 4am for a 4:30am departure, a bark scorpion welcomed us on the decking. We'd be getting up this early everyday for two weeks. At 4am it’s still night, and when the skies are clear you can see orion and [the magellanic clouds](https://en.wikipedia.org/wiki/Magellanic_Clouds). Gone are the sweltering hot winds and 30C temperatures, replaced with a cold stark breeze that cuts right through you; t-shirts and shorts replaced with thick coats, hats, gloves and jeans; sometimes blankets too.
 
 ### CM19
 
 We started where we left off, and headed for the only male cheetah in the park, CM19 (more males will be arriving soon to improve genetic diversity). Following the signal, we headed along a management road, closed to the public, the red light out again, scanning the hills for cat eyes. A genet gives us false hope. Then we see him, sitting in the open grass, awake, he stares straight at us and his eyes glow.
 
-In the dark he gets up and heads towards us, cautiously investigating the truck. We stay quiet, and avoid movement – the cheetah seemed agitated, but he soon calmed. He sat down 10m from us and watched, before returning to the bush.
+In the dark he gets up and heads towards us, cautiously investigating our truck. We stay quiet, and avoid movement – the cheetah seemed agitated, but he soon calmed. He settled 10m from us and watched us, before returning to the impenetrable bush.
 
 {% figure imfolozi-cheetah-cm19.jpg landscape %}
 Male cheetah, CM19
@@ -119,7 +119,7 @@ After our disappointment at not seeing the pack and pups last night we set out t
 
 There’s something about the thrill of the chase that Kelsey loves; when she’s searching for wild dogs she drives "like a savage", in her own words. Potholes and branches left in her wake, she speeds along the dirt roads as we frantically try to pinpoint the dog signals. Fire and feather, where are you? The cold morning air cuts through me, I'll bring a coat tomorrow. We stop, take a reading, and we're off again, reversing at speed, turning round, and zipping down another road. The roads are a maze, but Kelsey knows where to go. On the back seats we’re thrown about, our arms bruised from bashing the black metal bars, bums off seats as we hit a ridge, hold on tight.
 
-"Dogs", Kelsey suddenly shouts, "photos, photos". To our right, coming out of the bush, a pack of dogs. They weren’t on a hunt, the dogs were with puppies, 13 puppies. The pack was moving den, and we’d found them in the act. Adult females moved ahead, checking the route for danger, others backed up the rear, while some checked the pups and pushed them along. Some puppies stopped to look, and then carried on. Within seconds they were disappearing again, their fluffy white tails dancing as they jog to their new home. What luck.
+"Dogs", Kelsey suddenly shouts, "photos, photos". To our right, coming out of the bush, a pack of dogs. They weren’t on a hunt, the dogs were with puppies, 13 puppies. Bhejie’s pack was moving den, and we’d found them in the act. Adult females moved ahead, checking the route for danger, others backed up the rear, while some checked the pups and pushed them along. Some puppies stopped to look or play, before being ushered on. Within seconds they were gone again, their fluffy white tails dancing as they jogged to their new home. What luck.
 
 {% figure imfolozi-bheji-pack-on-move.jpg landscape %}
 Bheji’s pack moving den with pups
@@ -139,7 +139,7 @@ Elephants passing near to camp
 
 ### Lion cubs
 
-At 3pm we clamber back onto the open top truck and drive off again, this time scanning for cheetah CF13 and Alfie’s pack of dogs. In the same direction there’s a tourist report of lions and their cubs. The signals don't give us much to track, a faint long range signal perhaps, emerging from the wilderness where no car can go. We focus on the lions.
+At 3pm we clamber back onto the open top truck and drive off again, this time scanning for cheetah CF13 and Alfie’s pack of dogs. In the same direction there’s a tourist report of lions and their cubs. The signals don't give us much to track, a faint long range signal perhaps, a ping from the wilderness where no car can go. We focus on the lions.
 
 Between points 7 and 8 on the park map there’s a low bridge that crosses the river. There’s a small pool of standing water where birds feed and terrapins sit. Looking downstream we found the lions. A pride of 4 adult females, lying in the dry mud, their tails occasionally wafting away flies. Amongst them their cubs played. We tried to count them, 7 maybe? 8? Another one runs out from the long grass, 9? A tenth pops up its head from behind mum. An elephant monitor drives by, "I've never seen so many lion cubs", he says.
 
@@ -149,7 +149,7 @@ Behind us three rogue buffalo were sleeping. We hoped the lions might see them, 
 
 ## Day 3 – Kite, hide and lions
 
-Each day we rotate seats in the truck, another person records data, another is unlucky enough to sit in the middle, a third takes the telemetry. Today was my turn to find the signals. Perhaps this is why it was a quiet one. We tried to find Brodie’s pack; nothing. We tried to find the female cheetahs; nothing. We drove to another hill and scanned again, nothing. Then another hill, and so on. On the roadside, a nesting lapet-faced vulture.
+Each day we rotate seats in the truck, another person records data, another is unlucky enough to sit in the middle, a third takes the telemetry. Today was my turn to find the signals. Perhaps this is why it was a quiet one. We tried to find Brodie’s pack; nothing. We tried to find the female cheetahs; nothing. We drove to another hill and scanned again, nothing. Then another hill, and so on. On the roadside we found a nesting lapet-faced vulture.
 
 At Mpafa hide we escape the vehicle to the shady confines of a wooden hide. Outside the scene looked landscaped, like some sort of zoo, but entirely natural. A beautiful tower of rocks formed a wall to the left, a small water pool beneath it, a gentle grassy slope leading down to it from the right. A perfect place to stop and watch.
 
@@ -167,19 +167,19 @@ White rhino
 
 As per usual, we set out again in search of dogs, tonight we wanted to see Bheji’s pack, the dogs we’d spotted moving dens. Their signals were resting by their new den, in the evening light we waited for them to do something. A red helicopter flew overhead and circled around the den, section ranger Jed was onboard with researcher Christine; they messaged Kelsey, the dogs could be seen outside their den – sleeping.
 
-From the truck Kelsey kept us entertained, "let’s play ID the poo", and she hurled a mound of dry baby rhino poo at us, Philippine ducked and I caught it, the shit shattered. She told us about a Zulu tradition, where sticks are taken from black rhino poo, sticks tainted with "black magic", and placed secretly in people’s homes in an attempt to break up a relationship.
+From the truck Kelsey kept us entertained, "let’s play ID the poo", and she hurled a mound of dry baby rhino poo at us, Philippine ducked and I caught it, the shit shattered. She told us about a Zulu tradition, where sticks are taken from black rhino poo, sticks tainted with "black magic" (she says in a zulu accent), and placed secretly in people’s homes in an attempt to break up a relationship.
 
 The dogs never moved, so we did.
 
 ### Nearby lions
 
-A stroke of good fortune led us to pick up a signal for HIP636, we left the dogs and drove towards it. The signal was strong, they were nearby. A slender mongoose ran across the road ahead, as we kept our eyes peeled for yellow bodies in the grass. In the bare branches of a tree beside us sat a southern yellow-billed hornbill.
+A stroke of good fortune led us to pick up a very close signal for HIP636, we left the dogs and drove towards them. The signal was strong, they were nearby. A slender mongoose ran across the road ahead, as we kept our eyes peeled for yellow bodies in the grass. In the bare branches a southern yellow-billed hornbill sat besides us, Claire scanned again, pinpointing their location at a crossroads, we turned left.
 
 {% figure imfolozi-diving-hornbill.jpg landscape %}
 Southern yellow-billed hornbill
 {% endfigure %}
 
-I saw them first, two females, "1 o’clock" I shouted to Kelsey, we stopped abruptly and immediately we were silent. These two lions were right besides us, we didn't want to scare them off. The younger one was spooked, she upped from her bed and hid behind the trees, we could see a moving head eyeing us between the branches suspiciously. The older female, the collared one, was nonchalant, she didn't move and she paid no attention. An incredible sight, to be so close to these powerful and majestic wild animals.
+I saw them first, two females, "1 o’clock" I shouted to Kelsey, we stopped abruptly and immediately we were silent. These two lions were right besides us, we didn't want to scare them off. The younger one was spooked, she upped from her bed and hid behind the trees, we could see a moving head eyeing us between the branches. The older female, the collared one, was nonchalant, she didn't move and she paid no attention. An incredible sight, to be so close to these powerful and majestic wild animals.
 
 {% figure imfolozi-fearful-lion.jpg landscape %}
 A fearful female lion sees us coming
@@ -195,9 +195,9 @@ Tonight we cooked spaghetti bolognese together, and Philippine serenaded us with
 
 ## Day 4 – Alfie’s pack, CF7 cheetah, bomas
 
-A cloudy start to the day, it was dry and warm. We took our bearings from the nearby hill and headed East. A large spotted genet narrowly avoided our bumper. Alfie’s pack hadn’t been sighted in weeks, they’d be denning in the wilderness. So when we drove the 1h30 trip across the park to find them Kelsey wasn’t hopeful of seeing anything. "We have to try though. We need visuals on all the packs". We expected a quiet morning and at most a triangulation based on perpendicular signals. So when we found a dog sitting peacefully on the roadside, a long way from where we expected, we were all shocked.
+A cloudy start to the day, it was dry and warm. We took our bearings from the nearby hill and headed East. A large spotted genet narrowly avoided our bumper. Alfie’s pack hadn’t been sighted in weeks, they’d been denning in the wilderness. So when we drove the 1h30 trip across the park to find them Kelsey wasn’t hopeful of seeing anything. "We have to try though. We need visuals on all the packs". We expected a quiet morning and at most a triangulation based on perpendicular signals. So when we found a dog sitting peacefully on the roadside, a long way from where we expected, we were all shocked.
 
-"What dog is that?", Kelsey asked. "What is it doing?", "Photos, photos". Another appeared, they paced up and down the road, defecated (this bit’s important) and then crossed into the bush. Kelsey put her foot down, climbed the hill, and turned off onto a little dirt road to a viewpoint so we could head them off. "Here they come". Now there was three, the third had a collar, we ID'd him as Zoom; Alfie’s pack. They continued up and over the hill to where we couldn’t follow. "Where are the others?". They seemed to casual to be hunting, "it's like they've lost something". We continue to scan for Zoom and Madlala, the two collared dogs in the pack, and return to where we first saw them.
+"What dog is that?", Kelsey asked. "What is it doing?", "Photos, photos". Another appeared, they paced up and down the road, defecated (this bit’s important) and then crossed into the bush. Kelsey put her foot down, climbed the hill, and turned off onto a little dirt road to umbondwe viewpoint so we could head them off. "Here they come". Now there was three, the third had a collar, we ID'd him as Zoom; Alfie’s pack. They continued up and over the hill to where we couldn’t follow. "Where are the others?". They seemed too casual to be hunting, "it's like they've lost something". We continued to scan for Zoom and Madlala, the two collared dogs in the pack, and returned to where we first saw them.
 
 {% figure imfolozi-alfies-pack.jpg landscape %}
 A member of Alfie’s pack, spotted on the road
@@ -207,13 +207,13 @@ A member of Alfie’s pack, spotted on the road
 African wild dog "Macro", pacing up and down the road
 {% endfigure %}
 
-We didn’t need to wait long until more dogs appeared. Zoom returned, then two more, crossing the road and heading back to their den. Above the thicket line we spy another dog on the hill, sitting still, it looks like a guard post. The den must be in the valley. Another 3 dogs appear from nowhere and cross the road; we all scramble to get photos. The signal tells us the dogs are now resting.
+We didn’t need to wait long, soon more dogs appeared. Zoom returned, then two more, crossing the road and heading back to their den. Above the thicket line we spied another dog on the hill, sitting still, it looked like a guard post. The den must be in the valley. Another 3 dogs appear from nowhere and cross the road; we all scrambled to get photos. Now the signal told us the dogs were resting.
 
 Remember the defecating bit? When a wild dog takes a shit and we can get to it, we bag it up. Researchers are using the faeces to identify the dog’s diets. Cue Philippine and Kelsey using sticks to push shit into a brown bag, "nooo, you’re letting it touch the sides". Two stinky bags of shit sat in the back of the truck for the rest of the morning. "Did one of you guys step in something?".
 
 ### Cheetah CF7
 
-One of the collared cheetahs, CF7, hadn’t been seen in a while, and while waiting for the dogs we picked up a strong signal for her. With speed we rush away from the dogs and scanned the horizon, our binoculars focusing on the hill, searching. “With a signal this good I don’t know why we can’t see her”. We pass a herd of zebra, warthogs munched on the grass, a [woolly necked stork](https://en.wikipedia.org/wiki/Woolly-necked_stork) stood amongst them. A group of [blue waxbills](https://en.wikipedia.org/wiki/Blue_waxbill) foraged in the dirt.
+One of the collared cheetahs, CF7, hadn’t been seen in a while, and while waiting for the dogs we picked up a strong signal for her. With speed we rushed away from the dogs and scanned the horizon, our binoculars were focused on the hill, searching. “With a signal this good I don’t know why we can’t see her”. We pass a herd of zebra, warthogs munched on the grass, a [woolly necked stork](https://en.wikipedia.org/wiki/Woolly-necked_stork) stood amongst them. A group of [blue waxbills](https://en.wikipedia.org/wiki/Blue_waxbill) foraged in the dirt.
 
 {% figure imfolozi-zebra-misty-morning.jpg landscape %}
 Zebra on a misty morning
@@ -229,7 +229,7 @@ Cheetah CF7 high up on the hillside
 
 The white WildlifeAct truck and the telemetry means tourist’s will regularly stop to ask what we're looking for, and where to find animals. One of them told us about a pride of lions over in Hluhluwe. The tarmac’d road leads us out of iMfolozi, beneath the corridor road, and into the adjacent park, Hluhluwe, where the foliage is more green but less palatable. We pass wildebeest, nyala and elephants.
 
-We try and try to find the lions, this would be the corridor pride. We see another truck stopped on the roadside, they’ve got their binoculars out. Sure enough, in the distance, there’s a male lion lying down and a female hanging in an acacia tree.
+We try and try to find the lions, this would be the corridor pride. Folks in a truck on the roadside have their binoculars out. Sure enough, in the distance, there’s a male lion lying down and a female hanging in an acacia tree. I didn't know lions climbed trees.
 
 {% figure imfolozi-lioness-in-tree.jpg landscape %}
 Lioness in a distant tree
@@ -239,9 +239,9 @@ Lioness in a distant tree
 
 A boma is an animal enclosure. We visited the park’s bomas to see the creatures there; orphaned black and white rhino – poachers got their parents, wildebeest and buffalo sold to other parks – caught wild and brought here, white rhino waiting to be moved.
 
-From outside the large wooden pens we get close-up views of the wild animals we’ve been seeing in the park. The white rhinos don’t like us, and threaten to charge; the buffalo are confused, the wildebeest scared. They all recognise our human form. It’s so odd that they don’t recognise or fear us when we’re on the back of an open top truck. Our form is masked, and the truck becomes a portable hide; every time we get close to a wild animal and it doesn’t freak out and run, or get angry and confront us, I’m surprised. The 4-wheeled motor vehicle is just a confusion to them.
+From outside these large wooden pens we get close-up views of the park’s wild animals. The white rhinos don’t like us, and threaten to charge; the buffalo are confused, the wildebeest scared. They all recognise our human form. It’s so odd that they don’t recognise or fear us when we’re on the back of an open top truck. Our form is masked, and the truck becomes a portable hide; every time we get close to a wild animal and it doesn’t freak out and run, or get angry and confront us, I’m surprised. The 4-wheeled motor vehicle is just a confusion to them.
 
-It was feeding time for the two orphaned black rhino. They have been reared by humans and aren’t fearful. They’re fed a milky drink and hay, and don’t mind us watching them closely. They talk to each other, making high pitched squeaks, a bewitching and endearing noise; beasts this big shouldn’t make such delicate and delightful sounds. It makes you want to cry, like a soppy Disney movie.
+It was feeding time for the two orphaned black rhino. They have been reared by humans and aren’t fearful. They’re fed a diet of milk and hay, and don’t mind us watching them closely. They talk to each other, making high pitched squeaks, a bewitching and endearing noise; beasts this big shouldn’t make such delicate and delightful sounds. It makes you want to cry, like a soppy Disney movie.
 
 The centenary centre is just around the corner. The road there was filled with playful giraffe and elephant. We had our first close encounter with elephants, 4 bulls, nervously close, they walked our way. We’d heard horror stories about elephants trampling people and cars, one charged Claire’s car on a previous trip, tusking the girl next to her – a terrifying experience. "We should go now", Jannes said. But Kelsey kept her distance, and the elephants showed no signs of agitation, they crossed behind us without incident. At the centre we ate cheeseburgers and chips.
 
@@ -255,13 +255,13 @@ Elephant bull near centenary centre
 
 ### Buffalo and wild dogs
 
-At 4:15pm Kelsey took us out to where we saw Bheji’s pack moving den. There we wait, checking occasionally to see if their signal is moving. A rhino path intersects the road we’re on, “That’s a well used rhino path, some of these paths are 100s of years old”.
+At 4:15pm Kelsey took us out to where we saw Bheji’s pack moving den. There we waited, checking occasionally to see if their signal was moving. A rhino path intersects the road we’re on, “That’s a well used rhino path, some of these paths are 100s of years old”.
 
-After an hour the signal starts to move, the sky above us is red and Kelsey puts her foot down. We hold on tight, she pulls away, Claire finds the signal, "2 o’clock", "3 o’clock", Kelsey drives. We veer off the road, taking a sharp right onto a bumpy management track, through the trees, ducking to avoid branches, skidding to a halt at the valley edge.
+After an hour the signal starts to move, the sky above us is red and Kelsey puts her foot down. We hold on tight, she pulls away, Claire finds the signal, "2 o’clock – 3 o’clock", Kelsey drives faster. We veer off the road, taking a sharp right onto a bumpy management track, through the trees, ducking to avoid branches, skidding to a halt at the valley edge.
 
-Down on the riverbed we spot the dogs, they’re confronting a herd of buffalo. They don’t hunt them, but they enjoy toying with them; dogs will zip between them, too agile for the buffalo, nipping at their heels. We watch one charge them without much hope, one dog doesn't even rise from its rest. The dogs leave them be, and continue on their nightly hunt, moving out of sight.
+Down on the riverbed we spot the dogs, they’re confronting a herd of buffalo. They don’t hunt buffalo, this is play – they love to toy with them; dogs will zip between them, too agile for the buffalo, nipping at their heels. We watch one buffalo charging the, but it does so in vain, one dog doesn't even rise from its rest. The dogs eventually leave them be, and continue on their nightly hunt, moving out of sight.
 
-Kelsey gambles and we rush around to the guard post on the opposite side of the river. No sign of the dogs. The buffalo are here, moving in the herd, a young’un in the middle. Stars begin to dot the sky, the buffalo quietly walk by. “There’s nothing better than this, hey?”
+Kelsey gambles and we rush around to the guard post on the opposite side of the river. No sign of the dogs. The buffalo are here, moving in the herd, a young’un in the middle. Stars begin to dot the sky, a distant nightjar sings, the buffalo shuffle by. “There’s nothing better than this, hey?”
 
 {% figure imfolozi-dogs-toying-with-buffalo.jpg landscape %}
 Bheji’s pack of dogs toying with buffalo
@@ -269,17 +269,15 @@ Bheji’s pack of dogs toying with buffalo
 
 ## Day 5 – A quiet vulture day
 
-This morning it’s cold. A mist fills the valley and the air is wet, the cold cuts through my coat, we shiver in our slumber. After seeing Alfie’s pack, we wanted to check-in on them again, they’d been seen with puppies on the road. We drive across the park to find them. When we get near the signal isn’t there, we don’t get a signal, we go higher and it seems the pack has returned to the wilderness. There’s another signal from a valley, we chase it a bit, but it was just a back signal. We fear they’ve returned to the wilderness.
+This morning it’s cold. A mist fills the valley and the air is wet, the cold cuts through my coat, we shiver in our slumber. After seeing Alfie’s pack we wanted to check-in on them again, they’d been seen with puppies on the road. We drove across the park to find them, but when we neared the signal wasn’t there. We go higher but it now seems like the pack has returned to the wilderness.
 
-At Impila we have an early coffee and buy reserves. A vervet monkey hears us eating and gets too close, we fend it off and it scrams. "Those things will claw your face. You’ve got to show it who’s boss".
+At Mpila we have an early coffee and buy reserves. A vervet monkey hears us eating and gets too close, we fend it off and it scrams. "Those things will claw your face. You’ve got to show it who’s boss".
 
-Today is [International Vulture Awareness day](http://www.vultureday.org/2016/index.php), to mark this all the WildlifeAct reserves are putting out carcasses and doing vulture counts. At iMfolozi there’s some game that died while being transported to the bomas here, the carcass has been put out and we go to find it.
+Today is [International Vulture Awareness day](http://www.vultureday.org/2016/index.php), to mark this all the WildlifeAct reserves were putting out carcasses and doing vulture counts. At iMfolozi there’s some game that died in transport, they’ve been put out. We arrive to find a graveyard of bones and 3 untouched carcasses, the shrivelled skin of a buffalo sits behind them. Nothing is eating them, no lions, no vultures, the meat must be bad. This isn’t a good start. The stench of rotting animal fills the air, it’s foul and we cover our noses. Keeping our distance, we sit at the roadside and watch for vultures.
 
-We arrive to find a graveyard of bones and 3 untouched carcasses, the shrivelled skin of a buffalo sits behind them. Nothing is eating them, no lions, no vultures, the meat must be bad. This isn’t a good start. The stench of rotting animal fills the air, it’s foul and we cover our noses. Keeping our distance, we sit at the roadside and watch for vultures.
+Over Hluhluwe are 30 vultures spiralling in the thermals, but none head this way. We just need one to catch sight of our carcass. We wait, Feline does her sudoku, Jannes reads his book, we wait for over an hour. Finally a single white-backed vulture heads down, shortly followed by another. 10 arrive on the scene, but they don’t stay long and they don’t eat – the meat is bad. We scan for tags on their wings, or GPS packs on their backs, but we see none.
 
-Over Hluhluwe we see 30 spiralling in the thermals, but none are heading this way. We just need one to catch sight of it. We wait, others do their sudoku, read their books, we wait for over an hour. One heads down – a white-backed vulture, then another, about 10 arrive on the scene, but they don’t stay long and they don’t eat. We scan for tags on their wings, or GPS packs on their backs, but we see none.
-
-Our evening session isn’t much better. We head to Brodies pack and locate them, they’re resting just away from the road. We head up and down the road, scanning, but their occasional moving signals always stop, and they return to rest. No hunting tonight.
+Our evening session is quiet too. We headed for Brodie’s pack and used the telemetry to locate them – they were resting just away from the road, but out of sight. We head up and down the road, scanning, but their occasional moving signals always stop, and they return to rest. No hunting tonight.
 
 On the drive home the crescent moon smiles at us, it sits just above Jupiter.
 
@@ -289,7 +287,7 @@ The Moon and Jupiter
 
 ## Day 6 – Brodie’s pack make a kill
 
-We’re still on the trail of Brodie pack’s again this morning. We get a quick signal from the hill besides camp and return to where we’d waited before. Today looks more positive, there’s more signs of activity, a moving signal – “10 o’clock”, we follow the road. "There, up on the hill", two dogs are waiting though they aren’t hunting. "Where's the rest?". They disappear into the bush, in no big hurry. One more passes idly by, it’s Brodie herself, we try to see her _teats_, looking for signs of puppies.
+We’re still on the trail of Brodie’s pack again this morning. We get a quick signal from the hill at camp and return to their den site. Today looks more positive, there’s some activity, a moving signal, it’s moving, they’re leaving – “10 o’clock”, we follow the road. "There, up on the hill", two dogs are waiting, but they aren’t hunting. "Where's the rest?". They disappear into the bush, in no big hurry. Another passes idly by, it’s Brodie herself, we try to see her _teats_, looking for signs of puppies.
 
 {% figure imfolozi-waiting-brodie-pack.jpg landscape %}
 Wild dogs waiting for the pack to return
@@ -299,7 +297,7 @@ Wild dogs waiting for the pack to return
 Brodie returning to the den
 {% endfigure %}
 
-We found wild dogs, which was more than yesterday, and we turn our attention to cheetah signals. Cheetah CF13 is nearby but resting. We’ll have coffee at the Mpafa hide and then try again. A [yellow-breasted apalis](http://www.projectnoah.org/spottings/153341273) waits outside.
+We found wild dogs, which was more than yesterday, but it looks like we've missed the hunt – our collared dog stayed at the den. We turned our attention to cheetah; CF13 is nearby but resting somewhere we can’t see. We decided to have coffee at the Mpafa hide and then try again. A [yellow-breasted apalis](http://www.projectnoah.org/spottings/153341273) waited for us at the entrance.
 
 {% figure imfolozi-yellow-breasted-apalis.jpg landscape %}
 A [yellow-breasted apalis](http://www.projectnoah.org/spottings/153341273)
@@ -307,9 +305,9 @@ A [yellow-breasted apalis](http://www.projectnoah.org/spottings/153341273)
 
 Inside the hide reveals some secrets. Down near the water there are signs of a battle, a red liver glows in the morning sun, some entrails sit at the base of a tree, and there’s blood in the water. The dogs did hunt, they made a kill, and they did it all in sight of this hide, and we missed it. Kelsey looks gutted, if you’ll pardon the inappropriate pun. We drink our coffee.
 
-"Dog", Feline shouts. On the ridge on the left a dog has appeared, shortly followed by four more. 5 of them, all from Brodie’s pack – Brodie and collared Munundi included, they all head down to the battle scene. They sniff at the body parts, then head into the undergrowth, there’s a carcass there. It’s a male nyala, they pull it out and feed. Painted dogs eat quickly, and they eat until they’re full. They then return to the pack and regurgitate the food for the pups. Some feed frantically while others rest, play or watch guard.
+"Dog", Feline shouts as I choke on my hot drink. On the ridge to the left a dog has appeared, shortly followed by four more. 5 of them, all from Brodie’s pack – Brodie and collared Munundi included, they all head down to the battle scene. They sniff at the body parts, picking and chewing, then head into the undergrowth, there’s a carcass there. It’s a male nyala, they pull it out and feed. Painted dogs eat quickly, and they eat until they’re full. Then they return to the pack and regurgitate food for the pups. Some feed frantically while others rest, play or watch guard.
 
-Many come down to the water to drink, lying oddly on their front, chins in the water, ears flat back, quickly lapping up what they can. They pick up the organs and chew on them, two grab each side of the stomach, pulling it apart and spilling the green digesting grass on the floor; one rolls around in it. Adorable.
+Many come down to the water to drink, lying oddly on their front, chins in the water, ears flat back, quickly lapping up what they can. They pick up the organs and chew on them, two grab each side of the stomach, pulling it apart and spilling the green digested grass on the floor; one rolls around in it. Adorable.
 
 {% figure imfolozi-wild-dog-drinking.jpg landscape %}
 Wild dog drinking
@@ -325,13 +323,13 @@ Wild dogs tearing open a stomach
 
 A buffalo approaches and drinks from the water, there are terrapins too, and a Hamerkop is trying to swallow a chunk of fish. A little ringed plover skirts about besides a drinking dog.
 
-Other cars are beginning to arrive at the hide now, a WhatsApp message has told a group what’s to be seen. We watch the pack for an hour, a breathtaking and privileged sighting, we were all mesmerised by this charismatic animal’s behaviour. And we leave when the dogs leave, just as a queue of jeeps and SUVs turn up.
+Other cars are beginning to arrive at the hide now, a WhatsApp message has told a group what’s to be seen. We watch the pack for an hour, a breathtaking and privileged sighting, we were all mesmerised by the charismatic behaviour of these animals. We leave when the dogs leave, just as a queue of jeeps and SUVs turn up.
 
-We speed off in search of a cheetah, but never find it. Ironically a car that missed the dogs tells us, “You drove straight past a cheetah and a lion”. Now it seems the cheetah is headed into the wilderness after the male lion sent it fleeing. On the way home we stop to photograph impala, they were being pestered by oxpeckers.
+We speed off in search of cheetah CF13, but never find her. Ironically a car that missed the dogs tells us, “You drove straight past a cheetah and a lion”. Now it seems the cheetah is headed into the wilderness after the male lion sent it fleeing. On the way home we stop to photograph impala, they were being pestered by oxpeckers.
 
 ### Black rhino
 
-Sunday afternoon is for writing up data sheets and doing chores. We washed down the truck before its service tomorrow, and filled in all the excel spreadsheets for our week’s sightings. At 4pm we’d finished, so headed out to find the wilderness cheetah. We stayed until dark, we scanned, and searched, but we saw nothing. Philippine had stayed at the house and I was thinking "she’s missed nothing".
+Sunday afternoon is for writing up data sheets and doing chores. We washed down the truck before its service tomorrow, and filled in all the excel spreadsheets for our week’s sightings. At 4pm we’d finished, so headed out to find the wilderness cheetah. We stayed until dark, we scanned, and searched, but we saw nothing. Philippine had stayed at the house and I thought, "she’s missed nothing".
 
 Of course then we stumbled on three [black rhino](https://en.wikipedia.org/wiki/South-central_black_rhinoceros). A male, a female and a calf. Until now I'd wondered if I could tell the difference, the pictures show only subtle differences. It was immediately obvious, they behaved differently; the white rhino would be wary of us, but would walk away slowly, calmly, not really even noticing us; the black rhino definitely noticed us, they ran, turned and watched us from afar. It huffed; black rhinos are more likely to charge us, but they’re also inquisitive, they often come closer to inspect the vehicle and see what we are – then they charge or run away.
 
@@ -341,7 +339,44 @@ What a privilege it was to see this rare beast, only 2,000 still exist in the wi
 
 ### Braai
 
-At camp we made a fire from dry tree branches and Kelsey cooked us a braai; grilled chicken, sausage, venison burgers, curried butternut squash, potatoes and a chick-pea and baked bean sauce. A scrumptious feast cooked over hot coals.
+At camp we made a fire from dry tree branches and Kelsey cooked us up a braai; grilled chicken, sausage, venison burgers, curried butternut squash, potatoes and a chick-pea and baked bean sauce. A scrumptious feast cooked over hot coals.
+
+## Day 7 – A day of rest
+
+Spending 12 hours a day on the back of a truck isn’t good for the back. A jolt jarred some muscles and I needed a break from all the driving. The Toyota truck needed a service, Kelsey and the girls headed to Hluhluwe for the day, while Jannes and I stayed home. We wrote blogs, slept, tagged photos and did admin work, while they were away.
+
+I was sad to miss the puppies they saw on the road, Alfie’s pack had left them there while out hunting. I wasn't so sad to have missed the two angry elephants they encountered, both of which were close and threatened to charge.
+
+## Day 8 – Camera traps
+
+Today was a little different. At 6am we headed out to scan for cheetahs and to change the camera traps. Scattered throughout the park are cameras mounted on tree stumps, they are motion activated and save photos to an SD card. Every so often volunteers go out to them to swap out the SD cards and change the batteries. This means leaving the safety of the vehicle.
+
+When walking in the bush you walk in single file, with the leader at the front – if anything happens, it happens to them. If we bumped a lion we'd need to stand our ground, we didn’t. Most of the cameras are close to the road, some a couple of metres, others in sight of the truck; one was a short trek, up and over some dirt hills. We were all nervous. Below us the ground was dry, the dirt crusty, beside us we saw termite mounds and warthog holes, a little porcupine burrow too.
+
+Changing the camera is easy; unlock the case, check the number of photos taken, swap out the memory cards, swap out the batteries, reset the time and date, take a test photo, and hey presto. "Trap is clean". Sometimes things do climb up into the camera casing, nasty things like spiders and scorpions, when I opened one a gecko came scuttling out and almost gave me a heart attack. Others keep watch.
+
+One camera trap took us out through dusty bush, our surroundings were orange and desert-like, a secretarybird strutted by – searching for snakes, a lilac breasted roller flew across, dazzling us with its colours, a bateleur flew high above us.
+
+The trail took us to a management road which runs along the border-fence. The border prompted talk of poachers, poaching prevention techniques, supply chains, the ugliness of rhino horn poaching, corruption, convictions and shootings. It’s all devastating. The fence isn’t strong enough to stop elephants. We pass an old rhino skin, and a banded mongoose skips away from us. Back on public roads, we stop at a riverbed viewpoint and drink coffee.
+
+### Finding cheetah CF13
+
+When we’re done with the last trap we switch our attention to CF13. Throughout the day we'd been pinging her signal, getting a rough location. Now we were close, the camera was besides a cheetah scent-marking tree and CF13 was nearby. From up on the hill we looked down into the valley to find her, some impala looked nervous, on the opposite side was movement – our cheetah was heading toward them, and us. Her belly looked swollen, she must be pregnant.
+
+The impala sprint away, and CF13 disappears into the valley. We try to pinpoint her but she’s moving away from us now. We change positions and get another strong signal, but frustratingly she doesn’t reappear.
+
+It’s a similar story with Bhejie’s pack in the evening. The signal besides their den is hard to interpret, it's in a valley, their den is beneath rocks (a photo taken from a heli’); it bounces a lot – holding up the antenna and keeping it still, you can hear the changing intensity of the beeps. Determining when they are actually leaving is almost impossible. Tonight we learnt this too late.
+
+We rushed up and over the hill on okhulho loop and tried to follow their signal. Four southern ground hornbills took to the sky as we rattled by, a crowned lapwing disappears when it lands – perfect camouflage. No dogs though. We missed them.
+
+## Day 9 – Birdwatching and elephant herds
+
+## Day 10 – A day in Hluhluwe
+
+## Day 11 – Mating lions
+
+## Day 12 – Scanning in the rain
+
 
 ## Species spotted
 
