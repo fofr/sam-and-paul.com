@@ -365,17 +365,107 @@ When we’re done with the last trap we switch our attention to CF13. Throughout
 
 The impala sprint away, and CF13 disappears into the valley. We try to pinpoint her but she’s moving away from us now. We change positions and get another strong signal, but frustratingly she doesn’t reappear.
 
-It’s a similar story with Bhejie’s pack in the evening. The signal besides their den is hard to interpret, it's in a valley, their den is beneath rocks (a photo taken from a heli’); it bounces a lot – holding up the antenna and keeping it still, you can hear the changing intensity of the beeps. Determining when they are actually leaving is almost impossible. Tonight we learnt this too late.
+It’s a similar story with Bhejie’s pack in the evening. The signal besides their den is hard to interpret, it's in a valley, their den is beneath rocks (seen in a photo taken from a heli’); it bounces a lot – holding up the antenna and keeping it still, you can hear the changing intensity of the beeps. Determining when they are actually leaving is almost impossible. Tonight we learnt this too late.
 
 We rushed up and over the hill on okhulho loop and tried to follow their signal. Four southern ground hornbills took to the sky as we rattled by, a crowned lapwing disappears when it lands – perfect camouflage. No dogs though. We missed them.
 
 ## Day 9 – Birdwatching and elephant herds
 
+Today it’s my turn to scan, and we’re on the road early looking for Alfie’s pack. The signal takes us across the park, over the river and up towards where we’d spotted them before. Hopefully we might see puppies again. But the short range signal from the telemetry puts them in a place hard to get to; for them they can simply cross the river and carry on, for us it's a 20 minute drive. Kelsey deliberates about which way to go, and which side of the river to put us. We head back, at speed, back over the bridge, and taking a quick right turn, down towards Nselweni lodge.
+
+It’s a camp and everyone is sleeping, so we hush up and head to a viewpoint that overlooks the river. The signal is strong, but we can't see them. As we'd do in the truck, we wait it out. A perfect opportunity for early morning birdwatching, as well as coffee and rusks, of course. From the rickety wooden lookout point I spot birds that get me excited; trumpeter hornbills, crowned hornbills, brown-hooded kingfishers, black-collared barbets, fiscals, drongos, geese and mousebirds, and my favourite, an african paradise flycatcher.
+
+In the rainy season the river would fill up more, and in the wet pools you’d see hippo. We don't know where they disappear to when the river is dry, as it was today. Buffalo were sleeping in the riverbed.
+
+Every now and then we scan again to see if the dog’s signal has moved. Out of nowhere we spot one, coming over the hill, it’s sprinting into the distance – to the water for a drink. There’s another too, it does the same, and they both soon disappear. Shortly we see spooked nyala, running from something, and there’s a hyena call, but we catch no further glimpse of the pack.
+
+### Finding ellies
+
+The morning dog session finished early, but rather than go back we begin to scan for elephant breeding herds. We'd passed some ‘ellies’ on the road, on our way to the dogs. "Shall we scan for elephants?", Kelsey asked. Claire looked nervous, but I point the antenna, find a direction and we head for BH331.
+
+There are signs of them, trees knocked down, a lingering smell, but at the end of the road – a camp, we see no sign of them. We scan again but give up and head back. But on the same road, we now found an elephant, a few of them were grazing by the roadside. We assume it's BH332, but when I scan again it's a different herd, BH178. On the road beside us we also see fresh lion tracks, we scan for prides but don't find any.
+
+There are three females around us, and a youngster feeding from its mother. A female nearby looks agitated, she’s swinging her trunk, we put down the telemetry and stay quiet – forgetting about the lions, we don't want the elephant to charge us in this tight space. As a precaution we begin edging forward.
+
+Out of nowhere the breeding herd appears, led by the largest female elephant - the collared one we'd picked up with our scans. She’s walking fast, practically running, trunk swaying, ears flapping and she's leading over 50 elephants through the forest, young and old rush by us – all rushing through, almost a stampede. We watch in awe as they all cross right behind us. As their path bottlenecks they spread out to get across.
+
+"One is coming, Kelsey, Kelsey, Kelsey, one is coming, behind" – Philippine, alarmed by the beast heading quickly our way, out of the thicket, we pull forward and we’re clear, it can cross, it trumpets at us as it walks on by. For the remainder of our trip, "Kelsey, Kelsey, Kelsey" became a catchphrase for us, it should be Kelsey’s ringtone.
+
+Away from the lions, in the mid-morning sunshine, we stopped by the river viewpoint. Some cars had gathered there, down in the basin we could see some white rhino, a lone elephant bull, a sleeping male lion and in the shade nearby, a collared female. These two must be mating, and they’re probably the ones that left those tracks we'd seen. The lions were too far and too sleepy to keep me interested, instead I watched the white-fronted bee-eaters.
+
+### Cheetahs and Lions
+
+The afternoon session was a little different, we headed out to find cheetah and lion. Philippine sat upfront because it was cold and cloudy. We split into teams; left and right; points awarded for different animals, certain animals get more, like lions – 10 points and warthogs – 3 points, a herd of impala – 1 point.
+
+We scanned for HIP636, the youngster and the female, and found them remarkably quickly, sat just away from the road again. Kelsey’s team got a very quick lead that we could never beat, no matter how many impala we found. The lions were sleeping, we left them in search of CF13; we saw many white rhino, warthogs, and even some crested guineafowl, but no cheetah. Philippine reluctantly conceded defeat to Kelsey, they were over 40 points ahead and only a black rhino would catch us up, and we stopped to watch the sun go down – a beautiful African sunset against the umbrella acacias.
+
+Back at camp Jannes cooked us his impressive rice and venison stew, and over dinner we listened out for nearby lion calls.
+
 ## Day 10 – A day in Hluhluwe
 
-## Day 11 – Mating lions
+Kelsey needed to drive to research up in Hluhluwe to drop off some photos, dog scat and other research material we’d gathered. We left again at 4:30am and headed north through the park, stopping to scan for Alfie’s pack again on the way.
 
-## Day 12 – Scanning in the rain
+This time we went straight to Nselweni to try and spot them, but their signal had moved and we had to follow the signal. Out and around, we drove the 20 minute trip over the river, and up the hill. The signal told us they were over the distant hills; Kelsey called in on her radio and we got permission to follow them along a management track.
+
+The path was rocky, and with each divot, hole and bump, the truck swayed left and right, bashing us against the black railings and renewing our bruises. But the views were incredible. We could see right across the park, the peaks, valleys and trees looked beautiful against the early light. We passed sleeping buffalo, an old buffalo skull and some woolly necked storks.
+
+This is where we had our favourite rhino sighting. Two white rhino mothers were with their calves, grazing very close to each other. The calves, about the same age, not more than 2 months old, were inquisitive. They kept looking up, playfully, staring at each other. The mothers meanwhile were vying for territory and the good grass, they squared-off and there was a minor scuffle before feeding resumed. Behind their backs the two babies approached each other, they rubbed noses, like a kiss, and looked longingly at each other – a tender moment two little wonders, a brief moment of play and companionship for a creature that lives most its life in solitary. Then they parted ways. Another privileged sighting.
+
+The dogs evaded us, their signal dimmed and they returned to their den. On the top of the hill we had coffee then continued on route to Hluhluwe.
+
+### To Hluhluwe
+
+From iMfoloze we passed under the corridor road and into Hluhluwe park. The tarmac’d road took us past herds of zebra, towers of giraffe and groups of wildebeest. An african hoopoe flew alongside us, hooping as we drove. We stopped to sample bushman’s tea, with its minty fragrant leaves, before continuing onwards and upwards.
+
+Not long into Hluhluwe and the scenery has changed. Gone are the thorny thickets, the dusty sands, the round rocks and aggressive acacias; they’re replaced with verdant green forests, flowers, and even palms – in some places it almost feels tropical. Higher up, where there is more water, and where the plants are less palatable, the flora trumps the fauna.
+
+### Cameras in leopard hotspots
+
+Again we took a management road, and headed away from the tourist trails for a quick route to some camera traps. At a viewpoint we stopped to rest, and Kelsey tested us on our scat knowledge; little brown pellets and a track – either kudu or giraffe. There were other tracks too, wild dogs, lion, hyena; the base of the paw print has three bulges for a cat, and two for a dog. Up here there’s a hide too, Thiyeni hide, which smells profoundly of bat poo.
+
+The two camera traps we needed to change were in a leopard hotspot. They'd been placed there to try and photograph spotted genet riding on rhinos. Leopards are the hardest things to spot; you don’t see them unless they want to be seen, they hang out in trees, run away at the sound of vehicles, and many sightings are simply a glimpse – a spotted tail disappearing into a bush. Leopards are also opportunists, their sneaky and out of nowhere can snatch a quick meal. So it was with great trepidation that we got down from our vehicle to change these traps. We all wanted to see leopard, but perhaps now was not the best time. A pack of baboons were fumbling leaves nearby, they’d provide us with an early warning sign if anything appeared. Thankfully none showed up, and we changed the two traps without incident.
+
+### Hilltop
+
+While Kelsey was sorting out her research things, getting some gizmos fixed and whatnot, we all hung out at the hilltop resort. There was talk of a pool, but none of us fancied it in the cold, especially when it’s half a kilometre from food. Instead we relaxed on the veranda, looking out over the hills, pretending we could see the sea, which Jannes had believed you could.
+
+We had coffee, snacks and burgers, we bought maps of the park, and we enjoyed our free time. Two red-winged starlings tried to thief some of our grub, and two elephants walked calmly in front of the railings. They were heading to a little water hole and didn't mind us being there, that didn't stop us from checking our exits.
+
+Before leaving we grabbed some ice creams for the journey. By now the sun was out and the temperature was climbing to 30C. The hot wind on a moving vehicle makes it particularly difficult to eat an ice cream; which led Jannes to lean out the side, desperately trying to finish it before it melted, all the while Philippine and us others laughed hysterically, as chocolate dripped across the car’s white paint.
+
+We didn’t get home until 2pm so there was no evening session. We played "30 seconds", and tried to guess clues about south africans we’d never heard of. Claire cooked us all a delicious spaghetti bolognese.
+
+## Day 11 – Bumping lions
+
+Kelsey needed to leave on Sunday to do exams, she would be covered by Christina, a Canadian PhD student studying the Cheetah in iMfolozi. She'd need to tag along with us a few times first. This was her first day on our truck and we headed out to find Brodie’s pack.
+
+The session was a frustrating one. We couldn’t determine the patch the pack were hunting in, a nearby hill caused the signal to bounce, and the way the road wrapped around their den area made it hard to get visuals in the valley. We tried and tried, but saw none, despite tourist reports of a dog crossing the road near mpafa hide. When we gave up with the dogs we tried for CF13, she too didn't play ball, despite Christina’s unrelenting enthusiasm. We checked the western perimeter for her signal, following a boundary management fence trying to spot her, but she didn’t show up and the signal didn’t grow stronger.
+
+We’d driven a long way, and we hadn’t seen much, save a fence that couldn’t stop an elephant. I was just thinking about how this session had been difficult, when we bumped two lions. By the road, lying beneath a shady bush were a male and female. They were a couple who'd been spotted mating elsewhere, and they were probably still in the throes of passion. The female was from HIP636, a pride we'd spotted twice before, her daughter, normally alongside her, couldn’t be seen.
+
+Lions mate every 15 minutes for three days. That sounds exhausting. We knew that if we waited long enough we might see the lions get together. This male was a lazy one, and after half an hour there had been no movement, save a gaping yawn, a cursory look between the two and a flapping tail. But he did eventually stand up, and we saw the wonders of creating new life, to put it politely. Feline video’d it and posted to Facebook, her parents asked her not to share lion porn. It lasted only a minute or so, and the lions grimaced, before a climax, which sees the male perform a "[flehmen response](https://en.wikipedia.org/wiki/Flehmen_response)" toward the female, checking if she’s on _heat_. We waited a further 15 minutes to see the encore before leaving them in peace.
+
+Back at camp Christina helped me spot birds; black-backed puffback, brubru, southern masked weaver and an african paradise flycatcher.
+
+### Bhejie’s pack
+
+At 4pm we set out to find wild dogs, trying for Bhejie’s pack and their inscrutable den signals. Before starting, we dropped by the lions to see if they’d moved. They were still there, sleeping, and presumably copulating every now and then.
+
+On a hillside we parked and waited for Bhejie’s pack to wake up and go for their evening hunt. We hung around for an hour, shooting the breeze, or completing sudoku. We checked signal occasionally to see if they’d moved. Then without warning they showed up; a single dog emerged from the bush, approached the road and defecated there; another came out to smell it, we’d need to pick it up and bag it later.
+
+Then I had my favourite wild dog encounter, it was almost personal. One of the dogs simply walked up to the truck, on the driver’s side. If Christina had put her arm out the window she could have stroked it. The dog looked me in the eye, and then carried on, unconcerned. We were so close to it.
+
+Soon the rest of the pack were here, 9 in total. This silent gathering of dogs felt like a roll call before rolling out to hunt, it was very kind of them to come over to us, say hello and then carry on with their business. They returned from where they’d come, presumably to hunt. We turned around and tried to follow them up and over the hill, predicting where their path would lead them, but they didn’t re-materialise. We wait again while the sun goes down, trying to get signal, but give up and return to the lions.
+
+The light faded fast, but we could see the lions resting nearby; male and female. I also caught a glimpse of the younger female, she was standing up, staring at something in the distance. Suddenly a dog call, an alarm, "the dogs are here", Kelsey said, and they’d bumped the lions. The young lion must have been watching them, and in the dim light I saw her give chase; the speed and power of her sprint, the transformation from a slumbering lazy cat was staggering, it made my nerves tingle. I was nervous for the dogs too. We reversed and turned quickly, trying to follow the chase, scanning at the same time for fire and feather, checking signals. We heard a roar, and a few more dog calls, but had no visuals. The moment quietened, and we paused, finally we picked up signals again; the dogs were back at the den, we wouldn’t know if any had been injured.
+
+That night we cooked up our second braai; Jannes was in charge of the fire, and his cunning fire-making skills almost created the biggest fire the braai pit had ever had. Thankfully it didn't catch the tree above, and the food it cooked was mighty tasty.
+
+## Day 12 – Stalking lions in the rain
+
+## Day 13 – Frustrating dogs, distant cats
+
+## Day 14 – Time to go
 
 
 ## Species spotted
@@ -422,7 +512,7 @@ We rushed up and over the hill on okhulho loop and tried to follow their signal.
 * Cape vulture
 * Common fiscal
 * Common ringed plover
-* Crested guinefowl
+* Crested guineafowl
 * Crowned hornbill
 * Crowned lapwing (plover)
 * Dark-capped (black-eyed) bulbul
@@ -455,8 +545,10 @@ We rushed up and over the hill on okhulho loop and tried to follow their signal.
 * Speckled mousebird
 * Tawny eagle
 * Trumpeter hornbill
+* Wahlberg’s eagle
 * White-backed mousebird
 * White-backed vulture
+* White-bellied sunbird
 * White-fronted bee-eater
 * Woolly-necked stork
 * Yellow-billed kite
@@ -467,3 +559,5 @@ We rushed up and over the hill on okhulho loop and tried to follow their signal.
 * Terrapin
 * Bark scorpion
 * Millipede
+* Spider colony
+* Spider-wasp
