@@ -497,8 +497,36 @@ Some friendly vets were visiting camp when we returned, but most of us were too 
 
 ## Day 13 – Frustrating dogs, distant cats
 
+Our last full day in iMfolozi, we said goodbye to Kelsey and set out with Cole and Christina in search of Brodie’s pack. It started as normal, we arrived at the den site, the dogs were there somewhere and we waited. Eventually the signal was moving, but then we lost it, the signal disappeared. Cole questioned the telemetry – which is on its last legs. We drove up and down the road, scanning, stopping, scanning again. A signal near the hide perhaps, but there were no dogs at the hide. From the hide we got another reading – the signal pointed to a valley. There they must’ve been hunting – some impala were running scared. There too we waited. And waited. The dogs had left their den, gone the long way around the hill – avoiding crossing a road where we’d see them, and avoiding the hide, and headed down into some impenetrable drainage area to hunt.
+
+3 hours after we arrived at the den, a sighting; I saw a single dog cross the road behind us. Perhaps the rest would follow? It was Brodie that crossed, she was heading back to the den – presumably to feed her pups. But the pack didn’t follow, and the collared dog stayed down in the valley. We waited again, and waited some more. The signal moved, and then disappeared. They were leaving the same way they’d arrived, taking the long route around the hill and avoiding the roads; they did stop at the hide for a drink, but we weren’t there to see it. Some tourists showed us their photos. After 5 hours we’d seen one dog and we were happy to have our coffee break.
+
+### Distant cats
+
+We didn’t stop, some lions that hadn’t been seen in a while were reportedly on a hillside, having returned from the wilderness. These were easy to find, 8 small yellow bodies lying on a distant hill; some yawned, some shook their tails, mostly they slept. We strained with cameras and binos to see branding marks to ID them without much luck.
+
+Our evening session had the same priority; no dogs tonight – we needed to find out who these cats were. There were 3 males to ID, and several females. We parked in the same place and waited for them to move. Meanwhile Philippine made up games to play; “What would you rather be?”; and we crafted Jannes’s words into poetry – it was a long evening. A helicopter flew by, waving with its rotors, a highlight. The sunset was gorgeous, and the views across the park were spectacular; I wish I could have taken more landscape photos, but that would involve getting down off the vehicle.
+
+We were ready to go when the lions stood up. They came down off the hill and right to us. They walked in single file and we used the red lamp to illuminate them. One by one they crossed the road in front of us. Females first, then males; including one terribly ill lion, a sobering sight – this once powerful creature was now reduced to skin and bone – every major bone could be seen, skin hung from him, so close to death. He had tuberculosis, probably picked up from buffalo in the park.
+
+Our last meal used up whatever was left; fish fingers, sweet potato and fries – well, we tried to make fries. We par-boiled, then we oven cooked, and when that failed we fried, still they didn't crisp-up. Bloody canola oil. Potato done 3 ways.
+
 ## Day 14 – Time to go
 
+I got up at 5am and packed, before heading down to the rock one last time. With Christina and Jannes I watched the sunrise. Below us the dawn chorus began. We had eggs and bacon, tidied our rooms, changed bedding, and soon it was time to go. We scanned for dogs on the way out, none of them showed up, but they all had strong short range signals, an electronic wave goodbye.
+
+My group was now going separate ways; Claire to the Seychelles; Philippine and Feline to Mkhuze, Jannes to Zululand Rhino Reserve, and me to Tembe Elephant Park. I was incredibly sad to leave them, such a fantastic group, with a brilliant monitor, Kelsey. So funny, clever and interesting. And so many moments where we cried with laughter (the ice cream, the helicopter, the elephant video, the dog poo). 2 weeks I’ll treasure.
+
+I’ll leave you with this:
+
+{% note %}
+__iMfolozi, by Jannes__
+
+The stones are round
+The trees are upside down
+The clouds are really fast
+Real Africa
+Real Conservation{% endnote %}
 
 ## Species spotted
 
