@@ -3,8 +3,10 @@ subtitle: '4 weeks volunteering in Seychelles with WildlifeAct'
 tags:
   - seychelles
   - africa
-  - widlife
+  - wildlife
   - north-island
+  - wildlife-act
+  - volunteering
 date: 2016-08-27
 pages: 5
 page: 1
