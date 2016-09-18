@@ -15,6 +15,10 @@ page: 1
 
 For 8 weeks, following my [4 weeks volunteering in Seychelles](/2016/08/north-island-seychelles/), I travelled to South Africa to join WildlifeAct’s “[Endangered Species Conservation](http://wildlifeact.com/volunteer/south-africa/endangered-species-conservation/)” projects. Every two weeks I'd be on a different game reserve, the first of these was [Hluhluwe–iMfolozi Park](https://en.wikipedia.org/wiki/Hluhluwe%E2%80%93Imfolozi_Park) (HIP). _Hluhluwe_ is pronounced roughly as "shu-shlu-way", with a bit of a slur.
 
+{% figure imfolozi-scanning-from-mpila-hill-2.jpg landscape %}
+Scanning for wildlife on Mpila hill
+{% endfigure %}
+
 WildlifeAct volunteer groups are a maximum of 5 people; me, a young German guy – Jannes, a kiwi who’s been travelling around southern Africa – Claire, a Parisienne that hates Paris – Philippine, and a Dutch girl – Feline. We’d ride together on the back of the WildlifeAct truck, live together, and cook for each other. Our monitor was Kelsey – a lively and outspoken South African from the cape. We also met "Zulu warrior" Marumo, who picked us up, took us shopping and showed us the ropes before leaving for [Somkhanda](http://africaninsight.co.za/somkhanda-game-reserve/).
 
 {% figure imfolozi-group.jpg landscape %}
@@ -31,7 +35,11 @@ We met Marumo and the pristine white WildlifeAct truck at Phumula Lodge, and bef
 
 The drive from Phumula Lodge to the camp was a further 1h30, from the corridor road we turned off and entered through Nyalazi gate. It was 6pm, the sunset was a dazzling red, and on the horizon Jupiter and Venus could be seen above the distant hills. It wasn’t long before we got our first wildlife sightings. By the gate we saw our first white rhino, with calf, then another, and another, then elephants. Marumo drove quickly, from the tarmac roads to the dirt ones, and onwards, the wind blew through us, and the evening turned chilly, she slowed for impala and rabbits in the road; a hyena crossed in front of us. We arrived, I hopped out and opened the gate. Home for the next two weeks.
 
-## WildlifeAct volunteer camp
+## Wildlife Act volunteer camp
+
+{% figure imfolozi-camp.jpg landscape %}
+Wildlife Act volunteer camp
+{% endfigure %}
 
 Our camp is basic but it has everything we need, well, most of the time.
 
@@ -41,11 +49,23 @@ Power comes from a generator between certain hours, outside those we can use sol
 
 The region is experiencing a drought, there’s not much, if any, water. When we arrived the water stopped. Rather than clear liquid flowing from the taps, we had a muddy thick substance that looked like hot chocolate, it clogged up the hot water, the toilets and the showers, each needed fixing. But we coped fine; we filled containers from _jojo_ bins that had collected rainwater, we showered from buckets, we flushed _occasionally_.
 
+{% figure imfolozi-camp-rooms.jpg landscape %}
+Bedrooms at camp
+{% endfigure %}
+
+{% figure imfolozi-camp-kitchen.jpg landscape %}
+Kitchen at camp
+{% endfigure %}
+
 ## Day 1 – Telemetry and lions
 
 It’s the beginning of spring, which brings with it cold early mornings and scorching hot afternoons. Our stonewalled rooms have no ceiling fans or air conditioning. After my first sweaty night beneath a mosquito net, and after seeing the morning light poke through the glass doors, I got up at 7am and we began our day of training. 7am would turn out to be a lie-in.
 
 The views from camp are astounding. Beyond the wire fence and trees lies a lookout point. From a precarious rock we can see out across the dry Black Umfolozi riverbed, the view stretches from the river, past the trees and out to the distant hills beyond. "You can come down here during the day, but never at night", Kelsey warns us. Dangerous creatures have been known to come up here. The rock resembles one from a movie, all we needed was a baboon to hold up a baby lion and some music playing "Circle of life".
+
+{% figure imfolozi-morning-at-the-rock.jpg landscape %}
+Morning at the rock
+{% endfigure %}
 
 {% figure imfolozi-view-from-camp.jpg landscape %}
 The view from camp
@@ -55,6 +75,10 @@ We were shown a WildlifeAct video introduction, we had a project intro by monito
 
 ### Telemetry
 
+{% figure imfolozi-telemetry.jpg landscape %}
+Telemetry equipment
+{% endfigure %}
+
 Maruma took us out to teach us how to use the radio telemetry. For each session one of us would be in charge of the radio and aerial, which we use to search for collar signals and to pinpoint the locations of animals. Cheetah, painted dogs, lions and elephants are collared at iMfolozi.
 
 On the radio we turn up the gain to full, turn up the volume and select a named channel to scan for; such as CM19 – a male cheetah; HIP636 – a pride of lions; Fire – a painted dog. With the radio configured we stand on the truck’s seats, hold the antenna up high and begin rotating.
@@ -62,6 +86,10 @@ On the radio we turn up the gain to full, turn up the volume and select a named 
 Holding the antenna vertically does a long range scan, covering about 5km in each direction. We turn it around 360 and hope to hear a beeping signal. If we do, and it’s strong enough, we can switch to short range and begin checking the radio for bars of strength. A slow beep tells us the animal is resting, the faster the beep the more active they are – it’s incredibly useful to know if something is on the move.
 
 Pinpointing the exact location is tricky; when a rough direction is known we flick the aerial between different clock points; 12pm, 6pm, 3pm, 9pm, comparing beeps and bars to work out which is loudest and clearest.
+
+{% figure imfolozi-jannes-learning-to-scan.jpg landscape %}
+Jannes learning to use telemetry
+{% endfigure %}
 
 There’s some gotchas with all this. Sometimes we pickup back-signal, a strong signal in the opposite direction; sometimes the animal is a long way away but on the top of a hill, so the signal is strong, at other times we might lose the signal because the animal is close but in a deep valley. We use Kelsey’s expertise to know which is which, and she drives based on our best guesses, then we try again.
 
