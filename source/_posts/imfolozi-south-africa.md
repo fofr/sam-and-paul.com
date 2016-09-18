@@ -29,9 +29,9 @@ Each of the reserves are in the East of South Africa, in the [KwaZulu-Natal](htt
 
 ## Entering iMfolozi
 
-On Monday, from Richard’s Bay airport where many volunteers had just arrived, and from Fish Eagle Inn – a small hotel with lots of dogs that I'd stopped overnight at, the 5 of us, plus WildlifeAct rep’ Tarryn, drove North in an Igula Tours van. We  past the paper and timber farms, up to iMfolozi.
+On Monday, from Richard’s Bay airport where many volunteers had just arrived, and from Fish Eagle Inn – a small hotel with lots of dogs that I'd stopped overnight at, the 5 of us, plus WildlifeAct rep’ Tarryn, drove North in an Igula Tours van. We passed the paper and timber farms, up to iMfolozi.
 
-We met Marumo and the pristine white WildlifeAct truck at Phumula Lodge, and before heading to camp we needed to buy our week’s food. At Pick n’ Pay we filled a trolley with potatoes, apples, rice, oranges, bananas, venison, cereal and so on, oh and some last minute beer, that turned out to be non-alcoholic. Buying enough food for 6, for a week, and not knowing what each other likes, was our first challenge.
+We met Marumo and the clean white WildlifeAct truck at Phumula Lodge, but before heading to camp we needed to buy our week’s food. At Pick n’ Pay we filled a trolley with potatoes, apples, rice, oranges, bananas, venison, cereal and so on, oh and some last minute beer, beer that turned out to be non-alcoholic. Buying enough food for 6, for a week, and not knowing what each other likes, was our first challenge.
 
 The drive from Phumula Lodge to the camp was a further 1h30, from the corridor road we turned off and entered through Nyalazi gate. It was 6pm, the sunset was a dazzling red, and on the horizon Jupiter and Venus could be seen above the distant hills. It wasn’t long before we got our first wildlife sightings. By the gate we saw our first white rhino, with calf, then another, and another, then elephants. Marumo drove quickly, from the tarmac roads to the dirt ones, and onwards, the wind blew through us, and the evening turned chilly, she slowed for impala and rabbits in the road; a hyena crossed in front of us. We arrived, I hopped out and opened the gate. Home for the next two weeks.
 
@@ -41,13 +41,13 @@ The drive from Phumula Lodge to the camp was a further 1h30, from the corridor r
 Wildlife Act volunteer camp
 {% endfigure %}
 
-Our camp is basic but it has everything we need, well, most of the time.
+The camp is basic but it had everything we needed, well, most of the time.
 
-There's a room for guys, a room for gals a spare room and the monitor’s room. Between them is our kitchen, with a gas stove, two sinks, some shelves, and a couple of fridges and freezers. Outside there are two showers; lockable rooms surrounded in corrugated iron each with a hose pipe tied to the roof – it works. There’s two toilets, but only one works. There’s some outdoor decking, it’s shaded and it’s where we sit on green plastic garden furniture to eat our dinners.
+There's a room for guys, a room for gals, a spare room and the monitor’s room. Between them is our kitchen, with a gas stove, two sinks, some shelves, and a couple of fridges and freezers. Outside there are two showers; lockable rooms surrounded in corrugated iron each with a hose pipe tied to the roof – it works. There’s two toilets, but only one works. There’s some outdoor decking, it’s shaded and it’s where we sit on green plastic garden furniture to eat our dinners.
 
 Power comes from a generator between certain hours, outside those we can use solar, or a battery charged from solar. Some appliances don't work on solar, like kettles and toasters. Sometimes the generator doesn’t kick-on, and most of the time we leave camp before it’s due to. Often the solar battery is drained and there’s no power, which means getting dressed in the dark and using torches to check for snakes and scorpions.
 
-The region is experiencing a drought, there’s not much, if any, water. When we arrived the water stopped. Rather than clear liquid flowing from the taps, we had a muddy thick substance that looked like hot chocolate, it clogged up the hot water, the toilets and the showers, each needed fixing. But we coped fine; we filled containers from _jojo_ bins that had collected rainwater, we showered from buckets, we flushed _occasionally_.
+The region is experiencing a drought, there’s not much, if any, water. When we arrived the water stopped. Rather than clear liquid flowing from the taps, we had a muddy thick substance that looked like hot chocolate, it clogged up the hot water, the toilets and the showers, each needed fixing. But we coped fine; we filled containers from _jojo_ bins that had collected rainwater, we showered from buckets, we flushed _occasionally_. Real Africa, real conservation; as they say.
 
 {% figure imfolozi-camp-rooms.jpg landscape %}
 Bedrooms at camp
@@ -71,7 +71,9 @@ Morning at the rock
 The view from camp
 {% endfigure %}
 
-We were shown a WildlifeAct video introduction, we had a project intro by monitor Kelsey, and were told about the emergency procedures. There’s a volunteer phone which can be used to call emergency 24hour support – we can give them GPS co-ordinates and a chopper will arrive as fast as it can, just in case our monitor, Kelsey, is unavailable, say she was killed by a lion, or trampled by a rhino. We had some other sound advice; if you find yourself face to face with a rhino, climb a tree; if it’s a lion don’t run, you need to stand your ground and stare it down; if it’s a hyena you better not be sleeping, it'll think you’re dead and begin feeding; steer well clear of elephants and buffalo. Always shut the kitchen doors. Some volunteers left it open, a hyena got in and it trashed the place, including chewing off the fridge doors.
+We were shown a WildlifeAct video introduction, we had a project intro by monitor Kelsey, and were told about the emergency procedures. There’s a volunteer phone which can be used to call emergency 24hour support – we can give them GPS co-ordinates and a chopper will arrive as fast as it can, just in case our monitor, Kelsey, is unavailable, say she was killed by a lion, or trampled by a rhino.
+
+We had some other sound advice; if you find yourself face to face with a rhino, climb a tree; if it’s a lion don’t run, you need to stand your ground and stare it down; if it’s a hyena you better not be sleeping, it'll think you’re dead and begin feeding; steer well clear of elephants and buffalo. Always shut the kitchen doors. Some volunteers left it open, a hyena got in and it trashed the place, including chewing off the fridge doors.
 
 ### Telemetry
 
@@ -101,7 +103,7 @@ When we see cheetah, black rhino, lions, painted dogs or elephants, we note our 
 
 With the training under our belt (we located an unused collar at camp), we set off to find some real animals. We honed in on a signal from a pride of lions and Maruma drove in their direction. From the top of the hill we could see a gathering of vehicles below, the telemetry pointed there too; this would be an easy first find.
 
-Sure enough, beneath the shade of an umbrella acacia tree, was a pride of lions. Two males and four females, quietly sleeping in the morning sun. But this visit was not without a little drama – two tour groups had arrived with us, and another car, which had been watching them with their air-con on and the engine off had drained their battery. In-front of the lions the tour guides were attempting to jumpstart the 4x4, without much success. The noise the tourists made alarmed the lions and they soon left. We did too, escaping the burning sun for the shade at camp.
+Sure enough, beneath the shade of an umbrella acacia tree, was a pride of lions. Two males and four females, quietly sleeping in the morning sun. But this visit was not without a little drama – two tour groups had arrived with us, and another car, which had been watching them with their air-con on and the engine off had drained their battery. In-front of the lions the tour guides were attempting to jumpstart the 4x4, without much success. The noise alarmed the lions and they soon left. We did too, escaping the burning sun for the shade at camp.
 
 {% figure imfolozi-first-lion.jpg landscape %}
 Our first lion sighting
