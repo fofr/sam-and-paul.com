@@ -36,47 +36,47 @@ We also get the odd herd of nyala antelope passing through. They don’t mind us
 
 We left Zululand Rhino Reserve early, and got to Tembe by 10am. Leo greeted us and showed us to our rooms. Hayden was out on patrol with two vets, trying to find a wild dog.
 
-A pack of wild dogs had been consistently escaping the reserve. Fences built on sand are not difficult to circumvent if you’re a pack of dogs that loves to dig, especially when there’s incentive to get out and find food because lions are dominating all the top hunting areas. When they escape they cause havoc, attacking livestock – the park has had to pay out compensation, and the community has had enough; the dogs must go.
+A pack of wild dogs had been consistently escaping the reserve. Fences built on sand are not difficult to circumvent if you’re a pack of dogs that loves to dig, especially when there’s incentive to get out and find food because lions are dominating all the top hunting areas. When they escape they cause problems in the community, with reports of livestock deaths – the park has had to pay out compensation, and the community has had enough; the dogs must go.
 
-Cue a project to catch the entire dog pack and move them out to another park, probably one in Botswana. But catching wild dogs isn't easy, even if one of them is collared and can be tracked.
+Cue a project to catch the entire dog pack and move them out to another park, probably one in Botswana. But catching wild dogs isn't easy, even if one of them is collared and can be tracked. It certainly can't be done in 3 days, the original timeframe.
 
 A call-up is what parks do to catch game; a bait is set, the scent is spread and some dying animal noise is played – "calling up" the wild animals so they can be darted.
 
 Before we arrived one of the dogs had been caught, and when the last volunteer group were here they used nets in a call-up to catch three more – though the collared dog, Elsa, needed to be released so she could rejoin the pack and they could be tracked. All but one of the dogs was then caught the night before we arrived; 5 dogs were now in the [boma](https://en.wikipedia.org/wiki/Boma_(enclosure&#41;), and only the collared dog Elsa was still in the park.
 
-This even included a single puppy. The dogs had been denning, but weren’t successful, I don't know why, and all but one of the new pups had died. The puppy was caught by hand by one of the vets. Hayden was out when we arrived trying to dart Elsa while the vets were around, but they couldn’t find her signal on the telemetry. The vets were staying in one of the cabins, just for one more night.
+This even included a single puppy. The dogs had been denning, but weren’t successful, I don't know why, and all but one of the new pups had died. The puppy was caught by hand by one of the vets. Hayden was out when we arrived trying to dart the last dog, Elsa the collared one; he wanted to finish the job while the vets were around. Elsa didn’t play ball, her signal couldn’t be found and no darts were fired. The vets were staying in one of the cabins, they had one more night to try.
 
-This dog project played an integral part in our volunteer duties; we'd visit them every morning and night to check on them, to check that they hadn’t escaped, that there were so signs of attempt, to check that holes they’d dug were filled in, and to try and habitualise the dogs, both in and out of the boma, to further call-ups – by providing bait which had no negative consequence for them.
+This dog project played an integral part in our volunteer duties; we'd visit them every morning and night to check on them, to check that they hadn’t escaped, that there were so signs of an escape attempt, to check that holes they’d dug were filled in, and to try and habitualise the dogs, both in and out of the boma, to further call-ups – by providing bait which had no negative consequence for them. This would make catching Elsa easier and when it came to transfer day, the dogs in the boma could be more easily darted.
 
-Hayden arrived and introduced himself, he looked tired; these guys are all working extremely hard to sort out these dogs. There’s an unused leg of nyala in the truck.
+Hayden arrived and introduced himself, he looked tired; these guys are all working extremely hard to sort out these dogs. There was an unused leg of nyala in the truck.
 
 ### Elephant session with Leo
 
 Leo took us out at 11am for our first Tembe session. We travelled at snail’s pace, stuck behind a driver struggling with his 4x4 in the sand. He turns left, we speed up and search for elephants.
 
-We find our first elephant bull standing besides the road, nonchalantly pulling branches off a tree. We stopped close; in iMfolozi I’d have been worried, but the elephants here are different, they seem, on the whole, calmer and of a nicer disposition. It also helped being with Leo, who knows each of the elephants, like how grumpy or curious they can be.
+We find our first elephant bull standing besides the road, nonchalantly pulling branches off a tree. We stopped close; in iMfolozi I’d have been worried, but the elephants here are different, they seem, on the whole, calmer and of a nicer disposition. It also helped being with Leo, he knows the elephants, he knows how grumpy or curious they can be. We pass him and continue to the hide.
 
-We stop at Mahlasela hide, it looks out over a natural waterhole that’s artificially pumped with water during this drought. It’s [streamed live on a web cam](http://tembe.co.za/web-cam/). There are elephant bulls drinking and frolicking in the mud, small herds of nyala cautiously approach to try and drink safely, storks hang around at the edges. On our way out we pass the elephant bull again, and group of giraffe who all stare at us inquisitively.
+Mahlasela hide looks over a natural waterhole that’s artificially pumped with water during drought. It’s [streamed live on a web cam](http://tembe.co.za/web-cam/). There are elephant bulls drinking and frolicking in the mud, small herds of nyala cautiously approach to try and drink safely, storks hang around at the edges. On our way out we pass the elephant bull again, and a group of young giraffe who stare at us inquisitively.
 
 ### Collaring a lion
 
-When we arrived Hayden said there’d be a lion call-up tonight. For a lion call-up you need a covered vehicle – lions mustn’t associate humans with food – that way people die and lions get shot. Hayden was trying to get us one. I was nervous it wouldn’t happen, or that we’d miss it; we missed out on a similar one in iMfolozi for those reasons, I tried to keep my expectations in check. But by the evening everything was sorted and the call-up was on. It’d be all 5 of us, our monitor Hayden, Leo, a vet and two trainee vets.
+When we arrived Hayden said there’d be a lion call-up tonight. For a lion call-up you need a covered vehicle – lions mustn’t associate humans with food – that way people die and lions get shot. Hayden was trying to get us one. I was nervous it wouldn’t happen, or that we’d miss it; we missed out on a similar one in iMfolozi for those reasons, I tried to keep my expectations in check. By the evening everything was sorted and the call-up was on. It’d be all 5 of us, our monitor Hayden, Leo, a vet and two trainee vets.
 
 The lions were seen near the hide; we would set up the bait nearby and wait in the hide until the lions had fed and been darted, then we’d go down and watch the vets do their thing. That’s if the lions took the bait and all went to plan.
 
-The bait was a dead male nyala. It’s lucky none of us were vegetarian. This got a bit grim. From the back of the truck we dragged out the carcass and tied it to a pole with chains. Two metal screens were put up on either side, forcing any feeding animal to look away from the trucks, which makes darting them easier. To spread the scent Hayden gutted the nyala, tied the guts into a neat ball, chained them to a truck and dragged them around the roads near the hide; this would hopefully tempt the lions in.
+The bait was a dead male nyala. It’s lucky none of us were vegetarian. This got a bit grim. From the back of the truck we dragged out the carcass and tied it to a pole with chains. Two metal screens were put up on either side, forcing any feeding animal to look away from the trucks – it makes darting them easier and safer. To spread the scent Hayden gutted the nyala, tied the guts into a neat ball, chained them to a truck and dragged them around the roads near the hide; this would hopefully tempt the lions in. Quite the first impression.
 
 Leo stood guard with his rifle; getting off the truck is dangerous, and when people are on the ground working someone needs to be on lookout. We scanned for lions with the telemetry to double check none were close.
 
-With the bait ready Leo got out his homebrew speakers which we hooked up to the car battery. It would play some very loud noises of a dying wildebeest. We left for the hide to wait, and we heard the whining painful noise as it blasted out.
+With the bait ready Leo got out his homebrew speakers which we hooked up to the car battery. It would play some very loud noises of a dying wildebeest. We left for the hide.
 
-3 hours we waited; day turned to night, animals came and went from the water’s edge. The night was warm, and the hide was comfortable. Without warning three lions appeared; a female and two sub adult males. Every 40 minutes or so the dying wildebeest track is paused; it stops so vets can have a break from the audio torment, right now it wasn’t playing. Leo radios in, and the track kicks back on. All three lions look up, stop what they’re doing, and leave; they know this means an easy meal and they leave on a mission. From the hide we wait patiently, we need the lions to take the bait, one needs to be darted and the others need to flee to a safe distance.
+3 hours we waited; day turned to night, animals came and went. The night was warm, and the hide was comfortable.  The whining painful noise of the dying wildebeest blasted out, it died over and over again. Without warning three lions appeared; a female and two sub adult males. Every 40 minutes or so the dying wildebeest track gets paused; it stops so vets can have a break from the audio torment, right now it wasn’t playing. Leo radios in, and the track kicks back on - the wildebeest is dying again. All three lions look up, they stop what they’re doing, and leave; they know this means an easy meal and they leave on a mission. From the hide we wait patiently, we need the lions to take the bait, one needs to be darted and the others need to flee.
 
-A radio call; a sub adult male has been darted. We’re on our way. We rush back to the truck and clamber in, now we’re back at the bait site, pulled-up alongside the trainee vets. One sub-adult male was darted, but we can’t begin because the other lions are back; Hayden and the vet are nearby.
+A radio call; a sub adult was darted. We’re on our way. We rush back to the truck and clamber in, now we’re back at the bait site, pulled-up alongside the trainee vets, engines off, lights off. One sub-adult male was darted, but we can’t begin because the other lions came back; Hayden and the vet are nearby.
 
 In the dark of the truck we wait nervously, windows open. There’s a flash, another dart shot; through the trees we see only the headlamps and brake-lights. What’s happening? Then a radio; success, two sub-adult lions darted, the female mother has fled.
 
-It takes 10 minutes for the sedative to take affect. Leo and the trainee vets bring the sleeping lions to us on the back of a truck. We’re in a wide open space, no animals can ambush us here. With the two lions on the ground, their eyes covered with a cloth, we drive the three trucks around them, boxing them and us in for safety. Lights on, engines running; if anything comes our way we can make a speedy getaway.
+It takes 10 minutes for the sedative to take affect. Leo and the trainee vets bring the sleeping lions over on the back of a truck. We’re in a wide open space, no animals can ambush us here. With the two lions on the ground, their eyes covered by a cloth, we drive all three trucks around them, boxing them and us in  – for safety. Lights on, engines running; if anything comes our way we can make a speedy getaway.
 
 Time to act; against the whirr of the diesel engines and under flashlight the vets begin. We get out and watch. At any time two of us keep lookout, rotating high powered beams, inspecting bushes for cat’s eyes, listening out for elephants. Leo clutches his rifle. Meanwhile the vets administer antidotes for the dart sedatives, they take blood and hair samples to test for diseases, check the cats’ health, and prepare a collar. Every now and then a vet taps each lion’s ears, looking for reflex responses, making sure they aren’t waking up.
 
@@ -84,13 +84,51 @@ The lions are huge, their paws as big as my head, their body’s weigh over 200k
 
 "The mother is watching us", in the bushes a set of cat’s eyes. She’s hanging around, clearly concerned for her sons, but she doesn’t approach. It’s unnerving to be standing in the dark knowing there’s an anxious lion watching you. But the work is wrapping up.
 
-The collaring took half an hour; now one sub adult male has a GPS store-onboard collar, which also emits a VHF radio _beep_; we can track this pride’s movement and find them with telemetry. Job done.
-
-We head for home, its been a long but incredible day. Hayden and the vet stay with the lions; to make sure nothing happens while they sleep, and that they wake safely. In the morning we’d try and track them.
+The collaring took half an hour; now one sub adult male has a GPS store-onboard collar, which also emits a VHF radio _beep_; we can track this pride’s movement and find them with telemetry. Job done. We head for home, its been a long but incredible day. Hayden and the vet stay with the lions; to make sure nothing happens while they sleep, and that they wake safely. In the morning we’d try and track them.
 
 ## Day 2 - Our first trip to the boma
 
+On an overcast morning the focus returns to dogs. The vets and Hayden go out early, one last attempt to find and dart Elsa – the whole pack would be in the boma. But she’s elusive again, she hides and now the vets need to leave.
+
+### Frisky bulls and peat bog
+
+Our first session of the day was with Leo; our first stop is the hide. A different scene now – a mass gathering of male bulls around the water. They’re playing, drinking, bathing, spraying mud over themselves with a flick of their trunks. The nyala are still here, storks too, some duiker brave the trip to quench their thirst, and some aggressive little Egyptian geese fight anything that enters their territory.
+
+A particularly large bull is feeling frisky, and he seems to like another male that’s here too – he gets the wrong idea and gives chase, looking to mate. The small bull flees, doing everything he can to indicate that he too is a male (I'll leave that to your imagination). They perform this odd dance, as one tries to mount, the other rotates, both escaping and demonstrating.
+
+We leave the bulls and continue on our tour of the park. A black-chested snake eagle flies across in front of us, then a purple-crested turaco nips by – its mohican clearly visible. In front a yellow-throated longclaw makes us wait.
+
+Tembe has a peat bog; over thousands of years layers of mud have formed, "1mm per year" Leo tells us. It's a protected and rare habitat, infuriatingly it’s on fire. It’s been on fire for over a year. The fire wasn’t intentional – something burning outside the park spread to the bog, and from there it’s never been put out. When it was small enough to douse, not enough was done. The smell of burning peat, a little like burnt clutch, fills this part of the park. At times the smokes gets so thick you can’t drive through it.
+
+Animals still graze here; some of Tembe’s few grazers can be found near the bog – we see a pair of zebra, one ready to "drop" a foal; and a herd of buffalo.
+
+As we travel through the park we pass herds and herds of nyala. They’re everywhere and there’s too many. At least a sixth of the population must be culled. Elephants clear out the sand forest, keeping the forest sparse and letting plants grow anew – it’s an important process. However when they’ve left the nyala come in, and they finish the place off; chewing away all the undergrowth that the endangered suni need for cover.
+
+That said, we never really tired of seeing nyala. They are gorgeous animals; the male and female so starkly different – one dark brown with horns, the other tawny, both with a pretty band of white across their nose, the females with white stripes on their backs – like icing dribbled over a cake.
+
+Against the overcast skies the springtime yellow and green sand forest is picturesque. On the sandy roads we pass timid grey and red duiker, then slow when we find an elephant. It’s a breeding herd.
+
+Being besides a breeding herd is more perilous than a single elephant. Without warning you can be boxed in, with elephants blocking all exits – in those situations you need to wait it out; then all it takes is one curious or angry elephant and you and the truck are done for. Of course the females are with young too, an extra reason for them to get upset.
+
+As the herd pass us, moving in front and behind, at times just a few metres away, we stay extra quiet. We mustn’t make ourselves big – no GoPro selfie sticks pointing out of the vehicle – it might be interpreted as a sign of aggression. Camera’s mustn’t beep, they don’t like the artifical sounds. We try not to move, and we duck down in the back, keeping ourselves small to avoid giving any wrong impression.
+
+Over half an hour the herd passes us without incident, mothers and calves looking at us then continuing, an exhilarating if not frightening experience.
+
+### To the boma
+
+At 4pm we had our first session with Hayden. Like iMfolozi, he showed us [how to use the telemetry](/2016/09/imfolozi-south-africa/#Telemetry). We use the radio, one that’s significantly better than iMfolozi’s, to find locations for collared lions; Kampa, Nyanga and our newly collared boy – M90. We find signals quickly, and that’s enough to confirm they’re all in the park.
+
+At the site of the lion call up the dead nyala still rests. Chained to the metal fences it’s been nibbled at by the lions, they must have come back – a good sign that the experience hasn’t negatively influenced them. There’s still meat left, we leave it a while longer. Flies are already everywhere.
+
+Now our first trip to the wild dog boma. The first of many. The boma is the size of a small football pitch, it’s divided into two and surrounded by a metal fence. Lining the inside and outside are electric fences – protecting what’s inside from elephants, preventing what’s inside from getting out. Well, supposedly. There are two gates to drive in, each with an airlock like system to stop anything escaping.
+
+When we arrive all 5 adults are in their half of the boma, but the puppy has escaped to the other side. Being so small it can simply pass through the holes in the gate. It runs left and right, moving awkwardly, its back left leg damaged somehow. In the boma it should have time to rest, if only it would stay in one place.
+
+We perform laps of the boma, driving round to check for holes and fence damage then return home; I cook us all a shepherd’s pie and we call it a night.
+
 ## Day 3 - Boma, boma, boma
+
+If Hayden looked worried when we couldn’t find the puppy last night, then today his look was one of despair; when we arrived at the boma to check on the dogs we found that the puppy had escaped. Overnight the electrics had gone down, giving the pup enough time to squeeze through two gates and hop two layers of electric fence.
 
 ## Day 4 - Lion cubs at sunrise
 
