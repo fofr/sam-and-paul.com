@@ -34,7 +34,6 @@ hexo.extend.tag.register('figure', function(args, content) {
 
   var image_dir = hexo.config.image_dir,
       render = hexo.render,
-      html = '',
       image = args[0],
       orientation = args[1],
       directory = typeof args[2] === "undefined" ? "1240" : args[2],
@@ -49,12 +48,5 @@ hexo.extend.tag.register('figure', function(args, content) {
     directory = directory + '/';
   }
 
-  // No full res images uploaded yet
-  if (image.indexOf('imfolozi') !== -1) {
-    html = '<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--'+ orientation +'"><img src="' + image_dir + directory + image +'" alt="'+ caption +'"><figcaption class="generated-figure-caption">'+ renderedCaption +'</figcaption></figure>';
-  } else {
-    html = '<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--'+ orientation +'"><a href="' + image_dir + image +'"><img src="' + image_dir + directory + image +'" alt="'+ caption +'"></a><figcaption class="generated-figure-caption">'+ renderedCaption +'</figcaption></figure>'
-  }
-
-  return html;
+  return '<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--'+ orientation +'"><a href="' + image_dir + image +'"><img src="' + image_dir + directory + image +'" alt="'+ caption +'"></a><figcaption class="generated-figure-caption">'+ renderedCaption +'</figcaption></figure>';
 }, {ends: true});
