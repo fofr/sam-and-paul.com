@@ -44,3 +44,9 @@ if (is_archive()){
   if (nextPage) {
 %><link rel="prefetch" href="<%= nextPage %>" />
 <link rel="prefetch" href="<%= nextPageBackground(page) %>" /><% } %>
+<% if (page.layout == 'video') { %>
+  <meta content="<%= page.permalink %>" property="og:url" />
+  <meta content="<%= page.title %>" property="og:title" />
+  <meta content="Watch the video on sam-and-paul.com" property="og:description" />
+  <meta content="<%= config.image_dir %><%= page.video %>-poster.jpg" property="og:image" />
+<% } %>

@@ -1,4 +1,6 @@
-<% if (page.layout == 'page') { %>
+<% if (page.layout == 'video') { %>
+  <%- partial('_partial/video', {post: page}) %>
+<% } else if (page.layout == 'page') { %>
   <%- partial('_partial/page', {post: page}) %>
 <% } else { %>
   <%- partial('_partial/article', {post: page}) %>

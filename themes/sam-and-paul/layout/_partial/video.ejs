@@ -1,0 +1,12 @@
+<div class="rm">
+  <h1>
+    <%= post.title %>
+  </h1>
+  <%- partial('post/published') %>
+</div>
+<article class="article wrapper h-entry" role="main">
+  <div class="single-entry-content video-entry-content entry-content e-content">
+    <%- post.content %>
+  </div>
+  <%- partial('post/article-footer') %>
+</article>

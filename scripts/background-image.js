@@ -5,6 +5,8 @@ hexo.extend.helper.register('backgroundImage', function(page){
 
   if (page.layout == "post") {
     background = backgroundFromSlug(page.slug);
+  } else if (page.layout == "video") {
+    background = backgroundBase + 'video.jpg'
   } else {
     background = backgroundBase + 'songpan-china.jpg'
   }

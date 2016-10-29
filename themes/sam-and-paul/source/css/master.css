@@ -123,6 +123,20 @@ dfn[title] {
   text-align: center;
 }
 
+/* Hide visually, but keep available for screenreaders: by Jon Neal.
+www.webaim.org/techniques/css/invisiblecontent/  &  j.mp/visuallyhidden  &  h5bp.com/v*/
+.rm {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  z-index: -1;
+}
+
 .hide, [hidden] {
   display: none;
 }
@@ -156,7 +170,7 @@ body {
   font-size: 1em;
   line-height: 1.5em;  /* 16px/24px default */
   color: #fff;
-  background: #666; /*#74c9e9;*/ /*#678861;*/
+  background: #333; /*#74c9e9;*/ /*#678861;*/
 }
 
 body, textarea, .sans {
@@ -565,6 +579,15 @@ a.inherit {
   max-width: 580px;
 }
 
+.video-entry-content {
+  margin-top: 84px;
+}
+
+.video-entry-content video {
+  margin-top: -1px;
+  border-radius: 7px 7px 0 0;
+}
+
 /* Pages nestled on top of content */
 .pages + .single-entry-content {
   border-radius: 0;
@@ -802,7 +825,8 @@ article .meta li {
   border-top: 1px solid #ddd;
 }
 
-.generated-figure--620 img {
+.generated-figure--620 img,
+.generated-figure--620 video {
   width: 620px;
   max-width: 100%;
 }
