@@ -25,6 +25,20 @@ The reserve is called [Mkhuze](https://en.wikipedia.org/wiki/UMkhuze_Game_Reserv
 
 Wildlife Act provide wildlife monitoring services to the Mkhuze section, and it’s where Wildlife Act began; this is the first reserve, where Chris Kelly, one of the co-founders, used to monitor wild dogs. Of all the reserves, it was my favourite.
 
+Camp was basic, not as plush as Tembe, not as simple as iMfolozi. It’s unfenced, so any wild animal can walk through – that adds a little excitement to the place (some elephants came through, but only while we were out on session). There’s two bedrooms, one for girls, one for boys. The kitchen is tiny, and there’s a small indoor table to have dinner around. Besides it, a large magnetic map of the reserve and some half finished cheetah puzzles. There are some luxuries; there's a microwave, and the shower can hold its temperature. There’s a maid, Joyce, she cleans and makes our beds, and for a small fee will hand wash laundry. Outside there’s a big heart-shaped euphorbia where bush babies like to hang out at night.
+
+{% figure mkhuze-camp.jpg landscape %}
+Camp
+{% endfigure %}
+
+{% figure mkhuze-bedroom.jpg landscape %}
+Bedroom
+{% endfigure %}
+
+{% figure mkhuze-kitchen.jpg landscape %}
+Kitchen
+{% endfigure %}
+
 ## Day 1 – No rest for the conservationist
 
 From the onset we realised that Mkhuze was an intensely worked conversation project. Shortly after arriving at camp, suitcase barely down from the truck, we were back out again – our first session with PJ. All of us had come from other projects, all of us [knew how to scan](/2016/09/imfolozi-south-africa/#Telemetry), we knew the drill; we could dispense with the tutorials and get straight down to business.
