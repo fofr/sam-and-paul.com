@@ -11,13 +11,73 @@ pages: 9
 page: 1
 ---
 
-## Day 1
+## Day 1 - Getting started
 
-## Day 2
+I arrived at ZRR on Monday, after an epic morning in Mkhuze and the usual transfer day dance. It’s immediately very different to Mkhuze; the conservation here is less intense. Unlike Mkhuze where I’d be straight out on session before unpacking, here there would be no Monday evening session, and no Tuesday morning one either. There’d also be a lot more time at camp between sessions, which are shorter. It’s a relatively laid back reserve, with reason.
 
-## Day 3
+On Monday and Tuesday, the ZRR camp is used as an overnight stopover point for people travelling to Tembe, and occasionally elsewhere. Philippine (a friend from iMfolozi), and Melanie (a girl I’d met in St Lucia) were both overnighting before doing the long drive up to the Mozambique border, as I had done. Because they were here, we don’t go out.
 
-## Day 4
+From a monitoring perspective, ZRR is a private reserve – tourists can’t self drive and everyone is taken around on a safari vehicle. This means there’s always lots of guides covering the many roads; there’s lots of eyes on the wildlife all the time. Only the wild dogs (just the one pack) and a couple of elephants are collared; these are the only animals we can find with the telemetry. For lion, cheetah and leopard monitoring we rely on the sightings of guides, and these get noted in the datasheets following radio transmissions.
+
+Not going out on Monday did give us a chance to do something important; there was a horrible smell in the kitchen – the pungent odour of death – a dead rat. I cleared out the cupboards, searched high and low, and eventually found the poor critter beneath the sink. Using a long hooked tool, usually used for catching and removing snakes, I pulled it out and disposed of it. The kitchen would continue to smell for a few days, but this is the bush, and these things happen.
+
+At 7am the Tembe group left, I said farewell to Philippine again after she cooked me some tasty eggs; I was excited for her and her visit to Tembe. To fill the time before our morning presentation I tried to exercise, running around the camp for half an hour; after 6 weeks on a truck, with very little walking, finding time to keep in shape is essential.
+
+For the last time I watched the wildlife act introduction video, followed by presentations about ZRR; ZRR’s rhino dehorning programme – all the rhinos are dehorned, to protect them from poachers; it’s quite a drastic and stressful intervention – to deface these animals, but it keeps them safe. The reserve is comprised of 17 different landowners, and was originally many small reserves and farmland; in 2006 internal fences were dropped to create a single reserve, dedicated to the conservation of black and white rhino.
+
+All the reserves in KwaZulu-Natal are suffering from drought; ZRR especially, it’s the worst drought for over 60 years. The ground is bare, the trees empty. The herbivores have nothing to eat, they’re struggling to scrape together enough food to survive – many are scrawny, thin, their bones showing; impala’s ribs and pelvis show, elephants have curved indentations in their skulls – indicating poor condition, buffalo cows have dried udders – their calves starve. Ordinarily these creates would walk away, they’d leave for a place with food – just an hour’s drive from here St Lucia is green and verdant. But in our modern world the animals are fenced in, they can’t leave. ZRR is doing its best to help by providing feeding sites around the reserve; sugar cane and hay – a feast for the rhino, wildebeest, warthog, nyala, waterbuck and so on. It needs rain, lots of it. Photos on the wall in the kitchen show a ZRR with long green grass and trees thick with leaves; only rain can bring this back.
+
+At 3:30pm we got under way – beneath the hot afternoon sun; the dogs hadn’t been spotted in a couple of days – we needed to find them and do a call-up. The vets would be visiting in a month or so to work on the dogs, before then we would need to get the pack accustomed to our vehicle getting close while they feed on a bait. In Tembe I’d done a few dog call-ups, I knew the drill. Our bait was a male nyala, tastier than an impala.
+
+With the nyala in the back, gutted, its head poking out, a stream of blood running down the truck floor; we headed out in search of the dogs. At an artificial waterhole besides our camp, 23 elephants – this herd is never seen this far North, it was an exciting spotting, suggestive of new behaviour, there were giraffe too, but no dogs. We continue our search, driving to the top of each peak, trying one by one to get a signal. Standing on the back, swinging the telemetry 360 degrees, hoping for a beep. Nothing. The dogs hadn’t been seen for two days, they could be anywhere. We didn’t find them, and the bait went to waste.
+
+It was weird to be in a group with newbies again; Dani taught them how to use the telemetry – I watched them make all the mistakes I had; confusing gain and volume, confusing long range and short range. It’s also particularly difficult here, the topography makes it tough and the equipment isn’t quite so good. In Tembe or Mkhuze I’d use the bars to get a clock-heading, even when very close to the animal; this receiver and antenna instead gives a very strong signal all the way around, it’s not directional when the collar is nearby. The only way to get a direction is to press your ear right up against the receiver and to turn down the gain as low as you can, to strain your hearing until there’s the faintest of beeps in just one direction. It’s difficult, doubly so when driving.
+
+Back at camp, a surprise for us. A window that we hadn’t used, and was probably used during a braai before we arrived, hadn’t been closed properly. It was pushed shut but it wasn’t locked. When we came back we found that a monkey had been here; it’d come in through the window, eaten all our bananas and taken a shit on the floor. We were lucky it was just the one.
+
+## Day 2 – Beautiful dogs and a poor baby giraffe
+
+At 4am, under clear skies, and on a warm morning, we left in search of these dogs, one pack of 5 dogs. No bait today, we just needed to find them. I sat upfront, my first session scanning in ZRR. We drove south, tried a couple of hills, nothing. We drove all the way north and tried again – a faint signal. The signal for WDM2 (Wild dog male 2) was beeping very fast; I was alarmed, I knew this meant mortality mode – Dani wasn’t stressed, the collar is stuck in that mode, nothing to worry about. We also scan for F2 (female 2).
+
+We head towards the signal, it gets stronger, Dani consults the map and we keep looking. The signal comes and goes, and we occasionally lose it. They’re probably hunting along the drainage lines, lots of blind spots down there. We climb up into the hills, past a low flying black kite, attempting to head them off – but we lose them completely and need to double back. I scan as we drive, the signal is stronger; I keep my eyes peeled, “there they are”, I spot them, drinking, down by a dam.
+
+All 5 dogs were there, and what beautiful dogs they are. One in particular, she’s without a name, but she is covered with bold white markings, the most beautiful of all the dogs I’ve seen in KZN, I dubbed her “101”, after all those dalmations. Her sister is known as “eggs”, for two white patches on her back that look like fried eggs. Then there’s the alpha female, F2, she has a love-hate relationship with this pack and often behaves differently, but she’s still their leader.
+
+Normally they’d be drinking from the water here, but they were nervous; they approach the edge with caution, then run away without drinking. We couldn’t see anything, but crocodiles have been know to lurk here. Upstream waterbuck and impala are walking, oblivious to the dogs and crocs. Grey heron and yellow-billed stork are fishing.
+
+When we find the dogs in ZRR we radio it in; this gives nearby guides the opportunity to come and show their guests. These are the paying tourists, they keep the place running, so they get priority views – we have to give way and give them the best spots, even if sometimes this means we can’t get the observation notes we need. The guides can be more aggressive too; a common frustration is seeing them driving too close to the animals, or shining bright lights in their faces at night; the tourists often speak loudly, and many use flash photography. It’s frustrating. We let them watch the dogs while we go and have coffee and rusks elsewhere.
+
+We return to find the dogs still there, sleeping on the bank, in the sunshine. They don’t stick around long, they’re quickly up and on the move again. They head down a road, and we follow them from a distance, they head toward a fence line and we lose them. Nearby cape glossy starlings are glowing in the sunshine, and an African paradise flycatcher sits near a southern yellow-billed hornbill.
+
+### Lions and giraffe
+
+By the afternoon session, the skies have turned dark, the sunshine replaced with heavy overcast skies. We were going to look for the dogs again, but as we head along the drive way from our camp, Paweł spots a lion; “stop!”. On our driveway, right besides our camp, a pride of 7 lions feeding on a kill – 2 adult females and 5 cubs of unknown sex. In my entire 8 weeks, this is the only sighting of lions feeding. We strained to see their prey, I look with binoculars, it’s yellow and brown, it’s a giraffe. “A giraffe!”, Dani exclaims, she calls monitor Megan to let her know, “WHAAAAT!” we hear her scream. We radio in the sighting, the guides are ecstatic too. A giraffe is an impressive and rare catch. It’s a little unnerving having the lions so near to us.
+
+This morning, on our way back, we passed a giraffe and her baby right here. I took a nice portrait. Now I had another photo, of cubs feeding on it. “This is Africa”. Rest in peace little one. A cub picks up its head and begins gnawing on it.
+
+Soon the guides begin to arrive and we leave in search of dogs once again, Paweł scanning for the first time. We pass dead animals on the roadside, dead from exhaustion – now just a dried out hide and some bones; Sylvia practices her broken English, “Dead” she says; “Yes, definitely dead”, Babs replies. “It’s just sleeping”, I add.
+
+We return to the dam to begin our search, we pick up signal and head their way. We drive slowly, up and around the hill, everyone’s eyes focussed on the right, trying to find them. Staring straight ahead, I spot them, “12 o’clock” I whisper. They’re sleeping on the roadside, we stay with them for an hour, they’re resting here tonight, then we drive home – keeping an eye out for the lions.
+
+## Day 3 - Learning the wild dog routine
+
+Another 4am start, as would be the routine for the first week – we left under dark in search of the dogs. Sylvia was scanning this morning, the dogs weren’t where we’d left them. They were headed south. Much like before, we stopped on all the hilltops to scan; a faint signal, we head East; a strong pulsing signal now. The signal takes us right out to the border fence, and we follow the road North, trying to find the dogs. On the hill in front, above us, three silhouettes, the dogs are here, heading our way, down the hill. All 5 now, walking this way, they canter right past us, on their morning hunt. We call it in, and soon the guides are here too.
+
+One of the dogs is nicknamed Endo, the alpha male, he likes to rise up on his front legs and urinate on his mate. He does this a lot. The tourists were treated to his show right in front of their vehicle. The dogs cross over a hill and head out of sight, we track them with telemetry again, and I see my first ostrich sighting. After coffee and rusks we try but fail to get another visual.
+
+The guides use zulu names for all the animals on the radio, this stops tourists asking to see the cheetah or the lion if they overhear something. We try to memorise them ourselves, indlovu – elephant, ibhubesi – a big cat, ie lion, ingwe - leopard, ingulule - cheetah, ubhejane - black rhino. On the drive home I point out a lilac breasted roller and a striped kingfisher.
+
+After a 3 hour lunchtime nap, such is the ZRR way, we left on a 3pm afternoon session in the cold and wet – looking for dogs again. I double up on my wet weathers, but somehow, I can’t fathom quite how, the water always manages to get in. I duck the worst of it by sitting in the front with Dani.
+
+We begin at a feeding site, taking note of elephant EM1, eating sugar cane amongst the wildebeest, buffalo, guineafowl and vervet monkeys, then continue to wear we left the dogs. It’s unlikely we’ll spot them in the drizzle, they probably aren’t active, more likely hunkered down somewhere to keep warm. It’s not an eventful session, but in the corner of the reserve, beside the N2 highway and a service road, we find the dogs sleeping; not the most idyllic place to rest – every few seconds a car or lorry rushes by, a horn honks, the dogs don’t mind. It’s a long drive back, the park has resorted to “wet roads only”, which means the shorter routes aren’t open.
+
+## Day 4 - Tempting bait
+
+I scan again this morning – it seems this is a task my group don’t enjoy. I don’t mind so much, I get the best seat. The dogs aren’t where we left them, but they are nearby, their signal moving. With power lines and heavy cloud above us the telemetry was tough to use; with the gain down low the signal was everywhere – they were close, but I couldn’t pinpoint it. We gamble with a border fence patrol, nothing; we go back and try again. This time I think the signal is at 7, the gain’s right down, they must be close. Sylvia spots one, then two. The dogs come toward us, amidst the fleeing and squawking crested francolins. And now the dogs stop to play.
+
+Typically, as we radio in the sighting, and as the tourists arrive, the dogs “bolt”, and there’s nothing to see. We duck away and enjoy rusks, coffee and, something original, Babs’ idea, hard boiled eggs.
+
+While driving back to camp Babs shouts “stop!”, to our left a female cheetah, she’s lying down, rubbing her head in the mud. She stops and looks at us, then resumes the mud play. She gets up and walks back along the road we’d followed – I grab some photos to improve the cheetah ID kit and we leave her be, continuing back to camp.
 
 This afternoon we needed to bait the dogs. Their contraception needs renewing. Given this is a healthy, beautiful pack with good genes, and given that this is a critically endangered creature, preventing them from reproducing is abhorrent to me. I could understand if the dogs had bad genes; say the alpha male and female were siblings or cousins; but they aren’t, and their pups would greatly benefit the dwindling population. Alas; keeping and managing wild dogs is hard enough. They eat a lot of game and they escape the reserve a lot; more dogs means more dead herbivores, and animals are money; and it means more escapees too – which means more compensation payouts if they decide to eat a community goat. So the reserve contracepts them; the pragmatic perspective is that, “at least they have a home”. Many wild dogs are homeless, no reserve wants them.
 
