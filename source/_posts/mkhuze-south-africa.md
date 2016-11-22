@@ -11,7 +11,7 @@ pages: 9
 page: 1
 ---
 
-After 2 weeks volunteering with Wildlife Act in [iMfolozi](/2016/09/imfolozi-south-africa/) and another 2 in Tembe, I started my third of four reserves, weeks 9 and 10 of a [12 week trip](/tag/wildlife-act/), still part of Wildlife Act’s “[Endangered Species Conservation](http://wildlifeact.com/volunteer/south-africa/endangered-species-conservation/)” project.
+After 2 weeks volunteering with Wildlife Act in [iMfolozi](/2016/09/imfolozi-south-africa/) and [another 2 in Tembe](/2016/09/tembe-elephant-park/), I started my third of four reserves, weeks 9 and 10 of a [12 week trip](/tag/wildlife-act/), still part of Wildlife Act’s “[Endangered Species Conservation](http://wildlifeact.com/volunteer/south-africa/endangered-species-conservation/)” project.
 
 Leaving Tembe, and heading south again, I journeyed through Jozini and across its dam, down to the town of Mkuze to the changeover spot. After a brief reunion with my iMfolozi pals at Ghost Mountain Inn, I was on my way again, a new group, with a new monitor, to a new reserve; by now I knew the routine.
 
@@ -49,7 +49,7 @@ Every session begins with a trip to the beacon. It’s a concrete tower surround
 Our truck besides the beacon
 {% endfigure %}
 
-Much like in Tembe we needed to do a boma check. The boma has three male lions, they arrived from the Kalahari and are being introduced to improve the gene pool. For any animal introduction they must first spend a few weeks in the boma; to acclimatise, for one thing, Mkhuze is a very different climate. The signal for one of Mkhuze’s lion prides, MLF5, was near to the boma – perhaps they’d been interacting with the new males.
+Much like in [Tembe](/2016/09/tembe-elephant-park/) we needed to do a boma check. The boma has three male lions, they arrived from the Kalahari and are being introduced to improve the gene pool. For any animal introduction they must first spend a few weeks in the boma; to acclimatise, for one thing, Mkhuze is a very different climate. The signal for one of Mkhuze’s lion prides, MLF5, was near to the boma – perhaps they’d been interacting with the new males.
 
 {% figure mkhuze-first-boma-check.jpg landscape %}
 PJ checking on the lions in the boma

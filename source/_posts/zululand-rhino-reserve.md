@@ -11,7 +11,7 @@ pages: 7
 page: 1
 ---
 
-After volunteering with Wildlife Act in [iMfolozi](/2016/09/imfolozi-south-africa/), Tembe and [Mkhuze](/2016/10/mkhuze-south-africa/), I started my last reserve – Zululand Rhino Reserve (ZRR). These were weeks 11 and 12 of a [12 week trip](/tag/wildlife-act/), part of Wildlife Act’s “[Endangered Species Conservation](http://wildlifeact.com/volunteer/south-africa/endangered-species-conservation/)” project, and the last leg of my journey.
+After volunteering with Wildlife Act in [iMfolozi](/2016/09/imfolozi-south-africa/), [Tembe](/2016/09/tembe-elephant-park/) and [Mkhuze](/2016/10/mkhuze-south-africa/), I started my last reserve – Zululand Rhino Reserve (ZRR). These were weeks 11 and 12 of a [12 week trip](/tag/wildlife-act/), part of Wildlife Act’s “[Endangered Species Conservation](http://wildlifeact.com/volunteer/south-africa/endangered-species-conservation/)” project, and the last leg of my journey.
 
 My volunteer group was just 4 this time; a strict dutch woman, Babs; a german with broken english, Sylvia; and a friendly pole living in London, Paweł. Our monitor was [Dani](http://wildlifeact.com/about-wildlife-act/our-people/danielle-theron/) (Danielle), a relief monitor who also works at Tembe. We had a couple of days with ZRR’s resident monitor Megan too, between her 10 days off. Monitors work 30 days on, 10 days off, and while they’re away a relief monitor covers them.
 
