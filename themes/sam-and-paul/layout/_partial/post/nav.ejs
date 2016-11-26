@@ -1,22 +1,25 @@
 <%
-  while (post.prev && (post.prev.page > 1 || post.title == post.prev.title)) {
-    post.prev = post.prev.prev || null;
+  var next = post.next,
+      prev = post.prev;
+
+  while (prev && (prev.page > 1 || post.title == prev.title)) {
+    prev = prev.prev || null;
   }
 
-  while (post.next && (post.next.page > 1 || post.title == post.next.title)) {
-    post.next = post.next.next || null;
+  while (next && (next.page > 1 || post.title == next.title)) {
+    next = next.next || null;
   }
 %>
-<% if (post.prev || post.next) { %>
+<% if (prev || next) { %>
   <nav class="next-prev-post <% if (position) { %>next-prev-post-<%= position %><% } %>">
-    <% if (post.next) { %>
-      <a href="<%- config.root %><%- post.next.path %>" title="<%= post.next.title %>" rel="prev"<% if (keys) { %> data-key="left"<% } %>>
-        <span class="post-nav-arrow">&larr;</span> <span class="post-nav-title"><%= post.next.title %></span></a>
+    <% if (next) { %>
+      <a href="<%- config.root %><%- next.path %>" title="<%= next.title %>" rel="prev"<% if (keys) { %> data-key="left"<% } %>>
+        <span class="post-nav-arrow">&larr;</span> <span class="post-nav-title"><%= next.title %></span></a>
     <% } %>
-    <% if (post.prev && post.next) { %><span class="post-nav-divider"> &middot; </span><% } %>
-    <% if (post.prev) { %>
-      <a href="<%- config.root %><%- post.prev.path %>" title="<%= post.prev.title %>" rel="next" <% if (keys) { %> data-key="right"<% } %>>
-        <span class="post-nav-title"><%= post.prev.title %></span> <span class="post-nav-arrow">&rarr;</span></a>
+    <% if (prev && next) { %><span class="post-nav-divider"> &middot; </span><% } %>
+    <% if (prev) { %>
+      <a href="<%- config.root %><%- prev.path %>" title="<%= prev.title %>" rel="next" <% if (keys) { %> data-key="right"<% } %>>
+        <span class="post-nav-title"><%= prev.title %></span> <span class="post-nav-arrow">&rarr;</span></a>
     <% } %>
   </nav>
 <% } %>
