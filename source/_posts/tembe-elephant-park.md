@@ -14,6 +14,14 @@ After 2 wonderful weeks volunteering with Wildlife Act in [iMfolozi](/2016/09/im
 
 My volunteer group was 5 people, this time they were older; from oldest in iMfolozi I was now youngest, yet I stayed the responsible one with the emergency volunteer phone. I was joined by Lynn and Peter – two travelling companions from New Jersey, a zoologist and an entomologist specialising in mosquitoes; Lindsey, from Houston, US, and Joris, a dutchman who I’d share a cabin with. Our monitor was Hayden, a friendly and contemplative young guy; he's a natural around animals. Occasionally we had elephant sessions with Leonard too, or ‘Leo’, a talkative guy, he loves to make or fix stuff, and he’s head of research here.
 
+{% figure tembe-group-shot-at-camp.jpg landscape %}
+My group at Tembe: Peter, Leo, Me, Hayden, Lindsey, Joris and Lynn
+{% endfigure %}
+
+{% figure tembe-welcome-to-the-park.jpg landscape %}
+Welcome to Tembe
+{% endfigure %}
+
 Tembe Elephant Park is very different to iMfolozi. Gone are the umbrella acacias and red dirt, they’re replaced with a unique and protected [sand forest](https://en.wikipedia.org/wiki/Southern_African_Sand_Forest), growing from ancient sand dunes. The roads are made of sand, a sandy channel lined with trenches carved from the wheels of 4x4s. It’s like driving on a beach and four-wheel drive is essential, when leaving the confines of these trenches even the trucks slip and slide in the sand.
 
 Lining the roads are rare and endemic sand forest species; like hardwood lebombo wattle (newtonia) trees, beautiful pod mahogany’s that grow up and out to create giant natural parasols and grey-barked false tambouti trees – bare at this time of year, save a few straggling yellow and green leaves. It all combines to create a picturesque palette of yellow, white and green; a landscape photographer’s dream – if only they could leave the vehicle and not get eaten.
@@ -24,9 +32,21 @@ Tembe was set up to protect suni (a type of tiny antelope), sand forest, and ele
 
 The camp here is almost luxurious when compared to iMfolozi. There's power all the time, and there’s water too. The camp is for research; there are 5 wooden cabins each with two beds, a wardrobe and air-conditioning. It’s got aircon! There’s a large communal kitchen that doesn’t get too hot, a lounge-like area with very old garden furniture, an old TV and VHS player, and outdoor benches.
 
+{% figure tembe-room-at-camp.jpg landscape %}
+My room at camp
+{% endfigure %}
+
+{% figure tembe-camp.jpg landscape %}
+Camp
+{% endfigure %}
+
 Two green bulbuls own the overlooking trees; they’re tame and are happy to come and eat from your hand, or take a bath besides you – sometimes they thief food too; Peter had cheese whipped from his hand. These birds have a taste for cheddar it seems. Sunbirds also frequent the flowers.
 
 We also get the odd herd of nyala antelope passing through. They don’t mind us too much, and we can fill up the bird bath to attract them over. A mother and daughter were common visitors, and an inquisitive male watched me hang up laundry. Besides the washing line we also found a collared sunbird nest. This place has a washing machine, no hand-washing required, unlike other reserves. On the rooftops we could find vervet monkeys scuttling away – we were careful not to leave food or valuables out that they might pinch. There’s a shy squirrel that nips about the trees too. The camp is fenced with high-voltage electrics, to keep out the elephants.
+
+{% figure tembe-nyala-at-camp.jpg landscape %}
+Nyala at camp
+{% endfigure %}
 
 ## Day 1 – Thrown in at the deep end
 
@@ -54,7 +74,15 @@ Leo took us out at 11am for our first Tembe session. We travelled at snail’s p
 
 We find our first elephant bull standing besides the road, nonchalantly pulling branches off a tree. We stopped close; in iMfolozi I’d have been worried, but the elephants here are different, they seem, on the whole, calmer and of a nicer disposition. It also helped being with Leo, he knows the elephants, he knows how grumpy or curious they can be. We pass him and continue to the hide.
 
+{% figure tembe-first-elephant.jpg portrait %}
+An elephant feeding at Mahlasela hide
+{% endfigure %}
+
 Mahlasela hide looks over a natural waterhole that’s artificially pumped with water during drought. It’s [streamed live on a web cam](http://tembe.co.za/web-cam/). There are elephant bulls drinking and frolicking in the mud, small herds of nyala cautiously approach to drink, storks hang around at the edges. On our way out we pass the elephant again, and a group of young giraffe who stare at us inquisitively.
+
+{% figure tembe-gathering-of-giraffe.jpg landscape %}
+A gathering of giraffe
+{% endfigure %}
 
 ### Collaring a lion
 
@@ -63,6 +91,10 @@ When we arrived Hayden said there’d be a lion call-up tonight. For a lion call
 The lions were seen near the hide; we would set up the bait nearby and wait there until they’d fed and been darted, then we’d go down and watch the vets do their thing. That’s if the lions took the bait and all went to plan.
 
 The bait was a dead male nyala. It’s lucky none of us were vegetarian. This got a bit grim. From the back of the truck we dragged out the carcass and tied it to a pole with chains. Two metal screens were put up on either side, forcing any feeding animal to look away from the trucks – it makes darting them easier and safer. To spread the scent Hayden gutted the nyala, tied the guts into a neat ball, chained them to a truck and dragged them around the roads near the hide; this would hopefully tempt the lions in. Quite the first impression.
+
+{% figure tembe-prepping-lion-bait.jpg landscape %}
+Hayden, Leo and the vets prepping the nyala bait for the lions
+{% endfigure %}
 
 Leo stood guard with his rifle; getting off the truck is dangerous, and when people are on the ground working someone needs to be on lookout. We scanned for lions with the telemetry to double check none were close.
 
@@ -78,8 +110,28 @@ It takes 10 minutes for the sedative to take affect. Leo and the trainee vets br
 
 Time to act; against the whirr of the diesel engines and under flashlight the vets begin. We get out and watch. At any time two of us keep lookout, rotating high powered beams, inspecting bushes for cat’s eyes, listening out for elephants. Leo clutches his rifle. Meanwhile the vets administer antidotes for the dart sedatives, they take blood and hair samples to test for diseases, check the cats’ health, and prepare a collar. Every now and then a vet taps each lion’s ears, looking for reflex responses, making sure they aren’t waking up.
 
+{% vim 192926513 %}
+Video of preparing bait and vets working on lions
+{% endvim %}
+
+{% figure tembe-vets-at-work-on-lion.jpg landscape %}
+Vets working on the sedated lion, preparing to collar and taking blood samples
+{% endfigure %}
+
+{% figure tembe-paul-besides-sedated-lions.jpg landscape %}
+Me besides the lions and vets
+{% endfigure %}
+
 The lions are huge, their paws as big as my head, their body’s weigh over 200kg. I put my hand on their warm belly and feel them inhale and exhale, their fur is wiry. What an unbelievable experience. Us volunteers stand in awe, trying not to get in anyone’s way, thankful simply to be here, shining torches when the vets need more light.
+
+{% figure tembe-sedated-lion.jpg landscape %}
+One of the sedated male lions
+{% endfigure %}
 
 "The mother is watching us", in the bushes a set of cat’s eyes. She’s hanging around, clearly concerned for her sons, but she doesn’t approach. It’s unnerving to be standing in the dark knowing there’s an anxious lion watching you. But the work is wrapping up.
 
 The collaring took half an hour; now one sub adult male has a GPS store-onboard collar, which also emits a VHF radio _beep_; we can track this pride’s movement and find them with telemetry. Job done. We head for home, its been a long but incredible day. Hayden and the vet stay with the lions; to make sure nothing happens while they sleep, and that they wake safely. In the morning we’d try and track them.
+
+{% figure tembe-lion-with-new-collar.jpg landscape %}
+Lion with his new collar
+{% endfigure %}
