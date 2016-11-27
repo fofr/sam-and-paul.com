@@ -48,5 +48,5 @@ hexo.extend.tag.register('figure', function(args, content) {
     directory = directory + '/';
   }
 
-  return '<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--'+ orientation +'"><a href="' + image_dir + image +'"><img src="' + image_dir + directory + image +'" alt="'+ caption +'"></a><figcaption class="generated-figure-caption">'+ renderedCaption +'</figcaption></figure>';
+  return '<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--'+ orientation +'"><a href="' + image_dir + 'full/' + image +'"><img src="' + image_dir + directory + image +'" alt="'+ caption +'"></a><figcaption class="generated-figure-caption">'+ renderedCaption +'</figcaption></figure>';
 }, {ends: true});
