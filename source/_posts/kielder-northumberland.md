@@ -22,7 +22,7 @@ Kielder Observatory
 
 Following a sunny spell in June, and with Sam heading off to Vietnam for 10 days to see her sister, I booked three consecutive events at the Kielder Observatory in July as part of a long weekend in The North. I was hoping for fine weather and clear skies.
 
-The events were; on the Friday night: a Saturn Special, followed by late night deep sky observing. Then on Saturday: another late night deep sky event beginning at midnight. My friend Linda joined me for the trip and we booked two rooms at [Eal’s Lodge B&B](www.ealslodgebandb.co.uk).
+The events were; on the Friday night: a Saturn Special, followed by late night deep sky observing. Then on Saturday: another late night deep sky event beginning at midnight. My friend Linda joined me for the trip and we booked two rooms at [Eal’s Lodge B&B](http://www.ealslodgebandb.co.uk).
 
 After a six hour drive up from Brighton via Papworth Everard in Cambridgeshire, we arrived on Thursday to a blustery and overcast Northumberland. The drive was long but easy and quiet; passing the Angel of the North, and then cutting through beautiful rolling hills along the roller-coaster ancient roman roads and into Kielder forest park.
 
