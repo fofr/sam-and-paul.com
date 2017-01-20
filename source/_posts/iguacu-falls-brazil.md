@@ -61,18 +61,18 @@ Exploring the falls at dusk
 Crashing waves, just a small part of the falls
 {% endfigure %}
 
-It was dusk, and wildlife was coming out for the evening. Butterflies were everywhere, and they weren’t shy landing on you. From the 88 butterfly ([diaethria anna](http://en.wikipedia.org/wiki/Diaethria_anna)) to large spiders weaving their webs and millipedes walking out in front of you, the bugs and insects were abundant and you needed to be careful where you put your hands. Giant black and white tegu lizards scared us as they ran out in front of us, across the trail. Some reached up to four foot in length.
+It was dusk, and wildlife was coming out for the evening. Butterflies were everywhere, and they weren’t shy landing on you. From the 88 butterfly ([diaethria anna](https://en.wikipedia.org/wiki/Diaethria_anna)) to large spiders weaving their webs and millipedes walking out in front of you, the bugs and insects were abundant and you needed to be careful where you put your hands. Giant black and white tegu lizards scared us as they ran out in front of us, across the trail. Some reached up to four foot in length.
 
 {% figure brazil-090.jpg landscape %}
-Little [Callicore](http://en.wikipedia.org/wiki/Callicore) butterfly
+Little [Callicore](https://en.wikipedia.org/wiki/Callicore) butterfly
 {% endfigure %}
 
 {% figure brazil-091.jpg landscape %}
-88 butterfly ([diaethria anna](http://en.wikipedia.org/wiki/Diaethria_anna))
+88 butterfly ([diaethria anna](https://en.wikipedia.org/wiki/Diaethria_anna))
 {% endfigure %}
 
 {% figure brazil-087.jpg landscape %}
-[Richard’s Blue Morpho](http://en.wikipedia.org/wiki/Morpho_richardius) butterfly
+[Richard’s Blue Morpho](https://en.wikipedia.org/wiki/Morpho_richardius) butterfly
 {% endfigure %}
 
 {% figure brazil-088.jpg portrait original %}

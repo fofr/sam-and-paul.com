@@ -13,11 +13,11 @@ pages: 2
 page: 1
 ---
 
-After the hustle and bustle of so many cities, and the daily inconvenience of a trip through the crazy Chinese traffic, [Yangshuo](http://en.wikipedia.org/wiki/Yangshuo_County) (阳朔县, Yángshuò) was our retreat; a chance to sit back and relax. Yangshuo is famous for its extraordinary limestone karst mountains and it's become an iconic image of China (it's even on the 20 yuan note).
+After the hustle and bustle of so many cities, and the daily inconvenience of a trip through the crazy Chinese traffic, [Yangshuo](https://en.wikipedia.org/wiki/Yangshuo_County) (阳朔县, Yángshuò) was our retreat; a chance to sit back and relax. Yangshuo is famous for its extraordinary limestone karst mountains and it's become an iconic image of China (it's even on the 20 yuan note).
 
 ## Yangshuo Mountain Retreat
 
-After a quiet nothing-day in [Chengdu](/2014/09/chengdu-china/) we had an 8pm flight to Guilin and then a transfer to our hotel, [Yangshuo Mountain Retreat](http://www.tripadvisor.co.uk/Hotel_Review-g303712-d633606-Reviews-Yangshuo_Mountain_Retreat-Yangshuo_County_Guangxi_Zhuang.html). The drive took an hour, and we arrived in the dark just after midnight. Not wishing to inconvenience us we went straight to our room, check-in could wait until morning.
+After a quiet nothing-day in [Chengdu](/2014/09/chengdu-china/) we had an 8pm flight to Guilin and then a transfer to our hotel, [Yangshuo Mountain Retreat](https://www.tripadvisor.co.uk/Hotel_Review-g303712-d633606-Reviews-Yangshuo_Mountain_Retreat-Yangshuo_County_Guangxi_Zhuang.html). The drive took an hour, and we arrived in the dark just after midnight. Not wishing to inconvenience us we went straight to our room, check-in could wait until morning.
 
 Up at 7am, we had an early start with a guide for a day of biking, rafting and hiking. I opened the curtains and was shocked by the astounding beauty of in front of me. The Yulong river ran just beneath our window, the sky was a clear deep blue and we were surrounded by mysterious limestone karst mountains, each uniquely sculpted over millennia. These reflected perfectly in the still river water, which flows gently and at this time in the morning is completely undisturbed. I shut the curtains again, so Sam could get the same big reveal.
 
@@ -37,7 +37,7 @@ On a table by the river, after snapping some quick photos of the mountains and r
 
 Our guide, Ming, picked us up and from the hotel we chose bikes for the day. My choice was poor; the squeaky front and back brakes could be combined to impersonate the noise of a dying donkey. But the bike ride was brief, half an hour at after starting, cycling past a few karst peaks and rice paddies, we were at the bamboo raft station. We arrived early and would be one of the first groups to set off downstream.
 
-After Sam had bought a conical straw hat (which we carried about the rest of China, and now sits on our bookshelf) we clambered into seats at the rear of our raft. The raft is comprised of 10 bamboo tubes tied together, rising slightly at the ends. The seats are simple metal frames with a cushion, space for a parasol and hooks for bags. It's all a bit like punting, or gondolas, with another stick of bamboo our driver pushed off and we headed downstream. The trip would take 1h30, and it took us back past our hotel, down the [Yulong river](http://en.wikipedia.org/wiki/Yulong_River) towards moon hill.
+After Sam had bought a conical straw hat (which we carried about the rest of China, and now sits on our bookshelf) we clambered into seats at the rear of our raft. The raft is comprised of 10 bamboo tubes tied together, rising slightly at the ends. The seats are simple metal frames with a cushion, space for a parasol and hooks for bags. It's all a bit like punting, or gondolas, with another stick of bamboo our driver pushed off and we headed downstream. The trip would take 1h30, and it took us back past our hotel, down the [Yulong river](https://en.wikipedia.org/wiki/Yulong_River) towards moon hill.
 
 {% figure china-yangshuo-006.jpg landscape %}
 Bamboo rafting down Yulong river
@@ -77,7 +77,7 @@ Beer by the river
 
 ## Good food and prosecco
 
-By the river we considered what to do with our time here. We could see the famous [Sanjie Liu evening show](http://www.tripadvisor.co.uk/Attraction_Review-g303712-d1741379-Reviews-Impression_Sanjie_Liu_Evening_Showtime-Yangshuo_County_Guangxi_Zhuang.html) — but its a long drive, and the reviews said the Chinese audience could be really irritating. We could do a cooking course, or go into town, or …? Tonight we opted for the best thing you can do in Yangshuo, especially at a place like our hotel, nothing.
+By the river we considered what to do with our time here. We could see the famous [Sanjie Liu evening show](https://www.tripadvisor.co.uk/Attraction_Review-g303712-d1741379-Reviews-Impression_Sanjie_Liu_Evening_Showtime-Yangshuo_County_Guangxi_Zhuang.html) — but its a long drive, and the reviews said the Chinese audience could be really irritating. We could do a cooking course, or go into town, or …? Tonight we opted for the best thing you can do in Yangshuo, especially at a place like our hotel, nothing.
 
 We spent a few hours watching the sunset from a table by the river, a cold local beer in hand. Then as the light was right we used tripods to try and capture the moment.
 

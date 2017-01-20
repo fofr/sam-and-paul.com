@@ -29,7 +29,7 @@ The train to Hong Kong takes about 2 hours. Crossing the border my phone buzzed 
 
 ## Harbour Plaza Metropolis
 
-[Harbour Plaza Metropolis](http://www.tripadvisor.co.uk/Hotel_Review-g294217-d305854-Reviews-Harbour_Plaza_Metropolis-Hong_Kong.html) is lightyears away from [LiQing guesthouse](/2014/09/longsheng-rice-terraces-china/); a spangly modern hotel with perfectly polished reception, speedy lifts and dazzling lights, found amidst a shopping mall. Our room was on the 17th floor and looked south to Kowloon and Hong Kong Island. All the plug sockets were British and the shower was big enough for two.
+[Harbour Plaza Metropolis](https://www.tripadvisor.co.uk/Hotel_Review-g294217-d305854-Reviews-Harbour_Plaza_Metropolis-Hong_Kong.html) is lightyears away from [LiQing guesthouse](/2014/09/longsheng-rice-terraces-china/); a spangly modern hotel with perfectly polished reception, speedy lifts and dazzling lights, found amidst a shopping mall. Our room was on the 17th floor and looked south to Kowloon and Hong Kong Island. All the plug sockets were British and the shower was big enough for two.
 
 {% figure china-hong-kong-001.jpg landscape %}
 View of Hong Kong island from our room at Harbour Plaza Metropolis

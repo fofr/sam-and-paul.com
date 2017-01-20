@@ -8,8 +8,8 @@ Get in touch at: {% contact %}
 
 ### Elsewhere on the web
 
-* [Sam’s Trip Advisor reviews](http://www.tripadvisor.co.uk/members-reviews/Assamti)
-* [Paul Hayes Photography](http://paulhayes.photography)
-* [Paul on Twitter](http://twitter.com/fofr)
-* [Paul on Flickr](http://flickr.com/prhayes)
-* [Paul on 500px](http://500px.com/FofR)
+* [Sam’s Trip Advisor reviews](https://www.tripadvisor.co.uk/members-reviews/Assamti)
+* [Paul Hayes Photography](https://paulhayes.photography)
+* [Paul on Twitter](https://twitter.com/fofr)
+* [Paul on Flickr](https://flickr.com/prhayes)
+* [Paul on 500px](https://500px.com/FofR)

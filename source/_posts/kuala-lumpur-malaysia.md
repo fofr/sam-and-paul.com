@@ -24,7 +24,7 @@ View of the Petronas Towers from Traders hotel
 Our room with a view
 {% endfigure %}
 
-Jet-lagged and exhausted we’d checked in late the night before, just awake enough to be astonished by our [perfect nighttime cityscape](http://instagram.com/p/lkbDlXNFC8/ "Instagram"). When we opened the curtains the next morning [we could barely see them](http://host.trivialbeing.org/up/kuala-lumpur-003.jpg "Foggy towers"), thick fog and rain made a day of slumber our best choice. We were however up in time for breakfast at 10:30am, the buffet was large but expensive, and with so many options in town we only had breakfast here once. My highlight was a Chinese noodle soup in a rich chicken broth, but there was sushi and fried rice, fresh fruit and pastries too.
+Jet-lagged and exhausted we’d checked in late the night before, just awake enough to be astonished by our [perfect nighttime cityscape](https://instagram.com/p/lkbDlXNFC8/ "Instagram"). When we opened the curtains the next morning [we could barely see them](https://host.trivialbeing.org/up/kuala-lumpur-003.jpg "Foggy towers"), thick fog and rain made a day of slumber our best choice. We were however up in time for breakfast at 10:30am, the buffet was large but expensive, and with so many options in town we only had breakfast here once. My highlight was a Chinese noodle soup in a rich chicken broth, but there was sushi and fried rice, fresh fruit and pastries too.
 
 ### A lazy Sunday
 

@@ -33,7 +33,7 @@ The first set we wanted to see was at The Prince Albert, back up towards the sta
 **Porcelain Raft** are one of my favourite bands at the moment. I'd seen them live with M83 but hadn't heard their album at that point. "Is it too deep for you?" and "Backwords" are fantastic, wistful, hypnotic, dreamy songs. Perhaps I'd hyped them up too much, but this set was awful, not that I fault the band themselves. The Prince Albert was full, people were squeezing in, it was hot and humid, we wanted lunch and it was overwhelming, but not in a good way. The two piece struggled to cope with The Prince Albert's sound setup: the snares were penetrating and the lyrics became drowned out, the balance was all wrong, not to mention the earthy buzz that surrounded everything. It was also very loud and we'd forgotten our ear plugs. Simply the wrong atmosphere and environment for this relaxing music.
 
 {% figure tge-2012-porcelain-raft.jpeg portrait %}
-Porcelain Raft by [Marcus Moxham](http://www.flickr.com/photos/moxcod/7199995740/in/set-72157629732958152)
+Porcelain Raft by [Marcus Moxham](https://www.flickr.com/photos/moxcod/7199995740/in/set-72157629732958152)
 {% endfigure %}
 
 ## Pompoko restaurant
@@ -56,7 +56,7 @@ Young Dreams
 
 **New Look** followed, a two piece haling from Canada. Futuristic, minimal pop laced with dubstep. Their self-titled album attracted me, "The Ballad" standing out. As a live act, Sarah Ruba looked gorgeous in 1940s attire, alongside her smartly dressed buttoned up collar husband, Adam Pavao. Together they played their minimal pop, as patterns of light danced across the stage. But the set lacked energy, and began to sound 'same-y', it was perhaps too minimal. Not until the final track, "Teen Need", did we really see what they were capable of.
 
-<iframe width="580" height="326" src="http://www.youtube.com/embed/oo0H25nv1Vk" frameborder="0" allowfullscreen></iframe>
+<iframe width="580" height="326" src="https://www.youtube.com/embed/oo0H25nv1Vk" frameborder="0" allowfullscreen></iframe>
 
 ## TOY, Django Django
 
@@ -74,6 +74,6 @@ Next up were **Django Django**, headlining the evening, a Scottish quartet, "art
 Django Django
 {% endfigure %}
 
-<iframe width="580" height="435" src="http://www.youtube.com/embed/oCK8PYcJ2ZU" frameborder="0" allowfullscreen></iframe>
+<iframe width="580" height="435" src="https://www.youtube.com/embed/oCK8PYcJ2ZU" frameborder="0" allowfullscreen></iframe>
 
 In the fog we walked home, our legs tired from standing all day. Day one over. Two days to go.

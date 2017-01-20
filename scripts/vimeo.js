@@ -28,6 +28,6 @@ hexo.extend.tag.register('vim', function(args, content) {
       markdownCaption = render.renderSync({text: content, engine: 'markdown'}),
       renderedCaption = vimeo_$(markdownCaption).unwrap().html(); //remove wrapping paragraph element
 
-  return '<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--video"><div class="video-wrapper"><iframe class="vimeo" src="http://player.vimeo.com/video/'+ id +'" width="620" height="413" frameborder="0"></iframe></div><figcaption class="generated-figure-caption">'+ renderedCaption + '</figcaption></figure>';
+  return '<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--video"><div class="video-wrapper"><iframe class="vimeo" src="https://player.vimeo.com/video/'+ id +'" width="620" height="413" frameborder="0"></iframe></div><figcaption class="generated-figure-caption">'+ renderedCaption + '</figcaption></figure>';
 
 }, {ends: true});

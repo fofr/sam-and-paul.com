@@ -55,4 +55,4 @@ It wouldn’t be Sunday without drinking a cool beer and catching the end of a B
 
 Jason Reitman’s “Up in the air” was the perfect end to the weekend, and the soundtrack will be with me all week.
 
-<div style="text-align: center"><object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/_m-Da8Tz4_E&amp;hl=en_GB&amp;fs=1?rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/_m-Da8Tz4_E&amp;hl=en_GB&amp;fs=1?rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object></div>
+<div style="text-align: center"><object width="500" height="306"><param name="movie" value="https://www.youtube.com/v/_m-Da8Tz4_E&amp;hl=en_GB&amp;fs=1?rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/_m-Da8Tz4_E&amp;hl=en_GB&amp;fs=1?rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object></div>

@@ -79,7 +79,7 @@ River view from Anne Boleyn's shed
 {% endfigure %}
 
 {% figure harrogate-018.jpg landscape %}
-[A gnarly tree](http://500px.com/photo/80856857/gnarly-tree-by-samantha-hayes)
+[A gnarly tree](https://500px.com/photo/80856857/gnarly-tree-by-samantha-hayes)
 {% endfigure %}
 
 {% figure harrogate-019.jpg landscape %}

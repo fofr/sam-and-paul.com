@@ -36,7 +36,7 @@ Then at the Dukes we were devastated and terrified by the astounding Black Swan 
 
 The King’s Speech was very good, but Black Swan took film-making to a whole new level. I can only hope that the swan lake rendition trumps the stuttering royal at the Oscars, but with the scar of Bill Murray’s best actor snub for Lost in Translation, my hope lies thin.
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/p/BE0DBEE001836C56?hl=en_GB&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/p/BE0DBEE001836C56?hl=en_GB&fs=1" type="application/x-shockwave-flash" width="480" height="385" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="480" height="385"><param name="movie" value="https://www.youtube.com/p/BE0DBEE001836C56?hl=en_GB&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/p/BE0DBEE001836C56?hl=en_GB&fs=1" type="application/x-shockwave-flash" width="480" height="385" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 We’d been hoping to see Keira Knightley in “Children’s Hour”, but evening and weekend tickets cost a small fortune. Aha! Such a trifle matter never thwarts Sam, and she took a troupe of trainee clinical biochemists to see a student-discounted Wednesday matinee. It was stellar, and my envy of them is only matched by my lethargy to book a single ticket for myself.
 
