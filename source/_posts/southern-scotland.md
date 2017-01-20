@@ -16,7 +16,7 @@ page: 1
 We booked only three days of our two week trip to The North – one week of that we planned to spend in Scotland. After our [astrophotography night at Kielder](/2015/09/kielder-northumberland/2/) we’d be staying in Thornhill, then we’d travel onto Coursewall Lighthouse near to Stranraer. That route, from East to West across Scotland would hopefully reveal some places of interest, which we’d return to. The route from A to B wasn’t planned, and we mostly navigated by terrain; where the maps showed big valleys, lakes or hills – that’s where we’d drive. We avoided main roads and actively searched for things to photograph.
 
 {% figure southern-scotland-loch-skeen.jpg landscape %}
-[Loch Skeen](http://paulhayes.photography/2015-09/loch-skeen/)
+[Loch Skeen](https://paulhayes.photography/2015-09/loch-skeen/)
 {% endfigure %}
 
 ## From Kielder to Hawick, to Moffat and Thornhill
