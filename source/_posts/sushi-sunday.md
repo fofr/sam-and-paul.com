@@ -20,7 +20,7 @@ Homemade sushi
 
 Not really sure what we were doing, beyond what a guy had told Sam over the shop counter, we consulted recipe books and YouTube’s “How to make Sushi” videos. joschez’s 4 min short was the most helpful:
 
-<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/T9hVp4Sd9NU&amp;hl=en_GB&amp;fs=1?rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/T9hVp4Sd9NU&amp;hl=en_GB&amp;fs=1?rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+<object width="560" height="340"><param name="movie" value="https://www.youtube.com/v/T9hVp4Sd9NU&amp;hl=en_GB&amp;fs=1?rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/T9hVp4Sd9NU&amp;hl=en_GB&amp;fs=1?rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
 
 Rather than measuring out the rice, which would have been clever, we used the whole packet. About 500g of uncooked rice, which combined with water comes to about 1.2kg. Oh dear, that’s going to be a LOT of sushi; at least we’ll get to practice a lot.
 

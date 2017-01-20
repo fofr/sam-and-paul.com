@@ -98,7 +98,7 @@ Legs up for landing
 Too dazed to pose for a picture
 {% endfigure %}
 
-<iframe width="580" height="326" src="http://www.youtube.com/embed/AfxSk1l4UgQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="580" height="326" src="https://www.youtube.com/embed/AfxSk1l4UgQ" frameborder="0" allowfullscreen></iframe>
 
 Woooo! Wow. Wow. How incredibly amazing was that? I celebrated with a victory croissant and we drove into Beccles for some lunch.
 

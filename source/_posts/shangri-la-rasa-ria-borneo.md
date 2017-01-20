@@ -11,7 +11,7 @@ categories:
 date: 2014-05-19 21:56:59
 pages: 5
 page: 1
-background: http://host.trivialbeing.org/up/1240/kota-kinabalu-098.jpg
+background: https://host.trivialbeing.org/up/1240/kota-kinabalu-098.jpg
 ---
 
 ## Kuching to Kota Kinabalu

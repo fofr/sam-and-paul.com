@@ -25,14 +25,14 @@ To round off our cinema extravaganza we caught Sofia Coppola’s latest effort, 
 
 In between these screenings, our small screen viewings also stood out. “An Education”, again with Carey Mulligan, and the devastating Koyaanisqatsi with its all encompassing Philip Glass soundtrack.
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/p/BD9C39F7CBE998FA?hl=en_GB&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/p/BD9C39F7CBE998FA?hl=en_GB&fs=1" type="application/x-shockwave-flash" width="480" height="385" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="480" height="385"><param name="movie" value="https://www.youtube.com/p/BD9C39F7CBE998FA?hl=en_GB&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/p/BD9C39F7CBE998FA?hl=en_GB&fs=1" type="application/x-shockwave-flash" width="480" height="385" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 ## The Wolseley
 
 As a birthday treat I took Sam to the luxurious Wolseley in London where we enjoyed the finest Champagne tea, our own small slice of decadence. Champagne tea? Crustless and exquisite finger sandwiches, perfect pastries, homemade scones and jam (specially made without fruit by request - there’s nothing Sam likes less than raisins in her scones!), two pots of tea (the Wolesely afternoon blend and Sam’s favourite, Assam), and a glass of Pommery Brut Royal NV each. That’s one of Timeout’s 1000 things to do in London crossed out.
 
 {% figure IMG_2736.JPG square original %}
-[The Wolseley goodie bag](http://instagram.com/p/eGD5/)
+[The Wolseley goodie bag](https://instagram.com/p/eGD5/)
 {% endfigure %}
 
 Beforehand we paid a visit to the Natural History Museum to see this years Wildlife Photographer of the year exhibit. After a short queue we entered a dark room where 3ft by 2ft photos were mounted perfectly along the walls. Back-lit, the sharpness and delicate detail of the photos and nature itself shone through. Our world felt fleeting, fragile and perfect.

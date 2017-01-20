@@ -11,7 +11,7 @@ categories:
 date: 2008-10-20 14:21:15
 ---
 
-The [Hoxton](http://en.wikipedia.org/wiki/Hoxton) [Hotel](http://www.hoxtonhotels.com/index.php) ('_the urban lodge_') in London recently had a [sale](http://www.hoxtonhotels.com/offers-1pound.php), where a lucky few could purchase rooms for £1 a night or £29 a night. Most came away with nothing, but Sam was lucky enough to not only get a room, but two consecutive nights on the weekend of her birthday! Fantastic!
+The [Hoxton](https://en.wikipedia.org/wiki/Hoxton) [Hotel](http://www.hoxtonhotels.com/index.php) ('_the urban lodge_') in London recently had a [sale](http://www.hoxtonhotels.com/offers-1pound.php), where a lucky few could purchase rooms for £1 a night or £29 a night. Most came away with nothing, but Sam was lucky enough to not only get a room, but two consecutive nights on the weekend of her birthday! Fantastic!
 
 Said weekend started last Friday, we each took the day off and took our quick and usual route into the centre; meeting outside Leicester Square, cases in tow, ready to be tourists for a couple of days. After apple juice and lunch in St James' park we took the Northern Line to Old Street and checked in, electrified by the overwhelming trendiness that is both the hotel and surrounding area.
 
@@ -27,7 +27,7 @@ Foodhall, we love this place
 
 ## Avenue Q
 
-Middle of the middle in the stalls we watched the well praised Avenue Q as the Gary Coleman references whisked over our heads and the '_grab your dick and double click_' line resounded. Though we enjoyed it, the abundant acclaim meant it did not meet our high expectations. Away from the Noel Coward theatre and back to Hoxton Square where we had reserved a table at [The Apprentice](http://www.hoxtonapprentice.com/index.php?option=com_content&task=view&id=25&Itemid=31), as recommended by a friend. A little unnerved at the emptiness of the place we perused the night menu's offerings, opting for the spicy leek and carrot soup of the day starter and the "[Osso Bucco](http://en.wikipedia.org/wiki/Osso_Bucco) with risotto Millanise and gremolata sauce" as main, with Sam choosing the Salmon and spinach dish. Osso Bucco is a dish of tasty veal shanks and it was pure bliss - I didn't need my knife to cut the meat, it simply fell apart, all juicy and scrumptious - it was perfect.
+Middle of the middle in the stalls we watched the well praised Avenue Q as the Gary Coleman references whisked over our heads and the '_grab your dick and double click_' line resounded. Though we enjoyed it, the abundant acclaim meant it did not meet our high expectations. Away from the Noel Coward theatre and back to Hoxton Square where we had reserved a table at [The Apprentice](http://www.hoxtonapprentice.com/index.php?option=com_content&task=view&id=25&Itemid=31), as recommended by a friend. A little unnerved at the emptiness of the place we perused the night menu's offerings, opting for the spicy leek and carrot soup of the day starter and the "[Osso Bucco](https://en.wikipedia.org/wiki/Osso_Bucco) with risotto Millanise and gremolata sauce" as main, with Sam choosing the Salmon and spinach dish. Osso Bucco is a dish of tasty veal shanks and it was pure bliss - I didn't need my knife to cut the meat, it simply fell apart, all juicy and scrumptious - it was perfect.
 
 ## Rain man
 

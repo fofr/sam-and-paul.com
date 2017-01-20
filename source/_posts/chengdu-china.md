@@ -16,7 +16,7 @@ We’d expected a half-day in Chengdu to look around when we arrived, but after 
 
 ## Wenjun Mansion Hotel
 
-Our hotel was situated in an affluent touristy part of town — Qintai road; a recently built but ornate shopping street with over-priced paintings, jade sculptures and tea. It was also lined with Chinese hotpot restaurants. We were staying in [Wenjun Mansion Hotel](http://www.tripadvisor.co.uk/Hotel_Review-g297463-d1202319-Reviews-Wenjun_Mansion_Hotel-Chengdu_Sichuan.html) which was a strange cross between a hostel and a hotel, the rooms were like those of a rundown hotel that lacked the backpacker vibe of a hostel. It was probably our least favourite hotel in all of China, and unfortunately one of the ones we had the most free time in.
+Our hotel was situated in an affluent touristy part of town — Qintai road; a recently built but ornate shopping street with over-priced paintings, jade sculptures and tea. It was also lined with Chinese hotpot restaurants. We were staying in [Wenjun Mansion Hotel](https://www.tripadvisor.co.uk/Hotel_Review-g297463-d1202319-Reviews-Wenjun_Mansion_Hotel-Chengdu_Sichuan.html) which was a strange cross between a hostel and a hotel, the rooms were like those of a rundown hotel that lacked the backpacker vibe of a hostel. It was probably our least favourite hotel in all of China, and unfortunately one of the ones we had the most free time in.
 
 But it wasn’t without character and it wasn’t _bad_. The staff were friendly and helpful, the food was homely and tasty — we enjoyed eating here, the location (although touristy) was right next to the city parks. And the place has some personality; all the hotel rooms border an old courtyard (where food is served), and it evokes a bit of the grandeur of a traditional Chinese mansion house; even if it does need a bit of love and attention.
 
@@ -28,7 +28,7 @@ That night we explored Qintai road, and in the dark we found the poorly lit peop
 
 ## Giant Panda breeding research base
 
-The reason we came to Chengdu at all was to see the [Giant Pandas](http://en.wikipedia.org/wiki/Giant_panda). Pandas are a quintessential part of China, and in Sichuan every shop seems to sell some form of panda paraphernalia. Tourists walk about in furry panda jumpers, panda coats and goofy panda hats. At the non-profit [Chengdu base](http://www.panda.org.cn/english/) there are over 80 pandas, mostly bred through artificial insemination. The base focuses on captive breeding, studying panda reproduction with the aims of preventing extinction, but it isn’t breeding and rearing pandas to release back into the wild.
+The reason we came to Chengdu at all was to see the [Giant Pandas](https://en.wikipedia.org/wiki/Giant_panda). Pandas are a quintessential part of China, and in Sichuan every shop seems to sell some form of panda paraphernalia. Tourists walk about in furry panda jumpers, panda coats and goofy panda hats. At the non-profit [Chengdu base](http://www.panda.org.cn/english/) there are over 80 pandas, mostly bred through artificial insemination. The base focuses on captive breeding, studying panda reproduction with the aims of preventing extinction, but it isn’t breeding and rearing pandas to release back into the wild.
 
 {% figure china-chengdu-017.jpg landscape %}
 Two-year old Giant panda, on our second consecutive visit to the base
@@ -56,7 +56,7 @@ It’s amazing that these giant pandas aren’t extinct. They are solitary anima
 
 ### Red pandas
 
-The Chengdu research base houses and breeds [Red Pandas](http://en.wikipedia.org/wiki/Red_panda) too (also known as red cat-bears or lesser pandas — they aren’t closely related to the Giant panda). There’s less than 10,000 of these gorgeous bears left in the wild. Through a metal gate we passed into the Red panda enclosure, where you can walk freely amongst the animals, if you can spot them. From the slippery boardwalk we saw one high up in a tree, sleeping, then another doing the same. All of a sudden there was a kerfuffle from behind me and one of the pandas ran from behind me, brushed by my shorts, and continued along the path. Up ahead was a feeding platform, where more were enjoying a papaya feast.
+The Chengdu research base houses and breeds [Red Pandas](https://en.wikipedia.org/wiki/Red_panda) too (also known as red cat-bears or lesser pandas — they aren’t closely related to the Giant panda). There’s less than 10,000 of these gorgeous bears left in the wild. Through a metal gate we passed into the Red panda enclosure, where you can walk freely amongst the animals, if you can spot them. From the slippery boardwalk we saw one high up in a tree, sleeping, then another doing the same. All of a sudden there was a kerfuffle from behind me and one of the pandas ran from behind me, brushed by my shorts, and continued along the path. Up ahead was a feeding platform, where more were enjoying a papaya feast.
 
 {% figure china-chengdu-010.jpg landscape %}
 [Red panda](https://500px.com/photo/85825149/red-panda-by-paul-hayes) looking up from his morning stroll

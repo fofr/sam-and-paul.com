@@ -11,7 +11,7 @@ date: 2014-09-08
 
 ## Brighton to Shanghai
 
-It took 24 hours door to door from our flat in Brighton to the [Astor House hotel](http://www.tripadvisor.co.uk/Hotel_Review-g308272-d303022-Reviews-Astor_House_Hotel-Shanghai.html) in Shanghai, via Dubai and two Emirates flights. I read half of HG Wells's Time Machine and watched X-men and Transcendence. We arrived at almost 2am, and Shanghai’s nighttime cityscape had already turned its lights off.
+It took 24 hours door to door from our flat in Brighton to the [Astor House hotel](https://www.tripadvisor.co.uk/Hotel_Review-g308272-d303022-Reviews-Astor_House_Hotel-Shanghai.html) in Shanghai, via Dubai and two Emirates flights. I read half of HG Wells's Time Machine and watched X-men and Transcendence. We arrived at almost 2am, and Shanghai’s nighttime cityscape had already turned its lights off.
 
 Our hectic China itinerary, booked through [Rickshaw travel](https://www.rickshawtravel.co.uk/asia/china/), gave us just one full day in the city, a day we expected to spend pretty jet-lagged. Despite not sleeping well (the mattresses were on the firm side), we were up for breakfast by 9am and felt pretty good about making the most of our day.
 
@@ -27,7 +27,7 @@ Breakfast in the Peacock ballroom
 
 ## The Bund
 
-Leaving the hotel, we crossed [Waibaidu bridge](http://en.wikipedia.org/wiki/Waibaidu_Bridge) and stepped out onto the northernmost tip of Shanghai’s famous promenade. Here a stark concrete obelisk demarks the history of The Bund, though it's all in Chinese and indecipherable to us.
+Leaving the hotel, we crossed [Waibaidu bridge](https://en.wikipedia.org/wiki/Waibaidu_Bridge) and stepped out onto the northernmost tip of Shanghai’s famous promenade. Here a stark concrete obelisk demarks the history of The Bund, though it's all in Chinese and indecipherable to us.
 
 The waterfront, lined with mid 19th century architecture, looks out across the Huangpu river at the modern and spectacular financial district — Lujiazui, where skyscrapers fill the sky; the World financial center that looks like a bottle opener, the peculiar Oriental Pearl tower best described as a bulbous retro rocket, and the soon to be tallest building in Asia, the under construction Shanghai tower. At night it all lights up in a spectacular show, and we returned at 6pm when the sun was setting.
 

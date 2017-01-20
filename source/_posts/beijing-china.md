@@ -19,7 +19,7 @@ From the train station we were immediately in a traffic jam, and that's how it s
 
 Fuxing Lu road, 42km long, dead-straight and lined with government buildings, at times it's 9 lanes wide each side. We drove north, past elementary schools and parks, and many many building sites. Today was teachers day, the first day back at school. “Autumn lasts only 15 days in Beijing, the weather changes very quickly”, Ashley told us — we’d picked the best time to come, not too hot, not too cold. We talked about the school system and school entry depending on your registered region, public hospitals where you pay a small percentage of the costs yourself and the 2008 Beijing Olympics.
 
-Eventually we arrived in the [hutong](http://en.wikipedia.org/wiki/Hutong) (‘narrow alleyways’) part of Beijing where we'd be staying, at our hotel Courtyard 7.
+Eventually we arrived in the [hutong](https://en.wikipedia.org/wiki/Hutong) (‘narrow alleyways’) part of Beijing where we'd be staying, at our hotel Courtyard 7.
 
 ## Hutong
 
@@ -43,7 +43,7 @@ The taxi couldn't get down the alley, so we were dropped off at the north gate a
 Courtyard 7 at night
 {% endfigure %}
 
-The [courtyard](http://www.tripadvisor.co.uk/Hotel_Review-g294212-d1141369-Reviews-Courtyard_7-Beijing.html) is an escape from the hustle and bustle outside, in its tranquility it's easy to forget the enormous city you're in. The courtyard is a 300 year old original, surrounded in red-beamed grey-tiled historic rooms, each furnished with Chinese antiques.
+The [courtyard](https://www.tripadvisor.co.uk/Hotel_Review-g294212-d1141369-Reviews-Courtyard_7-Beijing.html) is an escape from the hustle and bustle outside, in its tranquility it's easy to forget the enormous city you're in. The courtyard is a 300 year old original, surrounded in red-beamed grey-tiled historic rooms, each furnished with Chinese antiques.
 
 From reception you pass through a stone arch into a small yard with a restaurant. Through another wooden gate and you're faced with a beautiful walled courtyard, one room either side. We had been given a free upgrade, and through a small arch at the back we found our room, with its private courtyard, rocking chair, Chinese paintings and delightful fittings — golden fabrics, wood panelled bathroom and sauna, traditional bed and curtains.
 

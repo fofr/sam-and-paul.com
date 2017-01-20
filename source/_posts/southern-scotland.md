@@ -16,7 +16,7 @@ page: 1
 We booked only three days of our two week trip to The North – one week of that we planned to spend in Scotland. After our [astrophotography night at Kielder](/2015/09/kielder-northumberland/2/) we’d be staying in Thornhill, then we’d travel onto Coursewall Lighthouse near to Stranraer. That route, from East to West across Scotland would hopefully reveal some places of interest, which we’d return to. The route from A to B wasn’t planned, and we mostly navigated by terrain; where the maps showed big valleys, lakes or hills – that’s where we’d drive. We avoided main roads and actively searched for things to photograph.
 
 {% figure southern-scotland-loch-skeen.jpg landscape %}
-[Loch Skeen](http://paulhayes.photography/2015-09/loch-skeen/)
+[Loch Skeen](https://paulhayes.photography/2015-09/loch-skeen/)
 {% endfigure %}
 
 ## From Kielder to Hawick, to Moffat and Thornhill
@@ -55,7 +55,7 @@ Driving through gorgeous scenery is slow, at every interesting point you have to
 
 From St Mary’s Loch the hills grow taller and begin to roll. Shortly you climb up, and then descend into a deep exhilarating valley. At the foot of this valley is the Grey Mare’s Tale, a tall waterfall and vertiginous hike to a remote loch. We weren’t going to attempt it in this weather, but we’d be back.
 
-<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--video"><div class="video-wrapper"><iframe class="vimeo" src="http://player.vimeo.com/video/153598754" width="620" height="413" frameborder="0"></iframe></div><figcaption class="generated-figure-caption">Video of the drive down to Grey Mare’s Tale</figcaption></figure>
+<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--video"><div class="video-wrapper"><iframe class="vimeo" src="https://player.vimeo.com/video/153598754" width="620" height="413" frameborder="0"></iframe></div><figcaption class="generated-figure-caption">Video of the drive down to Grey Mare’s Tale</figcaption></figure>
 
 ### Dalveen Pass
 

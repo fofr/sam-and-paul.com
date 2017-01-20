@@ -13,7 +13,7 @@ pages: 5
 page: 1
 ---
 
-<!-- As with our trip to Sozopol, Bulgaria, I'm taking a quick moment out of a few days to recant our recent tails. Those lucky enough to find this rare and valuable hard copy will note the delightful [Molyvos](http://en.wikipedia.org/wiki/Molyvos) image on the front of this book. -->
+<!-- As with our trip to Sozopol, Bulgaria, I'm taking a quick moment out of a few days to recant our recent tails. Those lucky enough to find this rare and valuable hard copy will note the delightful [Molyvos](https://en.wikipedia.org/wiki/Molyvos) image on the front of this book. -->
 
 {% figure molyvos-harbour.JPG landscape %}
 Molyvos harbour on the island of Lesvos
@@ -21,7 +21,7 @@ Molyvos harbour on the island of Lesvos
 
 ## London to Lesbos
 
-Rewinding to last Wednesday, I left the office amidst a flurry of work for two weeks, lugging my suitcase behind. In West Ewell, after crossing London, we ate Sam's risotto of "things left in the fridge", I watched Man Utd nervously and luckily win the Champions League against Chelsea whilst Sam hurriedly tried to remember all the things she might forget. Come 3:45am, the serenade of my phone alarm assaults us and throws us out of bed, diving into suitcases to triple check our tickets and passports - before being whisked to Gatwick by Sam's mum for our 7:00am flight to [Mitilene](http://en.wikipedia.org/wiki/Mitilene), the [Lesbos](http://en.wikipedia.org/wiki/Lesbos) capital, via First Choice airlines.
+Rewinding to last Wednesday, I left the office amidst a flurry of work for two weeks, lugging my suitcase behind. In West Ewell, after crossing London, we ate Sam's risotto of "things left in the fridge", I watched Man Utd nervously and luckily win the Champions League against Chelsea whilst Sam hurriedly tried to remember all the things she might forget. Come 3:45am, the serenade of my phone alarm assaults us and throws us out of bed, diving into suitcases to triple check our tickets and passports - before being whisked to Gatwick by Sam's mum for our 7:00am flight to [Mitilene](https://en.wikipedia.org/wiki/Mitilene), the [Lesbos](https://en.wikipedia.org/wiki/Lesbos) capital, via First Choice airlines.
 
 We booked the holiday and flights through First Choice two months in advance for £850, choosing to stay at the Sun Rise Hotel, next to Molyvos, in North Lesbos.
 

@@ -15,7 +15,7 @@ page: 1
 
 ## Drive to Huanglong
 
-After our traditional Tibetan breakfast ([butter tea](http://en.wikipedia.org/wiki/Butter_tea) with barley — not recommended) in [Songpan](/2014/09/songpan-china/), and an anxious wait for our delayed driver (there had been an accident), we checked out and drove into the Sichuan mountains to visit Huanglong national park.
+After our traditional Tibetan breakfast ([butter tea](https://en.wikipedia.org/wiki/Butter_tea) with barley — not recommended) in [Songpan](/2014/09/songpan-china/), and an anxious wait for our delayed driver (there had been an accident), we checked out and drove into the Sichuan mountains to visit Huanglong national park.
 
 Songpan is already at an altitude of 3000m, but the route kept climbing higher and higher. Our driver stopped and offered us something on the way — all in Chinese we couldn't fathom what it was, we turned him down but later realised it was probably something for altitude sickness. We felt a little light headed, and I noticed a quickened heart rate, but otherwise we were fine, except perhaps for Sam's panicking that we wouldn't be. She stopped worrying when the beautiful sight of mountaintops shrouded in mist appeared, and in the bitterly cold wind we stopped to get some photos.
 
@@ -25,7 +25,7 @@ Route X120 through Min mountains to Huanglong
 
 ## Huanglong national park
 
-The drive was only about an hour and soon we'd arrived at [Huanglong](http://en.wikipedia.org/wiki/Huanglong,_Sichuan), a place famed for its bright blue rock pools created from calcite deposits. It's a UNESCO world heritage site. With charades we agreed a pick up time and place with our driver and headed up the mountain in a cable car. Its best to start from the top and work your way down, especially given how much more difficult it is hiking up hill at these altitudes.
+The drive was only about an hour and soon we'd arrived at [Huanglong](https://en.wikipedia.org/wiki/Huanglong,_Sichuan), a place famed for its bright blue rock pools created from calcite deposits. It's a UNESCO world heritage site. With charades we agreed a pick up time and place with our driver and headed up the mountain in a cable car. Its best to start from the top and work your way down, especially given how much more difficult it is hiking up hill at these altitudes.
 
 From the cable car station there's a magnificent vista of the Min mountain range. It looks out on Route X120 which we'd meandered down to reach the park. The range itself sits on the edge of the Tibetan plateau. Chinese tourists jostle on the wooden platform to get the best spot for selfies and pictures taken with an iPad. Nearby there's the first of many oxygen bars for those suffering with altitude sickness, and of course there was a shop selling panda merchandise, as is custom all over Sichuan province.
 
@@ -115,4 +115,4 @@ The road follows a river down the mountain, and at times the two are very close.
 
 At 3am we neared Lamagang, where the source of the trouble had started. The river had actually burst its banks here, and an emergency dam had been built. Traffic was being redirected around the flooded road on a dirt track up a hill. The army and police were here controlling the one-way flow, but the villagers were out in force too. As cars revved and slipped trying to climb the worsening muddy road they helped in groups, pushing from behind to get them up and over, one at a time. I can't imagine how any of the buses could get through that.
 
-Then the traffic was gone, another 30mins and we were at our plush hotel [New Jiuzhai Hotel](http://www.tripadvisor.co.uk/Hotel_Review-g303770-d505753-Reviews-New_Jiu_Zhai_Hotel-Jiuzhaigou_County_Sichuan.html), checking in. Our legendary driver told us he'd pick us up for our park tour at 9:30am the next morning, and by 4am we were asleep in our hotel beds. Just an hour earlier we expected to be in the car all night, to be too tired for our Jiuzhaigou park tour and that the whole trip might have been in vain. The whole trip was just shy of 11 hours. No food or toilet stops throughout.
+Then the traffic was gone, another 30mins and we were at our plush hotel [New Jiuzhai Hotel](https://www.tripadvisor.co.uk/Hotel_Review-g303770-d505753-Reviews-New_Jiu_Zhai_Hotel-Jiuzhaigou_County_Sichuan.html), checking in. Our legendary driver told us he'd pick us up for our park tour at 9:30am the next morning, and by 4am we were asleep in our hotel beds. Just an hour earlier we expected to be in the car all night, to be too tired for our Jiuzhaigou park tour and that the whole trip might have been in vain. The whole trip was just shy of 11 hours. No food or toilet stops throughout.

@@ -12,7 +12,7 @@ pages: 3
 page: 1
 ---
 
-Here I am in Bulgaria on our first warm evening (Monday). I have decided to write this blog entry as I go so that at the end of it all I won't have to spend forever trying to recall all the fine little details. My girlfriend and I, who I shall from hereon refer to as Samantha, caught a flight from the over-secure queue riddled Gatwick airport via Thompson holidays, to Bourgas airport - a large city on the black sea coast in Bulgaria. From here we travelled by taxi through thunderous downpours to the old old town of [Sozopol](http://en.wikipedia.org/wiki/Sozopol) (610 BC) and its sprawling new town Harmanite.
+Here I am in Bulgaria on our first warm evening (Monday). I have decided to write this blog entry as I go so that at the end of it all I won't have to spend forever trying to recall all the fine little details. My girlfriend and I, who I shall from hereon refer to as Samantha, caught a flight from the over-secure queue riddled Gatwick airport via Thompson holidays, to Bourgas airport - a large city on the black sea coast in Bulgaria. From here we travelled by taxi through thunderous downpours to the old old town of [Sozopol](https://en.wikipedia.org/wiki/Sozopol) (610 BC) and its sprawling new town Harmanite.
 
 ![/images/sozopol/DSC03757.JPG](/images/sozopol/DSC03757.JPG)
 
@@ -66,7 +66,7 @@ The GBP-BLG exchange rate is favourable to the strong pound. At the time of writ
 
 ## Panorama St. Ivan restaurant
 
-Our trip to Ropotamo cost us 40lv, only £7.50 each. And here is a good place to talk about the food! Saturday night we ate at &quot;Panorama St. Ivan&quot; that offered an outside sea view of the island opposite our hotel. We opened our banqueting with a shared dish of shrimp, we snapped back their heads and sucked out their innards whilst rolling them in a hoi-sin like sauce or butter. This was accompanied by a sweet house white wine. For the main course Sam ate a shark fillet steak with salad garnish and I had a  [Wiener Schnitzel](http://en.wikipedia.org/wiki/Wiener_schnitzel) - an odd looking but tasty pork dish with potatoes. All this cost us only £7.50 each.
+Our trip to Ropotamo cost us 40lv, only £7.50 each. And here is a good place to talk about the food! Saturday night we ate at &quot;Panorama St. Ivan&quot; that offered an outside sea view of the island opposite our hotel. We opened our banqueting with a shared dish of shrimp, we snapped back their heads and sucked out their innards whilst rolling them in a hoi-sin like sauce or butter. This was accompanied by a sweet house white wine. For the main course Sam ate a shark fillet steak with salad garnish and I had a  [Wiener Schnitzel](https://en.wikipedia.org/wiki/Wiener_schnitzel) - an odd looking but tasty pork dish with potatoes. All this cost us only £7.50 each.
 
 ![/images/sozopol/DSC03773.JPG](/images/sozopol/DSC03773.JPG)
 
