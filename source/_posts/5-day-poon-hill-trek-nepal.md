@@ -33,6 +33,18 @@ Sam was feeling unwell, so we delayed the trek a few days – opting to postpone
 
 We booked our guide and porter through Pavilions – paying at the end, they arranged transportation, and we would pay for meals and accommodation as we travelled – organised by our guide. We budgeted for 4,000Rs each, per day. We spent about half that – about $20 per person. That covered accommodation, breakfast, lunch and dinner. Big D and Harri were excellent and we were thankful that Pavilions had put us in contact with them.
 
+## Total trek
+
+44.7 miles (72km) over 36.5 hours
+Total climb: 15,829 feet, 4,824m
+Total descent: 15,781 feet,  4,810m
+Minimum Elevation: 3275 feet, 998m
+Maximum Elevation: 10505 feet, 3201m
+
+[Google Map](https://www.google.com/maps/d/viewer?mid=1dC0yPGSBHW7XqiFMtAcSv2ytTAw&ll=28.360177022546626%2C83.77287571423335&z=12) showing the GPS data from our 5 day trek
+
+<!-- <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--map"><div class="video-wrapper"><iframe src="https://www.google.com/maps/d/embed?mid=1dC0yPGSBHW7XqiFMtAcSv2ytTAw" width="640" height="480"></iframe></div><figcaption class="generated-figure-caption"></figcaption></figure> -->
+
 ## Trek Day 1 – Nayapul to Ulleri
 
 8 miles over 6h38
@@ -57,7 +69,7 @@ We stopped for lunch at “Mountain Lodge & Restaurant”. A little terrace over
 
 Refuelled with rice we pressed on, following the road as far as it would take us. Near Hile the jeeps sit and wait for their exhausted trekkers; the path splits off from the road, and we’re now hiking along stone paths, beneath trees, “the real trekking begins”, Big D says. Big D strikes up a conversation with every Nepali we pass, in Hile he left groups of them in tears of laughter; he leaves joy in his wake. Harri, our porter, always just behind.
 
-## Dreaded steps of Ulleri
+### Dreaded steps of Ulleri
 
 After a juice stop in Tikhedhungga, and with Samantha already looking weary – we found ourselves at the foot of a giant hill. The end of day 1 lay at the top, in Ulleri. 3,500 stone steps, a 500m climb, stood in the way of bed and food. At least we wouldn’t be destroying our knees coming down, we told ourselves. “Slowly, slowly”, Big D reminded us. We began the ascent.
 
@@ -71,7 +83,7 @@ When the path zig-zags back there’s an occasional shop; exhausted, tired and f
 
 I feel like I could describe the climb in a similar way to the arduous journey Frodo takes in The Two Towers; but that could be an exaggeration. We didn’t find any giant spiders afterall. Slowly, slowly, we climbed. The large Thai group we met at lunch walked with us, we’d pass them, they’d pass us; a friendly leapfrog at every rest point. Looking down the hill we could see the progress we’d made, now dizzyingly high above the river. At long last, a sign: “Welcome to Ulleri”. We were here. We’d made it. This stretch of stone steps was the hardest part of the 5 days, not least because our bags were too heavy.
 
-## Time to rest
+### Time to rest
 
 Big D checked us into “Majestic Guest House & Restaurant”, room 19. A little wooden room looking out over the hill, we had our own European bathroom and sit-down toilet. We collapsed onto our beds; the mattress was comfy, the duvets warm. We didn’t bring sleeping bags – Big D said we could always ask for more sheets, he was right.
 
