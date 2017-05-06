@@ -41,9 +41,9 @@ Total descent: 15,781 feet,  4,810m
 Minimum Elevation: 3275 feet, 998m
 Maximum Elevation: 10505 feet, 3201m
 
-[Google Map](https://www.google.com/maps/d/viewer?mid=1dC0yPGSBHW7XqiFMtAcSv2ytTAw&ll=28.360177022546626%2C83.77287571423335&z=12) showing the GPS data from our 5 day trek
-
-<!-- <figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--map"><div class="video-wrapper"><iframe src="https://www.google.com/maps/d/embed?mid=1dC0yPGSBHW7XqiFMtAcSv2ytTAw" width="640" height="480"></iframe></div><figcaption class="generated-figure-caption"></figcaption></figure> -->
+{% figure nepal-trek-total-distance.jpg landscape %}
+Our 5 day trek route. [Google Map](https://www.google.com/maps/d/viewer?mid=1dC0yPGSBHW7XqiFMtAcSv2ytTAw&ll=28.360177022546626%2C83.77287571423335&z=12) showing the GPS data from our 5 day trek.
+{% endfigure %}
 
 ## Trek Day 1 – Nayapul to Ulleri
 
@@ -57,23 +57,67 @@ After a fine cooked breakfast we left our hotel, waving goodbye to civilisation.
 
 We were fresh faced and ready for the challenge but soon realised our day bags had too much in them. We’d re-organise tomorrow, I probably didn’t need to carry that 1kg bird book. Those that passed us were at the end, red and sweaty, they walked slower, tired but incredibly happy; one exhausted lady asked, “Nayapul? Are we near?”, when Big D replied “2 minutes”, her face was a picture – she marched off with renewed energy.
 
+{% figure nepal-trek-crossing-first-bridge.jpg portrait %}
+Samantha crossing the first bridge
+{% endfigure %}
+
 ### The road to Hile
 
 On the outskirts of Nayapul a large sign welcomed us to the Annapurna Conservation Area. It asked us to trek gently, to not disturb wildlife, to carry out what we carry in, and to avoid using pollutants – like detergent. We crossed a couple of steel bridges and reached Birethanti, and our first TIMS (Trekkers' Information Management System) checkpoint. Big D had our little booklets with our passport photos, and he handled all the paperwork. Here the road forks, to the right – the shortest route to Annapurna Base Camp, and the Poon Hill circuit anti-clockwise. We’d go left – a quicker route to Poon Hill, doing the route clockwise and taking on the dreaded steps of Ulleri.
 
+{% figure nepal-trek-annapurna-conservation-area.jpg landscape %}
+Annapurna Conservation Area
+{% endfigure %}
+
 From Birethanti we followed the gravel road up and around, through the villages of Matathanti and Lamdawali. The day was hot, and our views were limited by the grey haze. Lazy dogs slept on the hot stone walls. The heat left us coated in sweat. We hiked in just shorts and shirts, our bags hung heavy, our bodies clammy. We’d packed heavy jumpers and coats; right now it didn’t feel like we’d need them.
+
+{% figure nepal-trek-sam-with-walking-sticks.jpg landscape %}
+Samantha in full hiking mode
+{% endfigure %}
+
+{% figure nepal-trek-sam-and-paul-on-rock.jpg portrait %}
+Sam and Paul resting on a rock
+{% endfigure %}
+
+{% figure nepal-trek-big-d.jpg portrait %}
+Big D enjoying the views
+{% endfigure %}
 
 For a while we followed the road, an occasional 4x4 passed us – carrying trekkers home. All along the route there were lodges, restaurants and toilets. A man scrambled in the bushes below us, picking wild asparagus for tonight’s dinner. In the dry Bhurungdi riverbed they prepped a new bridge, it must be finished before the monsoon season in June.
 
 We stopped for lunch at “Mountain Lodge & Restaurant”. A little terrace overlooked the river where a Thai trekking group were sharing tea. We sat in the gardens – mustard seeds were spread out on metal trays to dry in the sun, [a butterfly flitted by](http://www.projectnoah.org/spottings/339278313) – its outer wings perfectly camouflaged like a dead leaf. Wild cannabis grew in the corner, like a weed. Time for our first meal, we weren’t sure what to expect. Big D was our waiter – he brought menus, took orders and brought food; a staple veg fried rice and dal bhat washed down with a sprite was just right, about 800Rs in total. We were also pleasantly surprised to find a western toilet – perhaps we wouldn’t have to master squatting with tired thighs.
 
+{% figure nepal-trek-day-1-lunch-stop.jpg landscape %}
+Mountain Lodge & Restaurant
+{% endfigure %}
+
+{% figure nepal-trek-oak-leaf-butterfly.jpg landscape %}
+[Oak leaf butterfly](http://www.projectnoah.org/spottings/339278313)
+{% endfigure %}
+
+{% figure nepal-trek-weeds.jpg landscape %}
+“Weeds”
+{% endfigure %}
+
 Refuelled with rice we pressed on, following the road as far as it would take us. Near Hile the jeeps sit and wait for their exhausted trekkers; the path splits off from the road, and we’re now hiking along stone paths, beneath trees, “the real trekking begins”, Big D says. Big D strikes up a conversation with every Nepali we pass, in Hile he left groups of them in tears of laughter; he leaves joy in his wake. Harri, our porter, always just behind.
+
+{% figure nepal-trek-off-road-panorama.jpg landscape %}
+Leaving the road and civilisation behind at Hile
+{% endfigure %}
 
 ### Dreaded steps of Ulleri
 
 After a juice stop in Tikhedhungga, and with Samantha already looking weary – we found ourselves at the foot of a giant hill. The end of day 1 lay at the top, in Ulleri. 3,500 stone steps, a 500m climb, stood in the way of bed and food. At least we wouldn’t be destroying our knees coming down, we told ourselves. “Slowly, slowly”, Big D reminded us. We began the ascent.
 
+{% figure nepal-trek-starting-the-steps-to-ulleri.jpg landscape %}
+To Ulleri!
+{% endfigure %}
+
 Locals hopped by in flip-flops, porters with heavy bags passed us with ease; downhill groups came carefully – using walking sticks to protect their legs; a procession of donkeys came by too – their bells clambering as they negotiated the zig-zagged path. A good excuse to rest as we let them pass. Big D struck up a conversation with some Koreans, they were clearly delighted to find someone who spoke Korean.
+
+{% figure nepal-trek-donkeys-on-ulleri-steps.jpg landscape %}
+Donkeys on the steps to Ulleri
+{% endfigure %}
 
 My tactic was to climb quickly, to limit the time I’d carry the bag on my back, and to take longer rests inbetween. Samantha, red faced, travelled slowly but surely, gradually offloading her bag and weight to our guide and porter as she began to struggle.
 
@@ -81,11 +125,23 @@ At times this trek felt like hiking the fantasy world of Hyrule in Legend of Zel
 
 When the path zig-zags back there’s an occasional shop; exhausted, tired and feeling like we were almost there – we stopped at one to rest. “Half way”, Big D tells us. We couldn’t comprehend another 1,700 steps. We bought water and recouped, Sam looked like she might keel over – we dug into our rations, a good time for a Snickers bar. From hereon she’d climb without a bag. And onwards again.
 
-I feel like I could describe the climb in a similar way to the arduous journey Frodo takes in The Two Towers; but that could be an exaggeration. We didn’t find any giant spiders afterall. Slowly, slowly, we climbed. The large Thai group we met at lunch walked with us, we’d pass them, they’d pass us; a friendly leapfrog at every rest point. Looking down the hill we could see the progress we’d made, now dizzyingly high above the river. At long last, a sign: “Welcome to Ulleri”. We were here. We’d made it. This stretch of stone steps was the hardest part of the 5 days, not least because our bags were too heavy.
+{% figure nepal-trek-ulleri-final-steps.jpg landscape %}
+The final steps up to Ulleri
+{% endfigure %}
+
+I feel like I could describe the climb in a similar way to the arduous journey Frodo takes in The Two Towers; but that could be an exaggeration. We didn’t find any giant spiders after all. Slowly, slowly, we climbed. The large Thai group we met at lunch walked with us, we’d pass them, they’d pass us; a friendly leapfrog at every rest point. Looking down the hill we could see the progress we’d made, now dizzyingly high above the river. At long last, a sign: “Welcome to Ulleri”. We were here. We’d made it. This stretch of stone steps was the hardest part of the 5 days, not least because our bags were too heavy.
+
+{% figure nepal-trek-welcome-to-ulleri.jpg landscape %}
+Welcome to Ulleri
+{% endfigure %}
 
 ### Time to rest
 
 Big D checked us into “Majestic Guest House & Restaurant”, room 19. A little wooden room looking out over the hill, we had our own European bathroom and sit-down toilet. We collapsed onto our beds; the mattress was comfy, the duvets warm. We didn’t bring sleeping bags – Big D said we could always ask for more sheets, he was right.
+
+{% figure nepal-trek-day-1-lodge.jpg landscape %}
+Room 19 in Majestic Guest House & Restaurant
+{% endfigure %}
 
 Around a log burner fire we ate dinner; veg fried noodles, hash brown potatoes and chicken fried rice; we devoured the carbs and I celebrated with an “Everest” beer, which I let Harri finish (1710Rs in total, 500Rs for the beer). An Argentine couple joined us, and Big D named all his favourite Argentinian footballers – Ronaldo and Pelé, he jested.
 
