@@ -1,5 +1,5 @@
 title: 'Pokhara, Nepal'
-subtitle: ''
+subtitle: 'Before and after our trek'
 tags:
   - nepal
   - asia
@@ -7,11 +7,15 @@ tags:
   - ultralight
   - trekking
 date: 2017-03-23
-pages: 4
+pages: 5
 page: 1
 ---
 
-We left Kathmandu on the 7:30am Greenline bus, on an arduous and bumpy trip across Nepal to Pokhara. It took 2 hours to escape the sprawling urban mass that is modern day Kathmandu. Roads strained with traffic, great colourful trucks squeezed through narrow gaps, buses drove side by side, every hill a bottleneck. All stop for a cow in the road. We turned up the aircon and tried not to get travel sick.
+We left [Kathmandu](/2017/03/kathmandu-nepal/) on the 7:30am Greenline bus, on an arduous and bumpy trip across Nepal to Pokhara. It took 2 hours to escape the sprawling urban mass that is modern day Kathmandu. Roads strained with traffic, great colourful trucks squeezed through narrow gaps, buses drove side by side, every hill a bottleneck. All stop for a cow in the road. We turned up the aircon and tried not to get travel sick.
+
+{% figure nepal-pokhara-greenline.jpg landscape %}
+Travelling on Greenline coaches to Pokhara
+{% endfigure %}
 
 It took 8h30 to cover 125 miles. Outside the city the roads became a sluggish procession of buses and trucks around the winding hilltops. No terrain in Nepal is easy.
 
@@ -29,6 +33,14 @@ As the bashed up silver Suzuki left, the staff started lugging our bags up the s
 
 Thankfully when we asked to move rooms the next morning they obliged us. Switched to a deluxe room with a lake view, away from the construction, it was like another place and we were very happy.
 
+{% figure nepal-pokhara-hotel-middle-path.jpg landscape %}
+Our upgraded room at Hotel Middle Path
+{% endfigure %}
+
+{% figure nepal-pokhara-panorama-from-middle-path.jpg landscape %}
+Panorama from Middle Path rooftop
+{% endfigure %}
+
 The hotel is a short walk from Lakeside, the epicentre of tourism in Pokhara. Guides and tour companies sit between North Face outlets and all the world’s food in cheap to pricey restaurants. It has paths and paved roads, popping to the shops isn't a death wish. It's probably the most upmarket street in Nepal.
 
 Vendors sell fresh orange juice, cows wander the streets, and locals offer boat trips on the lake. Hills surround the water, and high above is the World Peace Pagoda, white against green, it looks over everyone.
@@ -39,10 +51,26 @@ Tonight we followed the curve of the lake around the street lit road to Caffe Co
 
 Our itinerary was intentionally left open, we wanted to be flexible once we'd reached Pokhara. After 2 nights at Middle Path nothing else was booked. Top of the list: start a trek, and maybe some paragliding too. And decide where to stay next.
 
+{% figure nepal-pokhara-streets.jpg landscape %}
+The streets of Pokhara
+{% endfigure %}
+
 Under blue skies and fluffy clouds we strolled through town. I booked an ultralight flight into the Annapurna range with Avia Club Nepal — fingers crossed for good weather tomorrow morning, and Sam found the Nepali fiction she was after. At Boomerang, a cafe and garden besides the lake, we ate fried rice and borrowed wifi. Crows tried to steal our carbs.
 
 Paragliders circled on the thermals, like birds of prey they clung to the sky. The clouds in the North had cleared, and from nowhere the mountain peaks of Machapuchare and Annapurna appeared. We hadn't expected them to be there, these views of distant snow capped peaks were a delightful surprise.
 
+{% figure nepal-pokhara-fishtail.jpg landscape %}
+Fishtail peak as seen from Hotel Middle Path rooftop
+{% endfigure %}
+
 We hunted online for good local trekking agencies, and spent a couple of hours making enquiries at their offices. So many options. But Sam didn't feel well, and the thought of starting a trek while sick meant we postponed our search. We'd get around to it, but next - perhaps some luxury and relaxation, we booked The Pavilions Himalayas hotel and forgot about sweaty exertion for a while. We also picked up a local SIM card at an Internet cafe.
 
 Tired from staring at maps and Trip Advisor reviews, we crossed town to natssul, Sam’s first Korean restaurant. Over a wooden table with hot lemon and chopsticks I introduced her to the wonders of bibmibab and kimchi.
+
+{% figure nepal-pokhara-natssul-bibmibab.jpg landscape %}
+Paul and his bibmibab
+{% endfigure %}
+
+{% figure nepal-pokhara-natssul.jpg landscape %}
+natssul restaurant
+{% endfigure %}

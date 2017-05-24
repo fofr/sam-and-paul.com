@@ -97,6 +97,8 @@ Next morning we towed our backpacks-with-wheels to the coach stop. The hotelier 
 
 From Kathmandu it would be an 8h30 coach ride to Pokhara.
 
+__[Pokhara, Nepal →](/2017/03/pokhara-nepal/)__
+
 {% figure nepal-kathmandu-at-night.jpg portrait %}
 Thamel at night
 {% endfigure %}
