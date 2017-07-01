@@ -17,16 +17,17 @@
   {% endyt %}
 */
 
-var youtube_jsdom = require('jsdom').jsdom,
-    youtube_window = youtube_jsdom("").parentWindow,
-    youtube_$ = require('jquery')(youtube_window);
+const jsdom = require("jsdom");
+const { JSDOM } = jsdom;
+const { window } = new JSDOM("");
+var $ = require('jquery')(window);
 
 hexo.extend.tag.register('yt', function(args, content) {
 
   var render = hexo.render,
       id = args[0],
       markdownCaption = render.renderSync({text: content, engine: 'markdown'}),
-      renderedCaption = youtube_$(markdownCaption).unwrap().html(); //remove wrapping paragraph element
+      renderedCaption = $(markdownCaption).unwrap().html(); //remove wrapping paragraph element
 
   return '<figure class="generated-figure generated-figure--retina generated-figure--620 generated-figure--video"><div class="video-wrapper"><iframe class="youtube" src="https://www.youtube.com/embed/'+ id +'" width="620" height="349" frameborder="0"></iframe></div><figcaption class="generated-figure-caption">'+ renderedCaption + '</figcaption></figure>';
 
