@@ -12,7 +12,7 @@ site_build: local
 # URL
 url: https://sam-and-paul.com
 root: /
-permalink: :year/:month/:title/
+permalink: :title/
 tag_dir: tag
 archive_dir: archive
 category_dir: category
