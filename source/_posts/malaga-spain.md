@@ -66,3 +66,96 @@ Still overcast, but with a break in the rain, me, Sam, Amanda and baby Conway to
 For the remainder of the day we sheltered at Amanda’s flat, where we slept, watched Snatch, some episodes of Friends and cooked stir fried rice.
 
 ---
+
+[Cortijo de Pepe](https://www.cortijodepepe.com/)
+
+{% menu %}
+* Gambas al pil-pil (garlic prawns) x2
+* Pulpito (a small Octopus)
+* Iberian ham (Jamon iberico)
+* Manchego cheese (Queso manchego)
+{% endmenu %}
+
+---
+
+[La Chancla Hotel](http://www.lachanclahotel.com/hotel-overview.html)
+
+{% menu %}
+* Chicken noodles
+* Bravas
+* Iberica
+* Caipirinha
+* Mojito sin Alcohol
+{% endmenu %}
+
+---
+
+[Marisqueria Godoy](http://www.marisqueriagodoy.com/)
+
+{% menu %}
+
+{% endmenu %}
+
+---
+
+Kelucos for breakfast
+
+[La Chancla Hotel](http://www.lachanclahotel.com/hotel-overview.html)
+
+{% menu %}
+* Burger
+* Club sandwich
+* Caipirinha
+* Mojito sin Alcohol
+{% endmenu %}
+
+---
+
+[Brunchit España](http://www.brunchit.es/)
+
+{% menu %}
+* Flat white x2
+* AMERICAN WAFFLES: Artisan waffles with smoked bacon, tomato, melted mozzarella and avocado
+* SUPER NORDIC: Artisan seeded bagel, smoked salmon, sweet apple and avocado with oven-baked baby potatoes
+{% endmenu %}
+
+Castillo de Gibralfaro
+
+[El Ambigú de la Coracha](http://elambigudelacoracha.com/)
+
+{% menu %}
+* Cod well breaded orly of smoked paprika (Bacalao bien rebozado orly de pimentón ahumado)
+* Tuna tataky with avocado and wasabi (Tataky de atún con aguacate y wasabi)
+* Roasted squid with arugula noodles and aioli (Calamar asado con fideos y alioli de rúcula)
+{% endmenu %}
+
+Terraza el Balneario
+
+---
+
+Tejeringo's Coffee
+
+### El Pimpi
+
+{% menu %}
+* Warm duck, confit pears and walnut salad (Ensalada templada de pato con peras confitadas y nueces)
+* Homemade Spanish-style potato omelette (Tortilla de patatas de la casa)
+* Seafood paella (Paella de “La Caleta”)
+* Crispy breadcrumb parcel of iberian ham, loin of pork and melted cheese (Flamenquín ibérico jugoso con queso curado)
+* Floresti (sweet wine & soda)
+{% endmenu %}
+
+### Pez Tomillo
+
+{% menu %}
+* The best olives x2
+* Andalusian croquettes with alioli
+* Salmorejo – chilled tomato soup from cordoba
+* Yakitori chicken with sautéed bulgur and Peruvian aji sauce
+* Egg in its shell(slightly poached egg fried in tempura with mushroom and truffle oil sauce)
+* Oxtail with chef’s special potato foam
+* Tacos de cochinita pi-bil
+* Manzanilla papirusa (sherry)
+* Sauci Vermut (vermouth)
+* Alhambra Roja (beer)
+{% endmenu %}
