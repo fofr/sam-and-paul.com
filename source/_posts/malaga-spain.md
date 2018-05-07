@@ -141,7 +141,11 @@ That night Amanda joined Samantha and Conway at [Pez Tomillo](https://www.tuhoga
 
 ---
 
-[Brunchit España](http://www.brunchit.es/)
+With Amanda now at work, we took the opportunity to look around Malaga without a chaperone. In the glorious sunshine we pushed Conway through the tiled streets. Today was international women’s day, and a mass women’s strike was happening in the centre; though we couldn’t read the signs and didn’t understand their words we learnt the details only later when we Googled them.
+
+Away from the chants in the square, we searched for a place to have churros, but besides the sprawling churros place, which was imminently closing, we found the quaint but cosmopolitan [Brunchit España](http://www.brunchit.es/).
+
+At a little wooden table besides the window we devoured our delectable brunch:
 
 {% menu %}
 * Flat white x2
@@ -149,9 +153,15 @@ That night Amanda joined Samantha and Conway at [Pez Tomillo](https://www.tuhoga
 * SUPER NORDIC: Artisan seeded bagel, smoked salmon, sweet apple and avocado with oven-baked baby potatoes
 {% endmenu %}
 
-Castillo de Gibralfaro
+With our bellies sated and Conway’s nappy and clothes clean, we ventured towards Castillo de Gibralfaro and the great hill that it sits upon. We gambled on being able to get up there with a buggy, and as we began our ascent we assumed that at some point the road would turn to steps and we’d need to stop.
 
-[El Ambigú de la Coracha](http://elambigudelacoracha.com/)
+The road winded, back and forth, snaking up the hill, the gradient steepening with each twist. I push Conway and our laden bags at a 45 degree angle up the hill, my head below the handle, my Converses offering little grip on the path. In hindsight this may not have been the best idea. But we persisted, and little by little we made it to the top. Of course there’s a bus that can bring you up to the top too, and we only discovered this afterward, but then where’s the adventure in that.
+
+From the little kiosk we had cold soft drinks and ice cream, and talked about Malaga’s inclement weather with some Germans. It’s easy to make friends when you’re with a baby. The views out across the city, mountains, port and sea were astounding.
+
+Refreshed, the sweat cleaned from our brows, we ventured to the castle’s entrance to find that the place couldn’t be navigated with a buggy, and it was too pricey to gamble. We returned the way we came, the downward journey a little more treacherous, one of us always standing in front of the other, ready to catch a runaway stroller should the worst happen.
+
+On a small veranda with good views we discovered [El Ambigú de la Coracha](http://elambigudelacoracha.com/), an upmarket tapas restaurant, and as Conway was having his mid-afternoon nap we indulged.
 
 {% menu %}
 * Cod well breaded orly of smoked paprika (Bacalao bien rebozado orly de pimentón ahumado)
@@ -159,13 +169,19 @@ Castillo de Gibralfaro
 * Roasted squid with arugula noodles and aioli (Calamar asado con fideos y alioli de rúcula)
 {% endmenu %}
 
-Terraza el Balneario
+There was a small descent and a herd of cats to navigate before we were at sea level. Out over the mountains heavy clouds formed which the low sun pierced through with burning rays. Without a telephoto lens and tripod we settled at Terraza el Balneario to watch the drama of sunset unfold over a sweet Malaga wine.
 
 ---
 
-Tejeringo's Coffee
+For our final day in Malaga we met up with Mitch and Amanda at Tejeringo's Coffee for the much discussed Spanish speciality, churros. Amidst the busy morning tables I held onto a table for 4 with the pram, while waiting for everyone else to arrive – with Sam in the loo the waitress kept returning to ask if more were coming.
+
+Three churros each might have been one too many, my belly felt the way it does after you’ve eaten too much sugar. The dipping chocolate didn’t help.
+
+Samantha and Amanda spent some time together at the Turkish baths while I looked after Conway; we sat outside in the sunshine, sipping coffee and listening to live jazz at Placa de la Merced. Thankfully Conway’s poo-explosion and subsequent costume change happened just before they left me, cue a frantic but hilarious nappy change on a stone bench beneath some trees.
 
 ### El Pimpi
+
+After the baths we regrouped and ate lunch at El Pimpi, sitting where we’d sat before.
 
 {% menu %}
 * Warm duck, confit pears and walnut salad (Ensalada templada de pato con peras confitadas y nueces)
@@ -176,6 +192,8 @@ Tejeringo's Coffee
 {% endmenu %}
 
 ### Pez Tomillo
+
+This holiday really became one of enjoying as much great tapas as possible. After spending the afternoon packing while Amanda and Conway played, it was time for more awesome food. And so despite tapas at lunch, and with it being our last night, we ventured again to Pez Tomillo for _the best_ tapas in Malaga.
 
 {% menu %}
 * The best olives x2
@@ -189,3 +207,11 @@ Tejeringo's Coffee
 * Sauci Vermut (vermouth)
 * Alhambra Roja (beer)
 {% endmenu %}
+
+Conway struggled to settle in the noisy Friday night restaurant, we took turns taking him outside to the quiet and dark water’s edge, through the plume of outside smokers.
+
+That tapas was so good.
+
+---
+
+In the morning we returned to London. Bus, then a train and a flight – travelling with a baby seemed less daunting now, and we’d found time to relax and unwind in warmth, away from icy Britain. Of course having relatives nearby made it all the more easy, a perfect first step into travelling for our new family.
