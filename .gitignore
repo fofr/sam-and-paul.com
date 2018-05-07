@@ -4,8 +4,6 @@ db.json
 debug.log
 node_modules/
 public/
-.deploy/
-deploy/
 source/photo/
 _drafts/
 source/images/mougins
