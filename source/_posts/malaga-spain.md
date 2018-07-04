@@ -5,17 +5,27 @@ tags:
   - europe
   - spain
 date: 2018-03-10
-pages: 1
-page: 1
 ---
 
 ## Travelling with a baby for the first time
+
+{% figure malaga-cam-4.jpg landscape %}
+Samantha, Paul and Conway – travelling with a baby for the first time.
+{% endfigure %}
 
 What were once the adventures of Samantha and Paul are now those of Samantha, Paul and Conway. Conway is our first child and at 3 months old this would be his first trip away, and our first with a baby. Being cautious we opted for something a bit more timid than our earlier adventures; a trip to southern Spain to see where Auntie Amanda lives.
 
 We'd be gone for 10 days, a suitcase for the adults, and one for Conway – a baby must come with all his paraphernalia it seems. Clothes, nappies – reusable and disposable, toys, play mat, wipes, cotton wool, bottles and emergency formula, non-bio detergent tablets (apparently that's not a thing in Spain), changing mat, bath towel, swimwear, travel cot, cot sheets, muslins big and small, baby and room thermometer. A car seat forms part of the buggy and those two items were [free to check-in with EasyJet](http://www.easyjet.com/en/help/boarding-and-flying/flying-with-children).
 
 We booked [an Airbnb](https://www.airbnb.co.uk/rooms/12889501) (use our [invite link](https://www.airbnb.co.uk/c/paulh1525) for a discount – but also consider [the downside to Airbnb](https://www.theguardian.com/commentisfree/2018/feb/12/profiteers-killing-airbnb-erode-communities)) so we’d have the freedom of a flat with all the amenities we’d need: a kitchen to stay in and cook when we’re too tired to go out, a washing machine for emergency laundry and reusable nappies and a sofa bed for Amanda to use when she stays over. It was a one bedroom in Pedregalejo, close to the beach and with a pool (albeit one too cold to use) and next to a bus stop for the 1, 3, 33 and 34 buses into Centro. It was also near to a large SuperSol supermarket.
+
+{% figure malaga-1.jpg landscape %}
+Our Airbnb apartment in Malaga
+{% endfigure %}
+
+{% figure malaga-35.jpg landscape %}
+Conway looking content on our Airbnb sofa
+{% endfigure %}
 
 ## From Brighton to Malaga
 
@@ -25,11 +35,19 @@ At 7am we departed, wrapped up in winter layers, outside it was -5C, but with a 
 
 Amanda met us in Malaga, we boarded the train to the town centre, and then bus number 3 to Pedregalejo, less than an hour from landing and we were at our Airbnb. The sun was shining and the temperature pushed on 20C.
 
+{% figure malaga-38.jpg portrait %}
+“We’re doing this!”, Conway about to board a plane at 3 months old
+{% endfigure %}
+
 ## Food at Kelucos
 
 From out flat we were soon up and out again to find food. Along the Pedregalejo beach we found [Kelucos](https://www.tripadvisor.co.uk/Restaurant_Review-g187438-d10592940-Reviews-Kelucos-Malaga_Costa_del_Sol_Province_of_Malaga_Andalucia.html), or "orange chairs" as Samantha calls it. Inside Amanda found a friend, and we soon ordered _all the things_, beer, nachos and guac, various ham and cheese "pitufo" (a small crusty bread roll – not a Smurf), and [tomato bread](http://www.myrecipes.com/extracrispy/the-four-ingredient-spanish-breakfast-that-changed-my-life) (even though it wasn’t breakfast).
 
 We bought some groceries, ate pizza and called it a night.
+
+{% figure malaga-36.jpg landscape %}
+Relaxing at Kelucos (‘orange chairs’)
+{% endfigure %}
 
 ---
 
@@ -63,7 +81,19 @@ Still overcast, but with a break in the rain, me, Sam, Amanda and baby Conway to
 * Floresti (sweet wine & soda)
 {% endmenu %}
 
+{% figure malaga-34.jpg landscape %}
+Samantha at El Pimpi
+{% endfigure %}
+
 For the remainder of the day we sheltered at Amanda’s flat, where we slept, watched Snatch, some episodes of Friends and cooked stir fried rice, before ambling home in the damp around midnight.
+
+{% figure malaga-family-portrait.jpg portrait %}
+Family portrait at Amanda’s
+{% endfigure %}
+
+{% figure malaga-28.jpg landscape %}
+Conway looking tiny and cure on Amanda’s sofa
+{% endfigure %}
 
 ---
 
@@ -80,11 +110,39 @@ For lunch we welcomed more tapas and headed back towards the shopping precinct. 
 * Manchego cheese (Queso manchego)
 {% endmenu %}
 
+{% figure malaga-30.jpg landscape %}
+Pulpito at Cortijo de Pepe
+{% endfigure %}
+
+{% figure malaga-29.jpg landscape %}
+Amanda and Conway outside Cortijo de Pepe
+{% endfigure %}
+
 With the sun still shining, and Brighton beating Arsenal in the football, the five of us searched for the hidden lift that takes you up to [Mount Gibralfaro](https://en.wikipedia.org/wiki/Gibralfaro) and the lower level of the castle, [Alcazaba de Málaga](https://en.wikipedia.org/wiki/Alcazaba_of_M%C3%A1laga).
 
 After an emergency breastfeeding session in the shade besides the castle, we took the lift up to the top and showed Conway the sights. Carrying him, and avoiding taking the push chair through all the narrow paths and over all the bumps, we lifted him up to see the views, lowered him for a close-up of the butterflies and posed amongst the flowers; all the while other tourists stopped and smiled at us.
 
 We rounded out the wonderfully warm day at Plaza de la Merced, sitting besides Picasso’s statue eating our ice-cream from waffle cones, a specialty by the heladería Nonna.
+
+{% figure malaga-27.jpg landscape %}
+Emergency breastfeeding in Malaga
+{% endfigure %}
+
+{% figure malaga-views-from-the-castle.jpg landscape %}
+Samantha looking at the views from Alcazaba de Málaga
+{% endfigure %}
+
+{% figure malaga-21.jpg landscape %}
+In the gardens of Alcazaba de Málaga
+{% endfigure %}
+
+{% figure malaga-22.jpg landscape %}
+Plaza de la Merced
+{% endfigure %}
+
+{% figure malaga-20.jpg landscape %}
+The family and Picasso
+{% endfigure %}
 
 ---
 
@@ -104,6 +162,18 @@ Half way along, then back again, we stopped at the upmarket looking [La Chancla 
 * Mojito sin Alcohol
 {% endmenu %}
 
+{% figure malaga-19.jpg landscape %}
+Samantha and Conway enjoying lunch at La Chancla
+{% endfigure %}
+
+{% figure malaga-18.jpg landscape %}
+Conway seemed interested in our food, these bravas are purely for smelling – too spicy for a baby.
+{% endfigure %}
+
+{% figure malaga-cam-3.jpg landscape %}
+Paul and Conway by the sea at La Chancla
+{% endfigure %}
+
 Amanda met us after work at our flat, we cooked fajitas and listened to music while Conway hiccuped at us with an incomparable cuteness, his little body flexing with shock at every little pop, then a coy smile and a look away as he feigns some sort of baby embarrassment.
 
 ---
@@ -114,7 +184,15 @@ Sam cooked us all a fine gallo pinto breakfast before she met Mitch for a massag
 
 Samantha met up with father and son at the port, and we stumbled on the high class [Marisqueria Godoy](http://www.marisqueriagodoy.com/) restaurant for lunch. We had the inside to ourselves on a Tuesday lunchtime, the owner sat at the bar with a child. We ate our iberico and fish croquettes with a glass of cava, and once Conway had a little feed and a nappy change, we finished up with the Godoy special; seafood and monkfish in a tomato sauce. All quite exquisite, we were relaxed and comfortable with our baby and fine dining.
 
+{% figure malaga-godoy.jpg landscape %}
+Samantha and Conway at Marisqueria Godoy
+{% endfigure %}
+
 From the port we walked to the beginning of the beach then East along La Malagueta beach and back to Pedregalejo. About an hour’s walk, runners and cyclists passed us, families of stray cats darted in and about seafront rocks, and a cormorant bobbed on the sea waiting for a passing fish, the skies overcast once again.
+
+{% figure malaga-16.jpg landscape %}
+Overcast skies along La Malagueta beach
+{% endfigure %}
 
 ---
 
@@ -126,7 +204,11 @@ Leaving in the morning glow we went to orange chairs Kelucos for a pitufo and co
 
 Amanda ate at La Galerna and chatted with Sam while I wandered the beach – partly to avoid all the outdoor smokers and partly to have some time to myself. I listened to music and watched the sea hug the shore. Soon enough we were off again, this time marching at pace, beyond El Palo to the end of the beach for Amanda to meet someone who’d be giving her (or not, as it turned out), a kettle and a lift.
 
-At the end of the walk there is El Tintero, a place that’s meant to be good for seafood, but they had no shade and on inspection more staff than punters, we headed back again, making a poor stop at a place called Pontegordo where we had  sardines, and beer served in a wine glass – always a warning sign. We left swiftly and stopped at our old favourite [La Chancla Hotel](http://www.lachanclahotel.com/hotel-overview.html) for a proper lunch.
+{% figure malaga-13.jpg landscape %}
+Sangria on Pedregalejo
+{% endfigure %}
+
+At the end of the walk there is El Tintero, a place that’s meant to be good for seafood, but they had no shade and on inspection more staff than punters, we headed back again, making a poor stop at a place called Pontegordo where we had sardines, and beer served in a wine glass – always a warning sign. We left swiftly and stopped at our old favourite [La Chancla Hotel](http://www.lachanclahotel.com/hotel-overview.html) for a proper lunch.
 
 {% menu %}
 * Burger
@@ -137,7 +219,11 @@ At the end of the walk there is El Tintero, a place that’s meant to be good fo
 * Decaff coffee
 {% endmenu %}
 
-That night Amanda joined Samantha and Conway at [Pez Tomillo](https://www.tuhogarfueradecasa.com/en/pez-tomillo/) for a tapas dinner while I watched Champions League football, as Tottenham lost to Juventus. Their evening was better than mine, and their oxtail and potato, soft-boiled tempura egg, iberian pork and tuna ceviche beat my nachos with a cheese more like mayo than melted. 
+{% figure malaga-12.jpg portrait %}
+A stonkingly good club sandwich
+{% endfigure %}
+
+That night Amanda joined Samantha and Conway at [Pez Tomillo](https://www.tuhogarfueradecasa.com/en/pez-tomillo/) for a tapas dinner while I watched Champions League football, as Tottenham lost to Juventus. Their evening was better than mine, and their oxtail and potato, soft-boiled tempura egg, iberian pork and tuna ceviche beat my nachos with a cheese more like mayo than melted.
 
 ---
 
@@ -153,9 +239,21 @@ At a little wooden table besides the window we devoured our delectable brunch:
 * SUPER NORDIC: Artisan seeded bagel, smoked salmon, sweet apple and avocado with oven-baked baby potatoes
 {% endmenu %}
 
+{% figure malaga-11.jpg portrait %}
+Conway admiring some American waffles at Brunchit
+{% endfigure %}
+
 With our bellies sated and Conway’s nappy and clothes clean, we ventured towards Castillo de Gibralfaro and the great hill that it sits upon. We gambled on being able to get up there with a buggy, and as we began our ascent we assumed that at some point the road would turn to steps and we’d need to stop.
 
 The road winded, back and forth, snaking up the hill, the gradient steepening with each twist. I push Conway and our laden bags at a 45 degree angle up the hill, my head below the handle, my Converses offering little grip on the path. In hindsight this may not have been the best idea. But we persisted, and little by little we made it to the top. Of course there’s a bus that can bring you up to the top too, and we only discovered this afterward, but then where’s the adventure in that.
+
+{% figure malaga-10.jpg landscape %}
+Castillo de Gibralfaro panorama
+{% endfigure %}
+
+{% figure malaga-9.jpg portrait %}
+We’re raising a gangster
+{% endfigure %}
 
 From the little kiosk we had cold soft drinks and ice cream, and talked about Malaga’s inclement weather with some Germans. It’s easy to make friends when you’re with a baby. The views out across the city, mountains, port and sea were astounding.
 
@@ -164,12 +262,24 @@ Refreshed, the sweat cleaned from our brows, we ventured to the castle’s entra
 On a small veranda with good views we discovered [El Ambigú de la Coracha](http://elambigudelacoracha.com/), an upmarket tapas restaurant, and as Conway was having his mid-afternoon nap we indulged.
 
 {% menu %}
-* Cod well breaded orly of smoked paprika (Bacalao bien rebozado orly de pimentón ahumado)
-* Tuna tataky with avocado and wasabi (Tataky de atún con aguacate y wasabi)
+* Battered cod with smoked paprika (Bacalao bien rebozado orly de pimentón ahumado)
+* Tuna tataki with avocado and wasabi (Tataky de atún con aguacate y wasabi)
 * Roasted squid with arugula noodles and aioli (Calamar asado con fideos y alioli de rúcula)
 {% endmenu %}
 
+{% figure malaga-cam-9.jpg landscape %}
+Roasted squid with arugula noodles and aioli
+{% endfigure %}
+
+{% figure malaga-cam-7.jpg landscape %}
+Battered cod with smoked paprika
+{% endfigure %}
+
 There was a small descent and a herd of cats to navigate before we were at sea level. Out over the mountains heavy clouds formed which the low sun pierced through with burning rays. Without a telephoto lens and tripod we settled at Terraza el Balneario to watch the drama of sunset unfold over a sweet Malaga wine.
+
+{% figure malaga-cam-11.jpg landscape %}
+Sweet Malaga wine at Terraza el Balneario
+{% endfigure %}
 
 ---
 
@@ -177,7 +287,19 @@ For our final day in Malaga we met up with Mitch and Amanda at Tejeringo's Coffe
 
 Three churros each might have been one too many, my belly felt the way it does after you’ve eaten too much sugar. The dipping chocolate didn’t help.
 
+{% figure malaga-6.jpg landscape %}
+Churros at Tejeringo's Coffee
+{% endfigure %}
+
 Samantha and Amanda spent some time together at the Turkish baths while I looked after Conway; we sat outside in the sunshine, sipping coffee and listening to live jazz at Placa de la Merced. Thankfully Conway’s poo-explosion and subsequent costume change happened just before they left me, cue a frantic but hilarious nappy change on a stone bench beneath some trees.
+
+{% figure malaga-4.jpg portrait %}
+Emergency nappy change in Placa de la Merced
+{% endfigure %}
+
+{% figure malaga-5.jpg landscape %}
+Feminism or barbarism – graffiti at Placa de la Merced following the recent mass women’s strike on International Women’s Day
+{% endfigure %}
 
 ### El Pimpi
 
@@ -190,6 +312,10 @@ After the baths we regrouped and ate lunch at El Pimpi, sitting where we’d sat
 * Crispy breadcrumb parcel of iberian ham, loin of pork and melted cheese (Flamenquín ibérico jugoso con queso curado)
 * Floresti (sweet wine & soda)
 {% endmenu %}
+
+{% figure malaga-3.jpg landscape %}
+Tapas at El Pimpi
+{% endfigure %}
 
 ### Pez Tomillo
 
@@ -212,6 +338,14 @@ Conway struggled to settle in the noisy Friday night restaurant, we took turns t
 
 That tapas was so good.
 
+{% figure malaga-2.jpg portrait %}
+Slightly poached egg fried in tempura with mushroom and truffle oil sauce
+{% endfigure %}
+
 ---
 
 In the morning we returned to London. Bus, then a train and a flight – travelling with a baby seemed less daunting now, and we’d found time to relax and unwind in warmth, away from icy Britain. Of course having relatives nearby made it all the more easy, a perfect first step into travelling for our new family.
+
+{% figure malaga-cam-12.jpg portrait %}
+Goodbye Amanda!
+{% endfigure %}
