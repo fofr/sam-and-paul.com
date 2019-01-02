@@ -1,27 +1,41 @@
 title: 'Mali Losinj, Croatia'
 subtitle: 'Luxury in the Adriatic'
 tags:
-  - malaga
+  - mali-losinj
   - europe
-  - spain
-date: 2018-03-10
+  - croatia
+date: 2018-06-21
 pages: 3
 page: 1
 ---
 
-We embarked on our second trip with a baby, this time going a little further afield than Malaga, and going to a country we’ve never been to before: Croatia.
+We embarked on our second trip with a baby, this time going further afield than [Malaga](/malaga-spain), and to a country we’d not been to before: Croatia.
+
+{% figure mali-losinj-63.jpg landscape %}
+The family by the sea in Mali Losinj
+{% endfigure %}
 
 As a family with a 7 month old we wanted a trip that would be quietly luxurious, with just enough to do, but not too much so that we’d feel like we were missing out. 10 days away with a baby in a hotel would be adventure enough.
 
-Sam rolled the buggy down the hill from our flat in Brighton, while I pulled two 20 kilo bags either side of me, to the station. With Small Batch coffee in hand, we made the train with a full 5 seconds to spare. At Gatwick our nack for timing continued, with Sam getting squished between the monorail doors as she leapt on with buggy.
+Sam rolled the buggy down the hill from our flat in Brighton, while I pulled two 20kg bags, one either side, to the station. With Small Batch coffee in hand, we made the train with a full 5 seconds to spare. At Gatwick our knack for timing continued, with Sam getting squished between the monorail doors as she leapt on with a buggy.
+
+{% figure mali-losinj-01.jpg landscape %}
+Conway on his way to boarding
+{% endfigure %}
 
 The train, monorail and plane were the easy bits of the journey. EasyJet once again looked after us with our baby, and the flight was only 2 hours. The tricky bit would be the 3 hour transfer by minibus from the airport to our hotel. Conway slept well on the plane, so was awake and unhappy for the drive, much to the chagrin of others in the vehicle with us. The drive took us from Pula, 1 hour north to a ferry terminal, then across to Cres. The road was nauseating as it weaved up, and around and down the island’s hills, though the views were fabulous.
 
-The islands are brown and yellow beneath blue skies, their haze and heat balanced by the deep blue waters of the Mediterranean that surround them. Roads are lined with shingle walls and shrubs, trees are mostly pine, with an occasional olive. Where towns and gardens are cultivated there are pink oleander blooms bursting out over walls and between fences. Terracotta rooftops dot the landscape.
+{% figure mali-losinj-02.jpg landscape %}
+Car ferry to Cres
+{% endfigure %}
 
-From Cres we crossed a bridge onto Losinj, then a second one over to Mali Losinj, our journey timed to avoid bridge closures that allow boats to pass.
+The islands are brown and yellow beneath blue skies, their haze and heat balanced by the deep blue waters of the Mediterranean surrounding them. Roads are lined with shingle walls and shrubs, trees are mostly pine, with an occasional olive. Where towns and gardens are cultivated there are pink oleander blooms bursting out over walls and between fences. Terracotta rooftops dot the landscape.
 
-We arrived to the plush coolness of Hotel Bellevue a little pale and sleepy.
+{% figure mali-losinj-48.jpg landscape %}
+Pink oleanders
+{% endfigure %}
+
+From Cres we crossed a bridge onto Losinj, then a second one over to Mali Losinj, our journey timed to avoid bridge closures that allow boats to pass. We arrived to the plush coolness of Hotel Bellevue, looking a little pale and sleepy.
 
 ## Hotel Bellevue
 
@@ -31,7 +45,23 @@ The building’s exterior is an architectural monster, it stands out like a chal
 
 But on the inside it’s gorgeous. Sleek sofas in a wide open bar with views out to the sea, a breakfast area with outdoor seating in a secluded courtyard or on a terrace overlooking the pool. Inside the sharp corners and cool white works to create modern chic. As we walked through the hotel on our arrival tour, Conway arced his head to the ceilings, dazzled by all the new and shiny lighting he found there.
 
+{% figure mali-losinj-38.jpg landscape %}
+View from the spa
+{% endfigure %}
+
+{% figure mali-losinj-64.jpg portrait %}
+Recliners and a bar by the sea
+{% endfigure %}
+
+{% figure mali-losinj-43.jpg landscape %}
+Samantha and Conway
+{% endfigure %}
+
 ## Our room
+
+{% figure mali-losinj-03.jpg landscape %}
+A panorama of our room
+{% endfigure %}
 
 The corridor to our room was low lit, with arches of cool LED light illuminating the way. As you pass through it feels like street lights when driving at night. Conway watched them fly by.
 
@@ -50,6 +80,10 @@ Further on there’s a couple of water polo pools demarked in the sea, and at we
 Tonight we stopped just beyond this to eat at Restaurant Diana. The first of very many meals we’d have out with Conway. He had his own high chair and we gave him rice cakes and crackers, and bits of salad to enjoy. It was here that he developed a fascination and taste for menus – apparently reading them intently before opting to eat them from the corner.
 
 Diana specialise in steak, but we opted for burgers and the buns arrived with two great slabs of meat between them.  Plenty of food to tide us over until breakfast.
+
+{% figure mali-losinj-05.jpg landscape %}
+Conway ate the whole menu
+{% endfigure %}
 
 ---
 
@@ -77,6 +111,26 @@ And this is just the beginning. There’s smoked salmon, trout, tuna steak and h
 
 Then alongside this you could also order from a menu, and we’d regularly ask for eggs florentine, which was served to perfection: just the right amount of hollandaise, always oozing yolks, and tasty spinach.
 
+{% figure mali-losinj-08.jpg landscape %}
+The view from breakfast
+{% endfigure %}
+
+{% figure mali-losinj-09.jpg landscape %}
+A scrumptious chia seed, yoghurt and fruit concoction
+{% endfigure %}
+
+{% figure mali-losinj-40.jpg landscape %}
+Eggs florentine by the sea
+{% endfigure %}
+
+{% figure mali-losinj-25.jpg landscape %}
+Breakfast spread #1
+{% endfigure %}
+
+{% figure mali-losinj-26.jpg landscape %}
+Breakfast spread #2
+{% endfigure %}
+
 ### A buffet for Conway
 
 This was also magical for a weaning baby. We could pick and choose all sorts of things to offer him. From breadsticks to chew on, to slices of vegetable, to cottage and cream cheese on crackers, to raspberry and yoghurt deserts, to hard boiled eggs and slices of watermelon. We’d also get a smoothie made for him, to spoon feed, we put in a couple of nuts to introduce him to them in a small dose.
@@ -91,9 +145,13 @@ Hotel Bellevue has four pools; a large one with an infinity ledge which pours do
 
 We dressed our son in his regular swimming outfit, a red swimming nappy and blue whale shorts, and the family went swimming together. We did the things from his Little Dippers swimming lessons – floating, kicking, singing, and Conway enjoyed it all, though he had to get used to the water being salty, and he wasn’t happy about saltwater in your eyes, but then who is.
 
-Post-swimming and lunch, Conway was tired,   I enjoyed some cuddles with him in the bar, lounging on a great brown sofa, Conway straddled across me fast asleep. Samantha had some time to herself by the pool. Each guest that passed me showed their own expression of “Awww, so cute”.
+Post-swimming and lunch, Conway was tired, I enjoyed some cuddles with him in the bar, lounging on a great brown sofa, Conway straddled across me fast asleep. Samantha had some time to herself by the pool. Each guest that passed me showed their own expression of “Awww, so cute”.
 
-## Picnic on the balcony
+{% figure mali-losinj-57.jpg landscape %}
+Samantha and Conway in the pool
+{% endfigure %}
+
+## A stroll into town and a picnic on the balcony
 
 After swimming and family nap time we took a stroll along the sea front, and onwards down a little path into town where we sought out Lidl for supplies.
 
@@ -113,6 +171,10 @@ At the water’s edge, on a concrete platform I set up the polar aligned sky tra
 
 The night was alive with the flashes of distant lightning while I struggled to find targets for my composition. When the wind picked up and it looked like storms might be headed our way, I called it a night.
 
+{% figure mali-losinj-44.jpg portrait %}
+The milky way as seen from Mali Losinj
+{% endfigure %}
+
 ---
 
 ## Morning walk
@@ -125,11 +187,23 @@ Birds sang their morning songs; the pine trees were alive with the sound of blac
 
 By 8am the world was waking up, and we all had breakfast – Conway paid close attention to the blackbirds that visited us at our table, where they nibbled on the fallen breadsticks. He smiled at the other children too, enamoured by them and everything they did, cream cheese spread across his face – and somehow, up over his eyebrow and behind his ear.
 
+{% figure mali-losinj-18.jpg landscape %}
+Morning stroll
+{% endfigure %}
+
 ## Afternoon in town
 
 We avoided setting ourselves any hard to attain daily aims; most days we found that we’d only just finished breakfast by lunch time, and that we still needed some sort of nap.
 
-Today we tried for an afternoon in town, namesake of the island. There’s a path from the hotel, through the pine forest, over a hill to the other side of the bay where you can walk or cycle along to town. From the top of the hill and down, we felt the strong northerly wind. If we weren’t from England you could say that it was chilly in the wind in the shade.
+Today we tried for an afternoon in the town, namesake of the island. There’s a path from the hotel, through the pine forest, over a hill to the other side of the bay where you can walk or cycle along to town. From the top of the hill and down, we felt the strong northerly wind. If we weren’t from England you could say that it was chilly in the wind in the shade.
+
+{% figure mali-losinj-10.jpg landscape %}
+Mali Losinj
+{% endfigure %}
+
+{% figure mali-losinj-11.jpg landscape %}
+Mali Losinj from across the harbour
+{% endfigure %}
 
 The paths look like they’re pedestrianised, but every now and then, and always by surprise, a moped or car drives by.
 
@@ -151,11 +225,23 @@ The cool ambience of the morning, just the right temperature in the shade, was m
 
 After such a big breakfast there wasn’t much else to do but sit by the sea and relax. The waves were gentle as they lapped the shore, I put some music on and we made ourselves comfortable on the sofas beneath a parasol. We had ice cream and smoothies brought to us.
 
+{% figure mali-losinj-16.jpg landscape %}
+Smoothies by the sea
+{% endfigure %}
+
+{% figure mali-losinj-17.jpg landscape %}
+Relaxing by the sea
+{% endfigure %}
+
 Then of course we had the obligatory family nap time, wherein we sleep and cool down in the comfort of air-con. Accomplishments for the day were a short trip to Lidl to get water and picnic supplies while Sam got a portion of chips from the seaside bar.
 
 ## Dinner at Rosemary
 
 On our meanderings we’d seen a big sign, “Restaurant Rosemary” it said, hanging over a driveway. No menu or restaurant in sight, it looked a little odd – you need to walk through a couple of gardens and past some holiday villas to reach it. We called ahead to book a table and to check they had baby seats.
+
+{% figure mali-losinj-06.jpg landscape %}
+Entrance to Restaurant Rosemary
+{% endfigure %}
 
 The restaurant sits neatly on a terrace overlooking a Mediterranean garden. Butterflies flit amidst olive trees and pink oleander overhang the tables. The low sun dappled it all with a warm evening light.
 
@@ -163,18 +249,24 @@ Our softly spoken waiter showed us to a table with baby seat, and he brought out
 
 We thought the tasting menu would take too long for us, so ordered a selection of dishes to share instead:
 
+{% menu %}
 * truffles and homemade pasta
 * fish carpaccio,
 * yoghurt and lamb,
 * prawn pasta
 * tiramisu
 * soufflé
+{% endmenu %}
 
 The pasta dishes were sublime, the thick homemade pasta infused with truffles for one, and a rich seafood flavour for the other. This rich creaminess complimented our refreshing fish and lamb choices. And we left space for quite excellent homemade desserts.
 
 The whole experience was quaint and magical, a little secret garden-esque. A perfect evening out with baby.
 
 With Conway wrapped up asleep in Samantha’s cardigan, we casually strolled home in the twilight, stars shining above the pine.
+
+{% figure mali-losinj-20.jpg landscape %}
+Samantha and Conway after our meal at Restaurant Rosemary
+{% endfigure %}
 
 ---
 
@@ -185,6 +277,10 @@ Today we made a change for breakfast and opted to sit in the garden courtyard. F
 The hotel was in full preparation mode for a wedding; the platforms beside the sea were set up for the ceremony and drinks, and a room close to the terrace was made up for the wedding breakfast. Near the front entrance the salon was commandeered by a florist, the room was filled with all the cuttings and petals that didn’t make it.
 
 ## Walking North along the coast
+
+{% figure mali-losinj-22.jpg landscape %}
+The path that goes North
+{% endfigure %}
 
 We escaped the bride and groom and took our buggy North along the gravel path that hugs the coast.
 
@@ -202,7 +298,19 @@ After walking back, the return route is always fasted than the outward one, we w
 
 The platter was huge; Sam picked meat from the bones while I fed slithers to Conway on my lap. We asked for the bill and they brought us another beer – the first time in all our travels that the universal sign for the bill (that hand gesture where you pretend to scribble on your hand) has been misinterpreted.
 
+{% figure mali-losinj-23.jpg landscape %}
+Paul with beer and our meet platter at Buffet Trojka
+{% endfigure %}
+
 At the beach bar the locals gathered for Croatia’s opening game of the World Cup; Croatia vs Nigeria. We considered joining them to partake in the party atmosphere. In their red and white checked sports jerseys they chanted raucously, the Croatian football anthem played loudly and one madman ran around with a canister of red smoke. Perhaps too noisy for a sleepy baby, we retreated to the sea – where the water was calm and earth’s shadow was rising.
+
+{% figure mali-losinj-24.jpg landscape %}
+Croatian football fans waiting for the game to begin
+{% endfigure %}
+
+{% figure mali-losinj-45.jpg portrait %}
+Samantha and Conway relaxing by the sea
+{% endfigure %}
 
 ---
 
@@ -210,11 +318,19 @@ Today was my first Father’s day, and at breakfast Samantha surprised me with a
 
 After salmon and eggs we took another walk along the coast, this time turning left and going South. The paved walkway, with its built in lights, becomes a gravel track that hugs the coast. A small church, Crkvica Navještenja Blažene Djevice Marije, looks out into the bay, and just beyond is Lanterna, a restaurant and grill.
 
+{% figure mali-losinj-50.jpg portrait %}
+Paul and Conway on a hot walk along the coast
+{% endfigure %}
+
 We pushed onwards in the 30C heat, seeking shade where the pine offered it, and using a little battery powered fan to keep Conway cool.
 
 We stopped at Hotel Aurora for cola and ice cream. Two kids drove around a toy car with glee, reversing into trees and giggling with every bump, Conway watched them and showed his wide beam grin that woos all that meet him.
 
 On the return trip we stopped to eat at Lanterna. Beneath the shade of a parasol and with the endless sea stretching out in front of us, we shared an octopus salad, flat bread and duved rice. Conway played with the little plastic packets the cutlery arrived in, crushing them in his tiny hands and staring intently with his mother’s concentration face.
+
+{% figure mali-losinj-27.jpg landscape %}
+The view from Lanterna
+{% endfigure %}
 
 After we’d fed, and after he’d fed, he slept in the buggy. We moved on and parked up at a bench in the shade besides the water. With Hotel Bellevue in the distance and the water gently rippling in a cooling breeze, we rested, soaking up all the tranquility on offer.
 
@@ -224,7 +340,15 @@ Back at the hotel we chilled besides the sea. A darter bird perched nearby and p
 
 For the most expensive and tastiest holiday meal we’d booked dinner at the Alfred Keller restaurant, which is part of the boutique Alhambra hotel. We’d fancied staying there, but they didn’t have a pool and we found there were too many steps as well.
 
+{% figure mali-losinj-28.jpg landscape %}
+Our view from Alhambra
+{% endfigure %}
+
 We dressed up smartly, and put Conway in a neat bird shirt. On arrival another baby was eating with a family, which relaxed us. We sat on the veranda overlooking the sea, the late afternoon sunshine lit up the pine forest besides us. Conway sat at the end of the table in his baby seat, the waiter brought him a selection of fine silver spoons for him to suck on and play with, with backups for when inevitably one would end up on the floor.
+
+{% figure mali-losinj-30.jpg landscape %}
+Paul and Conway, with one of his many silver spoons
+{% endfigure %}
 
 We kept our alcohol intake minimal, and instead of wine we celebrated with an opening Kir Royale aperitif, our go-to celebratory drink, which we drank slowly through the opening courses.
 
@@ -234,8 +358,17 @@ Our food was spectacular. The prawns and carrot was divine – I didn’t know y
 
 Simply superb.
 
+{% figure mali-losinj-29.jpg landscape %}
+Carrot and Adriatic shrimp
+{% endfigure %}
+
+{% figure mali-losinj-32.jpg landscape %}
+Striploin, potato purée, ‘cabbage from green egg’, cauliflower with brown butter
+{% endfigure %}
+
 As the sun set, the pine forest turned from orange to red to blue, the stars rose above us, and the moon and Venus were above our table. A singer and pianist played lounge tunes, and we sat a little longer to enjoy the privilege of this decadence, as Conway nodded off in our arms.
 
+{% menu %}
 * Amuse Bouche (raspberry on mackerel)
 * Zucchini cream soup, Adriatic shrimp, saffron mousse
 * Carrot and Adriatic shrimp
@@ -244,6 +377,7 @@ As the sun set, the pine forest turned from orange to red to blue, the stars ros
 * Complimentary cheese course and palette cleanser
 * Beetroot and chocolate
 * Petit four (mini doughnut, mini lemon meringue pie, mini tea cake on a stick)
+{% endmenu %}
 
 ---
 
@@ -257,6 +391,10 @@ When the sun had set it was time for kick-off and in the hotel’s Gentleman’s
 
 After Conway and Sam were asleep I went out to the water’s edge, where the light pollution was lowest, and tried my hand at a little more astrophotography – capturing my first photos of the lagoon and trifid nebulae.
 
+{% figure mali-losinj-51.jpg landscape %}
+Lagoon and trifid nebulae
+{% endfigure %}
+
 ---
 
 We were up and out early this morning along with many others in the hotel after a fire alarm beckoned at 6am. Apparently something was burning in the kitchen but there was no cause for alarm. With so little sleep for all of us this was the hardest breakfast, and neither of us coped well with the sleep deprivation. The coffee didn’t do it, and after our regular morning feast we all went back to bed, not stirring again until the afternoon. It’s nice having no pressure to do anything, and it’s lovely to sleep when you need it.
@@ -264,6 +402,14 @@ We were up and out early this morning along with many others in the hotel after 
 Today was also the hottest, in Croatia’s summer heatwave the temperatures nudged above 30C, and the sky stayed ever blue. Lathered in sun lotion and donning sunglasses and hats, with Conway in the baby carrier, we walked beneath the pines along the coast to Lanterna for a mid-afternoon lunch. Under a parasol we looked out to sea, where a police boat passed in front of a distant island.
 
 We couldn’t leave Croatia without having some ćevapčići – a type of skinless grilled sausage, with a side of duved rice. The starter of anchovies and prawn, and the squid salad were washed down with cold beer.
+
+{% figure mali-losinj-34.jpg portrait %}
+Squid salad
+{% endfigure %}
+
+{% figure mali-losinj-35.jpg landscape %}
+Ćevapčići (with Conway performing in the background)
+{% endfigure %}
 
 ## Vela Straza
 
@@ -273,6 +419,10 @@ We packed a bag of fruit, salami, bread, cheese and Pringles and set-off for a s
 
 The upward path was a layer of loose stone, thin at times, it snaked left and right and our buggy kicked and rocked as we tried to force it up the hill. We put Conway in the carrier and Sam marched on ahead while I carried all the bags and struggled with the three-wheeled city stroller. “Yes, I’m fine”.
 
+{% figure mali-losinj-37.jpg portrait %}
+Samantha with Conway in carrier
+{% endfigure %}
+
 Eventually the path evened out and turned to gravel and the last stretch up to the top was easy. We parked the buggy by the fort and found a bench with views out to the horizon for our picnic.
 
 Four Germans joined us at the summit, they attached GoPros to trees and recorded time lapse videos of the sun falling into the sea.
@@ -280,6 +430,18 @@ Four Germans joined us at the summit, they attached GoPros to trees and recorded
 The clear blue skies offered no dramatic sunset, and the distant cloud covered mountains were too far away to dazzle us. Down in the bay we saw Mali Losinj light up for the evening.
 
 The journey back was easy, and we stopped in the hotel bar to listen to some live piano before going to sleep.
+
+{% figure mali-losinj-52.jpg landscape %}
+View from Vela Straza
+{% endfigure %}
+
+{% figure mali-losinj-53.jpg landscape %}
+Sunset
+{% endfigure %}
+
+{% figure mali-losinj-54.jpg landscape %}
+Mali Losinj at night
+{% endfigure %}
 
 ---
 
@@ -291,9 +453,21 @@ Packing with all our baby stuff is a day’s activity in and of itself. And this
 
 For dinner we’d considered at last trying the hotel’s evening restaurant. We’d avoided it so far because 5 courses is a lot with a baby, and so were the prices. But tonight we wanted something easy, and had burgers by the pool, foregoing our last opportunity. The reviews said it was overpriced and average anyway (though I do doubt that a little). Sat on little wooden tables beneath the pines, we ate our burgers and drank dark beer and mocktails as the sun went down. Conway sat in his stokke high chair and made a mess of cream cheese and crackers on the floor before devouring the wedge of grapefruit that came with Sam’s drink.
 
+{% figure mali-losinj-58.jpg landscape %}
+Portraits by the sea
+{% endfigure %}
+
+{% figure mali-losinj-61.jpg portrait %}
+Paul and Conway
+{% endfigure %}
+
 For the last time we sat on the sofas by the water’s edge and watched the sun go down, the clouds suggested the sunset might be a little more dramatic, so we recorded video and took photos, but the red cloud merely glimmered before it grew dark and the jellyfish lights turned on.
 
 For one last hurrah, we sat outside in the warm night by the bar to have one more fabulous cocktail each. Rather than going for the classics we know and love – which we knew were made to perfection here – we tried something new. Samantha has a tip here, which she learnt from her cocktail; avoid any cocktail that has watermelon liqueur, unless you want a drink that tastes sweet and sticky like some bad alcopop from the 90s. Suffice to say, Sam wasn’t a fan of her choice. Meanwhile I had the “Happy Afternoon”, a touch of absinthe, sparkling white wine and passion fruit, served in a champagne flute – this was magical and did indeed make me happy.
+
+{% figure mali-losinj-62.jpg landscape %}
+Jellyfish lights and sunset
+{% endfigure %}
 
 ---
 
@@ -304,3 +478,7 @@ We finished packing at 6am, had an early breakfast feast one last time then jump
 We flew from Pula back to Gatwick and EasyJet were good to us again, they moved our seats and put us in a row to ourselves, giving us space for all the baby things. Conway was overexcited for the entire flight, chatting loudly to himself and anyone who might listen, “da da da da, na na na, aaaah, ah, ah, ah”, he said, over and over, with the odd high-pitched squeal of delight in between, bouncing on our legs, reaching to grab and crumple the paper ads stuck to the back of chairs.
 
 We arrived home to a glorious English summer unlike any we’ve seen for years. The blue skies persisted, and we eked our summer holiday vibes into the following days. England would go on to reach the semi-finals of the World Cup, where they would lose out to Croatia. Clear blue skies and temperatures in the high 20s carried on, unabashed, from June through to August.
+
+{% figure mali-losinj-65.jpg portrait %}
+Paul and Conway on the car ferry home
+{% endfigure %}
