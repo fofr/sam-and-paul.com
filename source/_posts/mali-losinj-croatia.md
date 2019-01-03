@@ -39,6 +39,10 @@ From Cres we crossed a bridge onto Lošinj, then a second one over to Mali Loši
 
 ## Hotel Bellevue
 
+{% figure mali-losinj-66.jpg landscape %}
+Hotel Bellevue from the sky
+{% endfigure %}
+
 [Hotel Bellevue](https://www.losinj-hotels.com/en/hotels-and-villas/hotel-bellevue/) is a modern white monolith that sits in a natural harbour to the North East of Mali Lošinj. It’s surrounded by pine forest and is a stone’s throw from the sea.
 
 The building’s exterior is an architectural monster, it stands out like a chalk rock in a field of grass. Unlike the refined buildings either side – stone built and terracotta roofed which peek through the pines, Bellevue is an unnatural white and beige beacon. At night it’s the only source of light pollution.
