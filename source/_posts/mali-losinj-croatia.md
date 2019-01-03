@@ -77,7 +77,7 @@ After family nap time we ventured out along the sea front. There’s little beac
 
 Further on there’s a couple of water polo pools demarked in the sea, and at weekends they’re filled with kids playing league matches – the whistles of the officials and the cheers from onlookers can be heard around the bay.
 
-Tonight we stopped just beyond this to eat at Restaurant Diana. The first of very many meals we’d have out with Conway. He had his own high chair and we gave him rice cakes and crackers, and bits of salad to enjoy. It was here that he developed a fascination and taste for menus – apparently reading them intently before opting to eat them from the corner.
+Tonight we stopped just beyond this to eat at [Restaurant Diana](https://www.tripadvisor.co.uk/Restaurant_Review-g297514-d3371990-Reviews-Restaurant_Diana-Mali_Losinj_Losinj_Island_Kvarner_Bay_Islands_Primorje_Gorski_Ko.html). The first of very many meals we’d have out with Conway. He had his own high chair and we gave him rice cakes and crackers, and bits of salad to enjoy. It was here that he developed a fascination and taste for menus – apparently reading them intently before opting to eat them from the corner.
 
 Diana specialise in steak, but we opted for burgers and the buns arrived with two great slabs of meat between them.  Plenty of food to tide us over until breakfast.
 
@@ -103,7 +103,7 @@ Thankfully breakfast at Hotel Bellevue runs until 11am, we could lie-in and stil
 
 And what a breakfast it is. We sat out on the terrace, a light wind ruffled the sunshades, Conway sat in a Stokke high chair and the waitress served us cappuccino then filter coffee. We took turns getting food from the buffet.
 
-With plate in hand I perused the offerings. Bacon, sausage, fried eggs, potatoes, fried vegetables, frittata, boiled eggs – hard and soft, and eggs any way you want them. Freshly baked bread of all kinds, sourdough, with olive and sun dried tomatoes. Then a row of sweet pastries – croissants, swirls and grašnjaci, and freshly made pancakes – thick or thin.
+With plate in hand I perused the offerings. Bacon, sausage, fried eggs, potatoes, fried vegetables, frittata, boiled eggs – hard and soft, and eggs any way you want them. Freshly baked bread of all kinds, sourdough, with olive and sun dried tomatoes. Then a row of sweet pastries – croissants, swirls and [grašnjaci](https://www.coolinarika.com/recept/grasnjaki/), and freshly made pancakes – thick or thin.
 
 And this is just the beginning. There’s smoked salmon, trout, tuna steak and halibut; chia seed concoctions with yoghurt and fruit; fresh fruit and nuts and cereal and someone who’ll make you whatever vegetable or fruit smoothie you want; fresh meats and cheese; freshly squeezed fruit juices; a selection of loose leaf tea; salads and olives and breadsticks. And to top it off, complimentary bubbly – pink and champagne.
 
@@ -131,7 +131,7 @@ Breakfast spread #2
 
 ### A buffet for Conway
 
-This was also magical for a weaning baby. We could pick and choose all sorts of things to offer him. From breadsticks to chew on, to slices of vegetable, to cottage and cream cheese on crackers, to raspberry and yoghurt deserts, to hard boiled eggs and slices of watermelon. We’d also get a smoothie made for him, to spoon feed, we put in a couple of nuts to introduce him to them in a small dose.
+This was also magical for a weaning baby. We could pick and choose all sorts of things to offer him. From breadsticks to chew on, to slices of vegetable, to cottage and cream cheese on crackers, to raspberry and yoghurt desserts, to hard boiled eggs and slices of watermelon. We’d also get a smoothie made for him, to spoon feed, we put in a couple of nuts to introduce him to them in a small dose.
 
 He tried the lot, most went on him, or the floor, or somewhere in between, and as holidaying parents we revelled in not having to tidy everything up at the end.
 

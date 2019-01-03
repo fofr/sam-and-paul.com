@@ -72,7 +72,7 @@ Our trip to Ropotamo cost us 40lv, only £7.50 each. And here is a good place to
 
 ## Viatarna Melnitsa restaurant
 
-For the same price on Sunday at the famous &quot;Viatarna Melnitsa&quot; (windmill) restaurant we enjoyed a selection of salty fish h'orde oeuvres including Anchovies. For mains we had a swordfish kebap - onion, mushroom, tomato and olive flavoured fry/stew whilst Sam ate a Veal cutlet. For desert we had a shared ice cream with freshly cooked raspberries - delicious!! For wine we chose the Pomorie chardonnay.
+For the same price on Sunday at the famous &quot;Viatarna Melnitsa&quot; (windmill) restaurant we enjoyed a selection of salty fish h'orde oeuvres including Anchovies. For mains we had a swordfish kebap - onion, mushroom, tomato and olive flavoured fry/stew whilst Sam ate a Veal cutlet. For dessert we had a shared ice cream with freshly cooked raspberries - delicious!! For wine we chose the Pomorie chardonnay.
 
 ![/images/sozopol/DSC03772.JPG](/images/sozopol/DSC03772.JPG)
 
