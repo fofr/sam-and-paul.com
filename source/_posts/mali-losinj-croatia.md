@@ -1,4 +1,4 @@
-title: 'Mali Losinj, Croatia'
+title: 'Mali Lošinj, Croatia'
 subtitle: 'Luxury in the Adriatic'
 tags:
   - mali-losinj
@@ -12,7 +12,7 @@ page: 1
 We embarked on our second trip with a baby, this time going further afield than [Malaga](/malaga-spain), and to a country we’d not been to before: Croatia.
 
 {% figure mali-losinj-63.jpg landscape %}
-The family by the sea in Mali Losinj
+The family by the sea in Mali Lošinj
 {% endfigure %}
 
 As a family with a 7 month old we wanted a trip that would be quietly luxurious, with just enough to do, but not too much so that we’d feel like we were missing out. 10 days away with a baby in a hotel would be adventure enough.
@@ -35,11 +35,11 @@ The islands are brown and yellow beneath blue skies, their haze and heat balance
 Pink oleanders
 {% endfigure %}
 
-From Cres we crossed a bridge onto Losinj, then a second one over to Mali Losinj, our journey timed to avoid bridge closures that allow boats to pass. We arrived to the plush coolness of Hotel Bellevue, looking a little pale and sleepy.
+From Cres we crossed a bridge onto Lošinj, then a second one over to Mali Lošinj, our journey timed to avoid bridge closures that allow boats to pass. We arrived to the plush coolness of Hotel Bellevue, looking a little pale and sleepy.
 
 ## Hotel Bellevue
 
-Hotel Bellevue is a modern white monolith that sits in a natural harbour to the North East of Mali Losinj. It’s surrounded by pine forest and is a stone’s throw from the sea.
+[Hotel Bellevue](https://www.losinj-hotels.com/en/hotels-and-villas/hotel-bellevue/) is a modern white monolith that sits in a natural harbour to the North East of Mali Lošinj. It’s surrounded by pine forest and is a stone’s throw from the sea.
 
 The building’s exterior is an architectural monster, it stands out like a chalk rock in a field of grass. Unlike the refined buildings either side – stone built and terracotta roofed which peek through the pines, Bellevue is an unnatural white and beige beacon. At night it’s the only source of light pollution.
 
