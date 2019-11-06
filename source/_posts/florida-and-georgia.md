@@ -17,6 +17,10 @@ Whenever we mentioned our family holiday to Florida, it was assumed we were goin
 
 We flew with Sam’s mum, on a 7 hour Virgin Atlantic flight to Orlando. Having 3 adults to 1 baby made the flight easier, and in seats offering a bassinet and extra legroom, we played and entertained each other, the time passed by, and we didn’t need our TV screens or movies.
 
+{% figure florida-and-georgia-01.jpg landscape %}
+On our way to Florida
+{% endfigure %}
+
 We rented a car big enough for 3 adults, baby, luggage and buggy (or stroller as we’ve come to know it). That meant a mid-sized SUV, still a small vehicle on America’s roads. We rented through Alamo, and after landing (and a brief foray at customs where we decided to declare some clementines rather than leave them on the plane – don’t do this, it’s not worth it), we picked our car – “pick any one you want, the keys are on the dashboard”.
 
 In our white Hyundai Tucson automatic we pulled out of the parking lot and into Florida’s bright sunshine, aircon blasting, Apple maps giving directions – our destination 3 hours away. After a brief mixup, a wrong turn and a U-turn, we were travelling West along FL-417 then the interstate I-4. Wide lanes, and plenty of space made driving easy, though Orlando’s evening rush slowed us down. We drove past the turning for Disney World, a Mickey Mouse eared pylon indicating Disney’s territory.
@@ -30,6 +34,22 @@ The pictures of our Airbnb condo made it look diminutive. It was not, and it wel
 In the bay we watched brown pelicans, fishing bald eagles and once in a while a dolphin or two would surface close by.
 
 At dawn the morning sun turned everything a glorious rich orange.
+
+{% figure florida-and-georgia-07.jpg landscape %}
+Sunrise in Florida
+{% endfigure %}
+
+{% figure florida-and-georgia-02.jpg landscape %}
+Our condo
+{% endfigure %}
+
+{% figure florida-and-georgia-34.jpg landscape %}
+Our Airbnb in Longboat key
+{% endfigure %}
+
+{% figure florida-and-georgia-10.jpg portrait %}
+Breakfast in the condo
+{% endfigure %}
 
 ---
 
@@ -47,6 +67,10 @@ Euphemia Haye was nearby, and its one of the best restaurants in the area, offer
 
 We rounded out the meal with two giant slices of key lime pie to go.
 
+{% figure florida-and-georgia-04.jpg landscape %}
+Nana and Samantha at Euphemia Haye
+{% endfigure %}
+
 ---
 
 Conway was soon au fait with our condo, he was just tall enough to open some of the doors, he ventured into the kitchen and explored all the cupboards, he kicked and threw his beach ball off the walls, and danced when we put music on. This morning he ate porridge in a new pink polo shirt, outside a flock of pelicans flew by.
@@ -58,6 +82,10 @@ This morning, before it got too hot, I took some time out to find a route to the
 A 10 minute walk north and there’s public beach access, to a pristine beach with soft glowing sand, calm blue water, washed up shells and seabirds. Ruddy turnstones, willets, sandpipers, sanderlings and laughing gulls peruse the wet sands. Later in the year you’d find turtle tracks too.
 
 We ate our take-home key lime pie on the balcony, the sugary sweetness of 2 slices still too much when divided by three. Nana left with the to-be weds and best man, firstly to help buy all the wedding booze, then going on to stay with the parents of the groom. They were running errands all day – up and down the county buying things, finding things, getting suits, picking up guests from the airport and more.
+
+{% figure florida-and-georgia-06.jpg landscape %}
+The beach at Longboat key, if you can find it
+{% endfigure %}
 
 ## The distances between things
 
@@ -72,6 +100,10 @@ While Samantha and Conway napped, I took a trip to Publix and we cooked a chilli
 We live by the sea, but since Conway has been walking we haven’t been down to the waterfront – it’s been winter and the water is shockingly cold. When the afternoon had cooled, and we wouldn’t instantly melt into a pool of sweat, we took the stroller out to the beach.
 
 We covered ourselves in SPF50 sun lotion, donned summer hats, and stepped through the sands down to the sea. We let Conway meander to the water’s edge in his blue beach shoes, and when the waves washed in and covered his feet he giggled with glee. With each wave there was excited laughter, mummy lifted him and they played at dodging the waves, or just embraced the cool sea water, wide smiles on our faces.
+
+{% figure florida-and-georgia-12.jpg landscape %}
+Conway and Samantha heading down to the beach
+{% endfigure %}
 
 ## Fondue
 
