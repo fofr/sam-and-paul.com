@@ -105,6 +105,10 @@ We covered ourselves in SPF50 sun lotion, donned summer hats, and stepped throug
 Conway and Samantha heading down to the beach
 {% endfigure %}
 
+{% figure florida-and-georgia-148.jpg portrait %}
+Conway enjoying the warm waves and sunshine
+{% endfigure %}
+
 ## Fondue
 
 I stayed at home to babysit while Sam joined the wedding party and family for an evening meal of fondue in Sarasota. Grandad (and father of the bride), landed in Tampa, and he would be staying with us for 4 days.
